@@ -3,7 +3,7 @@ remote_theme:       Dragonmystic707/lanyon/gh-pages
 # Setup
 title:               Exalted Reincarnated
 description:         'A top-to-bottom rewrite of Exalted'
-url:                 https://exaltedreincarnated.org/
+url:                 https://exaltedreincarnated.org
 baseurl:             ''
 paginate:            5
 permalink:           pretty
