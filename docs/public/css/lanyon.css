@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
  * Super small header above the content for site name and short description.
  */
 
-.masthead {
+/* .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
   .masthead-title small {
     display: none;
   }
-}
+} */
 
 
 /*
