@@ -3,12 +3,12 @@
   var sidebar = document.querySelector('#sidebar');
   var checkbox = document.querySelector('#sidebar-checkbox');
 
-  document.addEventListener('click', function(e) {
-    var target = e.target;
+  // document.addEventListener('click', function(e) {
+  //   var target = e.target;
 
-    if(!checkbox.checked ||
-       sidebar.contains(target) ||
-       (target === checkbox || target === toggle)) return;
+  //   if(!checkbox.checked ||
+  //      sidebar.contains(target) ||
+  //      (target === checkbox || target === toggle)) return;
 
-  }, false);
+  // }, false);
 })(document);
