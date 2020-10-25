@@ -6,11 +6,11 @@
   document.addEventListener('click', function(e) {
     var target = e.target;
 
-    /* Just toggle the sidebar. Seriously */
     if(!checkbox.checked ||
        sidebar.contains(target) ||
-       (target === checkbox || target === toggle)) return;
+       target === checkbox) return;
+    else if( target === toggle) checkbox.checked = false;
 
-    checkbox.checked = !checkbox.checked;
+    
   }, false);
 })(document);
