@@ -1,3 +1,8 @@
+---
+layout: page
+title: Core
+---
+
 **Contributors from and Special Thanks to:**
 
 Codex, DeProf Gaming, Effendoor, Exthalion, Insuling,  
