@@ -2,7 +2,7 @@
 title:               Exalted Reincarnated
 description:         'A top-to-bottom rewrite of Exalted'
 url:                 https://exaltedreincarnated.org/
-baseurl:             '_pages'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
