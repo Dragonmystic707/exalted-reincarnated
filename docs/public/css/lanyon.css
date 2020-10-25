@@ -295,7 +295,9 @@ a.sidebar-nav-item:focus {
       -ms-transform: translateX(14rem);
           transform: translateX(14rem);
 }
-
+#sidebar-checkbox:checked ~ .container {
+  padding-right: 15rem;
+}
 
 /*
  * Posts and pages
