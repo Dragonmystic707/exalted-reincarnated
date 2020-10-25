@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Core
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
 ---
 
 **Contributors from and Special Thanks to:**
