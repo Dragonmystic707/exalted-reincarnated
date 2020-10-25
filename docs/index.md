@@ -1,8 +1,3 @@
----
-layout: page
-title: Exalted Reincarnated
----
-
 **Contributors from and Special Thanks to:**
 
 Codex, DeProf Gaming, Effendoor, Exthalion, Insuling,  
