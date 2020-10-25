@@ -1,0 +1,1 @@
+pandoc src\ExR_Core.docx -f docx -t gfm -o release\ExR_Core.md --strip-comments
