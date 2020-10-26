@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Core
+title:  Core
+sidebar: core_toc
 ---
 
 **Contributors from and Special Thanks to:**

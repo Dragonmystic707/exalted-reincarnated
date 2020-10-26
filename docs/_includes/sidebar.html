@@ -20,7 +20,16 @@
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
+          <!-- {% assign page_url = } -->
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+          {% for item in site.data.navigation[node.sidebar] %}
+            {% if item.header1[0] %}
+            <ul>
+            {% for h1 in item.header1 %}
+              <li><a href="{{ h1.link }}">{{ h1.name }}</a></li>
+            {% endfor %}
+            </ul>
+          {% endfor %}
         {% endif %}
       {% endif %}
     {% endfor %}
