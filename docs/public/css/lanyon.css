@@ -295,9 +295,9 @@ a.sidebar-nav-item:focus {
       -ms-transform: translateX(14rem);
           transform: translateX(14rem);
 }
+/* Change the width of the container if the Sidebar is open */
 #sidebar-checkbox:checked ~ .wrap > .container {
-  padding-right: 15rem;
-  background-color: rebeccapurple;
+  padding-right: 14rem;
 }
 
 /*
