@@ -297,6 +297,7 @@ a.sidebar-nav-item:focus {
 }
 #sidebar-checkbox:checked ~ .container {
   padding-right: 15rem;
+  background-color: red;
 }
 
 /*
