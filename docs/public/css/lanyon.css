@@ -295,9 +295,9 @@ a.sidebar-nav-item:focus {
       -ms-transform: translateX(14rem);
           transform: translateX(14rem);
 }
-#sidebar-checkbox:checked ~ .wrap.container {
+#sidebar-checkbox:checked ~ .wrap {
   padding-right: 15rem;
-  background-color: red;
+  background-color: rebeccapurple;
 }
 
 /*
