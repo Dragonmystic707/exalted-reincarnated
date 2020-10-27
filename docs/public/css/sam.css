@@ -18,7 +18,7 @@ ul ul, ol ul, ul ol, ol ol {
     display: none;
 }
 
-.scroll-nav ol li ol li:scroll-nav__item--active {
+.scroll-nav ol li ol li:scroll-nav__item--active > ol li ol {
     display: block;
 }
 
