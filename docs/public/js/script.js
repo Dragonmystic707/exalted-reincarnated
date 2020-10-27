@@ -4,7 +4,9 @@
 
   scrollnav.init(content, { 
     debug: false,
-    insertTarget: activeSidebarItem
+    insertTarget: activeSidebarItem,
+    sections: 'h1',
+    subSections: 'h2'
   });
 })(document);
 

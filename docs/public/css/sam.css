@@ -1,0 +1,11 @@
+.scroll-nav__item {
+    list-style: none outside none;
+}
+
+.scroll-nav__item--active > ul {
+    visibility: block;
+}
+
+.scroll-nav__item > ul {
+    visibility: none;
+}
