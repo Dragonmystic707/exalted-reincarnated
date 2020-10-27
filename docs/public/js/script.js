@@ -2,7 +2,8 @@
   const content = document.querySelector('.page');
 
   scrollnav.init(content, { 
-    debug: false
+    debug: false,
+    insertTarget: sidebar-nav-item.active
   });
 })(document);
 

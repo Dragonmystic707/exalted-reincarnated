@@ -21,13 +21,13 @@
       {% if node.title != null %}
         {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-          {% for item in site.data.navigation[node.sidebar] %}
+          <!-- {% for item in site.data.navigation[node.sidebar] %}
             <ul>
             {% for h1 in item.header%}
               <li><a href="#{{ h1.link }}">{{ h1.name }}</a></li>
             {% endfor %}
             </ul>
-          {% endfor %}
+          {% endfor %} -->
         {% endif %}
       {% endif %}
     {% endfor %}
