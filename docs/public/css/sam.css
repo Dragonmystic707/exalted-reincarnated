@@ -1,12 +1,26 @@
-.scroll-nav__item {
+.scroll-nav__list {
     list-style: none outside none;
 }
 
-.scroll-nav__item--active > ul {
+.scroll-nav__sub-list {
+    list-style: none outside none;
+}
+
+.scroll-nav__item--active {
     visibility: block;
 }
 
-.scroll-nav__item > ul {
+.scroll-nav__item--active > ol, ul, li {
+    visibility: block;
+}
+
+.scroll-nav__item--active > ol, ul, li > a {
+    border-left: 2px solid;
+    margin-left: -17px;
+    font-weight: bold;
+}
+
+.scroll-nav__item > ol {
     visibility: none;
 }
 
