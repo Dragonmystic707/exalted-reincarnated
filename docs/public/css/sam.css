@@ -6,9 +6,14 @@
     list-style: none outside none;
 }
 
+.scroll-nav__item > ol, ul {
+    display: none;
+}
+
 .scroll-nav__item--active {
     display: block;
 }
+
 
 .scroll-nav__item--active > ol, ul, li {
     display: block;
@@ -20,9 +25,7 @@
     font-weight: bold;
 }
 
-.scroll-nav__item > ol, ul {
-    display: none;
-}
+
 
 .sidebar-split {
     border-bottom: 5px solid rgba(255,255,255,.1);
