@@ -8,7 +8,7 @@
     <p>{{ site.description }}</p>
   </div>
 
-  <nav class="sidebar-nav">
+  <!-- <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
 
     {% comment %}
@@ -21,17 +21,19 @@
       {% if node.title != null %}
         {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-            <!-- {% for item in site.data.navigation[node.sidebar] %}
+            {% for item in site.data.navigation[node.sidebar] %}
               <ul>
               {% for h1 in item.header%}
                 <li><a href="#{{ h1.link }}">{{ h1.name }}</a></li>
               {% endfor %}
               </ul>
             {% endfor %} -->
-        {% endif %}
+      <!--  {% endif %}
       {% endif %}
     {% endfor %}
-  </nav>
+  </nav> -->
+
+  <div class="sidebar-bottom"></div>
 
   <div class="sidebar-item">
     <p>
