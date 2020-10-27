@@ -22,11 +22,8 @@ ul ul, ol ul, ul ol, ol ol {
     display: none;
 }
 
-.scroll-nav scroll-nav__item--active {
-    display: block;
-}
 
-.scroll-nav scroll-nav__item--active > ol{
+.scroll-nav li.active > ol, ul{
     display: block;
 }
 
