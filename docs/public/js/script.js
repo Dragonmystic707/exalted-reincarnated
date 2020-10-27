@@ -6,7 +6,8 @@
     debug: false,
     insertTarget: activeSidebarItem,
     sections: 'h1',
-    subSections: 'h2'
+    subSections: 'h2',
+    insertLocation: 'after'
   });
 })(document);
 

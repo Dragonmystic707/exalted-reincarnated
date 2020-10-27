@@ -9,3 +9,7 @@
 .scroll-nav__item > ul {
     visibility: none;
 }
+
+.sidebar-split {
+    border-bottom: 5px solid rgba(255,255,255,.1);
+  }
