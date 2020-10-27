@@ -14,7 +14,7 @@ ul ul, ol ul, ul ol, ol ol {
     list-style: none outside none;
 }
 
-.scroll-nav ol li ol {
+/* .scroll-nav ol li ol {
     display: none;
 }
 
@@ -24,7 +24,7 @@ ul ul, ol ul, ul ol, ol ol {
 
 .scroll-nav ol li:scroll-nav__item--active > ol li ol{
     display: block;
-}
+} */
 
 
 .scroll-nav li:scroll-nav__item--active > a {
