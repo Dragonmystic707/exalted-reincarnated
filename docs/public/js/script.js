@@ -5,8 +5,8 @@
   scrollnav.init(content, { 
     debug: false,
     insertTarget: activeSidebarItem,
-    sections: 'h2',
-    subSections: 'h3',
+    sections: 'h1',
+    subSections: 'h2',
     insertLocation: 'after'
   });
 })(document);
