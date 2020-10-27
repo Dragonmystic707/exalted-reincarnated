@@ -5,9 +5,9 @@
   $('.page').scrollNav({
     debug: false,
     insertTarget: activeSidebarItem,
-    sections: 'h1',
-    subSections: 'h2',
-    insertLocation: 'after'})
+    sections: '<h1>',
+    subSections: '<h2>',
+    insertLocation: 'insertAfter'})
 
 })(document);
 
