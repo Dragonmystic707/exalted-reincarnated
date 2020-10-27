@@ -22,7 +22,7 @@ ul ul, ol ul, ul ol, ol ol {
     display: block;
 }
 
-.scroll-nav ol li:scroll-nav__item--active > ol{
+.scroll-nav li:scroll-nav__item--active > ol{
     display: block;
 }
 
