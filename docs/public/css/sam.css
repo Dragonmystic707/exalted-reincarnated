@@ -22,16 +22,15 @@ ul ul, ol ul, ul ol, ol ol {
     display: none;
 }
 
-.scroll-nav ol li ol li:scroll-nav__item--active {
+.scroll-nav scroll-nav__item--active {
     display: block;
 }
 
-.scroll-nav li:scroll-nav__item--active > ol{
+.scroll-nav scroll-nav__item--active > ol{
     display: block;
 }
 
-
-.scroll-nav li:scroll-nav__item--active > a {
+.scroll-nav li.active > a {
     border-left: 2px solid;
     margin-left: -17px;
     font-weight: bold;

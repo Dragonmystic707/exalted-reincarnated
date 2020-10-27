@@ -6,7 +6,9 @@
     sections: 'h1',
     subSections: 'h2',
     insertTarget: activeSidebarItem,
-    insertLocation: 'insertAfter'
+    insertLocation: 'insertAfter',
+    headlineText: '',
+    showTopLink: false,
   })
 
 })(document);
