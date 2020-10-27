@@ -7,11 +7,11 @@
 }
 
 .scroll-nav__item--active {
-    visibility: block;
+    display: block;
 }
 
 .scroll-nav__item--active > ol, ul, li {
-    visibility: block;
+    display: block;
 }
 
 .scroll-nav__item--active > ol, ul, li > a {
@@ -20,8 +20,8 @@
     font-weight: bold;
 }
 
-.scroll-nav__item > ol {
-    visibility: none;
+.scroll-nav__item > ol, ul {
+    display: none;
 }
 
 .sidebar-split {
