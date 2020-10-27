@@ -1,6 +1,6 @@
 core_toc:
   - title: Core
-    header1: 
+    header: 
       - name: Preface
         link: preface
       - name: System
