@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Core
-sidebar: core_toc
+title: Core
+order: 1
 ---
 
 **Contributors from and Special Thanks to:**
@@ -137,7 +137,7 @@ other Exalt.
 [**<u>Nocturnals</u>**](https://docs.google.com/document/d/1-v0WGGSiK0ZOpIa2S3Ro73YPNzf7bf9yGEmydPyE8AI/edit?usp=sharing)
 **\[Stub\]**
 
- Introduction
+Introduction
 ============
 
 Exalted is a game where the heroes are demigods, fonts of power. That
@@ -525,9 +525,7 @@ No Armor</strong></td>
 </tbody>
 </table>
 
- 
-
-Advancement
+ Advancement
 -----------
 
 Essence increases automatically depending on how much xp has accumulated
@@ -615,8 +613,6 @@ example, by having access to the wealth and income of an entire city
 | 20            | City         | City Income     | Season   |
 | 50            | Prefecture   | Trading Network | Year     |
 | 75            | Province     | Nation          | Decade   |
-
- 
 
 System
 ======
