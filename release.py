@@ -10,16 +10,33 @@ core = {
         "title": "Core",
     }
 }
-
 solars = {
     "name": "ExR_Solars",
     "header": {
-        "title": "Solars",
+        "title": "Solars [WIP]",
+    }
+}
+lunars = {
+    "name": "ExR_Lunars",
+    "header": {
+        "title": "Lunars [Stub]",
+    }
+}
+sidereals = {
+    "name": "ExR_Sidereals",
+    "header": {
+        "title": "Sidereals [Stub]",
+    }
+}
+nocturnals = {
+    "name": "ExR_Nocturnals",
+    "header": {
+        "title": "Nocturnals [Stub]",
     }
 }
 
 
-file_list = [core, solars]
+file_list = [core, solars, lunars, sidereals, nocturnals]
 
 def main():
     script_dir = os.path.dirname(__file__)
