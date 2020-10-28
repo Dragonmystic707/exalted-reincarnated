@@ -1,6 +1,6 @@
-/*! scrollNav - v2.7.3 - 2018-03-19
+/*! scrollNav - v2.7.3 - 2020-10-28
 * http://scrollnav.com
-* Copyright (c) 2018 James Wilson; Licensed MIT */
+* Copyright (c) 2020 James Wilson; Licensed MIT */
 (function($) {
 
   // Animate scrolling to section location
@@ -97,6 +97,7 @@
         var isFirst       = function() { return i === 0; };
         var hasHeading    = function() { return !$this_section.eq(0).is(S.settings.sections); };
         var text          = ( S.settings.showTopLink && isFirst() && hasHeading() ) ? S.settings.topLinkText : $this_section.filter(S.settings.sections).text();
+        var uri_text           =  encodeURIComponent(text.replace(/\s+/g, '-').toLowerCase());
 
         $this_section.wrapAll('<' + S.settings.sectionElem + ' id="' + section_id + '" class="' + S.settings.className + '__section" />');
 
@@ -115,7 +116,7 @@
           }
         }
 
-        section_data.push( {id: section_id, text: text, sub_sections: sub_data} );
+        section_data.push( {id: section_id, text: text, sub_sections: sub_data, uri_text: uri_text} );
       });
 
       S.sections.data = section_data;
@@ -143,7 +144,7 @@
 
       $.each(sections, function(i) {
         var $item     = (i === 0) ? $('<li />', {'class': S.settings.className + '__item ' + S.settings.className + '__item--active active'}) : $('<li />', {'class': S.settings.className + '__item'});
-        var $link     = $('<a />', {'href': '#' + this.id, 'class': S.settings.className + '__link', text: this.text});
+        var $link     = $('<a />', {'href': '#' + this.uri_text, 'class': S.settings.className + '__link', text: this.text});
         var $sub_nav_list;
 
         if (this.sub_sections.length > 0) {
@@ -152,7 +153,7 @@
 
           $.each(this.sub_sections, function() {
             var $sub_item = $('<li />', {'class': S.settings.className + '__sub-item'});
-            var $sub_link = $('<a />', {'href': '#' + this.id, 'class': S.settings.className + '__sub-link', text: this.text});
+            var $sub_link = $('<a />', {'href': '#' + this.uri_text, 'class': S.settings.className + '__sub-link', text: this.text});
 
             $sub_nav_list.append( $sub_item.append($sub_link) );
           });
