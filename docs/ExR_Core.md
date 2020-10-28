@@ -234,35 +234,33 @@ Sheets</u>](https://drive.google.com/drive/folders/1Tvyc8eX5ICpKcWwEYOuWaB_10pEB
 are provided.
 
 <table>
-<thead>
-<tr class="header">
-<th><strong>Experience Costs</strong></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td><strong>Experience Costs</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><strong>Standard</strong></td>
 <td><strong>Favored</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Attribute Rating</strong></td>
 <td>4</td>
 <td>--</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Ability Rating</strong></td>
 <td>3</td>
 <td>2</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Lesser Power</strong></td>
 <td>5</td>
 <td>4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Greater Power<br />
 </strong>(Requires Essence 3)</td>
 <td>10</td>
@@ -462,19 +460,17 @@ Steps
         > chance or accuracy.
 
 <table>
-<thead>
-<tr class="header">
-<th><strong>Weapons</strong></th>
-<th></th>
-<th><strong>Armor</strong></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td><strong>Weapons</strong></td>
+<td></td>
+<td><strong>Armor</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><strong>Attribute</strong></td>
 <td><strong>Accuracy</strong></td>
@@ -483,7 +479,7 @@ Steps
 <td><strong>Soak Bonus</strong></td>
 <td><strong>Evasion Penalty</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Unarmed/<br />
 No Armor</strong></td>
 <td><p>Dexterity or</p>
@@ -494,7 +490,7 @@ No Armor</strong></td>
 <td>+0</td>
 <td>-0</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Light</strong></td>
 <td>Dexterity</td>
 <td>+2</td>
@@ -503,7 +499,7 @@ No Armor</strong></td>
 <td>+1</td>
 <td>-0</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><strong>Medium</strong></td>
 <td><p>Dexterity or</p>
 <p>Strength</p></td>
@@ -513,7 +509,7 @@ No Armor</strong></td>
 <td>+2</td>
 <td>-1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><strong>Heavy</strong></td>
 <td>Strength</td>
 <td>+0</td>
@@ -525,7 +521,9 @@ No Armor</strong></td>
 </tbody>
 </table>
 
- Advancement
+ 
+
+Advancement
 -----------
 
 Essence increases automatically depending on how much xp has accumulated
@@ -604,8 +602,9 @@ example, by having access to the wealth and income of an entire city
 </tbody>
 </table>
 
-| **Resources** |              |                 |          |
+|               |              |                 |          |
 |---------------|--------------|-----------------|----------|
+| **Resources** |              |                 |          |
 |               | **Manpower** | **Wealth**      | **Time** |
 | 1             | Hamlet       | \-              | Day      |
 | 5             | Village      | Merchant        | Week     |
@@ -1306,70 +1305,68 @@ Some Powers will declare an increase (or decrease) in a *magnitude*.
 Those magnitude definitions are as follows:
 
 <table>
-<thead>
-<tr class="header">
-<th><h3 id="group-magnitudes">Group Magnitudes</h3></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td><h3 id="group-magnitudes">Group Magnitudes</h3></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><strong>Scale</strong></td>
 <td><strong>Population</strong></td>
 <td><strong>Name</strong></td>
 <td><strong>Military Designation</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>0</td>
 <td>1</td>
 <td>Individual</td>
 <td>-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1</td>
 <td>10</td>
 <td>Party/Group</td>
 <td>Squad</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>2</td>
 <td>50</td>
 <td>Crowd</td>
 <td>Troop</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>3</td>
 <td>100</td>
 <td>Hamlet</td>
 <td>Company</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>4</td>
 <td>500</td>
 <td>Village</td>
 <td>Battalion</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>5</td>
 <td>1,000</td>
 <td>Town</td>
 <td>Regiment</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>6</td>
 <td>10,000</td>
 <td>City</td>
 <td>Army</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>7</td>
 <td>100,000</td>
 <td>Prefecture</td>
 <td>-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>8</td>
 <td>1,000,000</td>
 <td>Province</td>
@@ -1378,8 +1375,9 @@ Those magnitude definitions are as follows:
 </tbody>
 </table>
 
-| Time Magnitudes |                  |
+|                 |                  |
 |-----------------|------------------|
+| Time Magnitudes |                  |
 | **Scale**       | **Name**         |
 | 0               | Second (Instant) |
 | 1               | Minute (Moment)  |
@@ -3044,8 +3042,9 @@ out roughly evenly across the lifespan of the project.
 
 For each Obstruction Roll, the player should roll a single d10:
 
-| Roll 1d10 |                                                                                                      |
+|           |                                                                                                      |
 |-----------|------------------------------------------------------------------------------------------------------|
+| Roll 1d10 |                                                                                                      |
 |           | **Result**                                                                                           |
 | 10        | **Critical Success:** Everything has seemingly clicked into place, providing an extra benefit.       |
 | 7-9       | Everything is proceeding exactly as planned.                                                         |
@@ -3120,17 +3119,15 @@ multiplied by the sum of any opposition.
 You must have a base score in the related Ability to start a Project.
 
 <table>
-<thead>
-<tr class="header">
-<th></th>
-<th></th>
-<th></th>
-<th><strong>Scale</strong></th>
-<th></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><strong>Scale</strong></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><strong>Base Cost</strong></td>
 <td><p><strong>Obstruction</strong></p>
 <p><strong>Rolls</strong></p></td>
@@ -3138,42 +3135,42 @@ You must have a base score in the related Ability to start a Project.
 <td>Merit Rating</td>
 <td>Affects Population</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1</td>
 <td>0</td>
 <td>1</td>
 <td>-</td>
 <td>Hamlet</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>2</td>
 <td>1</td>
 <td>1</td>
 <td>1</td>
 <td>Village</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>5</td>
 <td>1</td>
 <td>2</td>
 <td>2</td>
 <td>Town</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>10</td>
 <td>2</td>
 <td>3</td>
 <td>3</td>
 <td>City</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>20 (1Key)</td>
 <td>2</td>
 <td>4</td>
 <td>4</td>
 <td>Prefecture</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>50 (2Key)</td>
 <td>3</td>
 <td>5</td>

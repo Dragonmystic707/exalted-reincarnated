@@ -42,6 +42,8 @@ def main():
     script_dir = os.path.dirname(__file__)
     src_dir = path.join(script_dir, "src")
     page_dir = path.join(script_dir, "docs")
+    media_dir = path.join(page_dir, "media")
+    soffice = "C:\\Program Files\\LibreOffice\\program\\soffice"
     # Make sure the temporary file doesn't exist 
     temp_name = "temp.md"
     temp_file = path.join(script_dir, temp_name)
@@ -51,9 +53,20 @@ def main():
         if path.exists(temp_file):
             os.remove(temp_file)
 
-        bash_cmd = "pandoc " + path.join(src_dir, file_dict["name"]) + ".docx -t gfm -o temp.md --strip-comments"
-        process = subprocess.Popen(bash_cmd)
-        process.wait()
+        # There's a bug in pandoc that it doesn't grab the Sections of odt correctly, so we have to save the file as a docx first.
+        soffice_cmd = soffice + " --convert-to docx " + path.join(src_dir, file_dict["name"]) + ".odt"
+        subprocess.Popen(soffice_cmd).wait()
+
+        # Temporarily disable. This could bloat the repo.
+        # also create a pdf.
+        #  soffice_cmd = soffice + " --convert-to pdf " + path.join(src_dir, file_dict["name"]) + ".odt --outdir " + media_dir
+        #  subprocess.Popen(soffice_cmd).wait()
+
+        bash_cmd = "pandoc " + file_dict["name"] + ".docx -f docx -t gfm -o temp.md --strip-comments"
+        subprocess.Popen(bash_cmd).wait()
+        
+        # Remove the temporary docx
+        os.remove(file_dict["name"] + ".docx")
 
         # Construct the header
         header = "---\n"
