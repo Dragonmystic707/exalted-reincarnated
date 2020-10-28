@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Solars
+title: Solars [WIP]
 order: 2
 ---
 
