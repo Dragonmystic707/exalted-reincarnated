@@ -97,7 +97,7 @@
         var isFirst       = function() { return i === 0; };
         var hasHeading    = function() { return !$this_section.eq(0).is(S.settings.sections); };
         var text          = ( S.settings.showTopLink && isFirst() && hasHeading() ) ? S.settings.topLinkText : $this_section.filter(S.settings.sections).text();
-        var uri_text           =  encodeURIComponent(text.replace(/\s+/g, '-').toLowerCase());
+        var uri_text      =  encodeURIComponent(text.replace(/\s+/g, '-').toLowerCase());
 
         $this_section.wrapAll('<' + S.settings.sectionElem + ' id="' + section_id + '" class="' + S.settings.className + '__section" />');
 
@@ -109,9 +109,10 @@
               var sub_id      = section_id + '-' + (i + 1);
               var sub_text    = $(this).text();
               var $this_sub   = $this_section.filter($(this).nextUntil($sub_sections).addBack());
+              var uri_text      =  encodeURIComponent(sub_text.replace(/\s+/g, '-').toLowerCase());
 
               $this_sub.wrapAll('<div id="' + sub_id + '" class="' + S.settings.className + '__sub-section" />');
-              sub_data.push( {id: sub_id, text: sub_text} );
+              sub_data.push( {id: sub_id, text: sub_text, uri_text: uri_text} );
             });
           }
         }
