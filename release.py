@@ -46,7 +46,7 @@ def main():
     temp_name = "temp.md"
     temp_file = path.join(script_dir, temp_name)
 
-    order_num = 1
+    order_num = 2
     for file_dict in file_list:
         if path.exists(temp_file):
             os.remove(temp_file)

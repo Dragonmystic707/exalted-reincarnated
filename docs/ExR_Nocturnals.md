@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nocturnals [Stub]
-order: 5
+order: 6
 ---
 
 [<u>Exalted Reincarnated

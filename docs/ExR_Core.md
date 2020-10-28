@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Core
-order: 1
+order: 2
 ---
 
 **Contributors from and Special Thanks to:**
