@@ -41,7 +41,7 @@ file_list = [core, solars, lunars, sidereals, nocturnals]
 def main():
     script_dir = os.path.dirname(__file__)
     src_dir = path.join(script_dir, "src")
-    page_dir = path.join(script_dir, r"docs\pages")
+    page_dir = path.join(script_dir, "docs")
     # Make sure the temporary file doesn't exist 
     temp_name = "temp.md"
     temp_file = path.join(script_dir, temp_name)
