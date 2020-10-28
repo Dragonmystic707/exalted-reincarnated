@@ -241,18 +241,18 @@
 
       $.each(sections_active, function(i) {
         if (i === 0) {
-          $nav.find('a[href="#' + this.id + '"]').parents('.' + S.settings.className + '__item').addClass(S.settings.className + '__item--active').addClass('active').addClass('in-view');
+          $nav.find('a[href="#' + this.uri_text + '"]').parents('.' + S.settings.className + '__item').addClass(S.settings.className + '__item--active').addClass('active').addClass('in-view');
         } else {
-          $nav.find('a[href="#' + this.id + '"]').parents('.' + S.settings.className + '__item').addClass('in-view');
+          $nav.find('a[href="#' + this.uri_text + '"]').parents('.' + S.settings.className + '__item').addClass('in-view');
         }
       });
       S.sections.active = sections_active;
 
       $.each(sub_sections_active, function(i) {
         if (i === 0) {
-          $nav.find('a[href="#' + this.id + '"]').parents('.' + S.settings.className + '__sub-item').addClass(S.settings.className + '__sub-item--active').addClass('active').addClass('in-view');
+          $nav.find('a[href="#' + this.uri_text + '"]').parents('.' + S.settings.className + '__sub-item').addClass(S.settings.className + '__sub-item--active').addClass('active').addClass('in-view');
         } else {
-          $nav.find('a[href="#' + this.id + '"]').parents('.' + S.settings.className + '__sub-item').addClass('in-view');
+          $nav.find('a[href="#' + this.uri_text + '"]').parents('.' + S.settings.className + '__sub-item').addClass('in-view');
         }
       });
     },
