@@ -4,14 +4,6 @@ title: Home
 order: 0
 ---
 
-**Contributors from and Special Thanks to:**
-
-Codex, DeProf Gaming, Effendoor, Exthalion, Insuling,  
-Jancarius, Kaleth, Ortha, Redman808, The Red One, SkyBoundFencer,  
-Soarin1, Sponsored by Nobody, Tsurumah, and Zeus
-
-[<u>Development Discord Channel</u>](https://discord.gg/JxmYUSD)
-
 *Upon your brow lies the mark of a God: a brand of power that sets you
 apart from mortals, given in a moment of transcendent glory--regardless
 of your desire for the power.*
@@ -77,25 +69,45 @@ The entirety of Exalted Reincarnated is constantly evolving, being modified, and
 
 Tools
 ----------
+
 [**<u>Character Sheets</u>**](https://docs.google.com/spreadsheets/d/1jRyQCIH2EfPr_X8OzsWhJxdUE4AAg2E7K3Lh8oMEWuQ/edit?usp=sharing)
+
 [**<u>Rules Summary</u>**](/ExR_Summary)
 
 Exaltations
 ----------
+
 [**<u>Solars</u>**](/ExR_Solars) \[In Progress\]
 Paragons of mankind, Solars turn their blessing inwards to heighten their already impressive skills and abilities. With their Supernal Ability, Solars may access and master greater powers faster than any other Exalt.
 
 [**<u>Lunars</u>**](/ExR_Lunars) \[Stub\]
-[**<u>Sidereals</u>**](/ExR_Solars) \[Stub\] 
+
+[**<u>Sidereals</u>**](/ExR_Solars) \[Stub\]
+
 **Dragonblooded**
+
 **Abyssals**
 [**<u>Infernals</u>**](/ExR_Infernals) \[Stub\]
+
 **Alchemicals**
+
 **Getimian**
+
 **Liminals**
+
 **Exigents**
+
 **Fae**
 
 Shards
 ------
 [**<u>Nocturnals</u>**](/ExR_Nocturnals) \[Stub\]
+
+
+**Contributors from and Special Thanks to:**
+
+Codex, DeProf Gaming, Effendoor, Exthalion, Insuling,  
+Jancarius, Kaleth, Ortha, Redman808, The Red One, SkyBoundFencer,  
+Soarin1, Sponsored by Nobody, Tsurumah, and Zeus
+
+[<u>Development Discord Channel</u>](https://discord.gg/JxmYUSD)
