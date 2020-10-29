@@ -1,6 +1,6 @@
 (function(document) {
   const content = document.querySelector('.page');
-  var activeSidebarItem = document.querySelector('.sidebar-sidebar-nav-item active');
+  var activeSidebarItem = document.querySelector('.sidebar-nav > a.active');
 
   $('.page').scrollNav({
     sections: 'h1',
