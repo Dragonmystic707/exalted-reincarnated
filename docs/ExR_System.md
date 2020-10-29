@@ -1,3 +1,10 @@
+---
+layout: page
+title: System
+page_type: core
+order: 3
+---
+
 **Contributors from and Special Thanks to:**
 
 Codex, DeProf Gaming, Effendoor, Exthalion, Insuling,  

@@ -127,6 +127,16 @@ def main():
 
         order_num += 1
 
+        # Add in the introduction to the ExR_System
+        if file_dict["name"] == system["name"]:
+            bash_cmd = "pandoc " + path.join(src_dir, introduction["name"]) + ".docx -f docx -t gfm -o temp_int.md --strip-comments"
+            subprocess.Popen(bash_cmd).wait()
+
+            combined_cmd = "pandoc temp_int.md temp.md -t gfm -o temp.md"
+            subprocess.Popen(combined_cmd).wait()
+
+            os.remove("temp_int.md")
+
         # Add in the header data to the file
         with open(path.join(script_dir, "temp.md"), "r+", encoding="utf8") as f:
             data = f.read()
@@ -136,12 +146,7 @@ def main():
     if path.exists(temp_file):
         os.remove(temp_file)
 
-    # Add in the introduction to the System
-    bash_cmd = "pandoc " + path.join(src_dir, introduction["name"]) + ".docx -f docx -t gfm -o temp.md --strip-comments"
-    subprocess.Popen(bash_cmd).wait()
-
-    combined_cmd = "pandoc temp.md " + path.join(page_dir, system["name"] + ".md") + " -t gfm -o " + path.join(page_dir, system["name"] + ".md")
-    subprocess.Popen(combined_cmd).wait()
+    
 
     if path.exists(temp_file):
         os.remove(temp_file)
