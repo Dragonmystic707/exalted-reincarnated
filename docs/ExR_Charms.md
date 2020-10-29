@@ -2,7 +2,7 @@
 layout: page
 title: Charms
 page_type: core
-order: 3
+order: 4
 ---
 
 Universal Charms

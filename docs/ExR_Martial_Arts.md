@@ -2,7 +2,7 @@
 layout: page
 title: Martial Arts
 page_type: core
-order: 5
+order: 6
 ---
 
 Martial Arts

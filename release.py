@@ -4,6 +4,14 @@ import shutil
 import os
 import os.path as path
 
+introduction = {
+    "name": "ExR_Introduction",
+    "header": {
+        "title": "System",
+        "page_type": "introduction"
+    }
+}
+
 summary = {
     "name": "ExR_Summary",
     "header": {
@@ -11,6 +19,14 @@ summary = {
         "page_type": "core"
     }    
 }
+ccreation = {
+    "name": "ExR_CharacterCreation",
+    "header": {
+        "title": "System",
+        "page_type": "Character Creation"
+    }
+}
+
 system = {
     "name": "ExR_System",
     "header": {
@@ -71,7 +87,7 @@ nocturnals = {
     }
 }
 
-file_list = [ summary, system, charms, sorcery, m_arts, solars, lunars, sidereals, nocturnals]
+file_list = [ summary, ccreation, system, charms, sorcery, m_arts, solars, lunars, sidereals, nocturnals]
 
 def main():
     script_dir = os.path.dirname(__file__)
@@ -116,6 +132,16 @@ def main():
             data = f.read()
             with open(path.join(page_dir, file_dict["name"] + ".md"), "w", encoding="utf8") as w:
                 w.write(header + data) 
+
+    if path.exists(temp_file):
+        os.remove(temp_file)
+
+    # Add in the introduction to the System
+    bash_cmd = "pandoc " + path.join(src_dir, introduction["name"]) + ".docx -f docx -t gfm -o temp.md --strip-comments"
+    subprocess.Popen(bash_cmd).wait()
+
+    combined_cmd = "pandoc temp.md " + path.join(page_dir, system["name"] + ".md") + " -t gfm -o " + path.join(page_dir, system["name"] + ".md")
+    subprocess.Popen(combined_cmd).wait()
 
     if path.exists(temp_file):
         os.remove(temp_file)

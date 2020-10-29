@@ -2,7 +2,7 @@
 layout: page
 title: Sorcery and Necromancy
 page_type: core
-order: 4
+order: 5
 ---
 
 Sorcery and Necromancy

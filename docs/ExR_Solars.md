@@ -2,7 +2,7 @@
 layout: page
 title: Solars [WIP]
 page_type: exalt
-order: 6
+order: 7
 ---
 
 [<u>Exalted Reincarnated
