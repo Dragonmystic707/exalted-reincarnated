@@ -71,8 +71,7 @@ nocturnals = {
     }
 }
 
-core_list = [ summary, system, charms, sorcery, m_arts ]
-file_list = [ solars, lunars, sidereals, nocturnals]
+file_list = [ summary, system, charms, sorcery, m_arts, solars, lunars, sidereals, nocturnals]
 
 def main():
     script_dir = os.path.dirname(__file__)

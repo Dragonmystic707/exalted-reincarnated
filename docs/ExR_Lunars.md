@@ -2,7 +2,7 @@
 layout: page
 title: Lunars [Stub]
 page_type: exalt
-order: 2
+order: 7
 ---
 
 [<u>Exalted Reincarnated
