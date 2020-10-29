@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Sidereals [Stub]
-order: 5
+page_type: exalt
+order: 3
 ---
 
 [<u>Exalted Reincarnated

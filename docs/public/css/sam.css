@@ -40,6 +40,10 @@ ul ul, ol ul, ul ol, ol ol {
 }
 
 
+.spacer {
+    border-bottom: 5px solid rgba(255,255,255,.1);
+  }
+
 .sidebar-split {
     border-bottom: 5px solid rgba(255,255,255,.1);
   }
