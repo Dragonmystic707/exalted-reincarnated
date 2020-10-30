@@ -9,6 +9,10 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
+# Add in the static pages
+include:
+  - "downloads"
+
 # About/contact
 author:
   name:              Dragonmystic

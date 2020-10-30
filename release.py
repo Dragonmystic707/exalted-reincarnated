@@ -6,6 +6,7 @@ import os.path as path
 
 introduction = {
     "name": "Introduction",
+    "folder": "Core",
     "header": {
         "title": "System",
         "type": "core"
@@ -14,6 +15,7 @@ introduction = {
 
 summary = {
     "name": "Summary",
+    "folder": "Tools",
     "header": {
         "title": "Summary",
         "type": "tools"
@@ -21,6 +23,7 @@ summary = {
 }
 ccreation = {
     "name": "CharacterCreation",
+    "folder": "Core",
     "header": {
         "title": "System",
         "type": "core"
@@ -29,6 +32,7 @@ ccreation = {
 
 system = {
     "name": "System",
+    "folder": "Core",
     "header": {
         "title": "System",
         "type": "core"
@@ -36,6 +40,7 @@ system = {
 }
 charms = {
     "name": "Charms",
+    "folder": "Core",
     "header": {
         "title": "Universal Charms",
         "type": "core"
@@ -43,6 +48,7 @@ charms = {
 }
 sorcery = {
     "name": "Sorcery",
+    "folder": "Core",
     "header": {
         "title": "Sorcery and Necromancy",
         "type": "core"
@@ -50,6 +56,7 @@ sorcery = {
 }
 m_arts = {
     "name": "Martial_Arts",
+    "folder": "Core",
     "header": {
         "title": "Martial Arts",
         "type": "core"
@@ -60,6 +67,7 @@ m_arts = {
 
 solars = {
     "name": "Solars",
+    "folder": "Exaltations",
     "header": {
         "title": "Solars [WIP]",
         "type": "exalt"
@@ -67,6 +75,7 @@ solars = {
 }
 lunars = {
     "name": "Lunars",
+    "folder": "Exaltations",
     "header": {
         "title": "Lunars [Stub]",
         "type": "exalt"
@@ -74,6 +83,7 @@ lunars = {
 }
 sidereals = {
     "name": "Sidereals",
+    "folder": "Exaltations",
     "header": {
         "title": "Sidereals [Stub]",
         "type": "exalt"
@@ -81,6 +91,7 @@ sidereals = {
 }
 nocturnals = {
     "name": "Nocturnals",
+    "folder": "Exaltations",
     "header": {
         "title": "Nocturnals [Stub]",
         "type": "exalt"
@@ -110,7 +121,7 @@ def main():
             os.remove(temp_file)
 
         # Export out the base markdown, without the needed header
-        bash_cmd = "pandoc " + path.join(src_dir, file_dict["type"], file_dict["name"]) + ".docx -f docx -t gfm -o temp.md --strip-comments"
+        bash_cmd = "pandoc " + path.join(src_dir, file_dict["folder"], file_dict["name"]) + ".docx -f docx -t gfm -o temp.md --strip-comments"
         subprocess.Popen(bash_cmd).wait()
 
         # Construct the header
