@@ -11,31 +11,23 @@ The goal is to make a system that focuses more on Player actions, rather than sy
 
 **Contributors from and Special Thanks to:**
 
-Codex, DeProf Gaming, Effendoor, Exthalion, Insuling,  
-Jancarius, Kaleth, Ortha, Redman808, The Red One, SkyBoundFencer,  
-Soarin1, Sponsored by Nobody, Tsurumah, and Zeus
+*Codex, DeProf Gaming, Effendoor, Exthalion, Insuling, Jancarius, Kaleth, Ortha, Redman808, The Red One, SkyBoundFencer, Soarin1, Sponsored by Nobody, Tsurumah, and Zeus*
 
 [<u>Development Discord Channel</u>](https://discord.gg/JxmYUSD)
 
- Downloads
+Downloads
 ==========
 
-All documents are currently marked as "In Progress," so expect things to change around and 
-
-*Note:*  Documents marked with the "Stub" are 
-
-Documents that are Actively being focused on are marked as “In Progress”.
-“Stubs” are collections of notes and ideas that are not actively being worked on, but still can 
-The entirety of Exalted Reincarnated is constantly evolving, being modified, and growing, even if it isn’t currently marked as In Progress.
-
 Tools
-----------
+-----
+
 <a href="/assets/downloads/Summary.pdf" download>Rules Summary (Cheat Sheet)</a>
 
 [**<u>Character Sheets</u>**](https://docs.google.com/spreadsheets/d/1jRyQCIH2EfPr_X8OzsWhJxdUE4AAg2E7K3Lh8oMEWuQ/edit?usp=sharing)
 
 Downloads
 ---------
+
 <a href="/assets/downloads/Exalted_Reincarnated.zip" download>Download All (zip)</a>
 
 <a href="/assets/downloads/Core.pdf" download>Core Book</a>
@@ -78,19 +70,23 @@ Shards
 [<u>Changelog History</u>](/changelog)
 
 **2020-10-30**
+
 Completed:
 ----------
+
 Moved Exalted Reincarnated to its own site.
 - Reworked Encounters sub-system to be simpler and more robust
 - Officially Codified Sorcery and Necromancy from psuedo-rules.
 
 Working On:
 -----------
+
 - Prettying up website
 - Writing Solar and Universal Charms
 
 Future Goals:
 -------------
+
 - Martial Arts
 - Sorcery Spells
 - Antagonists
