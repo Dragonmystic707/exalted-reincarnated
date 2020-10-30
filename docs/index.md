@@ -16,9 +16,9 @@ The entirety of Exalted Reincarnated is constantly evolving, being modified, and
 Downloads
 ---------
 
-<a href="/downloads/" download>Download All </a>
+<a href="/assets/" download>Download All </a>
 
-<a href="/downloads/Summary.pdf" download>Rules Summary (pdf)</a>
+<a href="/assets/Summary.pdf" download>Rules Summary (pdf)</a>
 
 Tools
 ----------
@@ -29,18 +29,18 @@ Tools
 Exaltations
 ----------
 
-[**<u>Solars</u>**](/ExR_Solars) \[In Progress\]
+[**<u>Solars</u>**](/Solars) \[In Progress\]
 Paragons of mankind, Solars turn their blessing inwards to heighten their already impressive skills and abilities. With their Supernal Ability, Solars may access and master greater powers faster than any other Exalt.
 
-[**<u>Lunars</u>**](/ExR_Lunars) \[Stub\]
+[**<u>Lunars</u>**](/Lunars) \[Stub\]
 
-[**<u>Sidereals</u>**](/ExR_Solars) \[Stub\]
+[**<u>Sidereals</u>**](/Solars) \[Stub\]
 
 **Dragonblooded**
 
 **Abyssals**
 
-[**<u>Infernals</u>**](/ExR_Infernals) \[Stub\]
+[**<u>Infernals</u>**](/Infernals) \[Stub\]
 
 **Alchemicals**
 
@@ -54,7 +54,7 @@ Paragons of mankind, Solars turn their blessing inwards to heighten their alread
 
 Shards
 ------
-[**<u>Nocturnals</u>**](/ExR_Nocturnals) \[Stub\]
+[**<u>Nocturnals</u>**](/Nocturnals) \[Stub\]
 
 
 **Contributors from and Special Thanks to:**
