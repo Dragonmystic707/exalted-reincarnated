@@ -122,7 +122,7 @@ def main():
             os.remove(temp_file)
 
         # Export out the base markdown, without the needed header
-        bash_cmd = "pandoc " + path.join(src_dir, file_dict["folder"], file_dict["name"]) + ".docx -f docx -t markdown -o temp.md --strip-comments "
+        bash_cmd = "pandoc " + path.join(src_dir, file_dict["folder"], file_dict["name"]) + ".docx -f docx -t gfm -o temp.md --strip-comments "
         subprocess.Popen(bash_cmd).wait()
 
         # Construct the header
@@ -137,7 +137,7 @@ def main():
 
         # Add in the introduction to the ExR_System
         if file_dict["name"] == system["name"]:
-            bash_cmd = "pandoc " + path.join(src_dir, "core", introduction["name"]) + ".docx -f docx -t markdown -o temp_int.md --strip-comments "
+            bash_cmd = "pandoc " + path.join(src_dir, "core", introduction["name"]) + ".docx -f docx -t gfm -o temp_int.md --strip-comments "
             subprocess.Popen(bash_cmd).wait()
 
             combined_cmd = "pandoc temp_int.md temp.md -t gfm -o temp.md"
