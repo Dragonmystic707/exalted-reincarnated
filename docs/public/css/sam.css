@@ -50,6 +50,7 @@ td blockquote {
     padding-right: 0rem;
     padding-left:   0rem;
     margin: auto;
+    border-left: none;
 } 
 
 .spacer {
