@@ -5,117 +5,113 @@ import os
 import os.path as path
 
 introduction = {
-    "name": "ExR_Introduction",
+    "name": "Introduction",
     "header": {
         "title": "System",
-        "page_type": "introduction"
+        "type": "core"
     }
 }
 
 summary = {
-    "name": "ExR_Summary",
+    "name": "Summary",
     "header": {
         "title": "Summary",
-        "page_type": "core"
+        "type": "tools"
     }    
 }
 ccreation = {
-    "name": "ExR_CharacterCreation",
+    "name": "CharacterCreation",
     "header": {
         "title": "System",
-        "page_type": "Character Creation"
+        "type": "core"
     }
 }
 
 system = {
-    "name": "ExR_System",
+    "name": "System",
     "header": {
         "title": "System",
-        "page_type": "core"
+        "type": "core"
     }
 }
 charms = {
-    "name": "ExR_Charms",
+    "name": "Charms",
     "header": {
-        "title": "Charms",
-        "page_type": "core"
+        "title": "Universal Charms",
+        "type": "core"
     }
 }
 sorcery = {
-    "name": "ExR_Sorcery",
+    "name": "Sorcery",
     "header": {
         "title": "Sorcery and Necromancy",
-        "page_type": "core"
+        "type": "core"
     }
 }
 m_arts = {
-    "name": "ExR_Martial_Arts",
+    "name": "Martial_Arts",
     "header": {
         "title": "Martial Arts",
-        "page_type": "core"
+        "type": "core"
     }
 }
 
 
 
 solars = {
-    "name": "ExR_Solars",
+    "name": "Solars",
     "header": {
         "title": "Solars [WIP]",
-        "page_type": "exalt"
+        "type": "exalt"
     }
 }
 lunars = {
-    "name": "ExR_Lunars",
+    "name": "Lunars",
     "header": {
         "title": "Lunars [Stub]",
-        "page_type": "exalt"
+        "type": "exalt"
     }
 }
 sidereals = {
-    "name": "ExR_Sidereals",
+    "name": "Sidereals",
     "header": {
         "title": "Sidereals [Stub]",
-        "page_type": "exalt"
+        "type": "exalt"
     }
 }
 nocturnals = {
-    "name": "ExR_Nocturnals",
+    "name": "Nocturnals",
     "header": {
         "title": "Nocturnals [Stub]",
-        "page_type": "exalt"
+        "type": "exalt"
     }
 }
 
-file_list = [ summary, ccreation, system, charms, sorcery, m_arts, solars, lunars, sidereals, nocturnals]
+exalt_list = [ solars, lunars, sidereals, nocturnals]
+file_list = [ system, charms, sorcery, m_arts] + exalt_list
+
 
 def main():
     script_dir = os.path.dirname(__file__)
     src_dir = path.join(script_dir, "src")
     page_dir = path.join(script_dir, "docs")
     # media_dir = path.join(page_dir, "media")
-    # soffice = "C:\\Program Files\\LibreOffice\\program\\soffice"
+
+    
     # Make sure the temporary file doesn't exist 
     temp_name = "temp.md"
     temp_file = path.join(script_dir, temp_name)
 
     order_num = 1
+
+    # Create the Markdown release
     for file_dict in file_list:
         if path.exists(temp_file):
             os.remove(temp_file)
 
-        # There's a bug in pandoc that it doesn't grab the Sections of odt correctly, so we have to save the file as a docx first.
-        # soffice_cmd = soffice + " --convert-to docx " + path.join(src_dir, file_dict["name"]) + ".odt"
-        # subprocess.Popen(soffice_cmd).wait()
-
-        # Temporarily disable. This could bloat the repo.
-        # also create a pdf.
-        #  soffice_cmd = soffice + " --convert-to pdf " + path.join(src_dir, file_dict["name"]) + ".odt --outdir " + media_dir
-        #  subprocess.Popen(soffice_cmd).wait()
-
-        bash_cmd = "pandoc " + path.join(src_dir, file_dict["name"]) + ".docx -f docx -t gfm -o temp.md --strip-comments"
+        # Export out the base markdown, without the needed header
+        bash_cmd = "pandoc " + path.join(src_dir, file_dict["type"], file_dict["name"]) + ".docx -f docx -t gfm -o temp.md --strip-comments"
         subprocess.Popen(bash_cmd).wait()
-        
 
         # Construct the header
         header = "---\n"
@@ -129,7 +125,7 @@ def main():
 
         # Add in the introduction to the ExR_System
         if file_dict["name"] == system["name"]:
-            bash_cmd = "pandoc " + path.join(src_dir, introduction["name"]) + ".docx -f docx -t gfm -o temp_int.md --strip-comments"
+            bash_cmd = "pandoc " + path.join(src_dir, "core", introduction["name"]) + ".docx -f docx -t gfm -o temp_int.md --strip-comments"
             subprocess.Popen(bash_cmd).wait()
 
             combined_cmd = "pandoc temp_int.md temp.md -t gfm -o temp.md"
@@ -146,10 +142,15 @@ def main():
     if path.exists(temp_file):
         os.remove(temp_file)
 
-    
+    # Export the PDF Versions
+    # Create a pdf versions
 
-    if path.exists(temp_file):
-        os.remove(temp_file)
+    # Export out the Core book
+    # This doesn't work. It has to be done manually.
+
+    # I think I'm going to require pdf exports to be manual. Git updates to .md is easily compressible, To pdf? Not so much.
+    # soffice_cmd = soffice + " --convert-to pdf " + path.join(src_dir, file_dict["name"]) + ".odt --outdir " + media_dir
+    # subprocess.Popen(soffice_cmd).wait()
 
 
 if __name__ == "__main__":

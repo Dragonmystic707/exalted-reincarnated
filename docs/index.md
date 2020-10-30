@@ -13,12 +13,18 @@ Documents that are Actively being focused on are marked as “In Progress”.
 “Stubs” are collections of notes and ideas that are not actively being worked on, but still can 
 The entirety of Exalted Reincarnated is constantly evolving, being modified, and growing, even if it isn’t currently marked as In Progress.
 
+Downloads
+---------
+
+<a href="/downloads/" download>Download All </a>
+
+<a href="/downloads/Summary.pdf" download>Rules Summary (pdf)</a>
+
 Tools
 ----------
 
 [**<u>Character Sheets</u>**](https://docs.google.com/spreadsheets/d/1jRyQCIH2EfPr_X8OzsWhJxdUE4AAg2E7K3Lh8oMEWuQ/edit?usp=sharing)
 
-[**<u>Rules Summary</u>**](/ExR_Summary)
 
 Exaltations
 ----------
