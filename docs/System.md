@@ -18,7 +18,7 @@ Soarin1, Sponsored by Nobody, Tsurumah, and Zeus
 [<u>Development Discord Channel</u>](https://discord.gg/JxmYUSD)
 
 *Upon your brow lies the mark of a God: a brand of power that sets you
-apart from mortals, given in a moment of transcendent glory–regardless
+apart from mortals, given in a moment of transcendent glory--regardless
 of your desire for the power.*
 
 *With it, a vast wealth of supernatural power lies at your fingertips:
@@ -92,7 +92,7 @@ followed:
 Actions are Momentous
 
 The Player Character is the right person at the right time to change the
-world–for better or for worse. This blessing and burden cannot be given
+world--for better or for worse. This blessing and burden cannot be given
 to another, and the Gods are restrained in their actions for reasons
 ranging from arcane laws, to being involved in their own machinations,
 to being too weak to do anything.
@@ -110,7 +110,7 @@ their actions.
 The Heroes are Flawed
 
 Despite all of their powers and might, Exalts are still human and carry
-with them their flaws–and this does not make them any less of a hero.
+with them their flaws--and this does not make them any less of a hero.
 
 Dice
 ----
@@ -134,7 +134,7 @@ Tumult.,
 The mighty Realm, whose reach expanded even out of the Blessed Isle, has
 lost her Empress with no heir declared. Now, each Dragonblooded Clan
 vies to claim the throne for their own, whether it be by politics or by
-force–ignoring all else that goes on around them.
+force--ignoring all else that goes on around them.
 
 The Silver Pact, that loose association only tied together by their
 hatred and resistance to the Realm, find their alliances crumbling.
@@ -172,24 +172,19 @@ that is appropriate for the situation, and then determine an appropriate
 Difficulty for the roll.
 
 The Player will then roll a number of Ten-Sided Dice (d10’s) equal to
-the combined rating of the selected Attribute and Ability–this combined
+the combined rating of the selected Attribute and Ability--this combined
 number is called the Dice Pool.
 
 This will be referred to as \[Att+Abi\] xd10’s.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Only roll if the Result is unknown</strong>
-</p>
-<p>
-If the outcome of an action is already known beforehand (either as a
-failure or a success), there is no need for a roll–simply declare what
-happens and continue on with the story.
-</p>
-</td>
+<td><p><strong>Only roll if the Result is unknown</strong></p>
+<p>If the outcome of an action is already known beforehand (either as a failure or a success), there is no need for a roll--simply declare what happens and continue on with the story.</p></td>
 </tr>
 </tbody>
 </table>
@@ -219,7 +214,7 @@ on the roll.
 ### Difficulty
 
 *Before a roll is performed*, the Storyteller should determine the
-**Difficulty** of the roll–the number of successes that the roll must
+**Difficulty** of the roll--the number of successes that the roll must
 match or exceed for the action to be considered a success.
 
 -   **Difficulty 1 (Easy)**- This task is expected to be passed by a
@@ -231,7 +226,7 @@ match or exceed for the action to be considered a success.
     category.
 
 -   **Difficulty 5** **(Difficult)**- Tasks which are daunting fall in
-    this category–climbing a sheer cliff in winds, charming a staunch
+    this category--climbing a sheer cliff in winds, charming a staunch
     Dynast with sweet words, or avoiding the bite of a venomous beast.
 
 -   **Difficulty 7 (Challenging)**- Tasks which should be
@@ -280,7 +275,7 @@ Drawbacks
 ---------
 
 Exalts can push themselves past their mortal limits and achieve the
-impossible–but it often comes at a price.
+impossible--but it often comes at a price.
 
 Ater the Player rolls and all effects finalized, the Player may choose
 to **Take a Drawback**. In exchange, they gain **+2 successes** to a
@@ -347,33 +342,23 @@ Advantages grant characters extra dice to roll with on their action,
 whereas Disadvantages increase the difficulty of the roll.
 
 For clarity, Advantages are written as (+X) dice, whereas Disadvantages
-are written as (-X)–as they can also be interpreted as losing successes
+are written as (-X)--as they can also be interpreted as losing successes
 from a roll.
 
-Any **Modifier** should be something significant to the scene–something
+Any **Modifier** should be something significant to the scene--something
 that would perturb even an Exalt. A light rain, while thematic, would
 not count as a disadvantage. Only when the levels of pummeling rain
 (-1), or even a raging Typhoon (-4)
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Natural Modifiers and Difficulty</strong>
-</p>
-<p>
-Difficulty is a measure of “Base difficulty + all Disadvantages”. This
-can often be forgotten when choosing a Difficulty for a task, or when
-countering specific modifiers.
-</p>
-<p>
-If a player removes the “visual impairment” modifier from a Difficulty 7
-task, it is up to the Storyteller to decide how much of the Difficulty
-for the task was a result of “visual impairment”, and how much is simply
-the base difficulty of the task.
-</p>
-</td>
+<td><p><strong>Natural Modifiers and Difficulty</strong></p>
+<p>Difficulty is a measure of “Base difficulty + all Disadvantages”. This can often be forgotten when choosing a Difficulty for a task, or when countering specific modifiers.</p>
+<p>If a player removes the “visual impairment” modifier from a Difficulty 7 task, it is up to the Storyteller to decide how much of the Difficulty for the task was a result of “visual impairment”, and how much is simply the base difficulty of the task.</p></td>
 </tr>
 </tbody>
 </table>
@@ -425,30 +410,16 @@ Rating of Zero.)
 The Rating of Essence cannot be directly trained. Instead, it only
 increases in rating as the character gains xp.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>The Uniqueness of Player Characters</strong>
-</p>
-<p>
-Player Characters are unusual in the sheer speed and heights they can
-reach with Essence. The constant stress and challenge of adventure
-accelerates the gain of Essence far beyond what is normal in the world
-of Exalted.
-</p>
-<p>
-Non-Player Characters do not follow the same rapid gain of Essence that
-Player Characters do, and are often constrained and capped, limiting
-what Essence Rating they can reach based on their circumstances.
-</p>
-<p>
-Dragonblooded, for example, would find it takes a lifetime to even reach
-Essence 3–only the eldest of their kind would have access to Major
-Charms.
-</p>
-</td>
+<td><p><strong>The Uniqueness of Player Characters</strong></p>
+<p>Player Characters are unusual in the sheer speed and heights they can reach with Essence. The constant stress and challenge of adventure accelerates the gain of Essence far beyond what is normal in the world of Exalted.</p>
+<p>Non-Player Characters do not follow the same rapid gain of Essence that Player Characters do, and are often constrained and capped, limiting what Essence Rating they can reach based on their circumstances.</p>
+<p>Dragonblooded, for example, would find it takes a lifetime to even reach Essence 3--only the eldest of their kind would have access to Major Charms.</p></td>
 </tr>
 </tbody>
 </table>
@@ -498,7 +469,7 @@ energy.
 
 Whenever a character **uses Peripheral Motes**, this energy crackles to
 life, and their very soul starts to show to the world in the form of the
-**Anima Banner**–a display of light that starts as a soft glow and
+**Anima Banner**--a display of light that starts as a soft glow and
 eventually escalates to a towering bonfire of personal iconography and
 symbols deeply personal to the character.
 
@@ -585,20 +556,20 @@ eventually driving them to a breaking point. This is represented by
 **Limit Points**.
 
 Ranging from 0-10, **Limit Points** represent how strained the Exalt
-is–how much wear and tear their psyche and soul is under.
+is--how much wear and tear their psyche and soul is under.
 
 A character gains limit by:
 
 -   Choosing it as a Drawback.
 
 -   Acting against one of their Intimacies, or other deeply-held
-    beliefs. (One Limit per scene).
-
+    beliefs. (One Limit per scene).  
+      
     This can range from directly suppressing Intimacies in order to
     proceed with the “greater good”, to being tricked and swindled into
     taking action against your Intimacies, such as through Social
-    Influence.
-
+    Influence.  
+      
     Ultimately, the decision of whether or not the Character has “acted
     against their Intimacy” is a personal one, and should be at sole
     discretion of the Player.
@@ -608,23 +579,15 @@ Trigger**, the character will enter into a **Limit Break.**
 
 At the end of a Limit Break, reset to 0 Limit.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>The Calming Effect of Time</strong>
-</p>
-<p>
-Typically, Limit <em>only</em> resets after a Limit Break. However, long
-spans of rest, meditation, and peace may ease the Exalt down from their
-stressed life.
-</p>
-<p>
-So long as the time breaks are particularly restful, the Exalt may lose
-1 Limit per week.
-</p>
-</td>
+<td><p><strong>The Calming Effect of Time</strong></p>
+<p>Typically, Limit <em>only</em> resets after a Limit Break. However, long spans of rest, meditation, and peace may ease the Exalt down from their stressed life.</p>
+<p>So long as the time breaks are particularly restful, the Exalt may lose 1 Limit per week.</p></td>
 </tr>
 </tbody>
 </table>
@@ -636,7 +599,7 @@ decide what sort of events will **inflame** their Great Curse. This is
 called the **Limit Trigger.**
 
 A compassionate character might balk whenever they see a wanton,
-senseless act of cruelty upon another–such as a slave being whipped.
+senseless act of cruelty upon another--such as a slave being whipped.
 Another might be the sense of failure and dejection when a plan spirals
 out of control.
 
@@ -656,7 +619,7 @@ that does not align with their **Great Curse** and will make active and
 considered effort to fulfill it, damn the consequences.
 
 A character Limit Breaking does not lose their faculties, nor do they
-forget their Intimacies–but those are simply *secondary* to their Great
+forget their Intimacies--but those are simply *secondary* to their Great
 Curse. Often they will use convoluted and strange reasoning to justify
 their actions.
 
@@ -666,25 +629,15 @@ character out of their actions.
 
 At the end of a Limit Break, reset Limit to 0.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Ticking Time Bomb</strong>
-</p>
-<p>
-There will be occasions when a character enters Limit Break, but turning
-it into a Limit Break Scene just doesn’t fit–it occurred during a
-lighthearted scene, or when the Exalt is in the middle of nowhere on
-their own, or the scene was just wrapping up…
-</p>
-<p>
-If this occurs, with both the Storyteller and Player in agreement, the
-Character can postpone the Limit Break to a more appropriate scene–just
-don’t wait <em>too</em> long.
-</p>
-</td>
+<td><p><strong>Ticking Time Bomb</strong></p>
+<p>There will be occasions when a character enters Limit Break, but turning it into a Limit Break Scene just doesn’t fit--it occurred during a lighthearted scene, or when the Exalt is in the middle of nowhere on their own, or the scene was just wrapping up...</p>
+<p>If this occurs, with both the Storyteller and Player in agreement, the Character can postpone the Limit Break to a more appropriate scene--just don’t wait <em>too</em> long.</p></td>
 </tr>
 </tbody>
 </table>
@@ -734,7 +687,7 @@ Stunt:
 -   The Action cannot *directly* solve the scene; it can only assist and
     guide it.
 
--   The Action should flow naturally from the character–a Solar cannot
+-   The Action should flow naturally from the character--a Solar cannot
     suddenly shapeshift, for example.
 
 ##### Example 1
@@ -751,20 +704,20 @@ Stunt:
 accomplishes two dramatic things: it changes the environment, but
 ultimately it is about stopping the Antagonist’s time constraint on
 their battle. It assists the Player and their scene, but does not solve
-the pressing issue–the fight with the Dragonblooded.
+the pressing issue--the fight with the Dragonblooded.
 
 ##### Example 2
 
 > *The Sorcerer looks apprehensive at his map. The desert has become
 > inhospitable to their travels, and the rations for their mortal
-> followers slim–if a solution isn’t found, they will arrive exhausted,
+> followers slim--if a solution isn’t found, they will arrive exhausted,
 > or be forced to take a detour through the Guild’s controlled areas.
 > His brown furrows, then suddenly shoots up: “Turn the caravan west, I
 > see a Dragonline I can tap for water!”*
 
 “He’s going to use Sorcery to pull up water from the ground.” In this
 situation, the problem being addressed is exhaustion or avoiding a bad
-decision–preventing a negative.
+decision--preventing a negative.
 
 ##### Example 3
 
@@ -791,38 +744,20 @@ Strife may be gained through two ways: **Botches** and **Scene
 Complications**.
 
 [<u>Botches</u>](#botching) are Player-driven choices to drive their
-character’s failure into a *magnificent* failure–a low so that they may
+character's failure into a *magnificent* failure--a low so that they may
 later rise to even greater heights.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Rejecting Strife</strong>
-</p>
-<p>
-Players, by accepting the Strife, are giving up their ability to change
-the course of the event.
-</p>
-<p>
-They have the option of refusing to take the Strife Point, defying the
-Storyteller’s influence. (This must be an all-or-nothing decision
-between all Players receiving the Strife–all must reject, or else all
-must accept.)
-</p>
-<p>
-If this happens, the Storyteller must let the Player Characters
-challenge the event in a fair manner.
-</p>
-<p>
-The Storyteller should also take care not to <em>abuse</em> the
-Complication mechanic to the point where it becomes unfun–if they find
-that Players are constantly rejecting Strife, or grumbling and
-accepting, make sure to talk with the Players to see if the direction of
-the game is what everyone agrees with.
-</p>
-</td>
+<td><p><strong>Rejecting Strife</strong></p>
+<p>Players, by accepting the Strife, are giving up their ability to change the course of the event.</p>
+<p>They have the option of refusing to take the Strife Point, defying the Storyteller's influence. (This must be an all-or-nothing decision between all Players receiving the Strife--all must reject, or else all must accept.)</p>
+<p>If this happens, the Storyteller must let the Player Characters challenge the event in a fair manner.</p>
+<p>The Storyteller should also take care not to <em>abuse</em> the Complication mechanic to the point where it becomes unfun--if they find that Players are constantly rejecting Strife, or grumbling and accepting, make sure to talk with the Players to see if the direction of the game is what everyone agrees with.</p></td>
 </tr>
 </tbody>
 </table>
@@ -830,16 +765,16 @@ the game is what everyone agrees with.
 #### Complications
 
 A **Complication** is a tool for the Storyteller to inject danger,
-twists, and story momentum into the Story–*without Player Characters
+twists, and story momentum into the Story--*without Player Characters
 being able to meaningfully react.* (The Characters will almost certainly
 react, but the outcome is a forgone conclusion.)
 
 In other words, while Players can spend Strife to Turn the Scene in
 their *favor*, Storytellers can give Strife to Turn the Scene *against*
-the Players–not simply describe challenges or consequences of actions.
+the Players--not simply describe challenges or consequences of actions.
 
 The Storyteller gifts a Strife Point to all Players who are affected by
-this event–and this single Strife Point guarantees the *outcome* of the
+this event--and this single Strife Point guarantees the *outcome* of the
 event in the Scene, no matter how many attempts are made.
 
 **Examples:**
@@ -857,7 +792,7 @@ The main source of Strife is gained by players choosing to **Botch**
 their rolls.
 
 Another source is being gifted a point by the Storyteller in exchange
-for letting certain events unfold as described–in spite of Player
+for letting certain events unfold as described--in spite of Player
 actions. For example, after a combat scene with a recurring antagonist,
 the Storyteller would grant a Strife point to allow the antagonist to
 escape without a (successful) pursuit, so they can lick their wounds and
@@ -872,7 +807,7 @@ locations. Mortals will often attribute this forgetfulness, or not
 recognize the incongruity at all, when in reality it is the tireless
 motions of the Loom taking shortcuts.
 
-Exalts, long ago, learned how to quietly and easily exploit this–simply
+Exalts, long ago, learned how to quietly and easily exploit this--simply
 though sleight of hand, they can store their physical items in places
 and not feel the weight nor brunt of the equipment. It is not unusual
 for an Exalt to suddenly pull out a large daiklaive from little more
@@ -880,7 +815,7 @@ than a handbag’s opening.
 
 Sidereals have labeled this flaw as “Elsewhere,” since the items are
 neither here nor there, but somewhere “else..” It is certainly a problem
-that needs to be fixed…eventually.
+that needs to be fixed...eventually.
 
 Elsewhere is not all-powerful. The Exalt must reasonably be able to
 carry the items in the first place, and it must not be something that
@@ -890,8 +825,9 @@ affect items inside of Elsewhere, it will rapidly catch up once pulled
 out.
 
 Items stored in Elsewhere of a dead Exalt will eventually reassert
-themselves into reality–often by finding themselves in nearby containers
-that may not have existed until needed for this precise purpose.
+themselves into reality--often by finding themselves in nearby
+containers that may not have existed until needed for this precise
+purpose.
 
 Storyteller Timelines
 ---------------------
@@ -929,488 +865,251 @@ Some Powers will declare an increase (or decrease) in a *magnitude*.
 Those magnitude definitions are as follows:
 
 <table>
+<colgroup>
+<col style="width: 32%" />
+<col style="width: 17%" />
+<col style="width: 20%" />
+<col style="width: 29%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-<strong>Group Magnitudes</strong>
-</p>
-</blockquote>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
+<td><blockquote>
+<p><strong>Group Magnitudes</strong></p>
+</blockquote></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td>
-Scale
-</td>
-<td>
-Population
-</td>
-<td>
-Name
-</td>
-<td>
-Military Designation
-</td>
+<td>Scale</td>
+<td>Population</td>
+<td>Name</td>
+<td>Military Designation</td>
 </tr>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-0
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-1
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Individual
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-\-
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>Individual</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
 </tr>
 <tr class="even">
-<td>
-<blockquote>
-<p>
-1
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-10
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Party/Group
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Squad
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>10</p>
+</blockquote></td>
+<td><blockquote>
+<p>Party/Group</p>
+</blockquote></td>
+<td><blockquote>
+<p>Squad</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-2
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-50
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Crowd
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Troop
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>50</p>
+</blockquote></td>
+<td><blockquote>
+<p>Crowd</p>
+</blockquote></td>
+<td><blockquote>
+<p>Troop</p>
+</blockquote></td>
 </tr>
 <tr class="even">
-<td>
-<blockquote>
-<p>
-3
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-100
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Hamlet
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Company
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>100</p>
+</blockquote></td>
+<td><blockquote>
+<p>Hamlet</p>
+</blockquote></td>
+<td><blockquote>
+<p>Company</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-4
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-500
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Village
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Battalion
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>500</p>
+</blockquote></td>
+<td><blockquote>
+<p>Village</p>
+</blockquote></td>
+<td><blockquote>
+<p>Battalion</p>
+</blockquote></td>
 </tr>
 <tr class="even">
-<td>
-<blockquote>
-<p>
-5
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-1,000
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Town
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Regiment
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>1,000</p>
+</blockquote></td>
+<td><blockquote>
+<p>Town</p>
+</blockquote></td>
+<td><blockquote>
+<p>Regiment</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-6
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-10,000
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-City
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Army
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>6</p>
+</blockquote></td>
+<td><blockquote>
+<p>10,000</p>
+</blockquote></td>
+<td><blockquote>
+<p>City</p>
+</blockquote></td>
+<td><blockquote>
+<p>Army</p>
+</blockquote></td>
 </tr>
 <tr class="even">
-<td>
-<blockquote>
-<p>
-7
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-100,000
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Prefecture
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-\-
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>7</p>
+</blockquote></td>
+<td><blockquote>
+<p>100,000</p>
+</blockquote></td>
+<td><blockquote>
+<p>Prefecture</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-8
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-1,000,000
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Province
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-\-
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+<td><blockquote>
+<p>1,000,000</p>
+</blockquote></td>
+<td><blockquote>
+<p>Province</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
 </tr>
 </tbody>
 </table>
-<table>
+
+<table style="width:57%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 29%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-Time Magnitudes
-</p>
-</blockquote>
-</td>
-<td>
-</td>
+<td><blockquote>
+<p>Time Magnitudes</p>
+</blockquote></td>
+<td></td>
 </tr>
 <tr class="even">
-<td>
-Scale
-</td>
-<td>
-Name
-</td>
+<td>Scale</td>
+<td>Name</td>
 </tr>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-0
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Second (Instant)
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+<td><blockquote>
+<p>Second (Instant)</p>
+</blockquote></td>
 </tr>
 <tr class="even">
-<td>
-<blockquote>
-<p>
-1
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Minute (Moment)
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>Minute (Moment)</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-2
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Hour
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>Hour</p>
+</blockquote></td>
 </tr>
 <tr class="even">
-<td>
-<blockquote>
-<p>
-3
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Day
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>Day</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-4
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Week
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>Week</p>
+</blockquote></td>
 </tr>
 <tr class="even">
-<td>
-<blockquote>
-<p>
-5
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Month
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>Month</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-6
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Season
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>6</p>
+</blockquote></td>
+<td><blockquote>
+<p>Season</p>
+</blockquote></td>
 </tr>
 <tr class="even">
-<td>
-<blockquote>
-<p>
-7
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Year
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>7</p>
+</blockquote></td>
+<td><blockquote>
+<p>Year</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
-<td>
-<blockquote>
-<p>
-8
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Decade
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+<td><blockquote>
+<p>Decade</p>
+</blockquote></td>
 </tr>
 <tr class="even">
-<td>
-<blockquote>
-<p>
-9
-</p>
-</blockquote>
-</td>
-<td>
-<blockquote>
-<p>
-Century
-</p>
-</blockquote>
-</td>
+<td><blockquote>
+<p>9</p>
+</blockquote></td>
+<td><blockquote>
+<p>Century</p>
+</blockquote></td>
 </tr>
 </tbody>
 </table>
@@ -1477,7 +1176,7 @@ actions such as **Influence Intimacy** and **Perform Task**.
 
 Insight is a measure of how a character can understand others by
 observing their actions, words, and expressions. A character with high
-Insight would be able to correctly guess and understand another’s
+Insight would be able to correctly guess and understand another's
 motivation to predict their next actions. It is used for actions such as
 **Read Intentions** and **Discover Intimacy.**
 
@@ -1566,19 +1265,14 @@ of fire.
 
 -   Slings
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Ammunition</strong>
-</p>
-<p>
-<em>Exalted</em> does not require the Player to keep track of their
-character’s ammunition. It is simply assumed that the character has
-crafted or procured enough ammunition to perform their actions.
-</p>
-</td>
+<td><p><strong>Ammunition</strong></p>
+<p><em>Exalted</em> does not require the Player to keep track of their character’s ammunition. It is simply assumed that the character has crafted or procured enough ammunition to perform their actions.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1626,8 +1320,8 @@ kicks, grapples, and leg sweeps are but a fraction of the endless ways
 generations have devised ways of harming each other.
 
 Brawl is *generally* performed Unarmed, but weapons that strengthen or
-reinforce the natural body form–such as brass knuckles, tiger claws, or
-even spike-tipped boots–are still part of the Brawling Ability.
+reinforce the natural body form--such as brass knuckles, tiger claws, or
+even spike-tipped boots--are still part of the Brawling Ability.
 
 #### Sample Specialites
 
@@ -1711,28 +1405,16 @@ example, could both be an (Int + Melee) and (Int + Lore) roll.
 
 -   Cryptography
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>The Non-Omniscient Scholar<br /> </strong>Having a high Lore
-does not confer <em>absolute truths</em> upon a character-rather it
-represents being well-versed in what is known–and often as much as what
-is unknown.
-</p>
-<p>
-It is a fact that the Immaculate Order claims that Solars and Lunars are
-Anathema. It is a fact that many other societies claim. High lore will
-allow knowledge that these two facts exist, but not which one of them
-are right.
-</p>
-<p>
-Storytellers should keep a character’s background (and speciality) in
-mind when revealing information to players–phrasing information through
-such natural biases.
-</p>
-</td>
+<td><p><strong>The Non-Omniscient Scholar<br />
+</strong>Having a high Lore does not confer <em>absolute truths</em> upon a character-rather it represents being well-versed in what is known--and often as much as what is unknown.</p>
+<p>It is a fact that the Immaculate Order claims that Solars and Lunars are Anathema. It is a fact that many other societies claim. High lore will allow knowledge that these two facts exist, but not which one of them are right.</p>
+<p>Storytellers should keep a character’s background (and speciality) in mind when revealing information to players--phrasing information through such natural biases.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1773,11 +1455,11 @@ Spear, for example.
 
 ### Navigation
 
-Navigation is the ability to traverse terrains–from land, to sea, to
-jungle–and come out unscathed and on time. A trained Navigator will know
-their hand at reigns, the stern of a ship, how to survive in a city’s
-underworld, as well as be able to tell you which wild fruit is poisonous
-or edible.
+Navigation is the ability to traverse terrains--from land, to sea, to
+jungle--and come out unscathed and on time. A trained Navigator will
+know their hand at reigns, the stern of a ship, how to survive in a
+city’s underworld, as well as be able to tell you which wild fruit is
+poisonous or edible.
 
 #### Sample Specialites
 
@@ -1943,10 +1625,10 @@ Intimacies
 ----------
 
 All characters have various ideals, desires, and loved ones. An Intimacy
-is a representation of their core being, who the person is–for better or
-for worse.
+is a representation of their core being, who the person is--for better
+or for worse.
 
-An *Intimacy* is a step above a person’s natural likes and dislikes–it
+An *Intimacy* is a step above a person’s natural likes and dislikes--it
 is some aspect that defines them in some way.
 
 Intimacies should be specific and close to your character’s definition
@@ -1956,30 +1638,22 @@ and goals:
 
 -   “Trust that inner enlightenment will bring about external good”
 
-Intimacies are both a boon and a bane to characters–they have a
+Intimacies are both a boon and a bane to characters--they have a
 resistance to any social influence that runs contrary to that Intimacy
 (+2 Resolve).
 
 However, those same Intimacies may be used to pull the character into
 increasingly difficult tasks. (+2 Dice).
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Assumed Intimacies</strong>
-</p>
-<p>
-There are common intimacies to all mortal kinds that don’t need to be
-explicitly written down, such as the Desire for Safety and Health, and
-the Fear of Death.
-</p>
-<p>
-The list of Intimacies written for a character should only be written
-down if they are notable in their strength.
-</p>
-</td>
+<td><p><strong>Assumed Intimacies</strong></p>
+<p>There are common intimacies to all mortal kinds that don’t need to be explicitly written down, such as the Desire for Safety and Health, and the Fear of Death.</p>
+<p>The list of Intimacies written for a character should only be written down if they are notable in their strength.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1995,7 +1669,7 @@ considered antithetical to their very nature, such as betraying loyal
 causes, violating self preservation, or harming those dearly loved.
 
 Players, as they know their characters much better than the Storyteller,
-reserve the sole right to declare if Influence is *Unacceptable*–though
+reserve the sole right to declare if Influence is *Unacceptable*--though
 they should justify it to the rest of the group.
 
 ### Defining Intimacy
@@ -2003,7 +1677,7 @@ they should justify it to the rest of the group.
 Some characters have an Intimacy so central to their character, that it
 is considered their **Defining Intimacy**.
 
-Characters cannot be made to work *against* their Defining Intimacy–it
+Characters cannot be made to work *against* their Defining Intimacy--it
 is Unacceptable Influence.
 
 However, they are much more susceptible to its influence. Any valid
@@ -2019,41 +1693,19 @@ At the completion of every **Story,** both the Players and the
 Storyteller should reevaluate their respective characters and readjust
 Intimacies as appropriate to reflect what has happened in the Story.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Respect Your Group</strong>
-</p>
-<p>
-Throughout history people have committed horrific acts against each
-other–acts which still continue to this day. You may desire to show it
-as a proper challenge to overcome, to the levels that a character will
-sink to–even so called heroes. That said:
-</p>
-<p>
-<strong>No Person should ever feel uncomfortable at the table.<br />
-</strong>
-</p>
-<p>
-At the end of the day, this is a game that you and your friends are
-playing in modern times, surrounded by modern schools of morality.
-</p>
-<p>
-Any Player (including the Storyteller) should be allowed to raise their
-concerns about scenes, direction of story, or other such aspects of the
-game, and their concern should be respected without question. Move the
-theme aside and don’t bring it up again.
-</p>
-<p>
-A good tool to <em>minimize</em> these concerns is to have a “Session
-0”, where all Players discuss what themes they expect out of a game, and
-what to avoid. However, this should not be seen as a substitute for
-listening to your Players at the moment. Often, they will not know what
-bothered them until it comes up.
-</p>
-</td>
+<td><p><strong>Respect Your Group</strong></p>
+<p>Throughout history people have committed horrific acts against each other--acts which still continue to this day. You may desire to show it as a proper challenge to overcome, to the levels that a character will sink to--even so called heroes. That said:</p>
+<p><strong>No Person should ever feel uncomfortable at the table.<br />
+</strong></p>
+<p>At the end of the day, this is a game that you and your friends are playing in modern times, surrounded by modern schools of morality.</p>
+<p>Any Player (including the Storyteller) should be allowed to raise their concerns about scenes, direction of story, or other such aspects of the game, and their concern should be respected without question. Move the theme aside and don’t bring it up again.</p>
+<p>A good tool to <em>minimize</em> these concerns is to have a “Session 0”, where all Players discuss what themes they expect out of a game, and what to avoid. However, this should not be seen as a substitute for listening to your Players at the moment. Often, they will not know what bothered them until it comes up.</p></td>
 </tr>
 </tbody>
 </table>
@@ -2078,15 +1730,15 @@ interpretations of the character’s strengths is perfectly valid!
 ### Groups
 
 Social actions against groups of people, rather than individuals, suffer
-from the lack of intimacy–in addition to the natural logistical issues.
+from the lack of intimacy--in addition to the natural logistical issues.
 
 Characters in groups of magnitude of “Crowd” or larger gain Resolve
 according to their **Scale**. i.e. Crowd gains +2, Village +4, and City
 +6.
 
 A City is the largest Magnitude that a Social Action may naturally
-address–and that in itself requires logistics such as a scaled tower, or
-distributed writings.
+address--and that in itself requires logistics such as a scaled tower,
+or distributed writings.
 
 ### Perform Task
 
@@ -2097,7 +1749,7 @@ categorized into three tiers:
 
 -   **Inconvenient task**  
     &gt; There is at most mild danger, opposition, or time devoted to
-    this &gt; task. At most the task will take a few hours–maybe a day.
+    this &gt; task. At most the task will take a few hours--maybe a day.
 
 -   **Serious Task  
     &gt; **(+1 Resolve)  
@@ -2138,23 +1790,15 @@ or enflame an *emotion*. This may have unpredictable effects
 This may be useful when targeting a disparate crowd, or if specific
 intimacies are not known.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Players on the Defensive</strong>
-</p>
-<p>
-The Player Characters are the main characters of the story, not NPCs.
-</p>
-<p>
-When on the defensive from Social Actions, the Player still controls how
-the character acts in response to the roll, not the Storyteller. This is
-especially relevant for the “Perform Task” Action–the Player is free to
-interpret how and when they perform this task.
-</p>
-</td>
+<td><p><strong>Players on the Defensive</strong></p>
+<p>The Player Characters are the main characters of the story, not NPCs.</p>
+<p>When on the defensive from Social Actions, the Player still controls how the character acts in response to the roll, not the Storyteller. This is especially relevant for the “Perform Task” Action--the Player is free to interpret how and when they perform this task.</p></td>
 </tr>
 </tbody>
 </table>
@@ -2189,7 +1833,7 @@ the Player, forcing it to be revealed.
 The Player, through their action, will state what behaviors they are
 trying to induce or analyze with their action. If successful, the
 Storyteller will need to tell them the closest relevant Intimacy there
-is to the action –or the decided lack of one.
+is to the action --or the decided lack of one.
 
 This may be used in an Encounter to probe for the nature of a Key Issue.
 
@@ -2254,7 +1898,7 @@ Issue may be revealed at their discretion.
 > party’s past actions, the Trade-Prince has secretly caught on that
 > they are Anathema. He does not personally care, but he will need a way
 > to make sure that the Immaculate Order will not find out about this
-> deal–or at least be convinced of this fact.*
+> deal--or at least be convinced of this fact.*
 
 ### Gathering Influence
 
@@ -2264,7 +1908,7 @@ starting rumors, researching tactics, beguiling tricks, intimidation.
 Taking any action to tackle a Key Issue directly is called a **Gather
 Influence** action.
 
-A Gathering Influence action operates just as any normal action–first
+A Gathering Influence action operates just as any normal action--first
 the Storyteller must decide if the Action *is possible* in the given
 context, and then assigns the Difficulty of the roll.
 
@@ -2272,7 +1916,7 @@ If the roll is not appropriate, the Storyteller should inform the Player
 before they take up the action.)
 
 What is different is that all Threshold Successes of the roll become
-converted into Influence–in addition to the normal outcome of the
+converted into Influence--in addition to the normal outcome of the
 action. These Influence Points are then applied against the *specific*
 Key Issue being addressed.
 
@@ -2302,21 +1946,15 @@ contested Key Issue.
 
 -   Intimidation of Sycophants
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Not Everything is a Gathering Influence Action<br />
-</strong>There are plenty of actions that are helpful, useful, and
-actionable in the scene–but they aren’t Gathering Influence Actions. For
-example: Discovering Intimacies.
-</p>
-<p>
-The general rule of thumb for rulings is “Does this directly, singularly
-address the Key Issue.” If not, it is not a Gathering Influence Action.
-</p>
-</td>
+<td><p><strong>Not Everything is a Gathering Influence Action<br />
+</strong>There are plenty of actions that are helpful, useful, and actionable in the scene--but they aren’t Gathering Influence Actions. For example: Discovering Intimacies.</p>
+<p>The general rule of thumb for rulings is “Does this directly, singularly address the Key Issue.” If not, it is not a Gathering Influence Action.</p></td>
 </tr>
 </tbody>
 </table>
@@ -2329,7 +1967,7 @@ After all, there is only so much you can intimidate bystanders to do in
 one Scene.
 
 This limitation should be clearly expressed to the Players so that they
-may take this factor into account–either by changing their approach, or
+may take this factor into account--either by changing their approach, or
 finding new sources of Influence for the scene.
 
 ### Hidden Key Issues
@@ -2339,13 +1977,13 @@ the nature of Hidden Issues.
 
 Players, in turn, may use an action similar to “Probe Intimacy” to
 divine the nature of the Hidden Issue, with the same rules and
-effects–the Player summarizes a list of actions, events, or behaviors,
+effects--the Player summarizes a list of actions, events, or behaviors,
 and then attempts to divine what the Key Issue behind them is.
 
 As well, it is perfectly possible for Players to gather Influence over a
 Key Issue they do not fully understand.
 
-A Player Intentionally “going in blind” is taking a risk–if their
+A Player Intentionally “going in blind” is taking a risk--if their
 assumption is wrong on the Issue, they do not gain any Influence Points
 for their roll, no matter how many Threshold Successes they roll.
 
@@ -2356,16 +1994,16 @@ for their roll, no matter how many Threshold Successes they roll.
 > deep ties to the Immaculate Order) could be applied to the hidden Key
 > Issue, if they wanted.*
 >
-> *One Player now decides to use the “Probe for Key Issue,” trying to
+> *One Player now decides to use the "Probe for Key Issue," trying to
 > divine the relationship between the Sycophant and the Trade Prince.
 > They succeed on their roll, and the Storyteller responds by noting
-> that the Trade Prince “Fears what that man represents,” and notes that
+> that the Trade Prince "Fears what that man represents," and notes that
 > the man has signs of the Immaculate Order woven into his clothes.*
 
 ### Altering/Adding Goals
 
 During the Encounter, the Players may decide they want to alter the
-ultimate goal–perhaps they have decided to push further, or have found
+ultimate goal--perhaps they have decided to push further, or have found
 an alternate goal they prefer.
 
 In both cases, the Storyteller should add an additional Key Issue to
@@ -2375,9 +2013,9 @@ Issue if the altered goal no longer applies.
 Flow
 ----
 
-An Encounter is not like a Combat Scene–the timing is fluid, and actions
-do not follow a set order, depending primarily on the natural flow of
-the narrative.
+An Encounter is not like a Combat Scene--the timing is fluid, and
+actions do not follow a set order, depending primarily on the natural
+flow of the narrative.
 
 However, a “Round” is still defined: each character has one and only one
 Full Action (Primary + Secondary) in a round.
@@ -2385,21 +2023,15 @@ Full Action (Primary + Secondary) in a round.
 The Storyteller should make sure that all Players know they have the
 *option* to act each Round.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Balancing Antagonist Actions<br /> </strong>The Storyteller is
-allowed to increase the number of actions Antagonists can take per
-Round, if necessary. (The number of Player Characters is large, the
-number of Antagonists small, etc.)
-</p>
-<p>
-The Rule of Thumb is that the number of Antagonist Actions should be
-around 1 for every 2 Player Character Actions.
-</p>
-</td>
+<td><p><strong>Balancing Antagonist Actions<br />
+</strong>The Storyteller is allowed to increase the number of actions Antagonists can take per Round, if necessary. (The number of Player Characters is large, the number of Antagonists small, etc.)</p>
+<p>The Rule of Thumb is that the number of Antagonist Actions should be around 1 for every 2 Player Character Actions.</p></td>
 </tr>
 </tbody>
 </table>
@@ -2411,37 +2043,36 @@ Antagonists are operating on their own goal during the scene, and have
 their own Key Issues that they must Gather Influence upon.
 
 Typically, the Antagonist’s Goal and Goals and Key Issues are directly
-related to the Party’s–whether in direct opposition, or competing to get
-there first. For convenience sake, these are referred to as the “the
-same” Key Issue.
+related to the Party's--whether in direct opposition, or competing to
+get there first. For convenience sake, these are referred to as the "the
+same" Key Issue.
 
 However, antagonists having the same Key Issue is not a
-*requirement*–they may be working on a seperate Goal for the scene, and
+*requirement*--they may be working on a seperate Goal for the scene, and
 they have tangential or completely unrelated Key Issues. Typically,
 these start out as Hidden to the Party.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<strong>Abstract Antagonists<br /> </strong>It is easy to recognize an
-antagonist when it is an individual. However, Antagonists can be
-anything–from mobs of people to an avalanche to Time itself closing off
-a Key Issue.
-</td>
+<td style="text-align: left;"><strong>Abstract Antagonists<br />
+</strong>It is easy to recognize an antagonist when it is an individual. However, Antagonists can be anything--from mobs of people to an avalanche to Time itself closing off a Key Issue.</td>
 </tr>
 </tbody>
 </table>
 
 ### Sabotaging Influence
 
-The Antagonist and Party’s Influence tracks are independent of each
-other–only a dedicated **Sabotage Influence** Action allows one side to
-disturb the other’s Influence.
+The Antagonist and Party's Influence tracks are independent of each
+other--only a dedicated **Sabotage Influence** Action allows one side to
+disturb the other's Influence.
 
 This action is nearly identical to a Gather Influence action, save that
 the Threshold Successes of the action are *taken away* from the opposing
-party’s influence over the Key Issue.
+party's influence over the Key Issue.
 
 The Character is not allowed to split the effect of Influence: it is
 either fully a Gathering Actionor a Sabotage Action.
@@ -2462,36 +2093,29 @@ Encounter End
 -------------
 
 The Encounter ends the same Round that all Key Issues become
-*controlled*–though they do not need to be under control all by the same
-*side.*
+*controlled*--though they do not need to be under control all by the
+same *side.*
 
-If a Goal’s Key Issues are completely controlled by one side–they will
+If a Goal's Key Issues are completely controlled by one side--they will
 achieve their Goal.
 
 A Goal with split Key Issue control will find they have a *partial*
-victory–they do not get the full Goal they wanted, but they do not get
+victory--they do not get the full Goal they wanted, but they do not get
 nothing at all.
 
 When weighing a Partial Victory, the Storyteller should lean heavily
-into the uncontrolled Key Issues–why will this bring trouble to them?
+into the uncontrolled Key Issues--why will this bring trouble to them?
 Perhaps they get what they want, but only at a certain cost?
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Final Argument<br /> </strong>Typically, the Encounter is
-wrapped up with a <em>Final Argument</em>, where a chosen Player
-Character summarizes what has happened in the Encounter, rolling it
-together and pointedly delivering as a capstone.
-</p>
-<p>
-This Final Argument cannot change the result of the Key Issues, but a
-well-delivered Final Argument can transition to the next course of
-action.
-</p>
-</td>
+<td><p><strong>Final Argument<br />
+</strong>Typically, the Encounter is wrapped up with a <em>Final Argument</em>, where a chosen Player Character summarizes what has happened in the Encounter, rolling it together and pointedly delivering as a capstone.</p>
+<p>This Final Argument cannot change the result of the Key Issues, but a well-delivered Final Argument can transition to the next course of action.</p></td>
 </tr>
 </tbody>
 </table>
@@ -2512,10 +2136,10 @@ character is considered out of the battle.
 
 ### Defeat
 
-Characters who are knocked out of battle are typically not dead–they are
-simply at the mercy of the opposing characters.
+Characters who are knocked out of battle are typically not dead--they
+are simply at the mercy of the opposing characters.
 
-Non-recurring antagonistic characters’ fates should be left to the
+Non-recurring antagonistic characters' fates should be left to the
 players. Depending on the narrative type of damage (slashing, stabbing,
 etc.) these minor characters may perish without aid.
 
@@ -2529,14 +2153,15 @@ then introduce a **Major Complication** into the player’s lives.
 
 If they are intended to be a recurring antagonist, they should always
 manage to get away, though suffering a major blow to their own
-plans–they will often be forced to retreat and lick their wounds.
+plans--they will often be forced to retreat and lick their wounds.
 
 If you force a retreat on these Antagonists, you must bribe your players
 each with a [**<u>Strife Point</u>**](#_qlg0g56pfcyu) as compensation.
 
 Remember, though, that recurring antagonists can only be used so many
-times–eventually you will have to move to the Final Confrontation, where
-the fate of these antagonists should be placed into the Players’ hands.
+times--eventually you will have to move to the Final Confrontation,
+where the fate of these antagonists should be placed into the Players’
+hands.
 
 #### Death and Dying
 
@@ -2549,7 +2174,7 @@ the members of the Exalted.
 
 Likewise, central Non-Player Character deaths should be determined by
 the Storyteller, although they must bribe all the Players with a
-**Strife Point** to avoid such a fate–something that the Players are
+**Strife Point** to avoid such a fate--something that the Players are
 allowed to reject should they so choose.
 
 Impulse
@@ -2622,27 +2247,16 @@ explosions and damage from gravity.
 **Unsoakable** attacks bypass Soak Examples would be piercing damage,
 and attacks that manage to get under armor.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>There’s Always a Defense<br /> </strong>There is no such thing
-as a Perfect Attack–there is always some sort of flaw or counter to an
-attack, even if the damage can’t be mitigated through DV. This must be
-taken into account when creating your own custom Powers.
-</p>
-<p>
-Environmental Damage, such as Fire, is both Undodgeable and Unsoakable
-when applied. However, it is tied to specific parts of the
-environment–simply moving outside of the burning building will counter
-this source of damage.
-</p>
-<p>
-Even mighty Sorcerous Spells have a great disadvantage: the slow and
-obvious buildup to the attack beforehand.
-</p>
-</td>
+<td><p><strong>There’s Always a Defense<br />
+</strong>There is no such thing as a Perfect Attack--there is always some sort of flaw or counter to an attack, even if the damage can’t be mitigated through DV. This must be taken into account when creating your own custom Powers.</p>
+<p>Environmental Damage, such as Fire, is both Undodgeable and Unsoakable when applied. However, it is tied to specific parts of the environment--simply moving outside of the burning building will counter this source of damage.</p>
+<p>Even mighty Sorcerous Spells have a great disadvantage: the slow and obvious buildup to the attack beforehand.</p></td>
 </tr>
 </tbody>
 </table>
@@ -2654,7 +2268,7 @@ There are two levels of Situational Defenses in Exalted: **Partial** and
 **Full**.
 
 **Partial** means that the Attacking Player has a -3
-Disadvantage–effectively increasing the defending Player’s DV by 3.
+Disadvantage--effectively increasing the defending Player’s DV by 3.
 
 **Full** means that they cannot be attacked by mortal means.
 
@@ -2675,7 +2289,7 @@ assumed action: it is a specific **Secondary Action** that characters
 may take.
 
 Cover is considered **Partial** when at least half a character’s body is
-blocked by a material that can withstand weapon blows–such as a
+blocked by a material that can withstand weapon blows--such as a
 chest-high wall of broken stone rubble.
 
 Cover is considered **Full** when the character’s entire body is
@@ -2714,7 +2328,7 @@ Short, 2x Medium, 3x Long,** and **1x Far.**
 >
 > **Short**
 >
-> Within a few yards of each other–a distance able to be crossed within
+> Within a few yards of each other--a distance able to be crossed within
 > a quick sprint.
 >
 > **Medium**
@@ -2733,110 +2347,34 @@ Short, 2x Medium, 3x Long,** and **1x Far.**
 > Far Range band through Move actions, but any late-comers to the battle
 > will show up at this Range Band.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Alternate Rules:<br /> Battlemaps and Absolute
-Positioning</strong>
-</p>
-<p>
-While relative Range Bands are the recommended method of playing
-Exalted, some players prefer to play with absolute positioning and
-battlemaps. If that is your preference, make the following changes:
-</p>
+<td><p><strong>Alternate Rules:<br />
+Battlemaps and Absolute Positioning</strong></p>
+<p>While relative Range Bands are the recommended method of playing Exalted, some players prefer to play with absolute positioning and battlemaps. If that is your preference, make the following changes:</p>
 <ol type="1">
-<li>
-<blockquote>
-<p>
-Distance will be measured in meters. Typically, hexagonal space (hex)
-will represent 5 meters.
-</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>
-Characters have a <strong>Speed</strong> Static value, which is 3 + (Dex
-+ Athletics )/2.<br /> The distance travelled is Speed x5 meters–or
-(Speed) Hexes at a time.
-</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>
-Whenever the Move Action is taken, the character moves (Speed) hex.
-</p>
-</blockquote>
+<li><p>Distance will be measured in meters. Typically, hexagonal space &gt; (hex) will represent 5 meters.</p></li>
+<li><p>Characters have a <strong>Speed</strong> Static value, which is 3 + (Dex + &gt; Athletics )/2.<br />
+&gt; The distance travelled is Speed x5 meters--or (Speed) Hexes &gt; at a time.</p></li>
+<li><p>Whenever the Move Action is taken, the character moves (Speed) &gt; hex.</p>
 <ol type="a">
-<li>
-<blockquote>
-<p>
-A Dash moves (Speed)x2.
-</p>
-</blockquote>
-</li>
+<li>A Dash moves (Speed)x2.</li>
+</ol></li>
+<li><p>A character may move 5 meters (1 hex) on their action without &gt; taking a Move Action.</p></li>
+<li><p>All references to (Range Band) as a distance is 25 meters (5 &gt; hexes).</p></li>
 </ol>
-</li>
-<li>
-<blockquote>
-<p>
-A character may move 5 meters (1 hex) on their action without taking a
-Move Action.
-</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>
-All references to (Range Band) as a distance is 25 meters (5 hexes).
-</p>
-</blockquote>
-</li>
-</ol>
-<p>
-The definition for range bands are altered:
-</p>
+<p>The definition for range bands are altered:</p>
 <ul>
-<li>
-<blockquote>
-<p>
-0-5 meters (0-1 hex): <strong>Close</strong>
-</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>
-6-20 meters (2-5 hex): <strong>Short</strong>
-</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>
-21-70 meters (6-15 hex): <strong>Medium</strong>
-</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>
-71-145 meters (16-30 hex): <strong>Long</strong>
-</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>
-146+ meters (31 hex): <strong>Far</strong>
-</p>
-</blockquote>
-</li>
-</ul>
-</td>
+<li><p>0-5 meters (0-1 hex): <strong>Close</strong></p></li>
+<li><p>6-20 meters (2-5 hex): <strong>Short</strong></p></li>
+<li><p>21-70 meters (6-15 hex): <strong>Medium</strong></p></li>
+<li><p>71-145 meters (16-30 hex): <strong>Long</strong></p></li>
+<li><p>146+ meters (31 hex): <strong>Far</strong></p></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -2910,8 +2448,8 @@ to the target.
 
 The standard attack’s Dice Pool depends greatly on the weapon that is
 used during the attack. The Ability depends on how they are using a
-weapon–a sword will typically be used with the Melee ability, but may be
-used with the Thrown if it is used as a javelin.
+weapon--a sword will typically be used with the Melee ability, but may
+be used with the Thrown if it is used as a javelin.
 
 The Martial Art Style that a character will use will restrict what types
 and weights of a weapon may be used.
@@ -2953,22 +2491,15 @@ all but one side of the conflict has lost all of their endurance. Play
 will then enter into the next scene, which is often a recuperation and
 consequences scene from combat.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Calling a Fight<br /> </strong>There will come times when the
-results have become clear, even if one side or the other has not
-exhausted their Endurance. This could be simply characters “mopping up”
-characters that cannot harm them, a protracted fight, or even a
-stalemate. There is no need to continue a Combat Scene in these cases.
-</p>
-<p>
-Once the result is known, simply exit out into narrative space to
-describe how the combat finishes.
-</p>
-</td>
+<td><p><strong>Calling a Fight<br />
+</strong>There will come times when the results have become clear, even if one side or the other has not exhausted their Endurance. This could be simply characters “mopping up” characters that cannot harm them, a protracted fight, or even a stalemate. There is no need to continue a Combat Scene in these cases.</p>
+<p>Once the result is known, simply exit out into narrative space to describe how the combat finishes.</p></td>
 </tr>
 </tbody>
 </table>
@@ -3003,7 +2534,7 @@ individually.
 
 ### Claim Advantage
 
-**Impulse Cost:** –
+**Impulse Cost:** --
 
 Take an Action Roll action on the battlefield to gain advantage. This
 can be a feinting attack, studying the battlefield, or distracting
@@ -3060,7 +2591,7 @@ Secondary Actions
 
 ### Recover
 
-**Impulse Cost**: –
+**Impulse Cost**: --
 
 Gain either 2 + (Essence) Impulse, (2 + (Essence))x2 Peripheral Motes,
 or a split combination of the two.
@@ -3136,10 +2667,10 @@ The Ambushed characters:
 
 -   Suffer -2 DV until their action.
 
--   May only take a Primary *or* Secondary Action on their round–as &gt;
-    they are readying their weapons.
+-   May only take a Primary *or* Secondary Action on their
+    round--as &gt; they are readying their weapons.
 
-Ambushes are premeditated affairs–requiring setup, planning, and
+Ambushes are premeditated affairs--requiring setup, planning, and
 coordination between the party. Players cannot suddenly go into combat
 if things are not going their way and declare it an Ambush.
 
@@ -3162,7 +2693,7 @@ Resources
 Projects require a certain number of **Resources (RES)** to complete.
 This resource is a generalized representation of everything from labor,
 physical materials, knowledge, and the like that can be applied to the
-Project. Once applied to the project, RES is permanently consumed–while
+Project. Once applied to the project, RES is permanently consumed--while
 the labor force may still be there, perhaps payment toward them ran dry,
 or they can no longer delay tending to their crops.
 
@@ -3186,7 +2717,7 @@ spawn scenes, or even an entire Story!
 Due to the generalized nature of Projects, the source of RES does not
 always match the application of them. It is simply assumed as part of
 the Project that RES is converted into the most applicable asset, based
-on a series of complicated trades and “off-screen” character activities:
+on a series of complicated trades and "off-screen" character activities:
 recovered gems could grease the eye of a noble, allowing for backroom
 deals that allow military training of civilians, for example. In
 general, this is all *assumed* to have happened, and does not need
@@ -3221,10 +2752,10 @@ Anything that doesn’t match can’t be done.\]\]
 example, the character might decide to recruit *Followers*, establish a
 network of *Contacts*, or make an *Artifact*.
 
-Common Sense, and the Storyteller’s approval, should be applied when
-gaining or improving a merit. People generally don’t simply just grow
-*Extra Limbs* out of the blue…unless they are in the deepest recesses of
-the Wyld.
+Common Sense, and the Storyteller's approval, should be applied when
+gaining or improving a merit. People generally don't simply just grow
+*Extra Limbs* out of the blue...unless they are in the deepest recesses
+of the Wyld.
 
 If a character is *improving* a Merit to a higher rating, they pay the
 *difference* in RES, Keystones, and time between the ratings. For
@@ -3244,12 +2775,12 @@ out roughly evenly across the lifespan of the project.
 For each Obstruction Roll, the player should roll a single d10:
 
 |           |                                                                                                      |
-|-----------|------------------------------------------------------------------------------------------------------|
+|:----------|------------------------------------------------------------------------------------------------------|
 | Roll 1d10 |                                                                                                      |
 |           | **Result**                                                                                           |
 | 10        | **Critical Success:** Everything has seemingly clicked into place, providing an extra benefit.       |
 | 7-9       | Everything is proceeding exactly as planned.                                                         |
-| 4-6       | An **Oddity** has developed and the Exalt’s direct attention is requested.                           |
+| 4-6       | An **Oddity** has developed and the Exalt's direct attention is requested.                           |
 | 2-3       | **Problem:** Something of great import has happened, and requires your direct attention              |
 | 1         | **Major Problem**: The project is in *dire straits*, and will collapse if not attended to right now! |
 
@@ -3319,144 +2850,71 @@ multiplied by the sum of any opposition.
 
 You must have a base score in the related Ability to start a Project.
 
-<table>
+<table style="width:97%;">
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-<strong>Scale</strong>
-</td>
-<td>
-</td>
+<td></td>
+<td></td>
+<td></td>
+<td><strong>Scale</strong></td>
+<td></td>
 </tr>
 <tr class="even">
-<td>
-<strong>Base Cost</strong>
-</td>
-<td>
-<p>
-<strong>Obstruction</strong>
-</p>
-<p>
-<strong>Rolls</strong>
-</p>
-</td>
-<td>
-<strong>Required Ability Score</strong>
-</td>
-<td>
-Merit Rating
-</td>
-<td>
-Affects Population
-</td>
+<td><strong>Base Cost</strong></td>
+<td><p><strong>Ob struction</strong></p>
+<p><strong>Rolls</strong></p></td>
+<td><strong>Required Ability Score</strong></td>
+<td>Merit Rating</td>
+<td>Affects Population</td>
 </tr>
 <tr class="odd">
-<td>
-1
-</td>
-<td>
-0
-</td>
-<td>
-1
-</td>
-<td>
-\-
-</td>
-<td>
-Hamlet
-</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>-</td>
+<td>Hamlet</td>
 </tr>
 <tr class="even">
-<td>
-2
-</td>
-<td>
-1
-</td>
-<td>
-1
-</td>
-<td>
-1
-</td>
-<td>
-Village
-</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>Village</td>
 </tr>
 <tr class="odd">
-<td>
-5
-</td>
-<td>
-1
-</td>
-<td>
-2
-</td>
-<td>
-2
-</td>
-<td>
-Town
-</td>
+<td>5</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>Town</td>
 </tr>
 <tr class="even">
-<td>
-10
-</td>
-<td>
-2
-</td>
-<td>
-3
-</td>
-<td>
-3
-</td>
-<td>
-City
-</td>
+<td>10</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>City</td>
 </tr>
 <tr class="odd">
-<td>
-20 (1Key)
-</td>
-<td>
-2
-</td>
-<td>
-4
-</td>
-<td>
-4
-</td>
-<td>
-Prefecture
-</td>
+<td>20 (1Key)</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>Prefecture</td>
 </tr>
 <tr class="even">
-<td>
-50 (2Key)
-</td>
-<td>
-3
-</td>
-<td>
-5
-</td>
-<td>
-5
-</td>
-<td>
-Province
-</td>
+<td>50 (2Key)</td>
+<td>3</td>
+<td>5</td>
+<td>5</td>
+<td>Province</td>
 </tr>
 </tbody>
 </table>
@@ -3524,19 +2982,19 @@ Powers are presented in a manner similar to the following:
 ### Cost
 
 Designates what character resources it takes to use the Power. A Power
-of no cost (such as Permanent effects) will be designated with “–”.
+of no cost (such as Permanent effects) will be designated with “--”.
 
--   **m** – Motes of Essence, which can be a chosen combination of &gt;
+-   **m** -- Motes of Essence, which can be a chosen combination of &gt;
     Personal or Peripheral
 
     -   Some Powers will specifically designate (personal) or &gt;
         (peripheral) in their cost.
 
--   **i** – If used in a Combat Scene, requires **Impulse**. If used
-    in &gt; an Encounter Scene, requires **Influence.**
+-   **i** -- If used in a Combat Scene, requires **Impulse**. If
+    used &gt; in an Encounter Scene, requires **Influence.**
 
--   **sm** – Sorcerous Motes, which are described in more detail in
-    the &gt;
+-   **sm** -- Sorcerous Motes, which are described in more detail
+    in &gt; the &gt;
     [<u>Sorcery</u>](https://docs.google.com/document/d/1fg4i3K9kSNsWkPiqsuHOSElKFzvc_E58KwLs5MT6cKk/edit?usp=sharing).
 
 ### Type
@@ -3554,19 +3012,14 @@ remainder of the scene would be written as:
 If there is no duration written, the power is considered *Instant*, and
 immediately dissipates after activation.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Terminating Active Powers</strong>
-</p>
-<p>
-An Exalt may willfully terminate a Power earlier than its stated
-duration (unless specifically stated otherwise.) However, they must then
-pay the activation cost again if they want to reuse the power.
-</p>
-</td>
+<td><p><strong>Terminating Active Powers</strong></p>
+<p>An Exalt may willfully terminate a Power earlier than its stated duration (unless specifically stated otherwise.) However, they must then pay the activation cost again if they want to reuse the power.</p></td>
 </tr>
 </tbody>
 </table>
@@ -3591,23 +3044,15 @@ pay the activation cost again if they want to reuse the power.
 
 -   **Permanent**. Once purchased, this power is always active.
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Timing Conflicts</strong>
-</p>
-<p>
-If there is ever a timing conflict, such as with two Reflexive Charms
-going off at once, the resolution goes according to the <em>defender’s
-choice</em>.
-</p>
-<p>
-If that is still unclear, there should be a contested roll using the
-relevant <em>Finesse</em> Attribute.
-</p>
-</td>
+<td><p><strong>Timing Conflicts</strong></p>
+<p>If there is ever a timing conflict, such as with two Reflexive Charms going off at once, the resolution goes according to the <em>defender’s choice</em>.</p>
+<p>If that is still unclear, there should be a contested roll using the relevant <em>Finesse</em> Attribute.</p></td>
 </tr>
 </tbody>
 </table>
@@ -3615,7 +3060,7 @@ relevant <em>Finesse</em> Attribute.
 ### Minimum Requirements
 
 When buying a Power, there are certain Minimums that must first be
-met–such as the dot Rating in a specific Ability.
+met--such as the dot Rating in a specific Ability.
 
 Charms
 ------
@@ -3628,7 +3073,7 @@ individual to individual: those that are listed are simply
 generalizations and categorization for easy shorthand.
 
 Typically, a character does not know they are using a specific charm
-with a specific name–they simply know that their instinctual channeling
+with a specific name--they simply know that their instinctual channeling
 of their essence will produce the desired effect.
 
 ### Greater Charms
@@ -3643,15 +3088,15 @@ Making New Powers
 -----------------
 
 Players and Storytellers are encouraged to work together to craft and
-use Custom Charms that fit individual characters and their needs–the
+use Custom Charms that fit individual characters and their needs--the
 provided charms are intended to cover most common uses of charms, but
 could never encompass all that an Exalt *could* do.
 
-Charms and Custom Charms do not have any sort of “niche protection” from
+Charms and Custom Charms do not have any sort of "niche protection" from
 each other. Do not be afraid to create Custom Charms that have similar
 effects.
 
-Making custom charms can be a bit difficult, so let’s run through an
+Making custom charms can be a bit difficult, so let's run through an
 example.
 
 ##### Example: Searing Sunfire Interdiction
@@ -3674,29 +3119,29 @@ needs to be super-cool and flashy, but spending a moment to think
 through the actions and steps a character might do for the desired
 effect.
 
-In this example charm’s case, the inspiration comes from a natural
+In this example charm's case, the inspiration comes from a natural
 source: a cascading sunbeam. As well, it’s well represented in popular
 video games: a beam of light cascades from the heavens and damages those
 in its way.
 
 ### Brainstorm Secondary effects And Limitations
 
-Now that we have a visual effect–a beam of light appearing over the
-target area–it’s time to think of the consequences of that charm.
+Now that we have a visual effect--a beam of light appearing over the
+target area--it's time to think of the consequences of that charm.
 
 -   Sunlight is a heavy theme here, so it may do extra damage
     against &gt; Creatures of Darkness.
 
--   It’s a bright beam of light. It’s going to be pretty obvious.
+-   It's a bright beam of light. It's going to be pretty obvious.
 
--   It’s an archery charm, so an arrow needs to be used. Maybe you
+-   It's an archery charm, so an arrow needs to be used. Maybe you
     fire &gt; an arrow into the sky, pierce a cloud and the sun peers
     through?
 
     -   Access to the sky then?
 
-    -   Does it need access to the Sun itself, since it’s a sunbeam?
-        Can &gt; you not use this in the Underworld?
+    -   Does it need access to the Sun itself, since it's a
+        sunbeam? &gt; Can you not use this in the Underworld?
 
 -   Does sunlight hurt other Solars? Or themselves? Are they immune
     to &gt; their own powers?
@@ -3712,31 +3157,31 @@ cost to assist in that manner.
 
 Solars have a theme of *excellency*, so we should try to avoid too many
 limitations. As well, their powers should come from *within*, rather
-than externally. Let’s discard the *access to the Sun* right away.
+than externally. Let's discard the *access to the Sun* right away.
 
 *Damaging Creatures of Darkness* seems appropriate, let us keep it in.
-We’ll have to make sure the extra damage isn’t too little or too much by
+We'll have to make sure the extra damage isn't too little or too much by
 gauging it against other charms with that effect.
 
-*Access to the sky* is limiting–you wouldn’t be able to use this
-underground or in tight enclosed spaces. That’s a reasonable limitation,
+*Access to the sky* is limiting--you wouldn't be able to use this
+underground or in tight enclosed spaces. That's a reasonable limitation,
 and easily worked around in most cases.
 
 Excluding allies from the attack could be useful, but that may make the
 charm too powerful. Best just to leave it as a full, indiscriminate AoE
-attack–much akin to a bomb. The player will have to work around that.
+attack--much akin to a bomb. The player will have to work around that.
 
-*“Solars being immune”* is an interesting one, because it’s both a
+*"Solars being immune"* is an interesting one, because it's both a
 benefit and a limitation. It means the solar could center the beam of
-light around themselves–and their party members, if they are Solars–and
-not be hurt. A sort of an addendum to the above limitation.
+light around themselves--and their party members, if they are
+Solars--and not be hurt. A sort of an addendum to the above limitation.
 
 However, there are a couple of items to consider: the Solar thematic
-rely more on “human paragon” rather than “sun-powered.” This effect
+rely more on "human paragon" rather than "sun-powered." This effect
 would not be as appropriate as a Dragon-Blooded being able to stand in a
 plume of fire. As well, with all of the other rules written and in
 place, the Charm description has already become medium length. There is
-no inherent rule about a charm’s description length, but it is a quick
+no inherent rule about a charm's description length, but it is a quick
 and easy metric to see if the charm has too much (or little) stuffed
 into it.
 
@@ -3760,8 +3205,8 @@ easier on us, I will frame things primarily in +X Damage.
 The Base Ability *Push the Attack* pins +1 dmg per 2 Impulse. With the
 Recovery Ability, an Impulse is worth 2 Peripheral Motes. This means
 that pricing the mote cost for +1 dmg should never be at or more than 4
-Motes, or 2 Impulse–it would be a worthless charm. The following pricing
-is suggested:
+Motes, or 2 Impulse--it would be a worthless charm. The following
+pricing is suggested:
 
 1.  1 Impulse for +1Dmg/+2Dice
 
@@ -3774,7 +3219,7 @@ is suggested:
 #### Flurry Attacks
 
 The total amount of damage should be considerably lower for Flurry
-attacks–which are typically about clearing Lesser Foes from the
+attacks--which are typically about clearing Lesser Foes from the
 battlefield. Since this attack hits multiple targets, the Mote and
 Impulse cost should double from a Standard Attack. As well, the total
 amount granted should be capped, typically at (Essence).
@@ -3798,7 +3243,7 @@ that the process was an ordered, straightforward process, where one task
 was completed before the other. This is completely false.
 
 In reality, the actual process is to go through again and again, often
-skipping steps and going back to them. You typically don’t get the final
+skipping steps and going back to them. You typically don't get the final
 version of a Charm or ability on the first pass, and a lot of the unique
 nature and interesting abilities come out through multiple edits.
 
@@ -3813,12 +3258,12 @@ I *just* trying to fill in an intentional weakness of an Ability?” If
 so, you should take a double look at what your intent is, analyze if
 there is an alternate way, or proceed very carefully.
 
-It’s often the first instinct to try to fill such a hole in–after all,
+It’s often the first instinct to try to fill such a hole in--after all,
 we often want our characters to be the best at what they do, and seeing
 such a glaring hole can be frustrating.
 
-However, doing so is often detrimental to the longevity of the game–a
-fully fleshed out character is often one that is flawed–and so is the
+However, doing so is often detrimental to the longevity of the game--a
+fully fleshed out character is often one that is flawed--and so is the
 same with Abilities and Powers.
 
 The easiest example to show is the difference between Melee and Archery
@@ -3828,7 +3273,7 @@ between the two, they suddenly lose most, if not all, of their distinct
 natures from each other and simply become “Combat.”
 
 This isn’t to say you *can’t* make a Melee charm that deals damage at a
-range–there are those that already exist–but you should go into charm
+range--there are those that already exist--but you should go into charm
 creation realizing that *some* (but not all) holes are *intentional.* If
 you are to make charms in those spaces, they should respect why the hole
 is there in the first place.
@@ -3861,8 +3306,8 @@ players will suddenly have to focus on the dice, reinterpret the dice as
 actual numbers again, and then potentially undo their memorization.
 
 **Only use a Dice Trick if it is necessary**. A sparing number of these
-effects here and there–perhaps restricted by a conditional–is fine. But
-if too many of them appear, it will slow down play considerably!
+effects here and there--perhaps restricted by a conditional--is fine.
+But if too many of them appear, it will slow down play considerably!
 
 Merits
 ======
@@ -3870,9 +3315,9 @@ Merits
 A Merit is any sort of benefit or background that may help the
 character, outside of their normal internal powers would grant.
 
-Merits are often intimately tied to a character’s story–they have wealth
-because they were born into it–and typically may only be gained or
-upgraded during character creation, or through the Projects system
+Merits are often intimately tied to a character’s story--they have
+wealth because they were born into it--and typically may only be gained
+or upgraded during character creation, or through the Projects system
 during campaign.
 
 Merits bought with XP or with Project Points cannot be removed or
@@ -3881,16 +3326,16 @@ permission, and should be considered under the complete ownership of the
 Player. For example, an Ally should not suddenly turn face and become an
 antagonist without both the Player agreeing to such a turn of events.
 
-Temporary restrictions to merits–such as an Ally being unable to help–is
-explicitly allowed. However, the Storyteller should always be judicious
-about such decisions.
+Temporary restrictions to merits--such as an Ally being unable to
+help--is explicitly allowed. However, the Storyteller should always be
+judicious about such decisions.
 
 If a Player chooses to lose or downgrade their bought Merits through
 story means, they are awarded back whatever resources they used to buy
 or upgrade the Merit.
 
 The Storyteller may decide to award temporary Merits that are under the
-full control and whim of the Storyteller–such as a platoon of soldiers
+full control and whim of the Storyteller--such as a platoon of soldiers
 as a Command. If appropriate to the story, the Player may purchase
 control of said Merit at full cost of either xp or Project Points, with
 Storyteller permission.
@@ -3973,14 +3418,14 @@ Standalone Merits
 ### Ally (1-5)
 
 Allies are individuals, groups, or organizations that a character may
-call upon to aid them in their endeavors–proven to be an asset.
+call upon to aid them in their endeavors--proven to be an asset.
 
-Allies are not at the whim and mercy of the character–they have their
+Allies are not at the whim and mercy of the character--they have their
 own lives and concerns to deal with, but they can be assumed to not
 willingly or knowingly hurt the player character.
 
 The Rating of Allies represents both the scale and influence of the
-ally: Rating 1 would be a competent, but still mortal–guard. Rating 3
+ally: Rating 1 would be a competent, but still mortal--guard. Rating 3
 would be an Exalt or a medium spanning organization. Rating 5 would be a
 high-ratinging God or an organization such as the Guild.
 
@@ -4074,7 +3519,7 @@ without purchasing it as a merit, they do not get the effect. \]\]
 
     -   Humans have this boon.
 
--   Change of Size (Larger/smaller) –only with knack.
+-   Change of Size (Larger/smaller) --only with knack.
 
     -   Carrying Capacity
 
@@ -4205,7 +3650,7 @@ Supernatural Ability(N/A)
 as Sorcery). Typically used for mortals. It’s how you do Thaumaturgist.
 
 You have to convince a God (or other creature of power) to give you this
-ability. It’s not something you can do in a Project—hence (N/A)
+ability. It’s not something you can do in a Project---hence (N/A)
 
 Exalted characters cannot start with this Merit. \]\]
 
@@ -4213,7 +3658,7 @@ Mutation (X)
 ------------
 
 \[\[Might have a bit of a different thing for mutations than just pure
-points. Something like “You build the effect the mutation gives you. +1
+points. Something like "You build the effect the mutation gives you. +1
 DV is 2. Obvious -1.
 
 That or I spell out specific mutations. 3e Core has them priced way too
@@ -4238,27 +3683,16 @@ Lesser Foes may be **Grouped** together. For each increase in
 **Mortals** Have a lesser pool of Endurance:  
 10 + (Stamina + Athletics + Physique)
 
-<table>
+<table style="width:99%;">
+<colgroup>
+<col style="width: 98%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td>
-<p>
-<strong>Antagonists are not Player characters</strong>
-</p>
-<p>
-\[\[ Don’t build them like they are.
-</p>
-<p>
-Dragonbloods tend to be Essence 1-2.
-</p>
-<p>
-Essence Rating prerequisites aren’t hard-enforced for antagonists. The
-essence rating represents how hard it is to train, how long they have to
-dedicate your life to it. Jo Shmo DB isn’t going to get an Essence 4 MA
-technique while stuck at Essence 1, but a monk who has been training at
-it their entire life might, while still technically at Essence 3\]\]
-</p>
-</td>
+<td><p><strong>Antagonists are not Player characters</strong></p>
+<p>[[ Don’t build them like they are.</p>
+<p>Dragonbloods tend to be Essence 1-2.</p>
+<p>Essence Rating prerequisites aren’t hard-enforced for antagonists. The essence rating represents how hard it is to train, how long they have to dedicate your life to it. Jo Shmo DB isn’t going to get an Essence 4 MA technique while stuck at Essence 1, but a monk who has been training at it their entire life might, while still technically at Essence 3]]</p></td>
 </tr>
 </tbody>
 </table>
@@ -4282,7 +3716,7 @@ Fogsharks are creatures that live between the Spirit and Waking world,
 and may only be found where the veil between the worlds is thin,
 particularly in respect to the element of Water.
 
-They swarm in the skies, dragging their fog and mists with them–a
+They swarm in the skies, dragging their fog and mists with them--a
 fogshark attack can not occur in any bright-lit or otherwise illuminated
 area.
 
