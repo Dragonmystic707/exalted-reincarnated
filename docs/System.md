@@ -5,6 +5,10 @@ type: core
 order: 1
 ---
 
+Exalted Reincarnated
+
+Dragonmystic
+
 **Contributors from and Special Thanks to:**
 
 Codex, DeProf Gaming, Effendoor, Exthalion, Insuling,  
@@ -28,8 +32,8 @@ deal with.*
 *It is for you to decide what should be protected, what should be
 furthered; what is ultimately right and wrong.*
 
-*But you are not alone. There are other Exalts that wander the world,
-each with their own agenda, ideas, and morality.*
+But you are not alone. There are other Exalts that wander the world,
+each with their own agenda, ideas, and morality.
 
 *You are Chosen, you are EXALTED.*
 
@@ -152,14 +156,16 @@ In this time, the Sun has brought his Chosen back, those great heroes,
 those terrible Mad Emperors.
 
 System
-======
 
 Action Rolls
-------------
+============
 
 When a character encounters a situation where their success is
 uncertain, the Storyteller should call for an Action Roll to determine
 the outcome.
+
+Dice System
+-----------
 
 The Storyteller will ask for a combination of an Attribute and Ability
 that is appropriate for the situation, and then determine an appropriate
@@ -216,30 +222,26 @@ on the roll.
 **Difficulty** of the roll–the number of successes that the roll must
 match or exceed for the action to be considered a success.
 
--   **Difficulty 1 (Easy)**- This task is expected to be passed by
-    a &gt; skilled mortal, but there is still a reasonable risk of
-    failing.
+-   **Difficulty 1 (Easy)**- This task is expected to be passed by a
+    skilled mortal, but there is still a reasonable risk of failing.
 
--   **Difficulty 3 (Typical)**- This task is challenging to a mere &gt;
-    mortal, but a hero is expected to pass it. Picking a lock,
-    calming &gt; an irate guardsman, or basic first aid would fall under
-    this &gt; category.
+-   **Difficulty 3 (Typical)**- This task is challenging to a mere
+    mortal, but a hero is expected to pass it. Picking a lock, calming
+    an irate guardsman, or basic first aid would fall under this
+    category.
 
--   **Difficulty 5** **(Difficult)**- Tasks which are daunting fall
-    in &gt; this category–climbing a sheer cliff in winds, charming a
-    staunch &gt; Dynast with sweet words, or avoiding the bite of a
-    venomous beast.
+-   **Difficulty 5** **(Difficult)**- Tasks which are daunting fall in
+    this category–climbing a sheer cliff in winds, charming a staunch
+    Dynast with sweet words, or avoiding the bite of a venomous beast.
 
--   **Difficulty 7 (Challenging)**- Tasks which should be &gt;
-    near-impossible for any mortal. Such as noticing things in
-    pitch &gt; darkness, or landing on a precise spot hundreds of feet
-    below.
+-   **Difficulty 7 (Challenging)**- Tasks which should be
+    near-impossible for any mortal. Such as noticing things in pitch
+    darkness, or landing on a precise spot hundreds of feet below.
 
--   **Difficulty 9 (Impossible)**- Tasks a mortal could not possibly
-    do, &gt; no matter the circumstances. Running straight up a
-    building, &gt; leaping across a chasm unassisted, or keeping a
-    patient alive &gt; without a heart for hours at a time with their
-    bare hands.
+-   **Difficulty 9 (Impossible)**- Tasks a mortal could not possibly do,
+    no matter the circumstances. Running straight up a building, leaping
+    across a chasm unassisted, or keeping a patient alive without a
+    heart for hours at a time with their bare hands.
 
 ### Threshold Successes
 
@@ -297,8 +299,8 @@ exhaustive or exclusive:
 
 *Immediately Limit Break at 10.*
 
-The character gains 1 point of [<u>Limit</u>](#_5avzvqnvq7v),
-representing the spiritual stress required to do the task.
+The character gains 1 point of [<u>Limit</u>](#limit), representing the
+spiritual stress required to do the task.
 
 ### Wound/Exhaustion
 
@@ -326,7 +328,7 @@ Botching
 
 If a character fails their action, they may choose to *worsen* their
 failure dramatically, as represented by taking a Drawback. In exchange,
-they will gain a [**<u>Strife Point</u>**](#_5u2fxpbk3md5).
+they will gain a [**<u>Strife Point</u>**](#strifes).
 
 If at all possible, the Player should try to include their **Great
 Curse** as reasoning for this Botch. Perhaps a prideful character could
@@ -503,22 +505,22 @@ symbols deeply personal to the character.
 **Using enough Peripheral Motes in a single action** will inflame the
 anima banner:
 
--   **(0m) Dim** The natural state of the anima. It is invisible to
-    all &gt; natural senses, but may be seen by those that can peek into
-    the &gt; Spirit Realm.
+-   **(0m) Dim** The natural state of the anima. It is invisible to all
+    natural senses, but may be seen by those that can peek into the
+    Spirit Realm.
 
--   **(1-5m) Glowing** A thin outline of the anima appears around
-    the &gt; character, with the respective Caste Mark appearing on
-    their brow. &gt; Characters may still disguise and hide their anima
-    through mundane &gt; means, such as clothes.
+-   **(1-5m) Glowing** A thin outline of the anima appears around the
+    character, with the respective Caste Mark appearing on their brow.
+    Characters may still disguise and hide their anima through mundane
+    means, such as clothes.
 
--   **(6-10m) Burning** Essence burns and sheds from the Exalts
-    body, &gt; much like the burning of a fire. Hiding the anima at this
-    level is &gt; impossible through mundane means.
+-   **(6-10m) Burning** Essence burns and sheds from the Exalts body,
+    much like the burning of a fire. Hiding the anima at this level is
+    impossible through mundane means.
 
--   **(11m+) Bonfire** A grand display of solidified Essence wraps &gt;
-    around the body, shining its personal iconography to all of
-    those &gt; in the scene.
+-   **(11m+) Bonfire** A grand display of solidified Essence wraps
+    around the body, shining its personal iconography to all of those in
+    the scene.
 
 Anima Flare takes 15 minutes to naturally abate and decrease in rating,
 so long that no action inflames them again. Often, this means that the
@@ -557,19 +559,19 @@ character’s well meaning in spite of their better nature.
 Each Exaltation carries with a different interpretation and influence of
 the Great Curse:
 
--   **Solars** suffer by their own Ego. They are those that
-    tirelessly &gt; seek greatness and perfection, and may find others
-    or even &gt; themselves not up to the standards they desire.
+-   **Solars** suffer by their own Ego. They are those that tirelessly
+    seek greatness and perfection, and may find others or even
+    themselves not up to the standards they desire.
 
--   **Lunars** suffer from being trapped between worlds and are &gt;
-    conflicted by the unknown. Are they man or beast? A part of &gt;
-    society or apart from it? Their form is constantly shifting, so &gt;
-    who are they really?
+-   **Lunars** suffer from being trapped between worlds and are
+    conflicted by the unknown. Are they man or beast? A part of society
+    or apart from it? Their form is constantly shifting, so who are they
+    really?
 
--   **Abyssals** have a portion of their self consumed by the void: &gt;
-    something that is lost and that can never be reclaimed. It may
-    be &gt; their name and relations; their lost vitality; a loss of
-    emotion &gt; and feeling.
+-   **Abyssals** have a portion of their self consumed by the void:
+    something that is lost and that can never be reclaimed. It may be
+    their name and relations; their lost vitality; a loss of emotion and
+    feeling.
 
 Each individual Exaltation book details their Great Curse, but it is
 important to know that these are all *suggestions*. So long as a
@@ -589,17 +591,17 @@ A character gains limit by:
 
 -   Choosing it as a Drawback.
 
--   Acting against one of their Intimacies, or other deeply-held &gt;
-    beliefs. (One Limit per scene).  
-    &gt;  
-    &gt; This can range from directly suppressing Intimacies in order
-    to &gt; proceed with the “greater good”, to being tricked and
-    swindled &gt; into taking action against your Intimacies, such as
-    through Social &gt; Influence.  
-    &gt;  
-    &gt; Ultimately, the decision of whether or not the Character
-    has &gt; “acted against their Intimacy” is a personal one, and
-    should be at &gt; sole discretion of the Player.
+-   Acting against one of their Intimacies, or other deeply-held
+    beliefs. (One Limit per scene).
+
+    This can range from directly suppressing Intimacies in order to
+    proceed with the “greater good”, to being tricked and swindled into
+    taking action against your Intimacies, such as through Social
+    Influence.
+
+    Ultimately, the decision of whether or not the Character has “acted
+    against their Intimacy” is a personal one, and should be at sole
+    discretion of the Player.
 
 If the character reaches **10 Limit**, or if they fail on their **Limit
 Trigger**, the character will enter into a **Limit Break.**
@@ -726,14 +728,14 @@ be thought of as a more powerful Stunt.
 There are a few guiding restrictions to keep in mind, similar to a
 Stunt:
 
--   Other character’s actions cannot be dictated: only those under &gt;
+-   Other character’s actions cannot be dictated: only those under
     control of the Player’s.
 
--   The Action cannot *directly* solve the scene; it can only assist
-    and &gt; guide it.
+-   The Action cannot *directly* solve the scene; it can only assist and
+    guide it.
 
--   The Action should flow naturally from the character–a Solar
-    cannot &gt; suddenly shapeshift, for example.
+-   The Action should flow naturally from the character–a Solar cannot
+    suddenly shapeshift, for example.
 
 ##### Example 1
 
@@ -788,35 +790,9 @@ the difficulty.”
 Strife may be gained through two ways: **Botches** and **Scene
 Complications**.
 
-[<u>Botches</u>](#_3gfhss6epsri) are Player-driven choices to drive
-their character’s failure into a *magnificent* failure–a low so that
-they may later rise to even greater heights.
-
-#### Complications
-
-A **Complication** is a tool for the Storyteller to inject danger,
-twists, and story momentum into the Story–*without Player Characters
-being able to meaningfully react.* (The Characters will almost certainly
-react, but the outcome is a forgone conclusion.)
-
-In other words, while Players can spend Strife to Turn the Scene in
-their *favor*, Storytellers can give Strife to Turn the Scene *against*
-the Players–not simply describe challenges or consequences of actions.
-
-The Storyteller gifts a Strife Point to all Players who are affected by
-this event–and this single Strife Point guarantees the *outcome* of the
-event in the Scene, no matter how many attempts are made.
-
-**Examples:**
-
--   An Antagonist group escapes after their defeat in a fight,
-    slipping &gt; the bonds or escaping pursuit.
-
--   The Caves the Party is in start rumbling, warning of an
-    imminent &gt; collapse in but two short Rounds.
-
--   A source of information shoots down interrogation techniques, &gt;
-    refusing to divulge important details.
+[<u>Botches</u>](#botching) are Player-driven choices to drive their
+character’s failure into a *magnificent* failure–a low so that they may
+later rise to even greater heights.
 
 <table>
 <tbody>
@@ -851,7 +827,31 @@ the game is what everyone agrees with.
 </tbody>
 </table>
 
-### 
+#### Complications
+
+A **Complication** is a tool for the Storyteller to inject danger,
+twists, and story momentum into the Story–*without Player Characters
+being able to meaningfully react.* (The Characters will almost certainly
+react, but the outcome is a forgone conclusion.)
+
+In other words, while Players can spend Strife to Turn the Scene in
+their *favor*, Storytellers can give Strife to Turn the Scene *against*
+the Players–not simply describe challenges or consequences of actions.
+
+The Storyteller gifts a Strife Point to all Players who are affected by
+this event–and this single Strife Point guarantees the *outcome* of the
+event in the Scene, no matter how many attempts are made.
+
+**Examples:**
+
+-   An Antagonist group escapes after their defeat in a fight,
+    slipping &gt; the bonds or escaping pursuit.
+
+-   The Caves the Party is in start rumbling, warning of an
+    imminent &gt; collapse in but two short Rounds.
+
+-   A source of information shoots down interrogation techniques, &gt;
+    refusing to divulge important details.
 
 The main source of Strife is gained by players choosing to **Botch**
 their rolls.
@@ -900,22 +900,22 @@ Rather than count the exact minutes and hours of effects, Exalted rely
 on a more cinematic approach. A charm’s duration may be declared as a
 *Scene*, for example.
 
--   **Round** How long it takes for all characters to each perform a
-    set &gt; of Actions, typically in Combat or an Encounter.
+-   **Round** How long it takes for all characters to each perform a set
+    of Actions, typically in Combat or an Encounter.
 
--   **Scene** Long enough to set out and accomplish a single,
-    dedicated &gt; task. Combat from start to finish would be a scene,
-    as would &gt; characters searching for clues in an old abandoned
-    monastery. This &gt; typically spans minutes to hours.
+-   **Scene** Long enough to set out and accomplish a single, dedicated
+    task. Combat from start to finish would be a scene, as would
+    characters searching for clues in an old abandoned monastery. This
+    typically spans minutes to hours.
 
--   **Session** A single sitting of when Players begin and end &gt;
+-   **Session** A single sitting of when Players begin and end
     roleplaying, spanning an entire night.
 
--   **Story** Several sessions that form a full narrative arch:
-    from &gt; establishing a threat to reaching the resolution.
+-   **Story** Several sessions that form a full narrative arch: from
+    establishing a threat to reaching the resolution.
 
--   **Chronicle** A complete game, encompassing all the stories
-    relevant &gt; to a set of characters.
+-   **Chronicle** A complete game, encompassing all the stories relevant
+    to a set of characters.
 
 Magnitudes
 ----------
@@ -932,9 +932,11 @@ Those magnitude definitions are as follows:
 <tbody>
 <tr class="odd">
 <td>
-<h3 id="group-magnitudes">
-Group Magnitudes
-</h3>
+<blockquote>
+<p>
+<strong>Group Magnitudes</strong>
+</p>
+</blockquote>
 </td>
 <td>
 </td>
@@ -945,161 +947,473 @@ Group Magnitudes
 </tr>
 <tr class="even">
 <td>
-<strong>Scale</strong>
+Scale
 </td>
 <td>
-<strong>Population</strong>
+Population
 </td>
 <td>
-<strong>Name</strong>
+Name
 </td>
 <td>
-<strong>Military Designation</strong>
+Military Designation
 </td>
 </tr>
 <tr class="odd">
 <td>
+<blockquote>
+<p>
 0
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 1
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Individual
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 \-
+</p>
+</blockquote>
 </td>
 </tr>
 <tr class="even">
 <td>
+<blockquote>
+<p>
 1
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 10
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Party/Group
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Squad
+</p>
+</blockquote>
 </td>
 </tr>
 <tr class="odd">
 <td>
+<blockquote>
+<p>
 2
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 50
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Crowd
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Troop
+</p>
+</blockquote>
 </td>
 </tr>
 <tr class="even">
 <td>
+<blockquote>
+<p>
 3
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 100
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Hamlet
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Company
+</p>
+</blockquote>
 </td>
 </tr>
 <tr class="odd">
 <td>
+<blockquote>
+<p>
 4
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 500
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Village
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Battalion
+</p>
+</blockquote>
 </td>
 </tr>
 <tr class="even">
 <td>
+<blockquote>
+<p>
 5
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 1,000
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Town
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Regiment
+</p>
+</blockquote>
 </td>
 </tr>
 <tr class="odd">
 <td>
+<blockquote>
+<p>
 6
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 10,000
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 City
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Army
+</p>
+</blockquote>
 </td>
 </tr>
 <tr class="even">
 <td>
+<blockquote>
+<p>
 7
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 100,000
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Prefecture
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 \-
+</p>
+</blockquote>
 </td>
 </tr>
 <tr class="odd">
 <td>
+<blockquote>
+<p>
 8
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 1,000,000
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 Province
+</p>
+</blockquote>
 </td>
 <td>
+<blockquote>
+<p>
 \-
+</p>
+</blockquote>
 </td>
 </tr>
 </tbody>
 </table>
-
-|                 |                  |
-|-----------------|------------------|
-| Time Magnitudes |                  |
-| **Scale**       | **Name**         |
-| 0               | Second (Instant) |
-| 1               | Minute (Moment)  |
-| 2               | Hour             |
-| 3               | Day              |
-| 4               | Week             |
-| 5               | Month            |
-| 6               | Season           |
-| 7               | Year             |
-| 8               | Decade           |
-| 9               | Century          |
+<table>
+<tbody>
+<tr class="odd">
+<td>
+<blockquote>
+<p>
+Time Magnitudes
+</p>
+</blockquote>
+</td>
+<td>
+</td>
+</tr>
+<tr class="even">
+<td>
+Scale
+</td>
+<td>
+Name
+</td>
+</tr>
+<tr class="odd">
+<td>
+<blockquote>
+<p>
+0
+</p>
+</blockquote>
+</td>
+<td>
+<blockquote>
+<p>
+Second (Instant)
+</p>
+</blockquote>
+</td>
+</tr>
+<tr class="even">
+<td>
+<blockquote>
+<p>
+1
+</p>
+</blockquote>
+</td>
+<td>
+<blockquote>
+<p>
+Minute (Moment)
+</p>
+</blockquote>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<blockquote>
+<p>
+2
+</p>
+</blockquote>
+</td>
+<td>
+<blockquote>
+<p>
+Hour
+</p>
+</blockquote>
+</td>
+</tr>
+<tr class="even">
+<td>
+<blockquote>
+<p>
+3
+</p>
+</blockquote>
+</td>
+<td>
+<blockquote>
+<p>
+Day
+</p>
+</blockquote>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<blockquote>
+<p>
+4
+</p>
+</blockquote>
+</td>
+<td>
+<blockquote>
+<p>
+Week
+</p>
+</blockquote>
+</td>
+</tr>
+<tr class="even">
+<td>
+<blockquote>
+<p>
+5
+</p>
+</blockquote>
+</td>
+<td>
+<blockquote>
+<p>
+Month
+</p>
+</blockquote>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<blockquote>
+<p>
+6
+</p>
+</blockquote>
+</td>
+<td>
+<blockquote>
+<p>
+Season
+</p>
+</blockquote>
+</td>
+</tr>
+<tr class="even">
+<td>
+<blockquote>
+<p>
+7
+</p>
+</blockquote>
+</td>
+<td>
+<blockquote>
+<p>
+Year
+</p>
+</blockquote>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<blockquote>
+<p>
+8
+</p>
+</blockquote>
+</td>
+<td>
+<blockquote>
+<p>
+Decade
+</p>
+</blockquote>
+</td>
+</tr>
+<tr class="even">
+<td>
+<blockquote>
+<p>
+9
+</p>
+</blockquote>
+</td>
+<td>
+<blockquote>
+<p>
+Century
+</p>
+</blockquote>
+</td>
+</tr>
+</tbody>
+</table>
 
 Attributes
 ==========
@@ -1317,11 +1631,11 @@ even spike-tipped boots–are still part of the Brawling Ability.
 
 #### Sample Specialites
 
--   Punching
+1.  Punching
 
--   Kicking
+    > Kicking
 
--   Grappling/Restraints
+    > Grappling/Restraints
 
 ### Craft
 
@@ -3449,13 +3763,13 @@ that pricing the mote cost for +1 dmg should never be at or more than 4
 Motes, or 2 Impulse–it would be a worthless charm. The following pricing
 is suggested:
 
--   1 Impulse for +1Dmg/+2Dice
+1.  1 Impulse for +1Dmg/+2Dice
 
--   2 Motes for +1Dmg/+2Dice.
+2.  2 Motes for +1Dmg/+2Dice.
 
--   3 Motes for (+Essence Dice)
+3.  3 Motes for (+Essence Dice)
 
--   4 Motes for (+Essence Damage), 1 impulse
+4.  4 Motes for (+Essence Damage), 1 impulse
 
 #### Flurry Attacks
 

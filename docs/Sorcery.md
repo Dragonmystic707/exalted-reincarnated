@@ -6,7 +6,6 @@ order: 3
 ---
 
 Sorcery and Necromancy
-======================
 
 Sorcery is the complex manipulation and control of the flows of Essence
 of the world, rather than their internal flows. Instead of Charms,
