@@ -9,11 +9,6 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
-defaults:
-  - scope:
-      path: "assets"
-    layout: page
-    type: core
 # About/contact
 author:
   name:              Dragonmystic

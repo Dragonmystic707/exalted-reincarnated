@@ -155,17 +155,15 @@ in this uncertain time.
 In this time, the Sun has brought his Chosen back, those great heroes,
 those terrible Mad Emperors.
 
-System
+General System
+==============
 
 Action Rolls
-============
+------------
 
 When a character encounters a situation where their success is
 uncertain, the Storyteller should call for an Action Roll to determine
 the outcome.
-
-Dice System
------------
 
 The Storyteller will ask for a combination of an Attribute and Ability
 that is appropriate for the situation, and then determine an appropriate

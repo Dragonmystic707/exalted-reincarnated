@@ -1,6 +1,7 @@
 import pathlib
 import subprocess
 import shutil
+import re
 import os
 import os.path as path
 
@@ -121,7 +122,7 @@ def main():
             os.remove(temp_file)
 
         # Export out the base markdown, without the needed header
-        bash_cmd = "pandoc " + path.join(src_dir, file_dict["folder"], file_dict["name"]) + ".docx -f docx -t markdown -o temp.md --strip-comments"
+        bash_cmd = "pandoc " + path.join(src_dir, file_dict["folder"], file_dict["name"]) + ".docx -f docx -t markdown -o temp.md --strip-comments "
         subprocess.Popen(bash_cmd).wait()
 
         # Construct the header
@@ -136,7 +137,7 @@ def main():
 
         # Add in the introduction to the ExR_System
         if file_dict["name"] == system["name"]:
-            bash_cmd = "pandoc " + path.join(src_dir, "core", introduction["name"]) + ".docx -f docx -t markdown -o temp_int.md --strip-comments"
+            bash_cmd = "pandoc " + path.join(src_dir, "core", introduction["name"]) + ".docx -f docx -t markdown -o temp_int.md --strip-comments "
             subprocess.Popen(bash_cmd).wait()
 
             combined_cmd = "pandoc temp_int.md temp.md -t gfm -o temp.md"
@@ -146,7 +147,19 @@ def main():
 
         # Add in the header data to the file
         with open(path.join(script_dir, "temp.md"), "r+", encoding="utf8") as f:
-            data = f.read()
+            # data = f.read()
+            
+            first_header_ind = 0
+            data_arr = f.readlines()
+            # For all but System, trim out the Title Card
+            if file_dict["name"] != system["name"]:
+                for line in data_arr:
+                    if re.match(r'==*', line):
+                        # The header is on the previous line
+                        first_header_ind -= 1
+                        break
+                    first_header_ind += 1
+            data = "".join(data_arr[first_header_ind:])
             with open(path.join(page_dir, file_dict["name"] + ".md"), "w", encoding="utf8") as w:
                 w.write(header + data) 
 

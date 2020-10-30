@@ -5,9 +5,6 @@ type: exalt
 order: 8
 ---
 
-[[Exalted Reincarnated
-Core]{.ul}](https://docs.google.com/document/d/1C3q4JN6eVq54VIY2Q3gGDGnvU5dOC4St3XSGUV6Ylzg/edit?usp=sharing)
-
 Introduction
 ============
 
