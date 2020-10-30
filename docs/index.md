@@ -16,9 +16,7 @@ The entirety of Exalted Reincarnated is constantly evolving, being modified, and
 Downloads
 ---------
 
-<a href="/assets/" download>Download All </a>
-
-<a href="/assets/Summary.pdf" download>Rules Summary (pdf)</a>
+<a href="/assets/downloads/Summary.pdf" download>Rules Summary (pdf)</a>
 
 Tools
 ----------
