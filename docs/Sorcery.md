@@ -18,72 +18,58 @@ Each tradition and tutor will have a different name for the circle,
 although the most widely known is **Emerald, Sapphire,** and
 **Adamant**, respectively.
 
-+----------------------------------------------------------------------+
-| **Dynasts and Sorcery**                                              |
-|                                                                      |
-| It is known that Dragonblooded do not reach past the First Circle:   |
-| that power is corruptive, created by the Anathema to tempt and trap  |
-| those that seek power for the sake of power\--save for the pure and  |
-| righteous Empress herself.                                           |
-|                                                                      |
-| So says the Immaculate philosophy.                                   |
-|                                                                      |
-| But there is no such declaration. Careful Monks, when reviewing the  |
-| passages so often quoted as proof, will find it lacking. Proper      |
-| historical context and translations from Old Realm will unravel this |
-| as an "incorrect surface level reading."                             |
-|                                                                      |
-| Perpetually, there will be a champion who takes on the mantle to     |
-| correct this, to pull up this noxious weed that has grafted itself   |
-| to the Immaculate Order. But so far, they have all been silenced.    |
-|                                                                      |
-| For now, those very few who manage to reach the Second Circle do so  |
-| in secret, hiding in dark corners of the Realm.                      |
-+----------------------------------------------------------------------+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Dynasts and Sorcery</strong></p>
+<p>It is known that Dragonblooded do not reach past the First Circle: that power is corruptive, created by the Anathema to tempt and trap those that seek power for the sake of power--save for the pure and righteous Empress herself.</p>
+<p>So says the Immaculate philosophy.</p>
+<p>But there is no such declaration. Careful Monks, when reviewing the passages so often quoted as proof, will find it lacking. Proper historical context and translations from Old Realm will unravel this as an “incorrect surface level reading.”</p>
+<p>Perpetually, there will be a champion who takes on the mantle to correct this, to pull up this noxious weed that has grafted itself to the Immaculate Order. But so far, they have all been silenced.</p>
+<p>For now, those very few who manage to reach the Second Circle do so in secret, hiding in dark corners of the Realm.</p></td>
+</tr>
+</tbody>
+</table>
 
 Necromancy
 ----------
 
 The art of Necromancy was stolen from the Void, and has become a part of
-Sorcery\--much to the ire and horror of many Sorcerous Practitioners.
+Sorcery--much to the ire and horror of many Sorcerous Practitioners.
 
 Initiation into either Sorcery or Necromancy will qualify the user to
 both.
 
 The Rules of Necromancy are the same as Sorcery. For convenience, the
-rules will simply state \"Sorcerer\" instead of \"Sorcerer or
-Necromancer\".
+rules will simply state "Sorcerer" instead of "Sorcerer or Necromancer".
 
 Casting Spells
 --------------
 
 Spells, unlike charms, pull their magic from the precise manipulation
-and twisting of the laws of reality to the Sorcerer's will. The
-Sorcerer\'s expenditure of Motes is a way to speed up their Casting \--a
+and twisting of the laws of reality to the Sorcerer’s will. The
+Sorcerer's expenditure of Motes is a way to speed up their Casting --a
 Sorcerer without a mote pool would be required to take days or months to
-prepare and cast even the First Circle of Spells\--if at all.
+prepare and cast even the First Circle of Spells--if at all.
 
 In order to purchase Spells, a character must first be Initiated into
 the respective circle.
 
-+----------------------------------------------------------------------+
-| **Moteless Casting**                                                 |
-|                                                                      |
-| There are alternate ways to cast Spells, whether it be through       |
-| purpose built Wonders, long, elaborate rituals, or even physically   |
-| rearranging the Essence lines of Creation itself.                    |
-|                                                                      |
-| Practically speaking, none of these methods can or will be used by   |
-| Player Characters\--Sorcerous Motes are faster and easier in every   |
-| way\--but it can be an interesting narrative tool for a crafty       |
-| Storyteller.                                                         |
-+----------------------------------------------------------------------+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Moteless Casting</strong></p>
+<p>There are alternate ways to cast Spells, whether it be through purpose built Wonders, long, elaborate rituals, or even physically rearranging the Essence lines of Creation itself.</p>
+<p>Practically speaking, none of these methods can or will be used by Player Characters--Sorcerous Motes are faster and easier in every way--but it can be an interesting narrative tool for a crafty Storyteller.</p></td>
+</tr>
+</tbody>
+</table>
 
 Sorcerous Motes
 ---------------
 
 Sorcerous Spells relies on the manipulation and alteration of the
-world\'s energies around them, rather than the internal expression of
+world's energies around them, rather than the internal expression of
 power that Charms are.
 
 Shaping a spell is therefore represented by **Sorcerous Motes (sm),**
@@ -91,7 +77,7 @@ which represent the usage of external Essence to twist and conjure the
 mechanics of the world into the shapes needed for the Spell.
 
 **Sorcerous Motes** are pulled *exclusively* from the **Peripheral
-Mote** Pool\--meaning that using a spell will always agitate the Anima
+Mote** Pool--meaning that using a spell will always agitate the Anima
 Banner.
 
 As well, shaping Sorcerous Motes is *not instantaneous*. There is a
@@ -99,7 +85,7 @@ distinct time of starting to Shape the Spell, to the ending and release
 of the spell.
 
 Lastly, Sorcerous Motes are *unique* to the Spell that is being
-cast\--you cannot swap which Spell is being cast midway through Shaping
+cast--you cannot swap which Spell is being cast midway through Shaping
 the Motes.
 
 ### Non-Combat Casting
@@ -117,11 +103,11 @@ by taking **Shape Motes** Action
 
 #### Shape Motes
 
-**Primary Action\
+**Primary Action  
 Impulse Cost**: 0
 
 Roll (Intelligence + Sorcery). You may shape up to that number of
-Peripheral Motes into the Spell\'s Sorcerous Motes.
+Peripheral Motes into the Spell's Sorcerous Motes.
 
 The Anima Banner immediately flares according to how many Peripheral
 Motes have been shaped in this action.
@@ -153,11 +139,11 @@ While all Exalts *can* become Sorcerers, it does not come naturally to
 them. They must first be **Initiated** into the mysteries of the world
 by creatures of power, or life-changing events. Their link to power
 becomes their guide through all three circles throughout their
-life\--swapping tutors is unheard of.
+life--swapping tutors is unheard of.
 
 While it is almost always the case, the Master teaching and Initiating
 their pupil does not need to be of the Circle the student is being
-inducted into\--they don't even necessarily have to be a sorcerer
+inducted into--they don’t even necessarily have to be a sorcerer
 themselves.
 
 The First Circle Sorcery can be learned at Essence 0. While extremely
@@ -183,42 +169,33 @@ The **First Circle Task** is fairly simple: the student must seek out
 and be selected for Induction into Sorcery.
 
 The **Second Circle Task** requires the student to be **Essence 3**, and
-will result in them suffering the equivalent of a **Major Drawback**\--a
+will result in them suffering the equivalent of a **Major Drawback**--a
 repercussion that will be felt across multiple scenes, if not the
-character's entire life.
+character’s entire life.
 
 The **Third Circle Task** requires the student to be **Essence 5**, and
 will result in a permanent change in the character.
 
-+----------------------------------------------------------------------+
-| **Raksi and the Third Circle**                                       |
-|                                                                      |
-| By all accounts, Raksi should be a Third Circle Sorcerer\--and yet   |
-| she is not.                                                          |
-|                                                                      |
-| She has not completed her Third Circle Initiation. Whatever her      |
-| third Task was, she has refused to complete it. Instead she chooses  |
-| to rail against the task, seeking desperately another way.           |
-+----------------------------------------------------------------------+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Raksi and the Third Circle</strong></p>
+<p>By all accounts, Raksi should be a Third Circle Sorcerer--and yet she is not.</p>
+<p>She has not completed her Third Circle Initiation. Whatever her third Task was, she has refused to complete it. Instead she chooses to rail against the task, seeking desperately another way.</p></td>
+</tr>
+</tbody>
+</table>
 
-+----------------------------------------------------------------------+
-| **Sidereals and Sorcery**                                            |
-|                                                                      |
-| Sidereals have the time, resources, and training available to them   |
-| to become highly skilled Sorcerers-and many of them pursue this path |
-| quite readily.                                                       |
-|                                                                      |
-| However, while Sorcery is a part of the workings of Creation, The    |
-| Second and *especially* the Third Circle Spells are rather rough on  |
-| the Loom of Fate. More often than not, these overt, flashy, and      |
-| incredibly disruptive actions run counter to all of Sidereal         |
-| methodology.                                                         |
-|                                                                      |
-| For this reason the Sidereal Host, particularly the Bronze Faction,  |
-| encourages Sidereals to always try a Fate-Based solution first, and  |
-| discourage new Sidereals from advancing up the circles "before they  |
-| are ready for the responsibility."                                   |
-+----------------------------------------------------------------------+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Sidereals and Sorcery</strong></p>
+<p>Sidereals have the time, resources, and training available to them to become highly skilled Sorcerers-and many of them pursue this path quite readily.</p>
+<p>However, while Sorcery is a part of the workings of Creation, The Second and <em>especially</em> the Third Circle Spells are rather rough on the Loom of Fate. More often than not, these overt, flashy, and incredibly disruptive actions run counter to all of Sidereal methodology.</p>
+<p>For this reason the Sidereal Host, particularly the Bronze Faction, encourages Sidereals to always try a Fate-Based solution first, and discourage new Sidereals from advancing up the circles “before they are ready for the responsibility.”</p></td>
+</tr>
+</tbody>
+</table>
 
 #### 
 
@@ -247,7 +224,7 @@ finds little trouble breathing in smoke-filled rooms.
 
 #### Third Circle (Firestorm)
 
-\[\...\]
+\[...\]
 
 ### Chosen by the Salinian Working
 
@@ -272,7 +249,7 @@ whispering of the winds.
 
 The Heptagram trains Dragonbloods in the First Circle, and warns of the
 Second and Third Circles. They often do not differentiate the
-"Anathematic" levels.
+“Anathematic” levels.
 
 Ancient, old texts untouched by generations since the Shogunate call
 these Celestial and Solar Levels.
@@ -298,11 +275,11 @@ circles.
 
 #### First Circle Summoning
 
-**Cost:** 8sm; Ritual\
+**Cost:** 8sm; Ritual  
 **Mins:** Sorcery 1
 
-Summoning of the First Circle demons must be done with a demon's name
-class (such as "Blood Ape Pack"), and is a ritual lasting 1 hour, ending
+Summoning of the First Circle demons must be done with a demon’s name
+class (such as “Blood Ape Pack”), and is a ritual lasting 1 hour, ending
 at the moment of sundown.
 
 A demon of the First Circle is summoned and bound to a particular task.
@@ -311,8 +288,8 @@ suffering the equivalent of a **Minor** **Complication** as a way to
 bargain with the Demon, otherwise it will return back to whence it came.
 
 In return, the Sorcerer tasks the Demon with a change worth **2 RES** or
-less, which they will do for at most one Month. Anything from "digging a
-tunnel" to "Entertain guests." However, summoning does not inherently
+less, which they will do for at most one Month. Anything from “digging a
+tunnel” to “Entertain guests.” However, summoning does not inherently
 grant the demon the ability to *do* such things.
 
 The Sorcerer cannot have more than (Essence)x2 active Summoned Demons
@@ -327,12 +304,12 @@ creatively break out of the bindings.
 However, Demons should always be considered to be *alien* in mind, not
 understanding much of how mortals and their summoner think. A Blood Ape
 will not think twice about instantly choosing to murder someone instead
-of politely shooing them away, were the Sorcerer to ask them to "prevent
-people from disturbing me".
+of politely shooing them away, were the Sorcerer to ask them to “prevent
+people from disturbing me”.
 
 #### Second Circle Summoning
 
-**Cost:** 12sm; Ritual\
+**Cost:** 12sm; Ritual  
 **Mins:** Sorcery 3
 
 Once inducted into the Second Circle of Sorcery, the Sorcerer may summon
@@ -352,7 +329,7 @@ demons) summoned at a time.
 
 #### Third Circle Summoning
 
-**Cost:** 15sm; Ritual\
+**Cost:** 15sm; Ritual  
 **Mins:** Sorcery 5
 
 Once inducted into the Third Circle of Sorcery, the greatest demons may
@@ -373,7 +350,7 @@ First Circle
 
 ### Coin of Distant Vision
 
-**Cost:** 5sm\
+**Cost:** 5sm  
 **Mins:** Sorcery 1
 
 When learning this Spell, the Sorcerer coalesces their flows of essence
@@ -391,20 +368,20 @@ one shard may be used at a time.
 
 ### Corrupted Words
 
-**Cost:** 5sm; **Mins:** Sorcery 2\
-**Duration:** One Year\
+**Cost:** 5sm; **Mins:** Sorcery 2  
+**Duration:** One Year  
 The Sorcerer coalesces a mass of all taboo words and topics into a small
 egg-shaped mass in their hands, and whispers into it a new topic that
 shall be bound with its unspoken peers. This could be something as
-specific as "Secret Letters you will write to me" or as general as "The
-Existence of the Sidereal Exalted."\
+specific as “Secret Letters you will write to me” or as general as “The
+Existence of the Sidereal Exalted.”  
 On a successful (Intelligence + Sorcery) roll vs. Resolve a target, and
 while close enough to physically do so, the Sorcerer may force this ball
 of unspoken words down the throat of the target, binding their words on
 the now taboo topic.
 
 The now bound words will become impossible for the target to communicate
-to another being\--be it through words, written letters, or any other
+to another being--be it through words, written letters, or any other
 such method. Attempting to do so will cause a vision of a mass of
 writhing, repulsive maggots (or whatever else the target finds
 repulsive) crawling from their mouth.
@@ -414,11 +391,11 @@ at a time, and may choose to discontinue their charges at will.
 
 ### Theft of Memory
 
-**Cost:** 5sm; **Mins:** Sorcery 2\
+**Cost:** 5sm; **Mins:** Sorcery 2  
 **Duration:** Indefinite
 
 Focusing on a specific, known memory, the Sorcerer makes a (Cunning +
-Sorcery) roll vs the Target's Guile.
+Sorcery) roll vs the Target’s Guile.
 
 If successful, they place an pure-cut emerald (Resources 2) on the
 forehead of their target, and siphon the memory away into the gem. The

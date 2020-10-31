@@ -14,7 +14,7 @@ effects. These charms are therefore Universal to all Exalts.
 While the manifestation and method of these powers will look different,
 the end result is the same. A Lunar might borrow the eyes of a falcon to
 see further, while an Air Dragonblood would create a focal lens out of
-the air\--but they both would spend the same number of motes and end up
+the air--but they both would spend the same number of motes and end up
 with the same perception advantage.
 
  
@@ -24,7 +24,7 @@ Global
 
 ### There is No Wind
 
-**Cost:** 1m; Supplemental (Ranged Attack)\
+**Cost:** 1m; Supplemental (Ranged Attack)  
 **Mins:** (Ranged Ability) 1
 
 When using a ranged attack, reduce up to (Essence) dice of Disadvantages
@@ -38,8 +38,8 @@ Archery
 
 ### Flashing Vengeance Draw 
 
-**Cost:** 5m, 2i\
-**Type:** Reflexive\
+**Cost:** 5m, 2i  
+**Type:** Reflexive  
 **Mins:** Archery 1
 
 After the Initiative Order has been decided, but before the first
@@ -47,8 +47,8 @@ Action, the Archer may make an immediate Standard Attack.
 
 ### Dragonfly Finds Mate
 
-**Cost:** 2m\
-**Type:** Reflexive\
+**Cost:** 2m  
+**Type:** Reflexive  
 **Mins:** Archery 2
 
 Against an attack that uses a projectile (such as Archery or Thrown),
@@ -59,8 +59,8 @@ This is considered to be a Soak Defense.
 
 ### Forceful Arrow 
 
-**Cost:** 3m 1i\
-**Type:** Supplemental (Attack)\
+**Cost:** 3m 1i  
+**Type:** Supplemental (Attack)  
 **Mins:** Archery 2
 
 On a successful hit, the target(s) are knocked back one Range Band from
@@ -71,8 +71,8 @@ Range Band.
 
 ### Arrow Storm Technique
 
-**Cost:** 5m, 2i\
-**Type:** Supplemental (Attack)\
+**Cost:** 5m, 2i  
+**Type:** Supplemental (Attack)  
 **Mins:** Archery 3
 
 The Exalt buries an area with a flurry of arrows, supplementing either a
@@ -82,8 +82,8 @@ Flurry or Standard Attack by making the attack Undodgeable.
 
 ### Flying Anchor
 
-**Cost:** 5m, 2i\
-**Type:** Primary\
+**Cost:** 5m, 2i  
+**Type:** Primary  
 **Mins:** Archery 3
 
 The Exalt may perform a Grapple Action at range using a projectile. The
@@ -97,8 +97,8 @@ Greater Charms
 
 ### Accuracy Without Distance
 
-**Cost: \--\
-Type:** Permanent\
+**Cost: --  
+Type:** Permanent  
 **Mins:** Archery 4
 
 The Exalts Archery attacks are extended. They now suffer no Defense
@@ -112,8 +112,8 @@ Athletics
 
 ### Graceful Crane Stance
 
-**Cost:** 3m\
-**Type:** Reflexive, Scene\
+**Cost:** 3m  
+**Type:** Reflexive, Scene  
 **Mins:** Athletics 1
 
 The Exalt may perform athletics of balance such as running across things
@@ -122,8 +122,8 @@ awnings, precarious poles, and even laundry lines.
 
 ### Soaring Leap
 
-**Cost:** 3m\
-**Type:** Reflexive\
+**Cost:** 3m  
+**Type:** Reflexive  
 **Mins:** Athletics 2
 
 The Exalt increases their leaping distance, allowing them to cross
@@ -132,8 +132,8 @@ bound, and do not take fall damage from such leaps.
 
 ### Lightning Speed
 
-**Cost:** 3m\
-**Type:** Supplemental\
+**Cost:** 3m  
+**Type:** Supplemental  
 **Mins:** Athletics 3
 
 The Exalt may double their running speed for a specific task, blazing
@@ -146,17 +146,17 @@ one additional Range Band during their action. (This does not count as a
 
 ### Thunderbolt Attack
 
-**Cost:** 2m, 1i\
-**Type:** Supplemental\
+**Cost:** 2m, 1i  
+**Type:** Supplemental  
 **Mins:** Athletics 3
 
 The Exalt may take a free Move Action in conjunction with an attack
 without consuming a Secondary Action.
 
-### Thousand Steps' Stillness
+### Thousand Steps’ Stillness
 
-**Cost:** 3m\
-**Type:** Reflexive\
+**Cost:** 3m  
+**Type:** Reflexive  
 **Mins:** Athletics 4
 
 When dodging, the Exalt may position themselves with purpose. When
@@ -168,15 +168,15 @@ Greater Charms
 
 ### Feather Foot Style
 
-**Cost:** \--\
-**Type:** Permanent\
+**Cost:** --  
+**Type:** Permanent  
 **Mins:** Athletics 4
 
 The Exalt may run up walls, cross liquids, and even run across the
 underside of horizontal surfaces, such as bridges or roofs, so long as
 they continue to run.
 
-In combat "Continuing to run" means that the Exalt must make a Move
+In combat “Continuing to run” means that the Exalt must make a Move
 action each round.
 
 Awareness
@@ -184,8 +184,8 @@ Awareness
 
 ### Sight Without Eyes
 
-**Cost:** 2m\
-**Type:** Reflexive; Scene\
+**Cost:** 2m  
+**Type:** Reflexive; Scene  
 **Mins**: Awareness 1
 
 Reduce any disadvantage from visual conditions such as smoke, fog, and
@@ -193,8 +193,8 @@ darkness by up to (Essence) dice.
 
 ### Awakening Eye
 
-**Cost:** 3m\
-**Type:** Reflexive\
+**Cost:** 3m  
+**Type:** Reflexive  
 **Mins**: Awareness 2
 
 Reroll a Join Battle Roll, taking the preferred result. This may only be
@@ -202,12 +202,12 @@ done once.
 
 ### Uncanny Perception Technique
 
-**Cost: \--\
-Type:** Permanent\
+**Cost: --  
+Type:** Permanent  
 **Mins:** Awareness 2
 
 The presence of dematerialized, intangible, or otherwise spectral
-creatures may be natively detected\--although the precise location still
+creatures may be natively detected--although the precise location still
 remains a mystery. The creature may attempt to use Stealth to combat
 this awareness.
 
@@ -218,8 +218,8 @@ allowing for recognition upon sensing it again.
 
 ### Surprise Anticipation Method
 
-**Cost: \--\
-Type:** Permanent\
+**Cost: --  
+Type:** Permanent  
 **Mins:** Awareness 3
 
 The Exalt suffers no penalties to Awareness rolls occur due to being
@@ -236,12 +236,12 @@ Greater Charms
 
 ### Sense-Destroying Method
 
-**Cost:** 6m\
-**Type:** Primary\
+**Cost:** 6m  
+**Type:** Primary  
 **Mins:** Awareness 4
 
 On touching a target, and by successfully rolling (Cunning + Awareness)
-vs the target's (Stamina + Physique), the Exalt can destroy one of the
+vs the target’s (Stamina + Physique), the Exalt can destroy one of the
 classical five senses at their choice. Only one sense of a target may be
 destroyed in a particular scene.
 
@@ -253,8 +253,8 @@ Brawl
 
 ### Ox-Stunning Blow
 
-**Cost:** 2m\
-**Type:** Supplemental\
+**Cost:** 2m  
+**Type:** Supplemental  
 **Mins**: Brawl 1
 
 On a successful Brawl attack, remove (Essence) Impulse from the
@@ -262,8 +262,8 @@ target(s).
 
 ### Sledgehammer Strike
 
-**Cost:** 4m\
-**Type:** Supplemental\
+**Cost:** 4m  
+**Type:** Supplemental  
 **Mins**: Brawl 2
 
 When attempting to break objects, such as walls, pillars, or other such
@@ -279,20 +279,20 @@ Craft
 
 ### Durability-Enhancing Technique
 
-**Cost:** 2m\
-**Type:** Primary; Scene\
+**Cost:** 2m  
+**Type:** Primary; Scene  
 **Mins:** Craft 1
 
-The Exalt may reinforce an object \--no more than (Essence) meters in
-its largest dimension\--and make it nigh unbreakable.
+The Exalt may reinforce an object --no more than (Essence) meters in its
+largest dimension--and make it nigh unbreakable.
 
-The object is not considered "mundane," and increases the difficulty to
+The object is not considered “mundane,” and increases the difficulty to
 break or otherwise destroy it by (Essence).
 
 ### Discerning Craftsmanship
 
-**Cost:** 3m\
-**Type:** Primary\
+**Cost:** 3m  
+**Type:** Primary  
 **Mins:** Craft 2
 
 The Exalt studies an object, forming its composition and structure into
@@ -301,15 +301,15 @@ their mind.
 For the remainder of the story, the Exalt is granted +2 dice on efforts
 to mimic the style of the original artist. They also may use (Insight +
 Craft), with a +2 dice advantage to study other objects to recognize it
-as the crafter's work, and not a forgery.
+as the crafter’s work, and not a forgery.
 
 (If this current object they are studying is in fact a forgery, the
 difficulty to recognize this fact is lowered by 1).
 
 ### Mark of the Maker
 
-**Cost:** 3m\
-**Type:** Primary\
+**Cost:** 3m  
+**Type:** Primary  
 **Mins:** Craft 2
 
 Glean immediate insight into the original purpose, material makeup, age,
@@ -319,8 +319,8 @@ Greater Charms
 
 ### Timely Prototype
 
-**Cost:** 5m\
-**Type:** Primary\
+**Cost:** 5m  
+**Type:** Primary  
 **Mins:** Craft 4
 
 On activation of this charm, the Exalt may immediately finish a Craft
@@ -338,8 +338,8 @@ Physique
 
 ### Stone-Shattering Step
 
-**Cost:** 2m\
-**Type:** Supplemental\
+**Cost:** 2m  
+**Type:** Supplemental  
 **Mins:** Physique 3
 
 When taking a Move action, the Exalt may burst through any mundane

@@ -25,8 +25,8 @@ presented in.**
 #### Form Weapons and Armor
 
 As well, Martial Arts are restricted by what sorts of **weapons** and
-**armor** the Stylist uses\--after all, it would be all but impossible
-to take the light, dancing maneuvers of Snake Style in Heavy Plate!
+**armor** the Stylist uses--after all, it would be all but impossible to
+take the light, dancing maneuvers of Snake Style in Heavy Plate!
 
 When using multiple styles, Stylist may start to use an array of
 weapons. The **Switch Style** Secondary Action allows for this quick
@@ -41,7 +41,7 @@ what they need.
 ### Weapons
 
 \[\[Need to give a listing of example weapons types. These will be used
-for Attack Ability Specialities...
+for Attack Ability Specialities…
 
 **Melee**
 
@@ -51,7 +51,7 @@ for Attack Ability Specialities...
 
 -   Staff
 
-    -   Note how "Spears" is a Staff with a blade, that can also be
+    -   Note how “Spears” is a Staff with a blade, that can also be
         > thrown like a Javelin.
 
 -   Throwing Disks (Chakram, shields)
@@ -78,8 +78,8 @@ their chosen style.
 Snake Style
 -----------
 
-**Abilities** Brawl, Dodge\
-**Weapons** Unarmed, Needles\
+**Abilities** Brawl, Dodge  
+**Weapons** Unarmed, Needles  
 **Armor** Unarmored, Light
 
 Snake stylists use quick, precise strikes, disrupting Chakras and the
@@ -103,8 +103,8 @@ Lesser Techniques
 
 ### Armor-Penetrating Fang
 
-**Cost:** 3m, 1i; **Mins:** Brawl 2\
-**Type:** Supplemental\
+**Cost:** 3m, 1i; **Mins:** Brawl 2  
+**Type:** Supplemental  
 **Duration:** Instant
 
 The Stylist knows how to precisely strike to deliver their devastating
@@ -113,13 +113,13 @@ spots.. Their attack becomes **Unsoakable.**
 
 ### Crippling Pressure-Point Strike
 
-**Cost:** 3m, 2i; **Mins:** Brawl 3\
-**Type:** Supplemental\
+**Cost:** 3m, 2i; **Mins:** Brawl 3  
+**Type:** Supplemental  
 **Duration:** Instant
 
 On a successful Decisive Action, the Stylist rapidly jabs at their
-Target's nerve clusters and pressure points, numbing and deadening
-portions of their target's body.
+Target’s nerve clusters and pressure points, numbing and deadening
+portions of their target’s body.
 
 The Stylist deals no **Base Damage** on their attack, but may either
 blind one of the senses or paralyze one limb of the target for (Essence)
@@ -127,20 +127,20 @@ blind one of the senses or paralyze one limb of the target for (Essence)
 
 ### Rhythm-Interrupting Venom
 
-**Cost:** 2m; **Mins:** Brawl 3\
-**Type:** Supplemental\
+**Cost:** 2m; **Mins:** Brawl 3  
+**Type:** Supplemental  
 **Duration:** Instant
 
 On a successful attack, the Stylist disrupts the momentum and motions of
-their target, instantly reducing the target's Initiative by 5.
+their target, instantly reducing the target’s Initiative by 5.
 
 Greater Techniques
 ------------------
 
 ### Countless Coils Evasion
 
-**Cost:** (2m and 1i per 1 damage); **Mins:** Brawl 4\
-**Type:** Reflexive\
+**Cost:** (2m and 1i per 1 damage); **Mins:** Brawl 4  
+**Type:** Reflexive  
 **Duration:** Instant
 
 On being the target of a successful attack, the Stylist may react with
@@ -154,25 +154,25 @@ considered to not have hit in the first place.
 
 ### Essence Venom Strike
 
-**Cost:** 6m, 3i; **Mins:** Brawl 5\
-**Type:** Simple\
+**Cost:** 6m, 3i; **Mins:** Brawl 5  
+**Type:** Simple  
 **Duration:** Instant
 
 The Stylist strikes out, making an immediate Contested Roll of their
-(Dexterity +Brawl) against the target's Evasion. Should the Stylist
+(Dexterity +Brawl) against the target’s Evasion. Should the Stylist
 succeed, the target becomes poisoned with vile Essence.
 
-For the Stylist's (Essence) rounds, the Target suffers 2 Damage, and is
+For the Stylist’s (Essence) rounds, the Target suffers 2 Damage, and is
 considered to be at a -2 DV penalty when attacked by the Stylist.
 
 As well, for the remainder of the scene, the target is always considered
-to have "not acted this round" for the purposes of Snake Style bonuses.
+to have “not acted this round” for the purposes of Snake Style bonuses.
 
 Tiger Style
 -----------
 
-**Abilities** Brawl, Athletics\
-**Weapons** Unarmed, Light, Medium\
+**Abilities** Brawl, Athletics  
+**Weapons** Unarmed, Light, Medium  
 **Armor** Unarmored, Light
 
 Tiger Stylists focus on a low-centered, wide stances, which provides
@@ -192,8 +192,8 @@ Lesser Techniques
 
 ### Retreating Momentum
 
-**Cost:** 2m; **Mins:** Brawl 2, Athletics 1\
-**Type:** Reflexive\
+**Cost:** 2m; **Mins:** Brawl 2, Athletics 1  
+**Type:** Reflexive  
 **Duration:** Instant
 
 On an incoming attack, the Stylist whirls around to defend themselves,
@@ -204,21 +204,21 @@ Action.
 
 ### Crimson Leaping Cat
 
-**Cost:** 4m, 1i; **Mins:** Brawl 2, Athletics 1\
-**Type:** Simple\
+**Cost:** 4m, 1i; **Mins:** Brawl 2, Athletics 1  
+**Type:** Simple  
 **Duration:** Instant
 
 The Stylists leaps onto their target, stunning them and halting their
-target's movement.
+target’s movement.
 
-Make a (Dexterity + Athletics) roll against the target's Evasion, if
+Make a (Dexterity + Athletics) roll against the target’s Evasion, if
 successful, the target cannot move from their position for (Essence)
 Rounds.
 
 ### Prey-Maiming Frenzy
 
-**Cost:** 4m, 1i; **Mins:** Brawl 3, Athletics 2\
-**Type:** Supplementary\
+**Cost:** 4m, 1i; **Mins:** Brawl 3, Athletics 2  
+**Type:** Supplementary  
 **Duration:** Instant
 
 Against a stunned, paralyzed, or otherwise forcefully stationary target,
@@ -230,16 +230,16 @@ Greater Techniques
 
 ### Bone-Shattering Bite
 
-**Cost:** 8m, 3i; **Mins:** Brawl 4, , Athletics 3\
-**Type:** Reflexive\
+**Cost:** 8m, 3i; **Mins:** Brawl 4, , Athletics 3  
+**Type:** Reflexive  
 **Duration:** Instant
 
-\[\[Didn't like this one, need another good idea\]\]
+\[\[Didn’t like this one, need another good idea\]\]
 
 ### Angry Predator Frenzy
 
-**Cost:** \--; **Mins:** Brawl 5, , Athletics 4\
-**Type:** Permanent\
+**Cost:** --; **Mins:** Brawl 5, , Athletics 4  
+**Type:** Permanent  
 **Duration:** Permanent
 
 The apex Predator stalks the jungle. While in Tiger Style Form, the
@@ -252,8 +252,8 @@ forcefully stationary target, they may add an additional +2 damage.
 Crane Style
 -----------
 
-**Ability** Presence\
-**Weapons** Unarmed, War Fan, Hook Sword\
+**Ability** Presence  
+**Weapons** Unarmed, War Fan, Hook Sword  
 **Armor** Unarmored
 
 Crane stylists cannot attack, and may only counterattack in certain
@@ -264,8 +264,8 @@ Base damage, during a counterattack is only (Essence/2).
 Silver-Voiced Nightingale Style
 -------------------------------
 
-**Ability** Performance\
-**Weapons** Unarmed\
+**Ability** Performance  
+**Weapons** Unarmed  
 **Armor** Unarmored
 
 Stylists produce Kaias, musical attacks formed out of song and musical
@@ -281,11 +281,11 @@ Base damage is (Charisma+Essence)/2 + (Weapon Modifier)
 Octarine Angles of Impossibility
 --------------------------------
 
-Based on [[Omicron's 2e
-version]{.ul}](http://forum.theonyxpath.com/forum/main-category/exalted/326098-sma-octarine-angles-of-impossibility)
+Based on [<u>Omicron’s 2e
+version</u>](http://forum.theonyxpath.com/forum/main-category/exalted/326098-sma-octarine-angles-of-impossibility)
 
-**Abilities** Lore, Sorcery\
-**Weapons** Unarmed\
+**Abilities** Lore, Sorcery  
+**Weapons** Unarmed  
 **Armor** None
 
 The Octarine Angles of Impossibility style delves into the concepts of
@@ -295,15 +295,15 @@ The Stylist is able to space and compress it in a sheering manner around
 enemies, which is considered a **Ranged Light** **Weapon** (+2 Acc, +1
 Dmg). This uses an Int + Lore Attack.
 
-The Stylist's anima becomes fractured and twisted, as if seen through
+The Stylist’s anima becomes fractured and twisted, as if seen through
 broken glass.
 
 ### Lesser Techniques
 
 #### Angular Time Displacement
 
-**Cost:** 2m; **Mins:** Lore 2, Sorcery 1\
-**Type:** Supplemental (Move)\
+**Cost:** 2m; **Mins:** Lore 2, Sorcery 1  
+**Type:** Supplemental (Move)  
 **Duration:** Instant
 
 The Stylist folds Space and Time of their destination and their current
@@ -316,8 +316,8 @@ across chasms.
 
 #### Book of No Words
 
-**Cost:** 2m; **Mins:** Lore 2, Sorcery 1\
-**Type:** Primary\
+**Cost:** 2m; **Mins:** Lore 2, Sorcery 1  
+**Type:** Primary  
 **Duration:** Instant
 
 The Stylist speaks the language of Nothing, articulating its emptiness
@@ -328,15 +328,15 @@ all enemy characters that can hear the Stylist within Short Range.
 
 #### Door to Nowhere
 
-**Cost:** 4m, 2i; **Mins:** Lore 4, Sorcery 3\
-**Type:** Primary\
+**Cost:** 4m, 2i; **Mins:** Lore 4, Sorcery 3  
+**Type:** Primary  
 **Duration:** Variable
 
 The Door to Nowhere may be opened, forcing those it touches into a state
-of non-existence\--though this cannot last as *nothing*, having no
+of non-existence--though this cannot last as *nothing*, having no
 properties, cannot contain *something*.
 
-The Stylist makes a (Cunning + Sorcery) roll against the target's
+The Stylist makes a (Cunning + Sorcery) roll against the target’s
 **Evasion. (**The target may choose to not Evade.) If successful, the
 target ceases to exist for the next (Essence) actions, where they will
 reappear in a location up to one Range Band away from where they

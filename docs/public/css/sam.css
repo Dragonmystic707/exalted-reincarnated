@@ -1,6 +1,20 @@
 
+/* Heading styles */
+h1 {
+    font-family: "Envision Roman", sans-serif;
+    color: #1C4587;
+}
 
+h2 {
+    font-family: "Goudy", sans-serif;
+    color: #ED85C6;
+}
 
+html {
+    font-size: 18px;
+}
+
+/* Navigation Items */
 ul, ol {
     margin-top: 0;
     margin-bottom: 10px;
@@ -53,6 +67,7 @@ td blockquote {
     border-left: none;
 } 
 
+/* Website elements */
 .spacer {
     border-bottom: 5px solid rgba(255,255,255,.1);
   }
