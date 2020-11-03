@@ -1,5 +1,3 @@
-const scrollnavMin = require("./scrollnav/scrollnav.min");
-
 (function(document) {
   const content = document.querySelector('.page');
   var activeSidebarItem = document.querySelector('.sidebar-nav > a.active');
