@@ -11,7 +11,7 @@
   //   showTopLink: false,
   // })
 
-  scrollnavMin.init(content, {
+  scrollnav.init(content, {
     insertTarget: activeSidebarItem,
     insertLocation: 'after'
   });
