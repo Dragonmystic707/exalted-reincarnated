@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Combat
-order: 08
+order: 8
 ---
 
 Combat

@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Attributes
-order: 04
+order: 4
 ---
 
 Attributes

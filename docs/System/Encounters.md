@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Encounters
-order: 07
+order: 7
 ---
 
 Encounters

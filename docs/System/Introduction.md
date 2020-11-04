@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Introduction
-order: 01
+order: 1
 ---
 
 Preface

@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Abilities
-order: 05
+order: 5
 ---
 
 Abilities

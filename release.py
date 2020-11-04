@@ -117,6 +117,9 @@ def main():
                 file_name, file_ext = os.path.splitext(f0)
                 file_num, file_name = file_name.split("_", maxsplit=1)
 
+                # Make sure the number is a number, and not a string
+                file_num = int(file_num)
+
                 # Construct the header
                 header = "---\n"
                 header += "layout: page\n"
@@ -124,7 +127,7 @@ def main():
                 header += "title: " + file_name + '\n'
                 for key, value in dir_dict["header"].items():
                     header += key + ": " + value + "\n"
-                header += "order: " + file_num + "\n"
+                header += "order: " + str(file_num) + "\n"
                 header += "---\n\n"
 
                 with open(path.join(temp_dir, file_name + ".md"), "r+", encoding="utf8") as f: 

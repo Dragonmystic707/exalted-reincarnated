@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Social
-order: 06
+order: 6
 ---
 
 Social Influence
