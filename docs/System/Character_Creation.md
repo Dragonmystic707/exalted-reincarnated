@@ -1,7 +1,7 @@
 ---
 layout: page
 base_url: System
-title: Character-Creation
+title: Character Creation
 group_order: 1
 order: 2
 ---
@@ -88,7 +88,7 @@ Steps
     Expression, and Great Curse.
 
 2.  Choose your character’s [**<u>Great
-    Curse</u>**](/General-System/#the-great-curse), the character flaw which
+    Curse</u>**](/General_System/#the-great-curse), the character flaw which
     your Exalt struggles with day in and day out. Often, your
     character’s flaw will flare up, causing them to Botch their rolls,
     fail their actions, or otherwise veer them off of their intended

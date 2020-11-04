@@ -1,7 +1,7 @@
 ---
 layout: page
 base_url: System
-title: General-System
+title: General System
 group_order: 1
 order: 3
 ---

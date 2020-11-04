@@ -97,9 +97,11 @@ def main():
             file_list = [f for f in  os.listdir(file_dir) if f.endswith('.docx')]
             for f0 in file_list:
                 file_name, file_ext = os.path.splitext(f0)
-                file_num, file_name = file_name.split("_", maxsplit=1)
+                file_num, src_file_name = file_name.split("_", maxsplit=1)
+                # make the filename safe
+                file_name = re.sub(r' ', '_', src_file_name)
                 # Export out the base markdown to the temporary files
-                bash_cmd = "pandoc " + path.join(file_dir, f0) + " -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc" 
+                bash_cmd = "pandoc \"" + path.join(file_dir, f0) + "\" -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc" 
                 subprocess.Popen(bash_cmd).wait() 
 
                 
@@ -124,6 +126,10 @@ def main():
                 file_name, file_ext = os.path.splitext(f0)
                 file_num, file_name = file_name.split("_", maxsplit=1)
 
+                title_name = file_name
+                # make the filename safe
+                file_name = re.sub(r' ', '_', file_name)
+
                 # Make sure the number is a number, and not a string
                 file_num = int(file_num)
 
@@ -131,7 +137,7 @@ def main():
                 header = "---\n"
                 header += "layout: page\n"
                 header += "base_url: " + dir_dict['base_url'] + '\n'
-                header += "title: " + file_name + '\n'
+                header += "title: " + title_name + '\n'
                 for key, value in dir_dict["header"].items():
                     header += key + ": " + value + "\n"
                 header += "group_order: " + str(group_order) + "\n"

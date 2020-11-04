@@ -75,3 +75,24 @@ td blockquote {
 .sidebar-split {
     border-bottom: 5px solid rgba(255,255,255,.1);
   }
+
+.sidebar-nav-chapter-item {
+    display: block;
+  }
+  .sidebar-nav-chapter-item.active,
+  a.sidebar-nav-chapter-item:hover,
+  a.sidebar-nav-chapter-item:focus {
+    text-decoration: none;
+    background-color: rgba(255,255,255,.1);
+    border-color: transparent;
+  }
+  
+  @media (min-width: 30em) {
+    .sidebar-chapter-chapter-item {
+      padding: 0rem;
+    }
+    .sidebar-nav-chapter-item {
+      padding-left:  0rem;
+      padding-right: 0rem;
+    }
+  }

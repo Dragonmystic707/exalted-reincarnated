@@ -1,7 +1,7 @@
 ---
 layout: page
 base_url: System
-title: Sorcery-and-Necromancy
+title: Sorcery and Necromancy
 group_order: 1
 order: 12
 ---
