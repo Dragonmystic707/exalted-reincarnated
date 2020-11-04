@@ -19,7 +19,7 @@
 
     <div class="spacer"></div>
     <!-- Add Core rules -->
-    {% assign pages_grouped = site.pages | group_by: 'base_url' %}
+    {% assign pages_grouped = site.pages | group_by: 'base_url' | sort: 'group_order' %}
     {% for group in pages_grouped %}
       {% if group.items[0].order != null and group.items[0].title != null %}
         {% assign items_sorted = group.items | sort: "order" %}

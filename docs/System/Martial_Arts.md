@@ -2,6 +2,7 @@
 layout: page
 base_url: System
 title: Martial_Arts
+group_order: 1
 order: 13
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 base_url: System
 title: Powers
+group_order: 1
 order: 10
 ---
 

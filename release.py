@@ -13,6 +13,13 @@ core = {
     }
 }
 
+solars = {
+    "folder": "Solars",
+    "base_url": "Solars",
+    "header": {
+    }
+}
+
 
 # solars = {
 #     "name": "Solars",
@@ -47,7 +54,7 @@ core = {
 #     }
 # }
 
-src_list = [ core]
+src_list = [ core, solars]
 
 
 def main():
@@ -60,7 +67,7 @@ def main():
     # Make sure the temporary file doesn't exist 
     temp_name = "temp.md"
 
-
+    group_order = 1
     # Create the Markdown release
     for dir_dict in src_list:
         with tempfile.TemporaryDirectory() as temp_dir:
@@ -127,6 +134,7 @@ def main():
                 header += "title: " + file_name + '\n'
                 for key, value in dir_dict["header"].items():
                     header += key + ": " + value + "\n"
+                header += "group_order: " + str(group_order) + "\n"
                 header += "order: " + str(file_num) + "\n"
                 header += "---\n\n"
 
@@ -150,6 +158,8 @@ def main():
 
                     with open(path.join(new_dir, file_name + ".md"), "w", encoding="utf8") as w:
                         w.write(header + data) 
+
+        group_order += 1
     #     temp_dir = 
     #     if path.exists(temp_file):
     #         os.remove(temp_file)

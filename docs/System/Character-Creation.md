@@ -2,6 +2,7 @@
 layout: page
 base_url: System
 title: Character-Creation
+group_order: 1
 order: 2
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 base_url: System
 title: Merits
+group_order: 1
 order: 14
 ---
 
