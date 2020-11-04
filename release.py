@@ -10,7 +10,6 @@ core = {
     "folder": "System",
     "base_url": "System",
     "header": {
-        "type": "core"
     }
 }
 
@@ -121,6 +120,8 @@ def main():
                 # Construct the header
                 header = "---\n"
                 header += "layout: page\n"
+                header += "base_url: " + dir_dict['base_url'] + '\n'
+                header += "title: " + file_name + '\n'
                 for key, value in dir_dict["header"].items():
                     header += key + ": " + value + "\n"
                 header += "order: " + file_num + "\n"

@@ -1,6 +1,7 @@
 ---
 layout: page
-type: core
+base_url: System
+title: Abilities
 order: 05
 ---
 

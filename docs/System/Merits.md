@@ -1,6 +1,7 @@
 ---
 layout: page
-type: core
+base_url: System
+title: Merits
 order: 14
 ---
 

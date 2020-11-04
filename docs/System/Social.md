@@ -1,6 +1,7 @@
 ---
 layout: page
-type: core
+base_url: System
+title: Social
 order: 06
 ---
 
