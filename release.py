@@ -7,7 +7,7 @@ import os
 import os.path as path
 
 core = {
-    "folder": "Core",
+    "folder": "System",
     "base_url": "System",
     "header": {
         "type": "core"
@@ -67,7 +67,7 @@ def main():
         with tempfile.TemporaryDirectory() as temp_dir:
 
             file_dir = path.join(src_dir, dir_dict["folder"])
-            new_dir = path.join(page_dir, dir_dict["folder"])
+            new_dir = path.join(page_dir, dir_dict["base_url"])
             if not path.exists(new_dir):
                 os.makedirs(new_dir)
 
@@ -96,14 +96,7 @@ def main():
                 bash_cmd = "pandoc " + path.join(file_dir, f0) + " -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc" 
                 subprocess.Popen(bash_cmd).wait() 
 
-                # Construct the header
-                header = "---\n"
-                header += "layout: page\n"
-                for key, value in dir_dict["header"].items():
-                    header += key + ": " + value + "\n"
-                header += "order: " + file_num + "\n"
-                header += "---\n\n"
-
+                
                 # Consume the table of Contents
                 with open(path.join(temp_dir, file_name + ".md"), "r+", encoding="utf8") as f:
                     data_arr = f.readlines()
@@ -124,6 +117,14 @@ def main():
             for f0 in file_list:
                 file_name, file_ext = os.path.splitext(f0)
                 file_num, file_name = file_name.split("_", maxsplit=1)
+
+                # Construct the header
+                header = "---\n"
+                header += "layout: page\n"
+                for key, value in dir_dict["header"].items():
+                    header += key + ": " + value + "\n"
+                header += "order: " + file_num + "\n"
+                header += "---\n\n"
 
                 with open(path.join(temp_dir, file_name + ".md"), "r+", encoding="utf8") as f: 
                     first_header_ind = 0

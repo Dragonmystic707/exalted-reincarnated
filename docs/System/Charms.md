@@ -1,7 +1,7 @@
 ---
 layout: page
 type: core
-order: 15
+order: 11
 ---
 
 Universal Charms
