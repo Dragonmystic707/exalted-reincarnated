@@ -17,12 +17,21 @@ html {
 /* Navigation Items */
 ul, ol {
     margin-top: 0;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+    padding-left: 25px;
 }
 
 ul ul, ol ul, ul ol, ol ol {
     margin-bottom: 0;
 }
+/* Sidebar Nav */
+
+.sidebar-nav-item {
+    display: block;
+    padding: 0.3rem 0.3rem;
+    border-top: 1px solid rgba(255,255,255,.1);
+}
+
 
 /* Second list item indent */
 .scroll-nav li li {
@@ -42,11 +51,11 @@ ul ul, ol ul, ul ol, ol ol {
 }
 
 
-.scroll-nav li.active > ol, ul{
+.scroll-nav__item--active > ol, ul{
     display: block;
 }
 
-.scroll-nav li.active > a {
+.scroll-nav__item--active > a {
     border-left: 2px solid;
     margin-left: -20px;
     padding-left: 18px;
@@ -79,20 +88,57 @@ td blockquote {
 .sidebar-nav-chapter-item {
     display: block;
   }
-  .sidebar-nav-chapter-item.active,
-  a.sidebar-nav-chapter-item:hover,
-  a.sidebar-nav-chapter-item:focus {
+.sidebar-nav-chapter-item.active,
+a.sidebar-nav-chapter-item:hover,
+a.sidebar-nav-chapter-item:focus {
     text-decoration: none;
     background-color: rgba(255,255,255,.1);
     border-color: transparent;
-  }
-  
-  @media (min-width: 30em) {
+    }
+
+@media (min-width: 30em) {
     .sidebar-chapter-chapter-item {
-      padding: 0rem;
+        padding: 0rem;
     }
     .sidebar-nav-chapter-item {
-      padding-left:  0rem;
-      padding-right: 0rem;
+        padding-left:  0rem;
+        padding-right: 0rem;
     }
+}
+
+/* Button collapse */
+ /* Style the button that is used to open and close the collapsible content */
+  .collapsible {
+    background-color: #202020;
+    cursor: pointer;
+    padding: 10px 5px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    color: white;
   }
+
+  .collapsible:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: white;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .collapsible.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .collapsible.active, .collapsible:hover {
+    background-color: #787878;
+  } 
+  
+  /* Style the collapsible content. Note: hidden by default */
+ .sidebar-nav-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}

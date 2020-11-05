@@ -12,11 +12,6 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
 
-    {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
-
     <div class="spacer"></div>
     <!-- Add All the Pages-->
     {% assign pages_grouped = site.pages | group_by: 'base_url' | sort: 'group_order' %}
@@ -25,9 +20,8 @@
         {% assign items_sorted = group.items | sort: "order" %}
         {% assign item0 = items_sorted[0] %}
         {% if item0.title != null %}
-          {% assign isActive = page.url contains item0.base_url %}
-          <a class="sidebar-nav-item{% if isActive == true %} active{% endif %}" href="{{ item0.url | absolute_url }}">{{ item0.base_url }}</a>
-          {% if isActive %}
+          <button type="button" class="sidebar-nav-item collapsible{% if page.url contains item0.base_url == true %} active{% endif %}">{{ item0.base_url }}</button>
+          <div class ="sidebar-nav-content">
             <ol class="sidebar-nav-chapter-list">
             {% for item in items_sorted %}
               <li class="sidebar-nav-chapter-item">
@@ -35,7 +29,7 @@
               </li>
             {% endfor %}
             </ol>
-          {% endif %}
+          </div>
         {% endif %}
         {% if item0.base_url == "System" %} 
           <div class="spacer"></div>
@@ -44,8 +38,6 @@
     {% endfor %}
 
 
-    
-   
   </nav>
 
   <div class="sidebar-split"></div>
