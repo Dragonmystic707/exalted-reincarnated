@@ -4,6 +4,10 @@ base_url: System
 title: Powers
 group_order: 1
 order: 10
+prev_url: Projects
+prev_title: Projects
+next_url: Charms
+next_title: Charms
 ---
 
 Powers

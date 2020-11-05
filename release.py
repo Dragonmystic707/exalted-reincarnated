@@ -91,19 +91,25 @@ def main():
                     rtn_str = "(" + header_name + ")"
                 return rtn_str 
 
-
+            
 
             # Load all the docx's, in numerical order.
             file_list = [f for f in  os.listdir(file_dir) if f.endswith('.docx')]
+            # URL List for previous/next
+            # Oversize it in case we have missing chapters
+            url_list = [None] * 99
             for f0 in file_list:
                 file_name, file_ext = os.path.splitext(f0)
-                file_num, src_file_name = file_name.split("_", maxsplit=1)
+                file_num, file_name = file_name.split("_", maxsplit=1)
                 # make the filename safe
-                file_name = re.sub(r' ', '_', src_file_name)
+                title_name = file_name
+                file_name = re.sub(r' ', '_', file_name)
+                url_list[int(file_num)] = {"url": file_name, "title": title_name}
                 # Export out the base markdown to the temporary files
                 bash_cmd = "pandoc \"" + path.join(file_dir, f0) + "\" -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc" 
                 subprocess.Popen(bash_cmd).wait() 
 
+                
                 
                 # Consume the table of Contents
                 with open(path.join(temp_dir, file_name + ".md"), "r+", encoding="utf8") as f:
@@ -142,6 +148,12 @@ def main():
                     header += key + ": " + value + "\n"
                 header += "group_order: " + str(group_order) + "\n"
                 header += "order: " + str(file_num) + "\n"
+                if file_num > 0 and url_list[file_num - 1]:
+                    header += "prev_url: " + url_list[file_num - 1]["url"] + "\n"
+                    header += "prev_title: " + url_list[file_num - 1]["title"] + "\n"
+                if url_list[file_num + 1]:
+                    header += "next_url: " + url_list[file_num + 1]["url"] + "\n"
+                    header += "next_title: " + url_list[file_num + 1]["title"] + "\n"
                 header += "---\n\n"
 
                 with open(path.join(temp_dir, file_name + ".md"), "r+", encoding="utf8") as f: 

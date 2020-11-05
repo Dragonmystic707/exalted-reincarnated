@@ -4,6 +4,8 @@ base_url: Solars
 title: Introduction
 group_order: 2
 order: 1
+next_url: Charms
+next_title: Charms
 ---
 
 Introduction

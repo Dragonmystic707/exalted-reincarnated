@@ -142,3 +142,52 @@ a.sidebar-nav-chapter-item:focus {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
 }
+
+/* Link header/Footer */
+.page-link-top {
+    overflow: hidden; /* clearfix */
+    margin-left: -1rem;
+    margin-right: -1rem;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    color: #ccc;
+    text-align: center;
+  }
+
+  .page-link-bottom {
+    overflow: hidden; /* clearfix */
+    margin-left: -1rem;
+    margin-right: -1rem;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    color: #ccc;
+    text-align: center;
+  }
+
+
+  @media (min-width: 30em) {
+    .page-link-top {
+      margin-top: 0rem;
+      margin-left: 0;
+      margin-right: 0;
+      margin-bottom: 1rem;
+    }
+    .page-link-bottom {
+        margin-top: 0rem;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 3rem;
+      }
+    .pagination-item {
+      float: left;
+      width: 50%;
+    }
+    .pagination-item:first-child {
+      margin-bottom: 0;
+      border-top-left-radius:    4px;
+      border-bottom-left-radius: 4px;
+    }
+    .pagination-item:last-child {
+      margin-left: -1px;
+      border-top-right-radius:    4px;
+      border-bottom-right-radius: 4px;
+    }
+  }

@@ -4,6 +4,10 @@ base_url: System
 title: Social
 group_order: 1
 order: 6
+prev_url: Abilities
+prev_title: Abilities
+next_url: Encounters
+next_title: Encounters
 ---
 
 Social Influence

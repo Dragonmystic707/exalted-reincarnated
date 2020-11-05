@@ -4,6 +4,10 @@ base_url: System
 title: Encounters
 group_order: 1
 order: 7
+prev_url: Social
+prev_title: Social
+next_url: Combat
+next_title: Combat
 ---
 
 Encounters

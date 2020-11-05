@@ -4,6 +4,10 @@ base_url: System
 title: Combat
 group_order: 1
 order: 8
+prev_url: Encounters
+prev_title: Encounters
+next_url: Projects
+next_title: Projects
 ---
 
 Combat

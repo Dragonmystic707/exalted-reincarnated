@@ -4,6 +4,8 @@ base_url: Solars
 title: Charms
 group_order: 2
 order: 2
+prev_url: Introduction
+prev_title: Introduction
 ---
 
 Global Charms

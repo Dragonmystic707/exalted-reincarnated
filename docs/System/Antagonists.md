@@ -4,6 +4,8 @@ base_url: System
 title: Antagonists
 group_order: 1
 order: 15
+prev_url: Merits
+prev_title: Merits
 ---
 
 Antagonists

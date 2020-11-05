@@ -4,6 +4,10 @@ base_url: System
 title: Merits
 group_order: 1
 order: 14
+prev_url: Martial_Arts
+prev_title: Martial Arts
+next_url: Antagonists
+next_title: Antagonists
 ---
 
 Merits

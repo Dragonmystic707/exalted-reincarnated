@@ -4,6 +4,10 @@ base_url: System
 title: Projects
 group_order: 1
 order: 9
+prev_url: Combat
+prev_title: Combat
+next_url: Powers
+next_title: Powers
 ---
 
 Projects

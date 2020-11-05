@@ -4,6 +4,8 @@ base_url: System
 title: Introduction
 group_order: 1
 order: 1
+next_url: Character_Creation
+next_title: Character Creation
 ---
 
 Preface

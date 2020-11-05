@@ -4,6 +4,10 @@ base_url: System
 title: Sorcery and Necromancy
 group_order: 1
 order: 12
+prev_url: Charms
+prev_title: Charms
+next_url: Martial_Arts
+next_title: Martial Arts
 ---
 
 Spells

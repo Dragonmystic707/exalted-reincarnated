@@ -4,6 +4,10 @@ base_url: System
 title: Abilities
 group_order: 1
 order: 5
+prev_url: Attributes
+prev_title: Attributes
+next_url: Social
+next_title: Social
 ---
 
 Abilities

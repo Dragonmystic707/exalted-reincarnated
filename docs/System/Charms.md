@@ -4,6 +4,10 @@ base_url: System
 title: Charms
 group_order: 1
 order: 11
+prev_url: Powers
+prev_title: Powers
+next_url: Sorcery_and_Necromancy
+next_title: Sorcery and Necromancy
 ---
 
 Universal Charms

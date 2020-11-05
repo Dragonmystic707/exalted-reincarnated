@@ -4,6 +4,10 @@ base_url: System
 title: Martial Arts
 group_order: 1
 order: 13
+prev_url: Sorcery_and_Necromancy
+prev_title: Sorcery and Necromancy
+next_url: Merits
+next_title: Merits
 ---
 
 Martial Arts

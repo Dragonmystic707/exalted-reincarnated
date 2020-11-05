@@ -4,6 +4,10 @@ base_url: System
 title: Character Creation
 group_order: 1
 order: 2
+prev_url: Introduction
+prev_title: Introduction
+next_url: General_System
+next_title: General System
 ---
 
 Character Creation
