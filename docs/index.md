@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-order: 0
+title: Downloads
+order: 1
 ---
 
 Exalted Reincaranated is a fan-made, top-to-bottom mechanics rewrite of the [**Exalted System**](http://theonyxpath.com/category/worlds/exalted/) by Onyx Path Publishing.
@@ -15,54 +15,6 @@ The goal is to make a system that focuses more on Player actions, rather than sy
 
 [<u>Development Discord Channel</u>](https://discord.gg/JxmYUSD)
 
-Downloads
-==========
-
-Tools
------
-
-<a href="/assets/downloads/Summary.pdf" download>Rules Summary (Cheat Sheet)</a>
-
-[**<u>Character Sheets</u>**](https://docs.google.com/spreadsheets/d/1jRyQCIH2EfPr_X8OzsWhJxdUE4AAg2E7K3Lh8oMEWuQ/edit?usp=sharing)
-
-Downloads
----------
-
-<a href="/assets/downloads/Exalted_Reincarnated.zip" download>Download All (zip)</a>
-
-<a href="/assets/downloads/Core.pdf" download>Core Book</a>
-
-Exaltations
-----------
-
-**<u><a href="/assets/downloads/Solars.pdf" download>Solars</a></u>**
-Paragons of mankind, Solars turn their blessing inwards to heighten their already impressive skills and abilities. With their Supernal Ability, Solars may access and master greater powers faster than any other Exalt.
-
-**Note** The following "Stubs" are notes and mechanics, intended for playtesting and future development.
-
-**<u><a href="/assets/downloads/Lunars.pdf" download>Lunars</a></u>** \[Stub\]
-
-**<u><a href="/assets/downloads/Sidereals.pdf" download>Sidereals</a></u>** \[Stub\]
-
-**Dragonblooded**
-
-**Abyssals**
-
-**<u><a href="/assets/downloads/Infernals.pdf" download>Infernals</a></u>** \[Stub\]
-
-**Alchemicals**
-
-**Getimian**
-
-**Liminals**
-
-**Exigents**
-
-**Fae**
-
-Shards
-------
-**<u><a href="/assets/downloads/Nocturnals.pdf" download>Nocturnals</a></u>** \[Stub\]
 
  Updates and Current Goals
 ==========================
