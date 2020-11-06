@@ -11,11 +11,11 @@
   
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-    <a class="sidebar-nav-item{% if page.title == 'Downloads' %} active{% endif %}" href="{{ '/Downloads' | absolute_url }}">Home</a>
+    <a class="sidebar-nav-item{% if page.title == 'Downloads' %} active{% endif %}" href="{{ '/Downloads' | absolute_url }}">Downloads</a>
 
     <div class="spacer"></div>
     <!-- Add All the Pages-->
-    {% assign pages_grouped = site.pages | group_by: 'base_url' | sort: 'group_order' %}
+    {% assign pages_grouped = site.pages | sort: 'group_order' | group_by: 'base_url' %}
     {% for group in pages_grouped %}
       {% if group.items[0].order != null and group.items[0].title != null %}
         {% assign items_sorted = group.items | sort: "order" %}
