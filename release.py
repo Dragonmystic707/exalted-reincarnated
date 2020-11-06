@@ -20,41 +20,36 @@ solars = {
     }
 }
 
+lunars = {
+    "folder": "Lunars",
+    "base_url": "Lunars",
+    "header": {
+    }
+}
 
-# solars = {
-#     "name": "Solars",
-#     "folder": "Exaltations",
-#     "header": {
-#         "title": "Solars [WIP]",
-#         "type": "exalt"
-#     }
-# }
-# lunars = {
-#     "name": "Lunars",
-#     "folder": "Exaltations",
-#     "header": {
-#         "title": "Lunars [Stub]",
-#         "type": "exalt"
-#     }
-# }
-# sidereals = {
-#     "name": "Sidereals",
-#     "folder": "Exaltations",
-#     "header": {
-#         "title": "Sidereals [Stub]",
-#         "type": "exalt"
-#     }
-# }
-# nocturnals = {
-#     "name": "Nocturnals",
-#     "folder": "Exaltations",
-#     "header": {
-#         "title": "Nocturnals [Stub]",
-#         "type": "exalt"
-#     }
-# }
+sidereals = {
+    "folder": "Sidereals",
+    "base_url": "Sidereals",
+    "header": {
+    }
+}
 
-src_list = [ core, solars]
+infernals = {
+    "folder": "Infernals",
+    "base_url": "Infernals",
+    "header": {
+    }
+}
+
+nocturnals = {
+    "folder": "Nocturnals",
+    "base_url": "Nocturnals",
+    "header": {
+    }
+}
+
+
+src_list = [ core, solars, lunars, sidereals, infernals, nocturnals]
 
 
 def main():
@@ -62,10 +57,6 @@ def main():
     src_dir = path.join(script_dir, "src")
     page_dir = path.join(script_dir, "docs")
     # media_dir = path.join(page_dir, "media")
-
-    
-    # Make sure the temporary file doesn't exist 
-    temp_name = "temp.md"
 
     group_order = 1
     # Create the Markdown release
