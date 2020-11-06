@@ -615,13 +615,13 @@ event in the Scene, no matter how many attempts are made.
 **Examples:**
 
 -   An Antagonist group escapes after their defeat in a fight, slipping
-    > the bonds or escaping pursuit.
+    the bonds or escaping pursuit.
 
 -   The Caves the Party is in start rumbling, warning of an imminent
-    > collapse in but two short Rounds.
+    collapse in but two short Rounds.
 
 -   A source of information shoots down interrogation techniques,
-    > refusing to divulge important details.
+    refusing to divulge important details.
 
 The main source of Strife is gained by players choosing to **Botch**
 their rolls.

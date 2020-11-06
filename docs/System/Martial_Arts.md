@@ -24,8 +24,8 @@ from that Style may be used during the same action. (i.e. Combos cannot
 contain Techniques from multiple Styles..) Characters may switch their
 Style and their Weapons at the start of their action as a free movement.
 
-Techniques, unlike other Powers, **must be bought in the order they are
-presented in.**
+Techniques, unlike other Powers, **<u>must be bought in the order they
+are presented in.</u>**
 
 #### Form Weapons and Armor
 
@@ -56,12 +56,10 @@ for Attack Ability Specialities…
 
 -   Staff
 
-    -   Note how “Spears” is a Staff with a blade, that can also be
-        > thrown like a Javelin.
+-   Note how “Spears” is a Staff with a blade, that can also be thrown
+    like a Javelin.
 
 -   Throwing Disks (Chakram, shields)
-
--   
 
 Merits
 ------
@@ -104,7 +102,6 @@ quick piercing strikes. Trainees often use harmless chopsticks as their
 practice weapons.
 
 Lesser Techniques
------------------
 
 ### Armor-Penetrating Fang
 
@@ -140,7 +137,6 @@ On a successful attack, the Stylist disrupts the momentum and motions of
 their target, instantly reducing the target’s Initiative by 5.
 
 Greater Techniques
-------------------
 
 ### Countless Coils Evasion
 
@@ -193,7 +189,6 @@ body in their strikes. As well, their attacks are vicious and carry with
 them the momentum, providing **+1 to Base Damage**.
 
 Lesser Techniques
------------------
 
 ### Retreating Momentum
 
@@ -231,7 +226,6 @@ the Stylist may make frenzied, brutal strikes, increasing their Base
 Damage by +2.
 
 Greater Techniques
-------------------
 
 ### Bone-Shattering Bite
 
@@ -303,9 +297,9 @@ Dmg). This uses an Int + Lore Attack.
 The Stylist’s anima becomes fractured and twisted, as if seen through
 broken glass.
 
-### Lesser Techniques
+Lesser Techniques
 
-#### Angular Time Displacement
+### Angular Time Displacement
 
 **Cost:** 2m; **Mins:** Lore 2, Sorcery 1  
 **Type:** Supplemental (Move)  
@@ -319,7 +313,7 @@ When taking a Move Action, the stylist does not cross any intervening
 places. This may be used to pass through walls, cross vertically, and
 across chasms.
 
-#### Book of No Words
+### Book of No Words
 
 **Cost:** 2m; **Mins:** Lore 2, Sorcery 1  
 **Type:** Primary  
@@ -331,7 +325,7 @@ with perfect articulation, yet devoid of any meaning.
 The Stylist takes a Distract Action of (Cunning + Lore) vs Resolve of
 all enemy characters that can hear the Stylist within Short Range.
 
-#### Door to Nowhere
+### Door to Nowhere
 
 **Cost:** 4m, 2i; **Mins:** Lore 4, Sorcery 3  
 **Type:** Primary  
@@ -353,12 +347,10 @@ fully protected as well.
 The Target gains a resistance to this effect, gaining +2 Evasion against
 the attack to avoid it for the remainder of the scene.
 
-### Greater Techniques
-
- 
+Greater Techniques
 
 Magma Kraken
 ------------
 
 The Sorcerer summons the great kraken of the Deeps to attack their foes,
-using its blazing fire tendrils for their combat Prowess
+using its blazing fire tendrils for their combat Prowess.

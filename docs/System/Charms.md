@@ -22,9 +22,7 @@ see further, while an Air Dragonblood would create a focal lens out of
 the air--but they both would spend the same number of motes and end up
 with the same perception advantage.
 
- 
-
-Global
+ Global
 ------
 
 ### There is No Wind
@@ -35,8 +33,6 @@ Global
 When using a ranged attack, reduce up to (Essence) dice of Disadvantages
 caused by non-visual conditions such as high winds, storms, sleet, and
 other similar Environmental Effects.
-
- 
 
 Archery
 -------
@@ -96,8 +92,6 @@ Exalt does not suffer from the negative penalties of the Grapple, nor
 can the Exalt forcefully move the target, since it is the projectile
 pinning the target down, not the Exalt.
 
- 
-
 Greater Charms
 
 ### Accuracy Without Distance
@@ -109,8 +103,6 @@ Type:** Permanent
 The Exalts Archery attacks are extended. They now suffer no Defense
 Penalty at Medium Range, and may attack at Long Range with a Partial
 Range Defense.
-
- 
 
 Athletics
 ---------
@@ -166,8 +158,6 @@ without consuming a Secondary Action.
 
 When dodging, the Exalt may position themselves with purpose. When
 defending with Evasion, they may gain 2 Impulse.
-
- 
 
 Greater Charms
 
@@ -234,8 +224,6 @@ may always be made while asleep.
 In addition, the Exalt never suffers from the (-2 DV) penalty during an
 ambush round, and may act in a normal turn order. However, they will
 still only be able to take a Primary or Secondary Action.
-
- 
 
 Greater Charms
 
@@ -353,5 +341,3 @@ width.
 
 For non-mundane walls, they may add +(Essence) to smash through the
 wall.
-
-Greater Charms

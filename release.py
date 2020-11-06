@@ -56,6 +56,7 @@ def main():
     script_dir = os.path.dirname(__file__)
     src_dir = path.join(script_dir, "src")
     page_dir = path.join(script_dir, "docs")
+    soffice = "\"C:\\Program Files\\LibreOffice\\program\\soffice\""
     # media_dir = path.join(page_dir, "media")
 
     group_order = 1
@@ -85,19 +86,27 @@ def main():
             
 
             # Load all the docx's, in numerical order.
-            file_list = [f for f in  os.listdir(file_dir) if f.endswith('.docx')]
+            file_list = [f for f in  os.listdir(file_dir) if f.endswith('.odt')]
+            for f0 in file_list:
+                # For some reason, pandoc doesn't work well with odt. So we have to go to docx first using libreoffice
+                soffice_cmd = soffice + " --headless --convert-to docx \"" + path.join(file_dir, f0) + "\" --outdir " + temp_dir
+                subprocess.Popen(soffice_cmd).wait()
+            
+            odt_list = [f for f in  os.listdir(temp_dir) if f.endswith('.docx')]
             # URL List for previous/next
             # Oversize it in case we have missing chapters
             url_list = [None] * 99
-            for f0 in file_list:
+            for f0 in odt_list:
                 file_name, file_ext = os.path.splitext(f0)
                 file_num, file_name = file_name.split("_", maxsplit=1)
                 # make the filename safe
                 title_name = file_name
                 file_name = re.sub(r' ', '_', file_name)
                 url_list[int(file_num)] = {"url": file_name, "title": title_name}
+                
+
                 # Export out the base markdown to the temporary files
-                bash_cmd = "pandoc \"" + path.join(file_dir, f0) + "\" -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc" 
+                bash_cmd = "pandoc \"" + path.join(temp_dir, f0) + "\" -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc" 
                 subprocess.Popen(bash_cmd).wait() 
 
                 
@@ -169,6 +178,8 @@ def main():
                         w.write(header + data) 
 
         group_order += 1
+
+
     #     temp_dir = 
     #     if path.exists(temp_file):
     #         os.remove(temp_file)

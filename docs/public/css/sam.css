@@ -2,12 +2,26 @@
 /* Heading styles */
 h1 {
     font-family: "Envision Roman", sans-serif;
-    color: #1C4587;
+    color: #fecc30;
+    font-weight: bold;
+    font-size: 2.5rem;
+
 }
 
 h2 {
-    font-family: "Goudy", sans-serif;
-    color: #3D85C6;
+    font-family: "Envision Roman", sans-serif;
+    color: #25383C;
+    font-weight: bold;
+    margin-top: 20px;
+    border-bottom: solid;
+}
+
+h3 {
+  font-family: "Goudy", sans-serif;
+  color: #504A4B;
+  font-size: 1.25rem;
+  margin-top: 1.5rem;
+  text-decoration: underline;
 }
 
 html {

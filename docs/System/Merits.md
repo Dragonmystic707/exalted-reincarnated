@@ -188,6 +188,8 @@ Local Tongue and Tradespeak, the common language.
 
 \[\[You get a manse!\]\]
 
+ 
+
 Mutations
 =========
 
@@ -217,20 +219,20 @@ without purchasing it as a merit, they do not get the effect. \]\]
 
 -   Fine Dexterity
 
-    -   Humans have this boon.
+    1.  Humans have this boon.
 
 -   Change of Size (Larger/smaller) --only with knack.
 
-    -   Carrying Capacity
+    1.  Carrying Capacity
 
-    -   +more to feats of strength
+        +more to feats of strength
 
 **Banes**
 
 -   Loss of dexterity (cannot open doors, etc.)
 
-    -   Humans have the “fine dexterity” Boon. The baseline is going to
-        > be around a house cat. This Bane goes below tht.
+    1.  Humans have the “fine dexterity” Boon. The baseline is going to
+        be around a house cat. This Bane goes below tht.
 
 -   Conspicuous
 
@@ -247,58 +249,58 @@ All Mutations are built with a combination of **Boons** and **Banes**.
 
 -   (+2) Flurry Bonus
 
-    -   The first Flurry of any attack does not pay Impulse.
+    1.  The first Flurry of any attack does not pay Impulse.
 
 -   (+1) Dextrous Limb(s).
 
-    -   Allows for grabbing and holding onto items at once. (Humans
-        > naturally have this boon for their two arms.)
+    1.  Allows for grabbing and holding onto items at once. (Humans
+        naturally have this boon for their two arms.)
 
 -   (+1) Subtle Mutation
 
-    -   Most Mutations are obvious, this modifier allows the mutation to
-        > be hidden by natural means when not in use. (e.g. retractable
-        > claws).
+    1.  Most Mutations are obvious, this modifier allows the mutation to
+        be hidden by natural means when not in use. (e.g. retractable
+        claws).
 
 -   (+X) Endurance Bonus
 
-    -   Grants 3x (X) extra Endurance. At level 3 or above, cannot be
-        > paired with Subtle.
+    1.  Grants 3x (X) extra Endurance. At level 3 or above, cannot be
+        paired with Subtle.
 
 -   (+2) Physical Speciality Bonus
 
-    -   +1 to a speciality in an ability. May only affect Natural,
-        > Physical Abilities such as Athletics, Physique, Stealth, and
-        > Awareness.
+    1.  +1 to a speciality in an ability. May only affect Natural,
+        Physical Abilities such as Athletics, Physique, Stealth, and
+        Awareness.
 
 -   (+1, +2) Natural Weaponry
 
-    -   +1 grants Unarmed and Light Weapons. Paired with subtle, this
-        > can be something like retractable claws.
+    1.  +1 grants Unarmed and Light Weapons. Paired with subtle, this
+        can be something like retractable claws.
 
-    -   +2 grants Medium and Heavy natural Weapons. Cannot be paired
-        > with subtle.
+        +2 grants Medium and Heavy natural Weapons. Cannot be paired
+        with subtle.
 
 -   (+2) Non-Standard Movement. (wings, gas bladder, fins,
-    > wall-walking).
+    wall-walking).
 
 -   (+1, +2) Environmental Adaptation.
 
-    -   Grants adaptation to non-standard environments, like extreme
-        > cold.
+    1.  Grants adaptation to non-standard environments, like extreme
+        cold.
 
 Banes
 -----
 
 -   **(-1, -2) Environmental restriction:** The character cannot live
-    > outside a specific, non-standard environment. -2 means this is
-    > temporary, such as amphibians drying out on land, -4 will cause
-    > the character to start dying.
+    outside a specific, non-standard environment. -2 means this is
+    temporary, such as amphibians drying out on land, -4 will cause the
+    character to start dying.
 
 -   **(-1)** **Reflexive action**: (Cannot be paired with Subtle). The
-    > Mutation will react to stimuli, without any control of the
-    > character. (Chameleon skin changing color when under stress, for
-    > example)
+    Mutation will react to stimuli, without any control of the
+    character. (Chameleon skin changing color when under stress, for
+    example)
 
 Example Mutations
 -----------------

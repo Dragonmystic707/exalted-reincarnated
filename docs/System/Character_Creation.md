@@ -122,40 +122,38 @@ Steps
     Most Exaltations will grant an additional specific Favored Ability
     (with its own free dot rating), bringing the total to **6.**
 
-    1.  Use **9 dots** to increase Favored Abilities, with no single
-        Ability being higher than **5**.
+6.  Use **9 dots** to increase Favored Abilities, with no single Ability
+    being higher than **5**.
 
-    2.  **6 dots** in *non-Favored* Abilities, with no single Ability
-        raised higher than **3** during this phase.
+7.  **6 dots** in *non-Favored* Abilities, with no single Ability raised
+    higher than **3** during this phase.
 
-6.  Choose Three Ability **Specialities,** in three favored Abilities.
+8.  Choose Three Ability **Specialities,** in three favored Abilities.
 
-7.  Choose a [**<u>Martial Arts Style</u>**](-3t4ra6h9kwgj). Martial
+9.  Choose a [**<u>Martial Arts Style</u>**](-3t4ra6h9kwgj). Martial
     Arts dictates how your character interacts during combat, ranging
     from animal styles to esoteric and strange supernatural styles.
 
-8.  Gain 15 **Resources**, which may immediately be spent on Merits.
+10. Gain 15 **Resources**, which may immediately be spent on Merits.
     During character creation, Obstruction rolls are ignored.
 
-9.  Gain **3 Lesser Powers,** each in an Ability that is **Favored.**
+11. Gain **3 Lesser Powers,** each in an Ability that is **Favored.**
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>Summary</strong></p>
-<ul>
-<li><p>At this point, you should have a total of:</p></li>
-<li><p><strong>26</strong> Attribute Points</p></li>
-<li><p><strong>14</strong> Favored Ability Points</p>
-<ul>
-<li><p><strong>+1</strong> from Exaltation/Caste</p></li>
-</ul></li>
-<li><p><strong>6</strong> Non-Favored Ability Points</p></li>
-<li><p><strong>3</strong> Lesser Powers (Favored)</p></li>
-<li><p><strong>1</strong> Martial Arts Form</p></li>
-<li><p><strong>15</strong> Project Resources</p></li>
-<li><p><strong>3</strong> Specialities</p></li>
-</ul></td>
+<blockquote>
+<p>At this point, you should have a total of:</p>
+<p><strong>26</strong> Attribute Points</p>
+<p><strong>14</strong> Favored Ability Points</p>
+<p><strong>+1</strong> from Exaltation/Caste</p>
+<p><strong>6</strong> Non-Favored Ability Points</p>
+<p><strong>3</strong> Lesser Powers (Favored)</p>
+<p><strong>1</strong> Martial Arts Form</p>
+<p><strong>15</strong> Project Resources</p>
+<p><strong>3</strong> Specialities</p>
+</blockquote></td>
 </tr>
 </tbody>
 </table>

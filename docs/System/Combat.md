@@ -241,27 +241,15 @@ Short, 2x Medium, 3x Long,** and **1x Far.**
 Battlemaps and Absolute Positioning</strong></p>
 <p>While relative Range Bands are the recommended method of playing Exalted, some players prefer to play with absolute positioning and battlemaps. If that is your preference, make the following changes:</p>
 <ol type="1">
-<li><blockquote>
-<p>Distance will be measured in meters. Typically, hexagonal space (hex) will represent 5 meters.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Characters have a <strong>Speed</strong> Static value, which is 3 + (Dex + Athletics )/2.<br />
-The distance travelled is Speed x5 meters--or (Speed) Hexes at a time.</p>
-</blockquote></li>
-<li><blockquote>
-<p>Whenever the Move Action is taken, the character moves (Speed) hex.</p>
-</blockquote>
+<li><p>Distance will be measured in meters. Typically, hexagonal space (hex) will represent 5 meters.</p></li>
+<li><p>Characters have a <strong>Speed</strong> Static value, which is 3 + (Dex + Athletics )/2.<br />
+The distance travelled is Speed x5 meters--or (Speed) Hexes at a time.</p></li>
+<li><p>Whenever the Move Action is taken, the character moves (Speed) hex.</p>
 <ol type="a">
-<li><blockquote>
-<p>A Dash moves (Speed)x2.</p>
-</blockquote></li>
+<li><p>A Dash moves (Speed)x2.</p></li>
 </ol></li>
-<li><blockquote>
-<p>A character may move 5 meters (1 hex) on their action without taking a Move Action.</p>
-</blockquote></li>
-<li><blockquote>
-<p>All references to (Range Band) as a distance is 25 meters (5 hexes).</p>
-</blockquote></li>
+<li><p>A character may move 5 meters (1 hex) on their action without taking a Move Action.</p></li>
+<li><p>All references to (Range Band) as a distance is 25 meters (5 hexes).</p></li>
 </ol>
 <p>The definition for range bands are altered:</p>
 <ul>

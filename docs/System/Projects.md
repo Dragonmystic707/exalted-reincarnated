@@ -370,15 +370,13 @@ Modifiers will increase the Base Project Resource cost of the Project.
 -   Results in a minor, but permanent supernatural force.
 
     -   Crafting a well that supernaturally purifies water and is never
-        > empty.
-
-<!-- -->
+        empty.
 
 -   Change is *directly* opposed by powerful entities, ranging from
-    > mortal nations to other Exalted.
+    mortal nations to other Exalted.
 
     -   Getting a Spy network loyal to a Solar costs more in the Realm
-        > than it does the Hundred Kingdoms.
+        than it does the Hundred Kingdoms.
 
 **x4**
 
@@ -387,7 +385,7 @@ Modifiers will increase the Base Project Resource cost of the Project.
     -   Something that will constantly mutate those it interacts with.
 
 -   Opposed by powerful forces, such as the Deep Wyld, Gods, or a
-    > High-Level Exalted.
+    High-Level Exalted.
 
 Example Projects:
 

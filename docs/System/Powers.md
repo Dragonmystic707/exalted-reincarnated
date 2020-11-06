@@ -32,16 +32,16 @@ Designates what character resources it takes to use the Power. A Power
 of no cost (such as Permanent effects) will be designated with “--”.
 
 -   **m** -- Motes of Essence, which can be a chosen combination of
-    > Personal or Peripheral
+    Personal or Peripheral
 
     -   Some Powers will specifically designate (personal) or
-        > (peripheral) in their cost.
+        (peripheral) in their cost.
 
 -   **i** -- If used in a Combat Scene, requires **Impulse**. If used in
-    > an Encounter Scene, requires **Influence.**
+    an Encounter Scene, requires **Influence.**
 
 -   **sm** -- Sorcerous Motes, which are described in more detail in the
-    > [<u>Sorcery</u>](https://docs.google.com/document/d/1fg4i3K9kSNsWkPiqsuHOSElKFzvc_E58KwLs5MT6cKk/edit?usp=sharing).
+    [<u>Sorcery</u>](https://docs.google.com/document/d/1fg4i3K9kSNsWkPiqsuHOSElKFzvc_E58KwLs5MT6cKk/edit?usp=sharing).
 
 ### Type
 
@@ -72,18 +72,18 @@ immediately dissipates after activation.
 #### **Activation Type**
 
 -   **Primary.** Consumes a Primary Action Slot. Only one Primary Action
-    > may be taken per turn.
+    may be taken per turn.
 
 -   **Secondary**. Consumes a Secondary Action Slot. Only one Secondary
-    > action may be taken per turn.
+    action may be taken per turn.
 
 -   **Supplemental.** Enhances a Primary or Secondary Action. There is
-    > no limit to the number of supplemental Powers that may be combined
-    > together.
+    no limit to the number of supplemental Powers that may be combined
+    together.
 
 -   **Reflexive**. Conditional powers that may be used outside of normal
-    > turn order. So long as the condition is met, the Reflexive Power
-    > may always be used.
+    turn order. So long as the condition is met, the Reflexive Power may
+    always be used.
 
 -   **Permanent**. Once purchased, this power is always active.
 
@@ -170,23 +170,23 @@ Now that we have a visual effect--a beam of light appearing over the
 target area--it's time to think of the consequences of that charm.
 
 -   Sunlight is a heavy theme here, so it may do extra damage against
-    > Creatures of Darkness.
+    Creatures of Darkness.
 
 -   It's a bright beam of light. It's going to be pretty obvious.
 
 -   It's an archery charm, so an arrow needs to be used. Maybe you fire
-    > an arrow into the sky, pierce a cloud and the sun peers through?
+    an arrow into the sky, pierce a cloud and the sun peers through?
 
     -   Access to the sky then?
 
     -   Does it need access to the Sun itself, since it's a sunbeam? Can
-        > you not use this in the Underworld?
+        you not use this in the Underworld?
 
 -   Does sunlight hurt other Solars? Or themselves? Are they immune to
-    > their own powers?
+    their own powers?
 
 -   Is the attack indiscriminate in its area? Can the Solar exclude
-    > allies?
+    allies?
 
 With that list of thoughts gathered, we can sort through what additional
 limitations and benefits the charm will have, using motes and Impulse
