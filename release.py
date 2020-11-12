@@ -57,7 +57,13 @@ def main():
     src_dir = path.join(script_dir, "src")
     page_dir = path.join(script_dir, "docs")
     soffice = "\"C:\\Program Files\\LibreOffice\\program\\soffice\""
+    downloads_dir = path.join(page_dir, "assets", "downloads")
     # media_dir = path.join(page_dir, "media")
+
+    # Export out the Summary document
+     # I think I'm going to require pdf exports to be manual. Git updates to .md is easily compressible, To pdf? Not so much.
+    soffice_cmd = soffice + " --convert-to pdf " + path.join(src_dir, "tools","Summary.odt") + " --outdir " + downloads_dir
+    subprocess.Popen(soffice_cmd).wait()
 
     group_order = 1
     # Create the Markdown release

@@ -13,8 +13,290 @@ next_title: Projects
 Combat
 ======
 
-\[\[Nice Header about combat being inevitable in the life of an
-Exalt.\]\]
+The Time of Tumult is one of great conflict, and the Exalted that live
+through it will invariably find themselves in armed conflict, weilding
+their great weapons and powers of destruction.
+
+Combat in Exalted focuses on the rythmn of battle, with characters
+constantly testing each other, looking for openings, and strategizing
+through Maneuvers, until they have built up enough Impulse to strike
+with a Decisive Blow.
+
+Combat Values
+-------------
+
+### Impulse
+
+Impulse is a meaure of the current *tactical advantage* the character
+has. The higher the value, the greater the control they have over the
+battlefield.
+
+Maneuver Actions grant Impulse to the Player, which they then use on
+Decisive Actions—often to strike at their opponents with great force.
+
+Being that it is gained and spent exclusively during a combat scene,
+physical tokens (such as coins or poker chips) are suggested to keep
+track of Impulse.
+
+### Static Values
+
+-   **Endurance** *  
+    *The measure of how energy and action the character has left in
+    them. Once a character’s Endurance pool is exhausted through damage,
+    they have lost the will and/or physical ability to keep fighting and
+    will collapse in exhaustion.
+
+-   **Defense Value (DV)** *  
+    *Reflects the character’s ability to deflect, dodge, or otherwise
+    mitigate an incoming attack.
+
+-   **Evasion** *  
+    *Represents the ability for characters to quickly move and respond
+    to changes in the battlefield.
+
+-   **Soak *  
+    ***The hardiness of a character, the raw ability to take a hit
+    without it affecting them at all.
+
+-   **Accuracy  
+    **The ability to land a hit with an attack. This value is highly
+    dependant on the weapon used—for example, a short bow is a light
+    archery weapon, so would use Dexterity, Archery, and provide an
+    Accuracy Bonus. This is described in more detail in the
+    [Weapons](/Combat/#weapons-and-armor) section.
+
+-   **Base Damage***  
+    *When a Decisive Attack lands, a portion of the of the dice pool
+    comes from a player’s Base Damage—in essence, it is the minimium
+    amount of power behind any striking attack.
+
+-   **Initiative  
+    **How quickly a character can react to the start of battle,
+    determining their turn order as well as the starting amount of
+    Impulse.
+
+The Combat Round
+----------------
+
+Combat is split into distinct Rounds, where each character has a chance
+to take one Action, such as Attacking, using a Charm, or a Maneuver.
+Characters also may perfrom as many *unique* Free Actions as desired,
+such as Movement, during their turn.
+
+Turn order is determined by all character’s rolling a Chance Die (1d10),
+and adding their **Initiative** score. The characters then proceed from
+highest to lowest, then restarting the round once all characters have
+gone.
+
+If there is a tie of Initiative between a Player Character and a
+Non-Player Character, the Player gets to choose who goes first. If there
+is a tie between Player Characters, simply flip a coin.
+
+Each combatant starts with a number of Impulse equal to their Initiative
+score.
+
+**Turn Order:** 1d10 + (Initiative)  
+**Starting Impulse:** (Initiative)
+
+All combatants are assumed to start combat ready: their weapons are
+drawn, they have fallen into their Martial Arts, etc.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Balancing Large Groups</p>
+<p>Player Characters only get One Action per round. But Non-Player Characters are not beholden to this rule. The Storyteller may choose to let a NPC have up to 3 actions per Round—if they are particularly powerful and dangerous foes.</p>
+<p>The Rule of Thumb is to have antagonists acting no less than 1/3 of the Player actions.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Ambush Round
+
+If characters are ambushed—not expecting combat in the least, they must
+suffer through an Ambush Round.
+
+Instead of starting combat as normal, Ambushed characters instead start
+with **0 Impulse**, and may only act *after* all other characters have
+acted, regardless of their Turn Order. Once the Ambush Round ends,
+normal turn order resumes.
+
+Ambushes are premeditated affairs--requiring setup, planning, and
+coordination between the party. Players cannot suddenly go into combat
+if things are not going their way and declare it an Ambush.
+
+Player Character always get a Reflexive (Cunning + Awareness) roll to
+individually avoid becoming Ambushed.
+
+### Holding Action
+
+Characters may choose to Hold their Action, waiting for something to
+happen in order to respond to it.Players must describe what it is they
+are waiting for—they cannot arbitrarily wait.
+
+When the specified event happens, they must spend **2 Impulse,** and
+then take their action as desired, (either before or after the specified
+event, at their choice)
+
+If the event does not happen in the Round, the Player loses their
+action. (But they do not need to spend the Impulse).
+
+Maneuvers
+---------
+
+A Maneuver is any action the character performs to gain advantage over
+the scene—be it to Intimidate their foes, test the stance
+
+Weapons and Armor
+-----------------
+
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Weapons</p>
+</blockquote></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>Attribute</p>
+</blockquote></td>
+<td><blockquote>
+<p>Accuracy</p>
+</blockquote></td>
+<td><blockquote>
+<p>Base Damage</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Unarmed</p>
+</blockquote></td>
+<td><blockquote>
+<p>Dexterity or</p>
+<p>Strength</p>
+</blockquote></td>
+<td><blockquote>
+<p>+2</p>
+</blockquote></td>
+<td><blockquote>
+<p>-1</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Light</p>
+</blockquote></td>
+<td><blockquote>
+<p>Dexterity</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Medium</p>
+</blockquote></td>
+<td><blockquote>
+<p>Dexterity or</p>
+<p>Strength</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Heavy</p>
+</blockquote></td>
+<td><blockquote>
+<p>Strength</p>
+</blockquote></td>
+<td><blockquote>
+<p>-1</p>
+</blockquote></td>
+<td><blockquote>
+<p>+2</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Armor</p>
+</blockquote></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p><strong>Soak Modifier</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>Evasion Modifier</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>No Armor</td>
+<td><blockquote>
+<p>-1</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Light</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Medium</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1</p>
+</blockquote></td>
+<td><blockquote>
+<p>-1</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Heavy</p>
+</blockquote></td>
+<td><blockquote>
+<p>+2</p>
+</blockquote></td>
+<td><blockquote>
+<p>-2</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+ 
 
 Endurance
 ---------
@@ -66,45 +348,6 @@ Likewise, central Non-Player Character deaths should be determined by
 the Storyteller, although they must bribe all the Players with a
 **Strife Point** to avoid such a fate--something that the Players are
 allowed to reject should they so choose.
-
-Impulse
--------
-
-Impulse is a representation of a character’s general tactical advantage,
-which they may use at any moment to press attacks, or perform more
-complex martial Arts Techniques and Charms.
-
-A character cannot have more than **15 Impulse** at a time.
-
-Impulse can be gathered through two means:
-
-### Claim Advantage
-
-**Primary Action**
-
-The character actively tries to sway the battlefield in their favor
-through such acts as feints, insults, or studying the battlefield. The
-Player takes a standard Action Roll based on their action, and then
-receives the Number of Successes as Impulse.
-
-**Sample Actions**
-
--   **Feinting attack** (Dex + Melee)
-
--   **Analyze Battlefield** (Int + Awareness)
-
--   **Intimidate** (Str + Physique)
-
-### Recover
-
-**Secondary Action  
-Gain (Essence) Impulse, or (Essence)x2 Peripheral Motes, or a
-combination of the two.**
-
-The character catches their breath between moments in combat,
-stabilizing themselves and quickly scanning the battlefield for an
-opening. The Player immediately giants ( **Essence**) Impulse, (Essence)
-x2 Peripheral Motes, or a divided combination of the two.
 
 Static Defense
 --------------
@@ -324,9 +567,8 @@ made at this point.
 
 #### Miss
 
-A **Miss** will occur when either the Attack Roll as 0 Successes, or if
-the total calculated damage is 0 or less after DV. A Miss does no damage
-to the target.
+A **Miss** will occur when either the **Attack Roll** as 0 Successes, or
+if the total damage after DV is 0. A Miss does no damage to the target.
 
 ### Attack Roll
 
@@ -362,8 +604,6 @@ Flow
 A Combat Scene starts with a **Join Battle** Roll, which is 1d10 +
 **Initiative**. The order is from highest to lowest.
 
-All characters start with **5 Impulse**
-
 During their turn, a character may take One (1) **Primary Action**, and
 One (1) **Secondary Action**.
 
@@ -385,52 +625,34 @@ consequences scene from combat.
 </tbody>
 </table>
 
+### Holding Attacks
+
+A Character may choose to hold their attack until a condition is met,
+but take a -2 dice penalty for doing so.
+
+If the condition is not met in the Round, they lose their action.
+
 Primary Actions
 ---------------
 
 ### Standard Attack
 
-**Impulse Cost**: 0 + (X)
-
 Attack a single valid target.
-
-The character may choose to *Push the Attack*, increasing their Base
-Damage by 1 for every 2 Impulse spent. This may be declared *after* the
-attack roll is made, but *before* the attack is finalized.
 
 ### Flurry Attack
 
-**Impulse Cost**: 1 per target
+Make an attack against multiple targets. The attack is against the
+target with the largest DV.
 
-Make a Flurry Attack against multiple, but different, valid targets,
-spending 1 Impulse per target selected.
+On a hit, the Damage of the attack is divided among all the targets.
 
-A Flurry attack does *not* use Base Damage: only the rolled dice is the
-Attack Power.
+### Disadvantage
 
-**Attack Power = \[Attack Roll\]**
+Take a contested Roll in an attempt to distract, stun, or otherwise
+Disadvantage the target.
 
-The attack roll is made once, and then applied to each target’s DV
-individually.
-
-### Claim Advantage
-
-**Impulse Cost:** --
-
-Take an Action Roll action on the battlefield to gain advantage. This
-can be a feinting attack, studying the battlefield, or distracting
-enemies with a song.
-
-The number of successes on the action results in the number of Impulse
-gained.
-
-### Distract/Stun/Disadvantage
-
-**Impulse Cost:** 2
-
-Take an \[Att + Abi\] Roll against the target’s Resolve in an attempt to
-distract, stun, or otherwise Disadvantage the target. The target then
-loses (Threshold Successes) of Impulse.
+If successful, the target **either** loses 2 DV for a Round, or **3
+dice** from their next action.
 
 The Action Roll may be things such as:
 
@@ -440,13 +662,12 @@ The Action Roll may be things such as:
 
 -   Distracting Song (Charisma + Performance)
 
-### Grapple
+### Restrain
 
-**Impulse Cost:** 2
+Make a contested Roll against the target’s (Dex + Athletics).
 
-Make an (Dex + Brawl) against a target’s **Evasion** in Close Range. For
-1 Action, and an additional action per ½ Threshold Success, the target
-becomes grappled.
+The target becomes grappled for 1 Action, and an additional action per ½
+Threshold Successes.
 
 While grappled, the target cannot take a voluntary **Move** Action. As
 well *neither characters* may perform Flurries or use any weapon that
@@ -455,6 +676,12 @@ requires both hands.
 When the controlling character takes a **Move** action, they must make a
 contested (Str + Physique) roll against the clinched target. On a
 success, both characters move a range band.
+
+Restrainin Actions can be caused by:
+
+-   Grappling (Dex + Brawl)
+
+-   Whip chain (Dex + Melee)
 
 #### Size and Grappling
 
@@ -470,16 +697,7 @@ certain limb.
 Secondary Actions
 -----------------
 
-### Recover
-
-**Impulse Cost**: --
-
-Gain either 2 + (Essence) Impulse, (2 + (Essence))x2 Peripheral Motes,
-or a split combination of the two.
-
 ### Move
-
-**Impulse Cost:** 0 (+1, -1DV)
 
 Change relative position to a target character by one Range Band, either
 closer or further, terrain permitting.
@@ -490,30 +708,19 @@ two rounds in a row.
 
 ### Aim
 
-**Impulse Cost:** 1
-
 Counter the Range Partial Defense of an attack made at Medium + range.
 
 ### Change Initiative
 
-**Impulse Cost:** 1 per +1 Initiative, (0 for dropping)
-
-Move up 1 Initiative for every 1 Impulse spent, which takes effect at
-the start of the round.
-
-Alternatively, the character may drop down any number of Initiative at
-no cost, applied immediately.
+Move up to (Athletics) Initiative, which takes effect at the star of the
+next round.
 
 ### Dive for Cover
-
-**Impulse Cost:** 2
 
 Take Cover, gaining either Partial or Full Defense depending on the
 terrain.
 
 ### Defend Other
-
-**Impulse Cost:** 1 per target.
 
 Until your next action, you protect the target(s), using your Soak value
 (if it is higher).
@@ -547,9 +754,6 @@ The Ambushed characters:
 -   Do not act until after the non-ambushed characters.
 
 -   Suffer -2 DV until their action.
-
--   May only take a Primary *or* Secondary Action on their round--as
-    they are readying their weapons.
 
 Ambushes are premeditated affairs--requiring setup, planning, and
 coordination between the party. Players cannot suddenly go into combat

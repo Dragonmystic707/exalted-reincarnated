@@ -388,10 +388,10 @@ the Great Curse:
     their name and relations; their lost vitality; a loss of emotion and
     feeling.
 
-Each individual Exaltation book details their Great Curse, but it is
-important to know that these are all *suggestions*. So long as a
-character has a flaw that affects their decision, it is an acceptable
-Great Curse.
+-   Each individual Exaltation book details their Great Curse, but it is
+    important to know that these are all *suggestions*. So long as a
+    character has a flaw that affects their decision, it is an
+    acceptable Great Curse.
 
 ### Limit
 

@@ -40,7 +40,6 @@ Aside from this, other mutations still follow the **Hybrid Body Rules**
 (including their alteration from the Hybrid Body Rearrangement)
 
 Lesser Techniques
------------------
 
 ### Hide-Hardening Technique
 
@@ -72,7 +71,6 @@ With raging claws, and teeth, the Lunar shreds their target apart,
 dealing (Essence) additional Damage.
 
 Greater Techniques
-------------------
 
 ### Halting the Scarlet Flow
 

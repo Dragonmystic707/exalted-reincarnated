@@ -91,8 +91,6 @@ in this uncertain time.
 In this time, the Sun has brought his Chosen back, those great heroes,
 those terrible Mad Emperors.
 
- 
-
 Preface
 =======
 

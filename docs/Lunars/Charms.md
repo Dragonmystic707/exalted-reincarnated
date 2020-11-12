@@ -16,7 +16,7 @@ Charms
 \[\[todo: Clay-wetting Practice, Instant Changes, Hybrid Body
 Rearrangement\]
 
-Shapeshifting
+ Shapeshifting
 =============
 
 Lesser Charms
@@ -104,7 +104,6 @@ other such mythical creatures, so long as the target has an Essence
 Rating Equal to or less than the Lunar’s.
 
 Greater Charms
---------------
 
 ### Constant Quicksilver Rearrangement
 
@@ -117,7 +116,7 @@ considered Reflexive instead of a Secondary Action.
 
 ### Insidious Lunar Transformation
 
-**Cost:** 10m, 2End; **Mins:** Shapeshifting 4  
+**Cost:** 8m, 2i; **Mins:** Shapeshifting 4  
 **Type:** Primary Action  
 **Duration:** One Scene
 

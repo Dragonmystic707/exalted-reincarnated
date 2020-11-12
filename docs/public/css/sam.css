@@ -24,6 +24,14 @@ h3 {
   text-decoration: underline;
 }
 
+h6 {
+  font-family: "Goudy", sans-serif;
+  color: #504A4B;
+  font-size: 1.25rem;
+  margin-top: 1.5rem;
+  text-decoration: underline;
+}
+
 html {
     font-size: 18px;
 }

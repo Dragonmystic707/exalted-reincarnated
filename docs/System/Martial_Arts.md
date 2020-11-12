@@ -3,9 +3,9 @@ layout: page
 base_url: System
 title: Martial Arts
 group_order: 1
-order: 13
-prev_url: Sorcery_and_Necromancy
-prev_title: Sorcery and Necromancy
+order: 14
+prev_url: Spells
+prev_title: Spells
 next_url: Merits
 next_title: Merits
 ---
@@ -75,8 +75,6 @@ this.
 
 The Stylist gains a pool of 8 Peripheral Motes that may only be used for
 their chosen style.
-
- 
 
 Snake Style
 -----------

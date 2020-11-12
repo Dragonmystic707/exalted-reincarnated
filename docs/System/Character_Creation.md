@@ -102,303 +102,146 @@ Steps
     to have a flaw of Ego, Lunars by their loss of identity, and
     Sidereals by their complicated relationship with Fate, for example.
 
-3.  Choose Three [**<u>Intimacies</u>**](-26dfewrlr8wx), which
+3.  Choose Three [**<u>Intimacies</u>**](/Social/#intimacies), which
     represent your devotions or relations to ideas, people, or history.
 
 4.  **Distribute 26 dots to Attributes**. No single Attribute may be
     lower than 1, nor higher than 5.  
       
-    *Suggested Method:* **Set all Attributes to 1.** Choose which
-    Categories (Physical, Social, Mental) are Primary, Secondary, and
-    Tertiary. Then add:  
-      
-    **9 Dots** to Primary.  
-    **5 Dots** to Secondary.  
-    **3 Dots** to Tertiary.
+    *Suggested Method:  
+    *Set all Attributes to 1.  
+    Assign each category (Mental, Social, Mental) to be your character’s
+    Primary, Secondary, or Tertiary set. Then add:
 
-5.  Mark **5** Abilities as **Favored**, and **immediately gain 1 dot
-    rating in each.**  
-      
-    Most Exaltations will grant an additional specific Favored Ability
-    (with its own free dot rating), bringing the total to **6.**
+    -   **9 Dots** to Primary.
 
-6.  Use **9 dots** to increase Favored Abilities, with no single Ability
-    being higher than **5**.
+    -   **5 Dots** to Secondary.
 
-7.  **6 dots** in *non-Favored* Abilities, with no single Ability raised
-    higher than **3** during this phase.
+    -   **3 Dots** to Tertiary.
 
-8.  Choose Three Ability **Specialities,** in three favored Abilities.
+5.  **Abilities**
 
-9.  Choose a [**<u>Martial Arts Style</u>**](-3t4ra6h9kwgj). Martial
+    -   Mark **5** Abilities as **Favored**, gaining 1 **free dot**
+        each.
+
+    -   Mark the (+1) Favored Ability granted from the Exaltation/Caste,
+        gaining its 1 **free dot** as well.
+
+    -   Use **9 dots** to increase Favored Abilities, with no single
+        Ability being higher than **5**.
+
+    -   **6 dots** in *non-Favored* Abilities, with no single Ability
+        raised higher than **3** during this phase.
+
+    -   Choose 3 **Specialities,** each in a seperate Favored Ability.
+
+6.  Choose a [**<u>Martial Arts Style</u>**](-3t4ra6h9kwgj). Martial
     Arts dictates how your character interacts during combat, ranging
     from animal styles to esoteric and strange supernatural styles.
 
-10. Gain 15 **Resources**, which may immediately be spent on Merits.
+7.  Gain 15 **Resources**, which may immediately be spent on Merits.
     During character creation, Obstruction rolls are ignored.
 
-11. Gain **3 Lesser Powers,** each in an Ability that is **Favored.**
+8.  Gain **3 Lesser Powers,** each in an Ability that is **Favored.**
+
+9.  Spend **30 xp** as desired.
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>Summary</strong></p>
-<blockquote>
-<p>At this point, you should have a total of:</p>
+<p>Before spending xp, double check that your character has the following minimums:</p>
 <p><strong>26</strong> Attribute Points</p>
 <p><strong>14</strong> Favored Ability Points</p>
-<p><strong>+1</strong> from Exaltation/Caste</p>
+<p>(<strong>+1</strong> from Exaltation/Caste)</p>
 <p><strong>6</strong> Non-Favored Ability Points</p>
 <p><strong>3</strong> Lesser Powers (Favored)</p>
 <p><strong>1</strong> Martial Arts Form</p>
 <p><strong>15</strong> Project Resources</p>
-<p><strong>3</strong> Specialities</p>
-</blockquote></td>
+<p><strong>3</strong> Specialities</p></td>
 </tr>
 </tbody>
 </table>
 
-1.  Spend **30 xp** as desired.
-
-2.  Specify Equipment the character carries, considering their
+1.  Specify **Equipment** the character carries, considering their
     background. Unlike other systems, Exalted does not require an
     extensive list of what equipment or tools the Exalt has on their
     person---so long as it is reasonable for them to have an item, they
     are considered to be carrying it. Mundane armor and weapons are
-    included.  
-      
-    All Weapons and Armor are grouped into categories, which grants
-    general bonuses, such as a “Medium Sword”. This represents the
-    general size and weight of the equipment, and whether it favors
-    accuracy, damage, soak, or evasion.  
-      
-    When making attacks, the weapon also determines whether the
-    character primarily uses Force (Strength) or Finesse (Dexterity) in
-    their attacks.
+    included
 
-3.  Once the character sheet has been finalized, calculate the **Derived
-    Static Values. (**The provided character sheets will do this for you
-    automatically).
+2.  **General Static Values  
+    **Record the following calculated static values
 
-4.  **General Static Values**
+    -   **Personal Motes  
+        **10 + (Essence)
 
-    1.  **Personal Motes  
-        ***10 + (Essence)*  
-        The amount of essence the Exalt may use for their various Powers
-        that will *not* inflame their [<u>Anima
-        Banner</u>](-wzcu53g1hrn6). Personal Motes regain slowly over
-        time.
+    -   **Peripheral Motes  
+        **15 + (Essence) x2
 
-    2.  **Peripheral Motes  
-        ***15 + (Essence) x2*  
-        The amount of essence the Exalt may use for their various
-        Powers. These motes *will* inflame their [<u>Anima
-        Banner</u>](-wzcu53g1hrn6). Peripheral Motes are fully regained
-        at the start of a new Scene.
+    -   **Guile  
+        **(Composure + Deception)/2
 
-    3.  **Guile  
-        ***(Composure + Deception)/2*  
-        The Measure of how secretive a character can be, used to hide
-        their intentions, Intimacies, and reactions to Social Influence.
-
-    4.  **Resolve  
-        **(*Will + Integrity)/2*  
-        How resistant a character is to Mental influence, and not being
-        swayed to do actions they do not agree with.
+    -   **Resolve  
+        **(Will + Integrity)/2
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>Rounding</strong></p>
-<p>For everything in Exalted, always round up to the nearest whole number.</p></td>
+<p>Always round up to the nearest whole number.</p></td>
 </tr>
 </tbody>
 </table>
 
-1.  **Combat Static Values**
+1.  **Combat Static Values  
+    **Assign the static values used (most commonly) during a Combat
+    Scene.
 
-    1.  **Initiative Bonus**  
-        *(Cunning + Awareness)*  
-        How quickly a character can react when a battle breaks out.
+    -   **Endurance  
+        **5+(Stamina+Athletics+Physique)+(Essence) x2
 
-    2.  **Endurance:  
-        ***10+(Stamina+Athletics+Physique)x2+(Essence) x3*  
-        Endurance is the measure of how much beating and wear a
-        character can take in a combat before collapsing.  
-        As a note, Exalts naturally reinforce and steady themselves
-        through the use of personal Essence. Mortals have a different
-        Endurance Calculation as explained in the Antagonists section.
+    -   **Defense Value (DV) *  
+        ***Greater of Evasion or Soak
 
-    3.  **DV**  
-        *Greater of Evasion or Soak*  
-        DV, or Defense Value, is the widely-applicable static defense
-        value a character has against attacks.
+    -   **Evasion**  
+        (Dexterity + Athletics)/2 + (Evasion Mod)
 
-    4.  **Evasion  
-        ***(Dexterity + Athletics)/2 - (Armor Penalty)***  
-        **The skill to avoid being hit, or turn hits away from vital
-        organs. Attacks that ignore Evasion are called *undodgeable*,
-        such as room-filling explosions and environmental damages (e.g.
-        gravity).
+    -   **Soak*  
+        ***(Stamina + Physique)/2 + (Soak Mod)
 
-    5.  **Soak**  
-        *(Stamina + Physique)/2 + (Armor Modifier)*  
-        Mitigation of attacks through training, armor, and force of
-        body. Attacks that ignore Soak are called *unsoakable*, and
-        contain things such as targetted or piercing damage.
+    -   **Accuracy*  
+        ***(Weapon Att. + Weapon Ability)/2 + (Weapon Mod)  
+        *  
+        *The Attribute and Ability used depends on the current weapon
+        This is described in more detail in
+        [Weapons](/Combat/#weapons-and-armor).
 
-    6.  **Base Damage:**  
-        *(Strength + Essence)/2 + (Weapon Bonus)*  
-        The base amount of attack an attack will do, regardless of
-        chance or accuracy.
+    -   **Base Damage*  
+        ***(Strength + Essence Level)/2 + (Weapon Mod)
+
+    -   **Initiative*  
+        ***(Cunning + Awareness)/2
 
 <table>
 <tbody>
 <tr class="odd">
-<td><blockquote>
-<p>Weapons</p>
-</blockquote></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><blockquote>
-<p>Attribute</p>
-</blockquote></td>
-<td><blockquote>
-<p>Accuracy</p>
-</blockquote></td>
-<td><blockquote>
-<p>Base Damage Bonus</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Unarmed</p>
-</blockquote></td>
-<td><blockquote>
-<p>Dexterity or</p>
-<p>Strength</p>
-</blockquote></td>
-<td><blockquote>
-<p>+3</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Light</p>
-</blockquote></td>
-<td><blockquote>
-<p>Dexterity</p>
-</blockquote></td>
-<td><blockquote>
-<p>+2</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Medium</p>
-</blockquote></td>
-<td><blockquote>
-<p>Dexterity or</p>
-<p>Strength</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1</p>
-</blockquote></td>
-<td><blockquote>
-<p>+2</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Heavy</p>
-</blockquote></td>
-<td><blockquote>
-<p>Strength</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>+3</p>
-</blockquote></td>
+<td><p><strong>XP Generation</strong></p>
+<p>If you prefer pure xp generation, character creation ends at 150xp, with the following minimums:</p>
+<ul>
+<li><p>Attributes: 68 xp</p></li>
+<li><p>Favored Abilities: 18xp</p></li>
+<li><p>Non-Favored Abilities: 18xp</p></li>
+<li><p>Lesser Powers: 12xp</p></li>
+<li><p>Martial Arts Form: 4xp</p></li>
+<li><p><strong>15</strong> Project Resources</p></li>
+<li><p><strong>3</strong> Specialities</p></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
 
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p>Armor</p>
-</blockquote></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><blockquote>
-<p>Soak Bonus</p>
-</blockquote></td>
-<td><blockquote>
-<p>Evasion Penalty</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td>No Armor</td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>-0</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Light</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1</p>
-</blockquote></td>
-<td><blockquote>
-<p>-0</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Medium</p>
-</blockquote></td>
-<td><blockquote>
-<p>+2</p>
-</blockquote></td>
-<td><blockquote>
-<p>-1</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Heavy</p>
-</blockquote></td>
-<td><blockquote>
-<p>+3</p>
-</blockquote></td>
-<td><blockquote>
-<p>-2</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
-
-Advancement
+ Advancement
 -----------
 
 Essence increases automatically depending on how much xp has accumulated
@@ -444,24 +287,6 @@ player, and requires anywhere from a Scene to a full Story to acquire.
 Each source of Resource should be added together when combined. For
 example, by having access to the wealth and income of an entire city
 (20) for a Season (50) would result in 70 RES.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>XP Generation</strong></p>
-<p>If you prefer pure xp generation, character creation ends at 150xp, with the following minimums:</p>
-<ul>
-<li><p>Attributes: 68 xp</p></li>
-<li><p>Favored Abilities: 18xp</p></li>
-<li><p>Non-Favored Abilities: 18xp</p></li>
-<li><p>Lesser Powers: 12xp</p></li>
-<li><p>Martial Arts Form: 4xp</p></li>
-<li><p><strong>15</strong> Project Resources</p></li>
-<li><p><strong>3</strong> Specialities</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
 
 <table>
 <tbody>

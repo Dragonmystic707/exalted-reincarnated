@@ -3,7 +3,7 @@ layout: page
 base_url: System
 title: Merits
 group_order: 1
-order: 14
+order: 15
 prev_url: Martial_Arts
 prev_title: Martial Arts
 next_url: Antagonists
