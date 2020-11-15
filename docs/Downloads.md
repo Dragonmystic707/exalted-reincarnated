@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Downloads
 order: 0
 ---
 

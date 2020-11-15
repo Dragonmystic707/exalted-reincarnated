@@ -63,6 +63,7 @@ def main():
     # Export out the Summary document
      # I think I'm going to require pdf exports to be manual. Git updates to .md is easily compressible, To pdf? Not so much.
     soffice_cmd = soffice + " --convert-to pdf " + path.join(src_dir, "tools","Summary.odt") + " --outdir " + downloads_dir
+    print("Converting Summary")
     subprocess.Popen(soffice_cmd).wait()
 
     group_order = 1
@@ -89,6 +90,7 @@ def main():
                     rtn_str = "(" + header_name + ")"
                 return rtn_str 
 
+            print("Processing " + file_dir)
             
 
             # Load all the docx's, in numerical order.
@@ -110,6 +112,7 @@ def main():
                 file_name = re.sub(r' ', '_', file_name)
                 url_list[int(file_num)] = {"url": file_name, "title": title_name}
                 
+                print("Converting " + file_name)
 
                 # Export out the base markdown to the temporary files
                 bash_cmd = "pandoc \"" + path.join(temp_dir, f0) + "\" -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc" 
