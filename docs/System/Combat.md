@@ -43,38 +43,38 @@ track of Impulse.
 
 ### Static Values
 
--   **Endurance** *  
-    *The measure of how energy and action the character has left in
-    them. Once a character’s Endurance pool is exhausted through damage,
-    they have lost the will and/or physical ability to keep fighting and
-    will collapse in exhaustion.
+-   **Endurance**  
+    The measure of how energy and action the character has left in them.
+    Once a character’s Endurance pool is exhausted through damage, they
+    have lost the will and/or physical ability to keep fighting and will
+    collapse in exhaustion.
 
--   **Defense Value (DV)** *  
-    *Reflects the character’s ability to deflect, dodge, or otherwise
+-   **Defense Value (DV)**  
+    Reflects the character’s ability to deflect, dodge, or otherwise
     mitigate an incoming attack.
 
--   **Evasion** *  
-    *Represents the ability for characters to quickly move and respond
-    to changes in the battlefield.
+-   **Evasion**  
+    Represents the ability for characters to quickly move and respond to
+    changes in the battlefield.
 
--   **Soak *  
-    ***The hardiness of a character, the raw ability to take a hit
-    without it affecting them at all.
+-   **Soak**  
+    The hardiness of a character, the raw ability to take a hit without
+    it affecting them at all.
 
--   **Accuracy  
-    **The ability to land a hit with an attack. This value is highly
+-   **Accuracy**  
+    The ability to land a hit with an attack. This value is highly
     dependant on the weapon used—for example, a short bow is a light
     archery weapon, so would use Dexterity, Archery, and provide an
     Accuracy Bonus. This is described in more detail in the
     [Weapons](/Combat/#weapons-and-armor) section.
 
--   **Base Damage***  
-    *When a Decisive Attack lands, a portion of the of the dice pool
+-   **Base Damage**  
+    When a Decisive Attack lands, a portion of the of the dice pool
     comes from a player’s Base Damage—in essence, it is the minimium
     amount of power behind any striking attack.
 
--   **Initiative  
-    **How quickly a character can react to the start of battle,
+-   **Initiative**  
+    How quickly a character can react to the start of battle,
     determining their turn order as well as the starting amount of
     Impulse.
 
