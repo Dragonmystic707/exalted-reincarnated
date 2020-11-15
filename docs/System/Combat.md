@@ -284,7 +284,8 @@ Decisive Strike
 Once the character has gained enough Impulse, they may expend it in a
 Decisive Strike, aimed at knocking their enemy off the battlefield.
 
-You must have 2 Impulse to perform a Decisive Strike.
+You must have a minimum of 2 Impulse available to perform a Decisive
+Strike.
 
 Roll the **Accuracy** dice pool against the target’s DV. If the roll
 fails, the attacker loses 2 Impulse and ends their turn.
@@ -406,9 +407,7 @@ would still apply.
 ### Cover
 
 Characters may use the terrain to gain Situational Defenses, such as by
-ducking against rubble or hiding behind a wall. Taking Cover is not an
-assumed action: it is a specific **Secondary Action** that characters
-may take.
+ducking against rubble or hiding behind a wall.
 
 Cover is considered **Partial** when at least half a character’s body is
 blocked by a material that can withstand weapon blows--such as a
