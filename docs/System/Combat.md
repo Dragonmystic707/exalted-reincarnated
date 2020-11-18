@@ -82,9 +82,23 @@ The Combat Round
 ----------------
 
 Combat is split into distinct Rounds, where each character has a chance
-to take one Action, such as Attacking, using a Charm, or a Maneuver.
-Characters also may perfrom as many *unique* Free Actions as desired,
-such as Movement, during their turn.
+to take one and only one Action, such as Attacking, using a Charm, or a
+Maneuver. Any powers that take up a full action are denoted as
+**Simple** Powers.
+
+In addition to their simple Action, characters can Move and perform
+other minor actions. These are called **Free Actions**, and as many Free
+Actions may be performed on their turn at no consequence. The only
+limitation is that each Free Action must be unique—you cannot take *two*
+Move actions, for example, just one. (Without a Power, that is.)
+
+Free Actions can be taken in an order—before or after the main Action of
+the turn.
+
+Talking is considered a Free Action, and is actively encouraged—it fits
+the genre.
+
+### Turn Order
 
 Turn order is determined by all character’s rolling a Chance Die (1d10),
 and adding their **Initiative** score. The characters then proceed from
@@ -129,13 +143,15 @@ coordination between the party. Players cannot suddenly go into combat
 if things are not going their way and declare it an Ambush.
 
 Player Character always get a Reflexive (Cunning + Awareness) roll to
-individually avoid becoming Ambushed.
+individually avoid becoming Ambushed. The difficulty is based on the
+skill of the Ambush characters (e.g. Cunning + Sneak).
 
 ### Holding Action
 
 Characters may choose to Hold their Action, waiting for something to
-happen in order to respond to it.Players must describe what it is they
-are waiting for—they cannot arbitrarily wait.
+happen in order to respond to it. Players must describe what it is they
+are waiting for—they cannot arbitrarily wait. Any action may be held—be
+it a Maneuver, Decisive, or Free Action.
 
 When the specified event happens, they must spend **2 Impulse,** and
 then take their action as desired, (either before or after the specified
@@ -146,9 +162,9 @@ action. (But they do not need to spend the Impulse).
 
 ### Change Initiative
 
-As a Free Action, you may increase your Initiative Turn Order, by
-spending 1 Impulse per +1 to Initiative. This takes effect at the start
-of the next Round.
+As a Free Action, change your Turn Order. Either spend 1 Impulse per +1
+Initiative gained, or drop down any number for free. This takes effect
+at the start of the next Round.
 
 Maneuvers
 ---------
@@ -170,12 +186,47 @@ described well enough, can grant Impulse.
 ### Stunting Maneuvers
 
 Stunts in a combat Maneuver not only grant +2 dice, they let the Player
-choose an effect their Maneuver has on the battlefield, though their
-roll must exceed the difficulty of the action.
+choose an effect their Maneuver has on the battlefield (in addition to
+gaining Impulse.)
 
-As a reminder note: Stunts are special, interesting descriptions of a
-character’s action. By their nature, they cannot be repeated over and
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Maneuvers and Free Actions</strong></p>
+<p>Free Actions can be encorporated into a Maneuver. Vaulting across the battlefield to get closer to the target is a perfectly valid Maneuver.</p>
+<p>In these cases the Free Action is <em>combined</em> with the Maneuver, and still follows the same restrictions—namely that another Free Action of the same type cannot be made on the turn.</p></td>
+</tr>
+</tbody>
+</table>
+
+These Stunt Maneuvers must make sense in the context of the action, and
+must exceed the difficulty of the action with the roll to take effect.
+
+As a reminder: Stunts are special, interesting descriptions of a
+character’s action. By their nature, they *cannot* be repeated over and
 over again in the same scene.
+
+The Stunt effects should be treated as examples, not an exhausted list.
+
+> *The Night Caste crashes through the window, barrelling into the Ogre,
+> forcing it to stumble back from the blow.*
+>
+> *Here, the Player is stunting a \[Dexterity + Athletics\] Maneuver
+> with a Knockback effect. They have 10 dice, (+2 from the stunt), and
+> roll 5 Successes.*
+>
+> *They immediately gain 5 Impulse for their Maneuver, regardless. Then,
+> (since this is a Knockback), they compare their 5 Successes against
+> the Ogre’s DV (4). The Ogre is knocked back as desired.*
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Charms and Stunts</strong></p>
+<p>There are some Charms that have the same effects as Maneuver Stunts. If a character chooses the same stunt effect as a charm, the effect can be doubled according to the Storyteller’s discretion.</p></td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tbody>
@@ -205,7 +256,7 @@ over again in the same scene.
 <p>DV</p>
 </blockquote></td>
 <td><blockquote>
-<p>Moves the target one range band of your choice.</p>
+<p>Moves the target one range band.</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -249,31 +300,30 @@ over again in the same scene.
 <p>Based on Scenery</p>
 </blockquote></td>
 <td><blockquote>
-<p>Attempt to find Partial or Full Cover defense.</p>
+<p>Attempt to find Cover.</p>
 </blockquote></td>
 </tr>
 <tr class="even">
 <td><blockquote>
+<p>Counter Cover</p>
+</blockquote></td>
+<td><blockquote>
+<p>Based on Scenery</p>
+</blockquote></td>
+<td><blockquote>
+<p>Eliminate the Situational Cover bonus a character has. They cannot regain this same cover for at least a Round.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
 <p>Defend Other</p>
 </blockquote></td>
 <td><blockquote>
-<p>0</p>
+<p>(None)</p>
 </blockquote></td>
 <td><blockquote>
-<p>Protect another: your DV is used instead of theirs until the next Round</p>
+<p>Protect a character within Short Range for a Round. They may use your DV instead of their own</p>
 </blockquote></td>
-</tr>
-</tbody>
-</table>
-
-The Stunt effects should be treated as examples, not an exhausted list.
-However, anything that is in the Decisive Stunt Effects is off limits.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Charms and Stunts</strong></p>
-<p>There are some Charms that have the same effects as Maneuver Stunts. If a character chooses the same stunt effect as a charm, the effect can be doubled according to the Storyteller’s discretion.</p></td>
 </tr>
 </tbody>
 </table>
@@ -302,7 +352,8 @@ how much Endurance the target loses.
 <tbody>
 <tr class="odd">
 <td><p><strong>Dice Adders and Damage Pool</strong></p>
-<p>Unless a Power specifically states otherwise, they do not adjust or change a Damage Pool. It is not an Action Pool.</p></td>
+<p>Unless a Power or mechanic specifically states otherwise, they do not adjust or change a Damage Pool.</p>
+<p>Drawbacks <em>may</em> be taken on a Damage Roll.</p></td>
 </tr>
 </tbody>
 </table>
@@ -319,15 +370,12 @@ to place 1 on one target and 4 on another.
 
 ### Stunting Decisive Strikes
 
-If the Player stunts during a Decisive Strike, they may choose to take a
-Maneuver Stunt Effect on their Accuracy roll ***or*** they may try to
-get a Decisive Strike Stunt Effect.
+If the Player stunts during a Decisive Strike, they gain +2 dice to
+their Accuracy Roll, and they have access to more powerful **Decisive
+Stunt Effects.**
 
-The stunt effect difficulty for Maneuver difficulty effects are based on
-the Accuracy roll, wheras Decisive Strike difficulties are based on the
-Damage roll.
-
-Regardless, the +2 dice is applied to the Accuracy Roll.
+These Stunt Effects have a higher bar to clear, and the difficulty is
+based around the *Damage Roll*.
 
 <table>
 <tbody>
@@ -362,36 +410,170 @@ Regardless, the +2 dice is applied to the Accuracy Roll.
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>Restrain</p>
+<p>Restrain<br />
+(Grapple)</p>
 </blockquote></td>
 <td><blockquote>
 <p>Evasion</p>
 </blockquote></td>
 <td><blockquote>
-<p>The target becomes unable to move of their own will for one Round, and may be dragged by the attacker.</p>
+<p>The target becomes unable to move of their own will for one Round, and may be dragged by the attacker’s move action.</p>
 </blockquote></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><blockquote>
+<p>Maim /</p>
+<p>Humiliate /</p>
+<p>Terrorize</p>
+</blockquote></td>
+<td><blockquote>
+<p>DV /</p>
+<p>Guile /</p>
+<p>Resolve</p>
+</blockquote></td>
+<td><blockquote>
+<p>The target suffers the <a href="#Drawbacks|outline">Wound Drawback</a> in the Physical, Social, or Mental Category, respective to the Defense targetted.</p>
+</blockquote></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><blockquote>
+<p>&lt;Reserved&gt;</p>
+</blockquote></td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-Situational Defense 
--------------------
+The Player may decide to use the lesser Maneuver Stunt Effect in place
+of a Decisive Stunt Effect, but still must use the Damage Roll.
+
+Positioning
+-----------
+
+### Range Bands
+
+Characters are constantly in motion during combat, running down
+alleyways and leaping off tree limbs. Rather than rely on absolute
+positioning, Exalted works off of *relative* positioning between
+characters, represented through 4 normal Range Bands. These Range Bands
+are traversed by taking a Move Action.
+
+-   **Melee/Close  
+    **Within arm’s reach, and where close combat abilities such as Melee
+    (its namesake) and Brawl reside. Characters within Melee range are
+    currently engaged in battle, and must take the special Move Action
+    called **Disengage** to leave.
+
+-   **Short  
+    **Within a few yards of each other--a distance able to be crossed
+    within a quick sprint.
+
+-   **Medium  
+    **Far enough that conversations would have to be shouted, and where
+    archers and other ranged combat is naturally limited.
+
+-   **Long  
+    **Across an entire field, far enough away that visual, rather than
+    verbal, signals would have to be used.
+
+There is one additional Range Band that does not act normally:
+**Extreme**. It cannot be reached by any normal means and simply
+represents anything “outside of the battlefield.”
+
+Anything in the Extreme Range band cannot be directly interacted with
+during combat without specific Powers. Any reinforcements to the scene
+will spend one Round in the Extreme Range Band before moving into the
+conflict.
+
+### Attack Ranges
+
+**Close Range** actions—such as those made with Melee or Brawl—may only
+be made while in Melee/Close Range.
+
+**Ranged** Decisive Strikes—namely those made with Archery and
+Thrown—may be made against all targets within Short, or Medium range.
+
+Ranged Strikes *may* be made against targets within Melee range, but
+suffer (-2) successes to their Accuracy roll—as though the target had
+Partial Cover.
+
+Movement
+--------
+
+The following are all considered to be sub-types of the Move Free
+action: Move, Dash, and Disengage. If one is taken during a Round, only
+that one may be taken. (i.e. no Dashing and then Moving in the same
+Round).
+
+### Move
+
+As a Free Action, move one Range Band closer or further away from a
+target. You may not Move while in Melee Range of an enemey—instead you
+must take a Disengage Action.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Movement and Common Sense</strong></p>
+<p>Movement towards or away from one character may affect the distance between others, and should be changed according to common sense. If a character is in a group and you move towards them, you also move closer to all characters in the group.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Dash
+
+A Dash cannot be made while in Melee Range of an Enemy. Spend 2 Impulse,
+and suffer -1 DV for a round to cross 2 Range Bands instead of 1.
+
+Dash Movements cannot be taken two rounds in a row.
+
+### Disengage
+
+In order to move away from Melee Range of an enemy combatant, the
+character must Disengage. Spend 2 Impulse to attempt to move back to
+Short Range.
+
+Combatants currently in Melee Range may attempt to halt Disengagement.
+Those that roll (Dex + Athletics) above your Evasion remain in Melee
+Range—immediately joining you in your new position.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Alternate Rules:<br />
+Battlemaps and Absolute Positioning</strong></p>
+<p>Sometimes a particular battle, or even the Player Group will prefer the tactical feel of minatures on a battlemap. This is perfectly fine, and it is simple enough to convert to Absolute Positioning with the following changes:</p>
+<ul>
+<li><p>A typical battlemap will use hexagonal spaces (hexes), each representing 5 meters.</p></li>
+<li><p>Characters have a <strong>Speed</strong> value: 3 + (Dex+Athletics)/2</p>
+<ul>
+<li><p>A character can Move <strong>Speed</strong> Hexes (Speed x5 meters)</p></li>
+<li><p>Dash is Speed x2 hexes (Speed x10 meters)</p></li>
+</ul></li>
+<li><p>A character <em>may</em> move away from Melee/Close Range without Disengaging, but only at Half Speed.</p></li>
+<li><p>References to “Range Band” as a distance is 5 Hexes (25 meters)</p></li>
+</ul>
+<p>The definition for range bands are:</p>
+<ul>
+<li><p>0-5 meters (0-1 hex): <strong>Melee/Close</strong></p></li>
+<li><p>6-20 meters (2-5 hex): <strong>Short</strong></p></li>
+<li><p>21-70 meters (6-15 hex): <strong>Medium</strong></p></li>
+<li><p>71-145 meters (16-30 hex): <strong>Long</strong></p></li>
+<li><p>146+ meters (31 hex): <strong>Extreme</strong></p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+Cover and Situational Defense
+-----------------------------
 
 There are two levels of Situational Defenses in Exalted: **Partial** and
 **Full**.
 
-**Partial** means that the Attacking Player has a -3
-Disadvantage--effectively increasing the defending Player’s DV by 3.
+**Partial** means that the Attacking Player has a -2
+Disadvantage--effectively increasing the defending Player’s DV by 2.
 
 **Full** means that they cannot be attacked by mortal means.
 
@@ -419,121 +601,10 @@ blocked, such as behind a wall.
 Typically, cover works both ways: a character in Full Defense from
 attacks is also blocked from attacking others for the same reason.
 
-Range
------
+Environmental Effects
+---------------------
 
-Range is the most prevalent and common source of Situational Defense, so
-much so that it has special rules.
-
-### Moving
-
-Each Round, characters may take a Free Action to move one range band.
-
-### Range Bands
-
-Characters are constantly in motion during combat, running down
-alleyways and leaping off tree limbs. Rather than rely on absolute
-positioning, Exalted works off of *relative* positioning between
-characters, divided into specific **Range Bands**.
-
-Characters are assumed to keep in their same relative Range Band until
-one side makes a deliberate effort to change it through a **Move
-Action**.
-
-Move Actions may also change relative range bands to other characters.
-If moving towards a character in a group, all characters in that group
-would be one range band closer. This secondary effect is dependent on
-the Storyteller’s judgement.
-
-There are Eight Range bands, split along Five Categories:
-
--   **Close (1x)  
-    **Within arm’s reach.
-
--   **Short (1x)  
-    **Within a few yards of each other--a distance able to be crossed
-    within a quick sprint.
-
--   **Medium (2x)  
-    **Far enough that conversations would have to be shouted, and an
-    archer would have to take preparations for a proper attack.
-
--   **Long (3x)  
-    **Across an entire field, far enough away that visual, rather than
-    verbal, signals would have to be used.
-
--   **Far (1x)  
-    **Term for “outside of the battlefield”. Characters cannot get *to*
-    the Far Range band through Move actions, but any late-comers to the
-    battle will show up at this Range Band.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Alternate Rules:<br />
-Battlemaps and Absolute Positioning</strong></p>
-<p>While relative Range Bands are the recommended method of playing Exalted, some players prefer to play with absolute positioning and battlemaps. If that is your preference, make the following changes:</p>
-<ol type="1">
-<li><p>Distance will be measured in meters. Typically, hexagonal space (hex) will represent 5 meters.</p></li>
-<li><p>Characters have a <strong>Speed</strong> Static value, which is 3 + (Dex + Athletics )/2.<br />
-The distance travelled is Speed x5 meters--or (Speed) Hexes at a time.</p></li>
-<li><p>Whenever the Move Action is taken, the character moves (Speed) hex.</p>
-<ol type="a">
-<li><p>A Dash moves (Speed)x2.</p></li>
-</ol></li>
-<li><p>A character may move 5 meters (1 hex) on their action without taking a Move Action.</p></li>
-<li><p>All references to (Range Band) as a distance is 25 meters (5 hexes).</p></li>
-</ol>
-<p>The definition for range bands are altered:</p>
-<ul>
-<li><p>0-5 meters (0-1 hex): <strong>Close</strong></p></li>
-<li><p>6-20 meters (2-5 hex): <strong>Short</strong></p></li>
-<li><p>21-70 meters (6-15 hex): <strong>Medium</strong></p></li>
-<li><p>71-145 meters (16-30 hex): <strong>Long</strong></p></li>
-<li><p>146+ meters (31 hex): <strong>Far</strong></p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-### Close Attacks
-
-**Close Attacks**, such as those made with **Melee** and **Brawl**, may
-be made at Close Range with no defense applied, and at Close Range with
-Partial Defense. Any further ranges enjoy a Full Defense.
-
--   **Close**: None (0)
-
--   **Short**: Partial (-3)
-
--   **Medium+**: Full (N/A)
-
-Attacking a Short range (or further, with the right Powers) does not
-change the relative range band. It is assumed that the character rushes
-in, attacks, and then cannot hold the position for more than an instant.
-
-### Ranged Attacks
-
-**Ranged Attacks,** such as those made with **Archery** and **Thrown**
-are made at Short Range with no defense. At Medium they suffer a Partial
-Defense, whereas Long+ cannot be attacked at all.
-
-**Ranged** attacks may take an **Aim** action to eliminate Range Partial
-Defense of Medium+ attacks.
-
-At **Close** range, ranged attacks are hampered by the control the
-opponent has claimed over the area, and so also suffer a Partial
-Defense. However, this defense *cannot* be countered with an **Aim**
-action.
-
--   **Close**: Partial (-3)  
-    Cannot use Aim action to counter.
-
--   **Short**: None (0)
-
--   **Medium:** Partial (-3)
-
--   **Long+:** Full (N/A)
+&lt;&lt;TODO&gt;&gt;
 
 Endurance
 ---------
@@ -558,20 +629,6 @@ Any character that falls during battle gains **1 Limit**.
 
 Death is only at the choice of the Player.
 
-#### Recurring Antagonist Defeat
-
-If they are intended to be a recurring antagonist, they should always
-manage to get away, though suffering a major blow to their own
-plans--they will often be forced to retreat and lick their wounds.
-
-If you force a retreat on these Antagonists, you must bribe your players
-each with a [**<u>Strife Point</u>**](/General_System/#strifes) as compensation.
-
-Remember, though, that recurring antagonists can only be used so many
-times--eventually you will have to move to the Final Confrontation,
-where the fate of these antagonists should be placed into the Players’
-hands.
-
 #### Death and Dying
 
 The death of any central characters to the story should be pivotal and
@@ -586,8 +643,24 @@ the Storyteller, although they must bribe all the Players with a
 **Strife Point** to avoid such a fate--something that the Players are
 allowed to reject should they so choose.
 
+#### Recurring Antagonist Defeat
+
+If they are intended to be a recurring antagonist, they should always
+manage to get away, though suffering a major blow to their own
+plans--they will often be forced to retreat and lick their wounds.
+
+If you force a retreat on these Antagonists, you must bribe your players
+each with a [**<u>Strife Point</u>**](/General_System/#strifes) as compensation.
+
+Remember, though, that recurring antagonists can only be used so many
+times--eventually you will have to move to the Final Confrontation,
+where the fate of these antagonists should be placed into the Players’
+hands.
+
 Weapons and Armor
 -----------------
+
+&lt;&lt;TODO&gt;&gt;
 
 <table>
 <tbody>

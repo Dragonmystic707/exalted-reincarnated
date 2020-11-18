@@ -51,6 +51,8 @@ the dominant form, but other examples range from the mechanical
 crossbow, to slings, to even the exotic flampiece that shoots streamers
 of fire.
 
+**Combat:** Archery attacks are Ranged.
+
 #### Sample Specialites
 
 -   Bow
@@ -115,6 +117,8 @@ generations have devised ways of harming each other.
 Brawl is *generally* performed Unarmed, but weapons that strengthen or
 reinforce the natural body form--such as brass knuckles, tiger claws, or
 even spike-tipped boots--are still part of the Brawling Ability.
+
+**Combat:** Brawl attacks are Close Range.
 
 #### Sample Specialites
 
@@ -235,6 +239,8 @@ and forms of weapons made. Specialities therefore are *representative*
 of how the weapon is used: A spear could be used as a Sword, Staff, or
 Spear, for example.
 
+**Combat:** Melee attacks are Close Range.
+
 #### Sample Specialites
 
 -   Swords
@@ -352,6 +358,8 @@ disguises and blending into crowds.
 
 Thrown focuses on Ranged Combat where the entire (or vast majority) of
 the weapon is hurled at the opponent, rather than projectiles.
+
+**Combat:** Thrown attacks are Ranged.
 
 #### Sample Specialites
 
