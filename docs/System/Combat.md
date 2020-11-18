@@ -459,22 +459,22 @@ positioning, Exalted works off of *relative* positioning between
 characters, represented through 4 normal Range Bands. These Range Bands
 are traversed by taking a Move Action.
 
--   **Melee/Close  
-    **Within arm’s reach, and where close combat abilities such as Melee
+-   **Melee/Close**  
+    Within arm’s reach, and where close combat abilities such as Melee
     (its namesake) and Brawl reside. Characters within Melee range are
     currently engaged in battle, and must take the special Move Action
     called **Disengage** to leave.
 
--   **Short  
-    **Within a few yards of each other--a distance able to be crossed
+-   **Short**  
+    Within a few yards of each other--a distance able to be crossed
     within a quick sprint.
 
--   **Medium  
-    **Far enough that conversations would have to be shouted, and where
+-   **Medium**  
+    Far enough that conversations would have to be shouted, and where
     archers and other ranged combat is naturally limited.
 
--   **Long  
-    **Across an entire field, far enough away that visual, rather than
+-   **Long**  
+    Across an entire field, far enough away that visual, rather than
     verbal, signals would have to be used.
 
 There is one additional Range Band that does not act normally:
@@ -556,11 +556,11 @@ Battlemaps and Absolute Positioning</strong></p>
 </ul>
 <p>The definition for range bands are:</p>
 <ul>
-<li><p>0-5 meters (0-1 hex): <strong>Melee/Close</strong></p></li>
-<li><p>6-20 meters (2-5 hex): <strong>Short</strong></p></li>
-<li><p>21-70 meters (6-15 hex): <strong>Medium</strong></p></li>
-<li><p>71-145 meters (16-30 hex): <strong>Long</strong></p></li>
-<li><p>146+ meters (31 hex): <strong>Extreme</strong></p></li>
+<li><p><strong>Melee/Close:</strong> 0-1 hex (0-5 m.)</p></li>
+<li><p><strong>Short:</strong> 2-5 hex (6-20 m.)</p></li>
+<li><p><strong>Medium:</strong> 6-15 hex (21-70 m.)</p></li>
+<li><p><strong>Long:</strong> 61-30 hex (71-145 m.)</p></li>
+<li><p><strong>Extreme:</strong> 31+ hex (146+ m.)</p></li>
 </ul></td>
 </tr>
 </tbody>
