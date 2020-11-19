@@ -25,10 +25,10 @@ An Encounter starts with a **Goal** for the scene: what the Players
 intend the outcome of the scene to be. If there is no clearly defined
 goal, or that goal is unreachable, an Encounter should not start.
 
-> *On the southern shores of the Inland Sea party decides that they will
-> need a full caravan to traverse the Burning Sands.. There is a local
-> Trade-Prince whom they think they can convince to finance and supply
-> them this caravan.*
+On the southern shores of the Inland Sea party decides that they will
+need a full caravan to traverse the Burning Sands.. There is a local
+Trade-Prince whom they think they can convince to finance and supply
+them this caravan.
 
 Key Issues
 ----------
@@ -55,23 +55,23 @@ Issue may be revealed at their discretion.
 
 -   Complicated 15 Influence
 
-> *The Storyteller decides there are 3 Key Issues preventing the
-> Trade-Prince from funding the caravan:*
->
-> *1. Needing a return on investment. (Simple). Understandably, the
-> Trade-Prince will need to be convinced it is worth his while to
-> dedicate so many resources to this goal. This Key Issue can be easily
-> guessed, so is revealed on Encounter start.*
->
-> *2. Antagonistic Sycophants (Simple). The Trade-Prince has surrounded
-> himself with sycophants, who deeply despise any perceived change to
-> their position. The Party must silence their influence.*
->
-> *3. Fear of the Immaculate Order (Average) (Hidden). Through the
-> party’s past actions, the Trade-Prince has secretly caught on that
-> they are Anathema. He does not personally care, but he will need a way
-> to make sure that the Immaculate Order will not find out about this
-> deal--or at least be convinced of this fact.*
+The Storyteller decides there are 3 Key Issues preventing the
+Trade-Prince from funding the caravan:
+
+1\. Needing a return on investment. (Simple). Understandably, the
+Trade-Prince will need to be convinced it is worth his while to dedicate
+so many resources to this goal. This Key Issue can be easily guessed, so
+is revealed on Encounter start.
+
+2\. Antagonistic Sycophants (Simple). The Trade-Prince has surrounded
+himself with sycophants, who deeply despise any perceived change to
+their position. The Party must silence their influence.
+
+3\. Fear of the Immaculate Order (Average) (Hidden). Through the party’s
+past actions, the Trade-Prince has secretly caught on that they are
+Anathema. He does not personally care, but he will need a way to make
+sure that the Immaculate Order will not find out about this deal--or at
+least be convinced of this fact.
 
 ### Gathering Influence
 
@@ -95,12 +95,12 @@ Key Issue being addressed.
 
 **Influence** = Successes - Difficulty
 
-> *The Socialite of the group, a Solar Eclipse, moves to address the
-> “Antagonist Sycophants” Key Issue by suppressing the Intimacy the
-> Trade-Prince has of them. He performs a “Influence Intimacy” Social
-> Action, rolling 5 Success against the Prince’s 3 Resolve. He gains 2
-> Influence Points against the Key Issue, as well as successfully
-> lowering the Prince’s Intimacy.*
+The Socialite of the group, a Solar Eclipse, moves to address the
+“Antagonist Sycophants” Key Issue by suppressing the Intimacy the
+Trade-Prince has of them. He performs a “Influence Intimacy” Social
+Action, rolling 5 Success against the Prince’s 3 Resolve. He gains 2
+Influence Points against the Key Issue, as well as successfully lowering
+the Prince’s Intimacy.
 
 Once enough Influence has been gathered against a Key Issue, it is
 considered *resolved*, and the Players are one step closer to their
@@ -157,18 +157,18 @@ A Player Intentionally “going in blind” is taking a risk--if their
 assumption is wrong on the Issue, they do not gain any Influence Points
 for their roll, no matter how many Threshold Successes they roll.
 
-> *The Players have managed to completely avoid uncovering the nature of
-> the Third Key Issue. So far, the Storyteller has dropped hints that
-> the Trade Prince may know of their true nature in their conversations,
-> and has even told them that intimidating a particular Sycophant (with
-> deep ties to the Immaculate Order) could be applied to the hidden Key
-> Issue, if they wanted.*
->
-> *One Player now decides to use the "Probe for Key Issue," trying to
-> divine the relationship between the Sycophant and the Trade Prince.
-> They succeed on their roll, and the Storyteller responds by noting
-> that the Trade Prince "Fears what that man represents," and notes that
-> the man has signs of the Immaculate Order woven into his clothes.*
+The Players have managed to completely avoid uncovering the nature of
+the Third Key Issue. So far, the Storyteller has dropped hints that the
+Trade Prince may know of their true nature in their conversations, and
+has even told them that intimidating a particular Sycophant (with deep
+ties to the Immaculate Order) could be applied to the hidden Key Issue,
+if they wanted.
+
+One Player now decides to use the "Probe for Key Issue," trying to
+divine the relationship between the Sycophant and the Trade Prince. They
+succeed on their roll, and the Storyteller responds by noting that the
+Trade Prince "Fears what that man represents," and notes that the man
+has signs of the Immaculate Order woven into his clothes.
 
 ### Altering/Adding Goals
 

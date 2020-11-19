@@ -113,11 +113,11 @@ Steps
     Assign each category (Mental, Social, Mental) to be your character’s
     Primary, Secondary, or Tertiary set. Then add:
 
-    -   **9 Dots** to Primary.
+    1.  **9 Dots** to Primary.
 
-    -   **5 Dots** to Secondary.
+    2.  **5 Dots** to Secondary.
 
-    -   **3 Dots** to Tertiary.
+    3.  **3 Dots** to Tertiary.
 
 5.  **Abilities**
 
@@ -135,9 +135,10 @@ Steps
 
     -   Choose 3 **Specialities,** each in a seperate Favored Ability.
 
-6.  Choose a [**<u>Martial Arts Style</u>**](-3t4ra6h9kwgj). Martial
-    Arts dictates how your character interacts during combat, ranging
-    from animal styles to esoteric and strange supernatural styles.
+6.  Choose a [**<u>Martial Arts Style</u>**](/Martial_Arts/#martial-arts).
+    Martial Arts dictates how your character interacts during combat,
+    ranging from animal styles to esoteric and strange supernatural
+    styles.
 
 7.  Gain 15 **Resources**, which may immediately be spent on Merits.
     During character creation, Obstruction rolls are ignored.

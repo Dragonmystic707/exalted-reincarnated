@@ -111,15 +111,14 @@ The Storyteller should take the average number of successes for
 non-player characters as ½ their Dice pool, which is their \[Att +
 Ability +/- Modifiers\]
 
-> *There are two characters in the scene: a guard and a thief. The guard
-> is keeping watch, and the thief is attempting to sneak past them. The
-> dice pool for the player-controlled thief would be Dexterity +
-> Stealth.*
->
-> *Since this is a NPC, and there are no dice-affecting powers active,
-> the storyteller simply takes the average: (Cunning + Awareness)/2.
-> Should the thief match or surpass that number, they successfully sneak
-> past. Should they not, the guard discovers them*.
+There are two characters in the scene: a guard and a thief. The guard is
+keeping watch, and the thief is attempting to sneak past them. The dice
+pool for the player-controlled thief would be Dexterity + Stealth.
+
+*Since this is a NPC, and there are no dice-affecting powers active, the
+storyteller simply takes the average: (Cunning + Awareness)/2. Should
+the thief match or surpass that number, they successfully sneak past.
+Should they not, the guard discovers them*.
 
 Drawbacks
 ---------
@@ -144,8 +143,8 @@ exhaustive or exclusive:
 
 *Immediately Limit Break at 10.*
 
-The character gains 1 point of [<u>Limit</u>](-toc164), representing
-the spiritual stress required to do the task.
+The character gains 1 point of [<u>Limit</u>](/General_System/#limit), representing the
+spiritual stress required to do the task.
 
 ### Wound/Exhaustion
 
@@ -173,7 +172,7 @@ Botching
 
 If a character fails their action, they may choose to *worsen* their
 failure dramatically, as represented by taking a Drawback. In exchange,
-they will gain a [**<u>Strife Point</u>**](-toc199).
+they will gain a [**<u>Strife Point</u>**](/General_System/#strifes).
 
 If at all possible, the Player should try to include their **Great
 Curse** as reasoning for this Botch. Perhaps a prideful character could
@@ -530,13 +529,13 @@ Stunt:
 
 ##### Example 1
 
-> *The Archer turns from the Dragonblood threatening her and focusing
-> her essence into a point on their arrow. With a sharp hiss of air, she
-> lets it loose into the nearest mountain, watching as the arrow
-> explodes in an impressive show of Anima. The mountain rumbles as the
-> snow dislodges, causing the newly-fallen snow to groan, rumble, and
-> then start cascading into a deadly avalanche which rushes into the
-> passage, sealing it and cutting off the dynasts reinforcements.*
+The Archer turns from the Dragonblood threatening her and focusing her
+essence into a point on their arrow. With a sharp hiss of air, she lets
+it loose into the nearest mountain, watching as the arrow explodes in an
+impressive show of Anima. The mountain rumbles as the snow dislodges,
+causing the newly-fallen snow to groan, rumble, and then start cascading
+into a deadly avalanche which rushes into the passage, sealing it and
+cutting off the dynasts reinforcements.
 
 “I’m going to use my archery to cause an avalanche”. This example
 accomplishes two dramatic things: it changes the environment, but
@@ -546,12 +545,12 @@ the pressing issue--the fight with the Dragonblooded.
 
 ##### Example 2
 
-> *The Sorcerer looks apprehensive at his map. The desert has become
-> inhospitable to their travels, and the rations for their mortal
-> followers slim--if a solution isn’t found, they will arrive exhausted,
-> or be forced to take a detour through the Guild’s controlled areas.
-> His brown furrows, then suddenly shoots up: “Turn the caravan west, I
-> see a Dragonline I can tap for water!”*
+The Sorcerer looks apprehensive at his map. The desert has become
+inhospitable to their travels, and the rations for their mortal
+followers slim--if a solution isn’t found, they will arrive exhausted,
+or be forced to take a detour through the Guild’s controlled areas. His
+brown furrows, then suddenly shoots up: “Turn the caravan west, I see a
+Dragonline I can tap for water!”
 
 “He’s going to use Sorcery to pull up water from the ground.” In this
 situation, the problem being addressed is exhaustion or avoiding a bad
@@ -559,9 +558,9 @@ decision--preventing a negative.
 
 ##### Example 3
 
-> *The Crafter analyzes the complex door in front of them, which is
-> blocking their way, the code shifting and twisting before their eyes.
-> “I can simply craft a new key to the puzzle. Hold on for a moment.”*
+The Crafter analyzes the complex door in front of them, which is
+blocking their way, the code shifting and twisting before their eyes. “I
+can simply craft a new key to the puzzle. Hold on for a moment.”
 
 “The door is locked? I can just open it with crafting.” Is **bad**
 because the main objective of this scene is to get past the door
@@ -581,7 +580,7 @@ the difficulty.”
 Strife may be gained through two ways: **Botches** and **Scene
 Complications**.
 
-[<u>Botches</u>](-toc77) are Player-driven choices to drive their
+[<u>Botches</u>](/General_System/#botching) are Player-driven choices to drive their
 character's failure into a *magnificent* failure--a low so that they may
 later rise to even greater heights.
 

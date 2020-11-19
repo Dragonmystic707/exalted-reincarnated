@@ -81,45 +81,43 @@ Shaping a spell is therefore represented by **Sorcerous Motes (sm),**
 which represent the usage of external Essence to twist and conjure the
 mechanics of the world into the shapes needed for the Spell.
 
-**Sorcerous Motes** are pulled *exclusively* from the **Peripheral
-Mote** Pool--meaning that using a spell will always agitate the Anima
-Banner.
+**Sorcerous Motes** follow much the same rules as normal motes—they may
+be pulled from the Personal or Peripheral Mote pools at choice
 
-As well, shaping Sorcerous Motes is *not instantaneous*. There is a
-distinct time of starting to Shape the Spell, to the ending and release
-of the spell.
+The difference is that using Sorcery is *not instantaneous*. There is a
+distinct passage of time from starting a spell to casting and releasing
+it unto the world.
 
-Lastly, Sorcerous Motes are *unique* to the Spell that is being
-cast--you cannot swap which Spell is being cast midway through Shaping
-the Motes.
+This means that characters, on noticing that a Spell is starting to be
+cast, will have the chance to react before the Spell has finished. In
+scenes, (such as an Encounter), this is two Actions: one to Shape the
+spell, the next to release it.
 
-### Non-Combat Casting
-
-In all non-combat scenes (including Encounters), casting a spell takes
-two Actions: one to Shape, and the next to release the Spell.
-
-In essence, all characters get a full action to react to a spell being
-cast.
+As a note: Sorcerous Motes are unique to the very spell they are being
+shaped for. It is not possible to start “Shaping Motes” for a generic
+spell and switch which spell is released.
 
 ### Combat Casting
 
-Casting in the time-regimented Combat Scene is handled more granularly
-by taking **Shape Motes** Action
+Casting in Combat requires a bit more granularity, and is handled
+through the Special Maneuver called **Shape Motes,** and then the
+Decisive action of **Cast Spell**.
 
 #### Shape Motes
 
-**Primary Action  
-Impulse Cost**: 0
+Roll (Intelligence + Sorcery). You may shape up to that number of your
+Motes into Spell’s Sorcerous Motes.
 
-Roll (Intelligence + Sorcery). You may shape up to that number of
-Peripheral Motes into the Spell's Sorcerous Motes.
+Shaping Motes is a messy affair, the force required to twist the flows
+of the world will often cast off essence into the world—a talented
+Sorcery will know how to use these sparks of sorcery to perform Stunt
+Maneuvers.
 
-The Anima Banner immediately flares according to how many Peripheral
-Motes have been shaped in this action.
+#### *Cast Spell*
 
-Once all Sorcerous Motes of the Spell have been gathered, the Spell
-immediately takes effect, and the Anima Flare will jump to the total
-cost of the Spell.
+Once all Sorcerous Motes of the Spell have been gathered, the Sorcery
+may take the Decisive Action to Cast the Spell, as according to its
+Spell description.
 
 Countermagic
 ------------

@@ -208,16 +208,16 @@ over again in the same scene.
 
 The Stunt effects should be treated as examples, not an exhausted list.
 
-> *The Night Caste crashes through the window, barrelling into the Ogre,
-> forcing it to stumble back from the blow.*
->
-> *Here, the Player is stunting a \[Dexterity + Athletics\] Maneuver
-> with a Knockback effect. They have 10 dice, (+2 from the stunt), and
-> roll 5 Successes.*
->
-> *They immediately gain 5 Impulse for their Maneuver, regardless. Then,
-> (since this is a Knockback), they compare their 5 Successes against
-> the Ogre’s DV (4). The Ogre is knocked back as desired.*
+*The Night Caste crashes through the window, barrelling into the Ogre,
+forcing it to stumble back from the blow.*
+
+Here, the Player is stunting a \[Dexterity + Athletics\] Maneuver with a
+Knockback effect. They have 10 dice, (+2 from the stunt), and roll 5
+Successes.
+
+They immediately gain 5 Impulse for their Maneuver, regardless. Then,
+(since this is a Knockback), they compare their 5 Successes against the
+Ogre’s DV (4). The Ogre is knocked back as desired.
 
 <table>
 <tbody>
@@ -338,7 +338,7 @@ You must have a minimum of 2 Impulse available to perform a Decisive
 Strike.
 
 Roll the **Accuracy** dice pool against the target’s DV. If the roll
-fails, the attacker loses 2 Impulse and ends their turn.
+fails, the attack misses and you lose 2 Impulse.
 
 On a success, take the Threshold Successes from the Accuracy Roll, the
 character’s Base Damage, and *all* the Impulse they currently have to
@@ -637,11 +637,6 @@ something the Player wishes for their character.
 
 A dramatic moment of death is a perfect send-off and ending for one of
 the members of the Exalted.
-
-Likewise, central Non-Player Character deaths should be determined by
-the Storyteller, although they must bribe all the Players with a
-**Strife Point** to avoid such a fate--something that the Players are
-allowed to reject should they so choose.
 
 #### Recurring Antagonist Defeat
 

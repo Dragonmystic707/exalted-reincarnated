@@ -41,7 +41,7 @@ of no cost (such as Permanent effects) will be designated with “--”.
     an Encounter Scene, requires **Influence.**
 
 -   **sm** -- Sorcerous Motes, which are described in more detail in the
-    [<u>Sorcery</u>](https://docs.google.com/document/d/1fg4i3K9kSNsWkPiqsuHOSElKFzvc_E58KwLs5MT6cKk/edit?usp=sharing).
+    [<u>Sorcery</u>](/Sorcery_and_Necromancy/#sorcery-and-necromancy).
 
 ### Type
 
@@ -71,11 +71,11 @@ immediately dissipates after activation.
 
 #### **Activation Type**
 
--   **Primary.** Consumes a Primary Action Slot. Only one Primary Action
-    may be taken per turn.
+-   **Simple.** Consumes an Action Slot. Only one Action may be taken
+    per turn.
 
--   **Secondary**. Consumes a Secondary Action Slot. Only one Secondary
-    action may be taken per turn.
+-   **Free**. Does not consume an Action Slot, but must still be
+    activated on the character’s Turn. (i.e. not Reflexively.)
 
 -   **Supplemental.** Enhances a Primary or Secondary Action. There is
     no limit to the number of supplemental Powers that may be combined
@@ -126,6 +126,8 @@ it will cost **double** the amount of XP to learn.
 
 Making New Powers
 -----------------
+
+\[\[NOTE: This section is old and slated for rewrite.\]\]
 
 Players and Storytellers are encouraged to work together to craft and
 use Custom Charms that fit individual characters and their needs--the
