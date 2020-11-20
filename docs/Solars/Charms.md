@@ -8,10 +8,10 @@ prev_url: Introduction
 prev_title: Introduction
 ---
 
-Global Charms
-=============
+Charms
+======
 
-Lesser Charms
+Global Charms
 -------------
 
 ### Inescapable Judgement
@@ -25,67 +25,66 @@ a perfect arc, angle, or even a series of ricochets to reach its target,
 diminishing the target’s Cover advantage by one level.
 
 Archery
-=======
-
-Lesser Charms
--------------
+-------
 
 ### Spirit Piercing Technique
 
-**Cost:** 2m, 1i  
+**Cost:** 2m  
 **Type:** Supplemental (Attack)  
 **Mins**: Archery 3
 
-The Solar infuses their arrow with their golden anima. Once loosed, a
-golden arch is let loose, which allows the archer to pierce any
-Immaterial being, negating their Full Defense. Creatures of Darkness
-suffer an additional (+Essence) damage from this attack.
+The Solar infuses their arrow with their golden anima and lets it loose
+in a perfect arch, streaming with concentratedSoulfire. Spirits such as
+ghosts, elementals, and gods can be piereced by these arrows—negating
+their (Immaterial) defense.
+
+Creatures of Darkness suffer an additional (+Essence) damage from this
+attack.
+
+### Splitting the Arrow
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Archery 4
+
+The Exalt strikes with unerring accuracy and lethality, finding the
+smallest chink of armor and exploiting it. The Archery action targets
+Evasion, instead of DV.
+
+**Upgrade**: At Essence 4, this charm deals an extra +2 damage.
 
 ### Solar Spike
 
-**Cost:** 5m, 3i  
-**Type:** Primary  
+**Cost:** 5m, 2i  
+**Type:** Supplemental (Flurry)  
 **Mins**: Archery 4
 
 Conjuring the deepest Intimacy, the Solar lashes out with a spike of
-Soulfire, launching a Flurry Attack against (Essence)x2 targets, and
-deals +(Essence) base damage.
+Soulfire, launching a Flurry Attack that deals a +(2) damage each, up to
+(Essence) targets
 
 The spike dashes from target to target like lightning, and may continue
 past the Solar’s typically range boundary so long as each target is
 within Short Range of the last.
 
-### Splitting the Arrow
-
-**Cost:** 5m, 2i  
-**Type:** Supplemental  
-**Mins:** Archery 4
-
-The Exalt strikes with unerring accuracy and lethality, finding the
-smallest chink of armor and exploiting it. A Standard, non-Flurry Attack
-becomes Unsoakable.
-
-**Upgrade**: At Essence 4, this charm deals an extra +2 damage.
-
- 
+### 
 
 Greater Charms
---------------
 
 ### The Mark of Judgement
 
 **Cost:** 8m, 3i  
-**Type:** Primary; Scene  
+**Type:** Simple; Scene  
 **Mins**: Archery 4
 
 The Solar marks a specific target, burning it perfectly into their mind.
 The Solar Archer ignores all Partial Defenses against the target, and
-gains +1 automatic success on attacks.
+gains +1 automatic success on Accuracy Rolls.
 
 Alternatively a specific location may be marked (no larger than 6 meters
 in diameter), allowing the Solar to freely and reflexively attack any
 who enter the location. This does not grant the Partial Defense removal
-or automatic success.
+nor automatic success.
 
 ### Searing Sunfire Interdiction
 
@@ -98,8 +97,8 @@ target location--such as where a person is standing. They then launch a
 streaming arrow of light into the air.
 
 At the start of the next Round, the arrow crashes down at the targeted
-location, dealing \[Archery + (Essence) x2\] Undodgeable damage to all
-within Short Range of the target location.
+location, dealing \[Archery + (Essence) x2\] damage to all within Short
+Range of the target location.
 
 For the remainder of the scene, the affected area becomes bathed in
 Soulfire Environmental Damage. (Essence) per Round.
@@ -107,10 +106,7 @@ Soulfire Environmental Damage. (Essence) per Round.
  
 
 Athletics
-=========
-
-Lesser Charms
--------------
+---------
 
 ### Shadow over Water
 
@@ -123,48 +119,44 @@ Evasion.
 
 ### Burning Corona Evasion
 
-**Cost:** 3m  
+**Cost:** 2m  
 **Type:** Reflexive  
 **Mins:** Athletics 3
 
 The Solar flares a glimpse of their anima at just the right moment,
-temporarily blinding their opponent as they attack them. This does not
-definitely reveal their Solar nature, as this flash of anima can be
-attributed to tricks of the light.
+temporarily blinding their opponent as they attack them.
 
-When defending with Evasion, the Solar may force the attacker to lose 2
-Impulse, If they do not have enough Impulse to be lost, the attack is
-reduced by 1 damage.
+When defending with Evasion, the Solar will force the attacker to lose 2
+Impulse on their Accuracy, If the attacker only had 2 Impulse, they
+automatically miss.
 
 ### Foe-Vaulting Method
 
 **Cost:** 4m  
-**Type:** Secondary  
+**Type:** Supplemental (Disengage)  
 **Mins:** Athletics 3
 
 Swift as the wind, the Solar may vault across, above, or around an enemy
 with blurring speed.
 
-Target a character that has not used their action this round, and can be
-reached by a Move Action. Make a contested (Dex + Athletics) roll
-against the Evasion. On Success, move to the Short Range band behind the
-target, and force the target to lose (Threshold Successes) Impulse.
+The character proactively rolls (Dex + Athletics) against their
+pursuer’s Evasion, instead of the normal disengage roll. (If there are
+multiple enemies, choose the target with the highest Evasion.)
 
-On a Failure, the Solar is left in Close Range with the target.
+On Success, disengage to Short Range, and force the target to lose
+(Threshold Successes) Impulse. If they do not have enough Impulse, the
+target become Stunned.
 
 ### Seven Shadows Evasion
 
-**Cost:** 4m, 2i  
+**Cost:** 3m  
 **Type:** Reflexive  
 **Mins:** Athletics 4
 
 The Solar is as swift as the shadows they cast, and may Increase their
 Evasion against an attack by (Essence).
 
- 
-
 Greater Charms
---------------
 
 ### Sunlight’s Advance
 
@@ -175,7 +167,7 @@ Type:** Permanent
 All of The Solar’s movement is doubled--rolls depending on speed add an
 additional (Athletics) dice. Leaps and bounds are also doubled.
 
-In combat, any Move Action may move up to Two Range Bands at no penalty.
+In combat, they may Dash at no Impulse cost.
 
 ### Eagle-Wing Style
 
@@ -190,10 +182,7 @@ may leap effortlessly through the air.
  
 
 Awareness
-=========
-
-Lesser Charms
--------------
+---------
 
 ### Genius Palate Summation
 
@@ -238,10 +227,7 @@ This allows a roll against all hidden creatures that breathe, live, or
 are currently in motion in the current scene, and eliminates up to
 (Essence) penalties that would be applied against the roll.
 
- 
-
 Greater Charms
---------------
 
 ### Eye of the Unconquered Sun
 
@@ -261,10 +247,7 @@ perception during the scene, regardless of obstacles such as hiding
 behind walls.
 
 Brawl
-=====
-
-Lesser Charms
--------------
+-----
 
 ### Heaven Thunder Hammer
 
@@ -272,11 +255,11 @@ Lesser Charms
 **Type:** Supplemental  
 **Mins:** Brawl 1
 
-On a Brawl Attack that hits, the target(s) are thrown back or down one
-range band of the Brawler’s choice.
+On a Brawl Maneuver or Attack that hits, the target(s) are thrown back
+or down one range band of the Brawler’s choice.
 
-If they impact a wall or other solid surface, deal an additional
-(Essence) amount of damage--potentially shattering the impacted surface.
+If they impact a wall or other solid surface, deal 2 damage to the
+target--potentially shattering the impacted surface.
 
 Throwing creatures of a size class or above the character does not deal
 the extra damage, but still may shatter the surface.
@@ -289,51 +272,21 @@ the extra damage, but still may shatter the surface.
 
 After taking damage from an opponent in Close Range, the Solar may
 reflexively lash out and deal the same amount of damage to the opponent,
-capped at (Essence)x3.
-
-The Brawler may intentionally choose to be hit (lowering their DV) for
-this effect.
+capped at (Essence)x2.
 
 ### Thousand Brilliant Blows
 
-**Cost:** 4m, 1i (+1i per attack)  
-**Type:** Simple  
+**Cost:** 4m, 1i  
+**Type:** Supplemental (Flurry)  
 **Mins:** Brawl 3
 
-Make a Flurry Attack against a single target, hitting it repeatedly. No
-more than 2 + (Essence) flurried attacks may be made.
-
-### Blunt Force Avalanche
-
-**Cost:** 3m, 1i  
-**Type:** Supplemental  
-**Mins:** Brawl 4
-
-This may only Supplement a Brawl attack that is using the Strength
-Attribute.
-
-The attack becomes Unsoakable.
-
-###  
+During a Flurry attack, deal +1 damage, for each individual target,
+granting up to (Essence) x2 bonus.
 
 Greater Charms
---------------
-
-### Titan-Strangling Method
-
-**Cost:** --  
-**Type:** Permanent  
-**Mins:** Brawl 4
-
-Allows grappling of a character regardless of size with no size
-penalties. As well, there are no restrictions on restraining the entire
-body, moving, or even throwing a creature based on size.
 
 Craft
-=====
-
-Lesser Charms
--------------
+-----
 
 ### Chaos-Resistance Preparation
 

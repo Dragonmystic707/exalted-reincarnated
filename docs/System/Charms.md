@@ -27,7 +27,8 @@ with the same perception advantage.
 
 ### There is No Wind
 
-**Cost:** 1m; Supplemental (Ranged Attack)  
+**Cost:** 1m;  
+**Type:** Supplemental (Ranged Attack)  
 **Mins:** (Ranged Ability) 1
 
 When using a ranged attack, reduce up to (Essence) dice of Disadvantages
@@ -39,12 +40,12 @@ Archery
 
 ### Flashing Vengeance Draw 
 
-**Cost:** 5m, 2i  
+**Cost:** 5m, 1i  
 **Type:** Reflexive  
 **Mins:** Archery 1
 
 After the Initiative Order has been decided, but before the first
-Action, the Archer may make an immediate Standard Attack.
+Action, the Archer may make an immediate Maneuver.
 
 ### Dragonfly Finds Mate
 
@@ -56,41 +57,37 @@ Against an attack that uses a projectile (such as Archery or Thrown),
 the Exalt may use a DV of (Dexterity + Archery)/2. This may be used to
 Defend Others who are within Medium Range of the Archer.
 
-This is considered to be a Soak Defense.
-
 ### Forceful Arrow 
 
-**Cost:** 3m 1i  
-**Type:** Supplemental (Attack)  
+**Cost:** 3m  
+**Type:** Supplemental  
 **Mins:** Archery 2
 
-On a successful hit, the target(s) are knocked back one Range Band from
-the Archer.
+On a successful Archery roll above the target’s Evasion, the target is
+knocked back one Range Band from the Archer.
 
-Alternatively, the Exalt may choose to knock themselves backwards one
-Range Band.
+Alternatively, the Exalt may choose to knock themselves backwards from
+their target one Range Band.
 
 ### Arrow Storm Technique
 
-**Cost:** 5m, 2i  
+**Cost:** 3m, 1i  
 **Type:** Supplemental (Attack)  
 **Mins:** Archery 3
 
-The Exalt buries an area with a flurry of arrows, supplementing either a
-Flurry or Standard Attack by making the attack Undodgeable.
+The Exalt buries an area with a flurry of arrows, making sure that at
+least one will hit. Their attack targets Soak instead of DV.
 
 **Upgrade**: At Essence 4, this charm adds +3 dice to the Attack Roll.
 
 ### Flying Anchor
 
-**Cost:** 5m, 2i  
-**Type:** Primary  
+**Cost:** 5m, 1i  
+**Type:** Supplemental  
 **Mins:** Archery 3
 
-The Exalt may perform a Grapple Action at range using a projectile. The
-Exalt does not suffer from the negative penalties of the Grapple, nor
-can the Exalt forcefully move the target, since it is the projectile
-pinning the target down, not the Exalt.
+On a successful Archery Action above the target’s Evasion, the target
+becomes pinned, unable to move from their location for one Round.
 
 Greater Charms
 
@@ -100,9 +97,8 @@ Greater Charms
 Type:** Permanent  
 **Mins:** Archery 4
 
-The Exalts Archery attacks are extended. They now suffer no Defense
-Penalty at Medium Range, and may attack at Long Range with a Partial
-Range Defense.
+The Exalts Archery attacks are extended. They may now attack at Long
+Range, and at Melee Range for no penalty.
 
 Athletics
 ---------
@@ -137,18 +133,8 @@ The Exalt may double their running speed for a specific task, blazing
 off with great abandon. For races and tests of speed, the Exalt may add
 (Essence) successes to their roll.
 
-In combat, this may supplement a Move Action, letting the character move
-one additional Range Band during their action. (This does not count as a
-*Rush* action).
-
-### Thunderbolt Attack
-
-**Cost:** 2m, 1i  
-**Type:** Supplemental  
-**Mins:** Athletics 3
-
-The Exalt may take a free Move Action in conjunction with an attack
-without consuming a Secondary Action.
+In combat, this may supplement a Move Action, letting the character Dash
+with no Impulse cost.
 
 ### Thousand Steps’ Stillness
 
@@ -156,8 +142,7 @@ without consuming a Secondary Action.
 **Type:** Reflexive  
 **Mins:** Athletics 4
 
-When dodging, the Exalt may position themselves with purpose. When
-defending with Evasion, they may gain 2 Impulse.
+When defending against a Strike with Evasion, they may gain 2 Impulse.
 
 Greater Charms
 
@@ -170,9 +155,6 @@ Greater Charms
 The Exalt may run up walls, cross liquids, and even run across the
 underside of horizontal surfaces, such as bridges or roofs, so long as
 they continue to run.
-
-In combat “Continuing to run” means that the Exalt must make a Move
-action each round.
 
 Awareness
 ---------
@@ -221,16 +203,15 @@ The Exalt suffers no penalties to Awareness rolls occur due to being
 tired, exhausted, or other similar mental disadvantage. Awareness rolls
 may always be made while asleep.
 
-In addition, the Exalt never suffers from the (-2 DV) penalty during an
-ambush round, and may act in a normal turn order. However, they will
-still only be able to take a Primary or Secondary Action.
+In addition, the Exalt never suffers from the ill effects of an Ambush
+Round.
 
 Greater Charms
 
 ### Sense-Destroying Method
 
 **Cost:** 6m  
-**Type:** Primary  
+**Type:** Simple  
 **Mins:** Awareness 4
 
 On touching a target, and by successfully rolling (Cunning + Awareness)
@@ -246,12 +227,12 @@ Brawl
 
 ### Ox-Stunning Blow
 
-**Cost:** 2m  
+**Cost:** 3m  
 **Type:** Supplemental  
 **Mins**: Brawl 1
 
-On a successful Brawl attack, remove (Essence) Impulse from the
-target(s).
+On a successful Brawl Maneuver above Soak or on a Strike Above DV,
+remove (Essence) Impulse from the target(s).
 
 ### Sledgehammer Strike
 
@@ -273,7 +254,7 @@ Craft
 ### Durability-Enhancing Technique
 
 **Cost:** 2m  
-**Type:** Primary; Scene  
+**Type:** Simple; Scene  
 **Mins:** Craft 1
 
 The Exalt may reinforce an object --no more than (Essence) meters in its
@@ -285,7 +266,7 @@ break or otherwise destroy it by (Essence).
 ### Discerning Craftsmanship
 
 **Cost:** 3m  
-**Type:** Primary  
+**Type:** Simple  
 **Mins:** Craft 2
 
 The Exalt studies an object, forming its composition and structure into
@@ -302,7 +283,7 @@ difficulty to recognize this fact is lowered by 1).
 ### Mark of the Maker
 
 **Cost:** 3m  
-**Type:** Primary  
+**Type:** Simple  
 **Mins:** Craft 2
 
 Glean immediate insight into the original purpose, material makeup, age,
@@ -313,7 +294,7 @@ Greater Charms
 ### Timely Prototype
 
 **Cost:** 5m  
-**Type:** Primary  
+**Type:** Simple  
 **Mins:** Craft 4
 
 On activation of this charm, the Exalt may immediately finish a Craft
@@ -341,3 +322,5 @@ width.
 
 For non-mundane walls, they may add +(Essence) to smash through the
 wall.
+
+Greater Charms

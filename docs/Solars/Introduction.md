@@ -57,7 +57,8 @@ Castes
 
 ### Dawn
 
-\[\[Burning+, Gain 2 Impulse each round.\]\]
+When their Anima is at the Burning Level, Dawn Castes gain an additional
+2 Impulse on Maneuvers in a Combat Scene.
 
 Spending a Strife Point, the Dawn immediately instills an emotion of
 Fear, Awe, Intimidation, or similar emotion into up to (Essence)
@@ -166,5 +167,3 @@ Soulfire
 
 \[\[Describe SoulFire/Sunfire here, and how it damages Creatures of
 Darkness and why. Also decide if it’s called Soulfire or Sunfire\]\]
-
- 
