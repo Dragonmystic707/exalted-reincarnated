@@ -61,35 +61,21 @@ for Attack Ability Specialities…
 
 -   Throwing Disks (Chakram, shields)
 
-Merits
-------
-
-### Master Stylist (3)
-
-**Mortal Only**
-
-The Stylist has managed to master their Martial Arts beyond what should
-be possible for any Mortal. They may learn and use Lesser Techniques of
-the chosen style, so long as they meet the Ability Requirements for
-this.
-
-The Stylist gains a pool of 8 Peripheral Motes that may only be used for
-their chosen style.
-
 Snake Style
 -----------
 
 **Abilities** Brawl, Dodge  
 **Weapons** Unarmed, Needles  
-**Armor** Unarmored, Light
+**Armor** Unarmored, Light  
+**Range** Melee
 
 Snake stylists use quick, precise strikes, disrupting Chakras and the
 flow of their targets motions. As well, they prey on those that are
 slower than them. Masters can even deliver paralyzing poisonous Essence
 through their fingertips, or through specialized hollow hand needles.
 
-The Stylist gains **+1 Evasion**. Anytime they attack a character who
-has not acted yet this round, they also gain **+2 Attack Dice**.
+The Stylist gains **+1 Evasion**. Anytime they Strike a character who
+has not acted yet this round, they also gain **+2 Accuracy**.
 
 #### Hand Needles
 
@@ -103,36 +89,36 @@ Lesser Techniques
 
 ### Armor-Penetrating Fang
 
-**Cost:** 3m, 1i; **Mins:** Brawl 2  
+**Cost:** 2m, 1i  
 **Type:** Supplemental  
-**Duration:** Instant
+**Mins:** Brawl 2
 
 The Stylist knows how to precisely strike to deliver their devastating
 results, whether it be between joints in armor or in targeted weak
-spots.. Their attack becomes **Unsoakable.**
+spots.. Their attack targets Evasion.
 
 ### Crippling Pressure-Point Strike
 
-**Cost:** 3m, 2i; **Mins:** Brawl 3  
+**Cost:** 3m, 1i  
 **Type:** Supplemental  
-**Duration:** Instant
+**Mins:** Brawl 3
 
-On a successful Decisive Action, the Stylist rapidly jabs at their
+On a successful Decisive Strike, the Stylist rapidly jabs at their
 Target’s nerve clusters and pressure points, numbing and deadening
 portions of their target’s body.
 
-The Stylist deals no **Base Damage** on their attack, but may either
-blind one of the senses or paralyze one limb of the target for (Essence)
-+ 1 Rounds.
+Do not add **Base Damage** to the Damage Roll. Instead, paralyze one
+limb of the target, blind one of the senses, or deliver a Physical
+Wound.
 
 ### Rhythm-Interrupting Venom
 
-**Cost:** 2m; **Mins:** Brawl 3  
+**Cost:** 3m  
 **Type:** Supplemental  
-**Duration:** Instant
+**Mins:** Brawl 3
 
-On a successful attack, the Stylist disrupts the momentum and motions of
-their target, instantly reducing the target’s Initiative by 5.
+On Hit, the Stylist disrupts the momentum and motions of their target,
+instantly reducing the target’s Initiative by 2.
 
 Greater Techniques
 
@@ -142,11 +128,10 @@ Greater Techniques
 **Type:** Reflexive  
 **Duration:** Instant
 
-On being the target of a successful attack, the Stylist may react with
-startling speed, deflecting and shunting part of the damage. For every 2
-Motes and 1 Initiative spent, the Stylist may reduce the amount of
-incoming damage by 1. They may reduce up to (Essence)x2 damage this way
-from one attack.
+On being hit by a Decisive Strike, the Stylist may react with startling
+speed, deflecting and shunting part of the damage. For every 2 Motes and
+1 Initiative spent, the Stylist may reduce the amount of incoming damage
+by 1. They may reduce up to (Essence)x2 damage this way from one attack.
 
 Should the Stylist reduce the incoming damage to 0, the attack is
 considered to not have hit in the first place.
@@ -158,7 +143,7 @@ considered to not have hit in the first place.
 **Duration:** Instant
 
 The Stylist strikes out, making an immediate Contested Roll of their
-(Dexterity +Brawl) against the target’s Evasion. Should the Stylist
+(Dexterity + Brawl) against the target’s Evasion. Should the Stylist
 succeed, the target becomes poisoned with vile Essence.
 
 For the Stylist’s (Essence) rounds, the Target suffers 2 Damage, and is

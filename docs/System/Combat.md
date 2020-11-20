@@ -174,6 +174,13 @@ the scene—be it to test the stance of their enemies, analyze the
 battlefield for strategic advantage, or to intimidate your foes through
 physical prowess.
 
+Maneuvers also include a type of Attack—but ones that are focused more
+on putting your foe on edge, rather than dealing a killing blow. These
+Manuever Attacks that hit (a roll above the DV), would only deal
+superficial harm to the player: a cut on a cheek to dishearten and
+surprise, a blow to the chest to knock back down. Ultimate, the target’s
+Endurance pool is not harmed.
+
 The Player describes any action that would grant them tactical
 advantage, and then rolls the \[Att + Abi\] dice pool. The Number of
 Successes rolled is then gained as Impulse.
@@ -218,15 +225,6 @@ Successes.
 They immediately gain 5 Impulse for their Maneuver, regardless. Then,
 (since this is a Knockback), they compare their 5 Successes against the
 Ogre’s DV (4). The Ogre is knocked back as desired.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Charms and Stunts</strong></p>
-<p>There are some Charms that have the same effects as Maneuver Stunts. If a character chooses the same stunt effect as a charm, the effect can be doubled according to the Storyteller’s discretion.</p></td>
-</tr>
-</tbody>
-</table>
 
 <table>
 <tbody>
@@ -324,6 +322,16 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <td><blockquote>
 <p>Protect a character within Short Range for a Round. They may use your DV instead of their own</p>
 </blockquote></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Charms, Stunts and Maneuvers</strong></p>
+<p>There are some Charms that have the same effects as Maneuver Stunts. If a character chooses the same stunt effect as a charm, the effect can be doubled according to the Storyteller’s discretion.</p>
+<p>Unless otherwise specified, charms will apply the same for both Strikes as they would a Maneuver attack. “On Hit” means that either a Maneuver roll or the Accuracy roll is above the DV.</p></td>
 </tr>
 </tbody>
 </table>

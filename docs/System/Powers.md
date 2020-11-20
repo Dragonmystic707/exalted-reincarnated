@@ -102,6 +102,24 @@ immediately dissipates after activation.
 When buying a Power, there are certain Minimums that must first be
 met--such as the dot Rating in a specific Ability.
 
+Glossery of Terms
+-----------------
+
+There are specific words and phrases that charms commonly use as a
+shorthand for mechanical actions—so that the power description isnt
+constantly cluttered with the same mechanical saying.
+
+-   **On Hit** Any Action, including Maneuvers and the Accuracy Roll,
+    which exceeds a target’s DV. Unless otherwise stated, this hit must
+    be on an action from the character, using the Ability that the Power
+    is under.
+
+    -   Sometimes the Power will explicitly target Evasion or Soak.
+
+-   **Feats of Strength** Rolls, typicall using Strength and Physique,
+    with the intent of expressing physical prowess—hefting boulders,
+    breaking walls, carrying tons, etc
+
 Charms
 ------
 

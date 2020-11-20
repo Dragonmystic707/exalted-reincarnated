@@ -40,7 +40,7 @@ Archery
 
 ### Flashing Vengeance Draw 
 
-**Cost:** 5m, 1i  
+**Cost: 4**m, 1i  
 **Type:** Reflexive  
 **Mins:** Archery 1
 
@@ -54,8 +54,8 @@ Action, the Archer may make an immediate Maneuver.
 **Mins:** Archery 2
 
 Against an attack that uses a projectile (such as Archery or Thrown),
-the Exalt may use a DV of (Dexterity + Archery)/2. This may be used to
-Defend Others who are within Medium Range of the Archer.
+the Exalt may define their DV as (Dexterity + Archery)/2. This may be
+used to Defend Others who are within Medium Range of the Archer.
 
 ### Forceful Arrow 
 
@@ -63,8 +63,8 @@ Defend Others who are within Medium Range of the Archer.
 **Type:** Supplemental  
 **Mins:** Archery 2
 
-On a successful Archery roll above the target’s Evasion, the target is
-knocked back one Range Band from the Archer.
+On a successful hit, the target is knocked back one Range Band from the
+Archer.
 
 Alternatively, the Exalt may choose to knock themselves backwards from
 their target one Range Band.
@@ -78,16 +78,16 @@ their target one Range Band.
 The Exalt buries an area with a flurry of arrows, making sure that at
 least one will hit. Their attack targets Soak instead of DV.
 
-**Upgrade**: At Essence 4, this charm adds +3 dice to the Attack Roll.
+**Upgrade**: At Essence 4, this charm adds +3 dice to Accuracy.
 
 ### Flying Anchor
 
-**Cost:** 5m, 1i  
+**Cost:** 3m  
 **Type:** Supplemental  
 **Mins:** Archery 3
 
-On a successful Archery Action above the target’s Evasion, the target
-becomes pinned, unable to move from their location for one Round.
+On Hit, the target becomes pinned, unable to move from their location
+for one Round.
 
 Greater Charms
 
@@ -136,14 +136,6 @@ off with great abandon. For races and tests of speed, the Exalt may add
 In combat, this may supplement a Move Action, letting the character Dash
 with no Impulse cost.
 
-### Thousand Steps’ Stillness
-
-**Cost:** 3m  
-**Type:** Reflexive  
-**Mins:** Athletics 4
-
-When defending against a Strike with Evasion, they may gain 2 Impulse.
-
 Greater Charms
 
 ### Feather Foot Style
@@ -174,7 +166,7 @@ darkness by up to (Essence) dice.
 **Type:** Reflexive  
 **Mins**: Awareness 2
 
-Reroll a Join Battle Roll, taking the preferred result. This may only be
+Reroll an Initiative Roll, taking the preferred result. This may only be
 done once.
 
 ### Uncanny Perception Technique
@@ -231,8 +223,7 @@ Brawl
 **Type:** Supplemental  
 **Mins**: Brawl 1
 
-On a successful Brawl Maneuver above Soak or on a Strike Above DV,
-remove (Essence) Impulse from the target(s).
+On Hit, remove (Essence) Impulse from the target(s).
 
 ### Sledgehammer Strike
 
@@ -240,11 +231,10 @@ remove (Essence) Impulse from the target(s).
 **Type:** Supplemental  
 **Mins**: Brawl 2
 
-When attempting to break objects, such as walls, pillars, or other such
-scenery, add 2x(Essence) dice.
+On Feats of Strength, add 2x(Essence) dice.
 
-Against animate beings (such as Earth elementals and golems), add
-(Essence) dice to the attack roll.
+Decisive Strikes against animate beings (such as Earth elementals and
+golems), add (Essence) dice to Accuracy.
 
 Greater Charms
 
@@ -320,7 +310,6 @@ When taking a Move action, the Exalt may burst through any mundane
 wooden wall or barrier, and any mundane stone wall less than 1 meter in
 width.
 
-For non-mundane walls, they may add +(Essence) to smash through the
-wall.
+For non-mundane walls, they may add +(Essence) to this Feat of Strength.
 
 Greater Charms
