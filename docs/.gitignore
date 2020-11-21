@@ -16,6 +16,9 @@ _site
 *.vi
 *~
 
+# Always include everything from the downloads folder
+!assets/downloads/*
+
 # OS or Editor folders
 .DS_Store
 ._*

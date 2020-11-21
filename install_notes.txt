@@ -1,0 +1,44 @@
+Notes on how to use this repository:
+
+NEED INSTALLED:
+Libreoffice
+python
+
+(Potentially Java? Libreoffice was a bit weird about not having it.)
+
+Install Python. Then 
+pip install -r requirements.txt
+
+NOTES:
+There's some silly things I've had to do because the software doesn't work correctly.
+Periodically check on updates to see if these things are fixed (they probably won't be)
+
+-   pandoc does not export out .odt (libreoffice) files correctly
+-       Solution: Convert the .odt to .docx, then to markdown.
+
+-   Libreoffice command line "convert-to pdf" does not work on master documents
+-       Solution: Wrote a macro that converts to pdf, then launch the document with that macro
+
+MACRO SECURITY
+In Libreoffice, we need to let macros be run here
+
+-   Options->LibreOffice->Security->Macro Security
+-   Trusted->Sources->Trusted File Locations
+
+Add the repo directory as a trusted file location.
+
+MACRO FOR EXPORT
+Convert to pdf commands don't really work on the Master Document, so I recorded/wrote a macro
+that does it for us.
+
+This would be so much easier if convert to pdf properly worked.
+
+In LibreOffice:
+-   Tools->Macros->Organize Macros->Basic
+-   Organizer
+Add a new Module named "Exalted" in "Standard"
+Then click on that Module and select "Edit"
+
+-   File->Import Basic
+Select and import "Exalted_macros.bas"
+
