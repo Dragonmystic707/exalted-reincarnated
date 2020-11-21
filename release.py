@@ -61,8 +61,7 @@ downloads_dir = path.join(page_dir, "assets", "downloads")
 soffice = "\"C:\\Program Files\\LibreOffice\\program\\soffice\""
 zip_name = "Exalted_Reincarnated.zip"
 
-macro_name = "Standard.Module1.export_to_pdf"
-
+macro_name = "Standard.Exalted.export_to_pdf"
 
 
 def procces_dir(dir_dict, group_order):
@@ -85,6 +84,7 @@ def procces_dir(dir_dict, group_order):
                     header_name = header_dict[header_name]
                 rtn_str = "(" + header_name + ")"
             return rtn_str 
+
         
         print("------------------------")
         print("Processing", folder_name)
@@ -101,7 +101,7 @@ def procces_dir(dir_dict, group_order):
         odt_list = [f for f in  os.listdir(temp_dir) if f.endswith('.docx')]
         # URL List for previous/next
         # Oversize it in case we have missing chapters
-        print("Converting", folder_name, " to Markdown...")
+        print("Converting", folder_name, "to Markdown...")
         url_list = [None] * 99
         for f0 in odt_list:
             file_name, file_ext = os.path.splitext(f0)
@@ -145,7 +145,7 @@ def procces_dir(dir_dict, group_order):
             # Make sure the number is a number, and not a string
             file_num = int(file_num)
 
-            # Construct the header
+            # Construct the Markdown header
             header = "---\n"
             header += "layout: page\n"
             header += "base_url: " + dir_dict['base_url'] + '\n'
@@ -179,6 +179,12 @@ def procces_dir(dir_dict, group_order):
                 # Replace the intra-document hyperlinks
                 link_str = r"\(#[^#\n]*\)"
                 data = re.sub(link_str, replace_link, data)
+
+                # Replace any Header 10 (Greater Charms) with the class
+                # Github cannot process anything above Header 6
+                header_str = r"##########\s*(.*)"
+                header_replace = r"""<div class="greater_charm">\1</div>"""
+                data = re.sub(header_str, header_replace, data)
 
                 with open(path.join(new_dir, file_name + ".md"), "w", encoding="utf8") as w:
                     w.write(header + data) 
@@ -217,8 +223,8 @@ def export_pdf(folder_name):
 def main(args):
     print("------------------------")
     print("Starting Release!")
+
     # Export out the Summary document
-    # I think I'm going to require pdf exports to be manual. Git updates to .md is easily compressible, To pdf? Not so much.
     if (args.file.lower() == "all" or args.file.lower() == "summary"):
         soffice_cmd = soffice + " --convert-to pdf " + path.join(src_dir, "tools","Summary.odt") + " --outdir " + downloads_dir
         print("------------------------")
@@ -226,7 +232,7 @@ def main(args):
         subprocess.Popen(soffice_cmd).wait()
 
     group_order = 1
-    # Create the Markdown release
+    # Create the release
     for dir_dict in src_list:
         folder_name = dir_dict["folder"]
         if (args.file.lower() == "all" or args.file.lower() == folder_name.lower()):

@@ -89,7 +89,7 @@ least one will hit. Their attack targets Soak instead of DV.
 On Hit, the target becomes pinned, unable to move from their location
 for one Round.
 
-Greater Charms
+<div class="greater_charm">Greater Charms</div>
 
 ### Accuracy Without Distance
 
@@ -136,7 +136,7 @@ off with great abandon. For races and tests of speed, the Exalt may add
 In combat, this may supplement a Move Action, letting the character Dash
 with no Impulse cost.
 
-Greater Charms
+<div class="greater_charm">Greater Charms</div>
 
 ### Feather Foot Style
 
@@ -198,7 +198,7 @@ may always be made while asleep.
 In addition, the Exalt never suffers from the ill effects of an Ambush
 Round.
 
-Greater Charms
+<div class="greater_charm">Greater Charms</div>
 
 ### Sense-Destroying Method
 
@@ -236,7 +236,7 @@ On Feats of Strength, add 2x(Essence) dice.
 Decisive Strikes against animate beings (such as Earth elementals and
 golems), add (Essence) dice to Accuracy.
 
-Greater Charms
+<div class="greater_charm">Greater Charms </div>
 
 Craft
 -----
@@ -279,7 +279,7 @@ difficulty to recognize this fact is lowered by 1).
 Glean immediate insight into the original purpose, material makeup, age,
 and other such information while studying an object.
 
-Greater Charms
+<div class="greater_charm">Greater Charms</div>
 
 ### Timely Prototype
 
@@ -312,4 +312,4 @@ width.
 
 For non-mundane walls, they may add +(Essence) to this Feat of Strength.
 
-Greater Charms
+<div class="greater_charm">Greater Charms</div>

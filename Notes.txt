@@ -48,3 +48,13 @@ Then click on that Module and select "Edit"
 -   File->Import Basic
 Select and import "Exalted_macros.bas"
 
+
+TESTING LOCALLY
+
+-   Install Ruby
+Go to the docs folder
+-   gem install github-pages   (gem update github-pages)
+
+When ready to test
+-   jekyll build
+-   jekyll serve

@@ -32,6 +32,16 @@ h6 {
   text-decoration: underline;
 }
 
+.greater_charm {
+  font-family: "Goudy Old Style", sans-serif;
+  color: #38323f;
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  text-decoration: underline; 
+  text-decoration-thickness: 2px;
+  padding-left: 2rem
+}
+
 html {
     font-size: 18px;
 }
