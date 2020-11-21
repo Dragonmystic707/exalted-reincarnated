@@ -19,8 +19,14 @@ Periodically check on updates to see if these things are fixed (they probably wo
 -   Libreoffice command line "convert-to pdf" does not work on master documents
 -       Solution: Wrote a macro that converts to pdf, then launch the document with that macro
 
+AUTO UPDATE LINKS
+In Libreoffice:
+-   Tools->Options
+-   LibreOffice Writer->General
+Set "Update Links When Loading" to "Always
+
 MACRO SECURITY
-In Libreoffice, we need to let macros be run here
+In Libreoffice, we need to let macros be run from this directory
 
 -   Options->LibreOffice->Security->Macro Security
 -   Trusted->Sources->Trusted File Locations

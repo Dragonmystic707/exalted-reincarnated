@@ -14,10 +14,7 @@ Charms
 ======
 
 \[\[todo: Clay-wetting Practice, Instant Changes, Hybrid Body
-Rearrangement\]
-
- Shapeshifting
-=============
+Rearrangement\]Shapeshifting
 
 Lesser Charms
 -------------
