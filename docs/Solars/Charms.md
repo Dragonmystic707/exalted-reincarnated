@@ -69,7 +69,7 @@ within Short Range of the last.
 
 ### 
 
-Greater Charms
+<div class="greater_charm">Greater Charms</div>
 
 ### The Mark of Judgement
 
@@ -156,7 +156,7 @@ target become Stunned.
 The Solar is as swift as the shadows they cast, and may Increase their
 Evasion against an attack by (Essence).
 
-Greater Charms
+<div class="greater_charm">Greater Charms</div>
 
 ### Sunlight’s Advance
 
@@ -227,7 +227,7 @@ This allows a roll against all hidden creatures that breathe, live, or
 are currently in motion in the current scene, and eliminates up to
 (Essence) penalties that would be applied against the roll.
 
-Greater Charms
+<div class="greater_charm">Greater Charms</div>
 
 ### Eye of the Unconquered Sun
 
@@ -283,7 +283,7 @@ capped at (Essence)x2.
 During a Flurry attack, deal +1 damage, for each individual target,
 granting up to (Essence) x2 bonus.
 
-Greater Charms
+<div class="greater_charm">Greater Charms </div>
 
 Craft
 -----

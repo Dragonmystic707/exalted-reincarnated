@@ -38,8 +38,8 @@ Lesser Techniques
 
 ### Collapsed Waveform
 
-**Cost:** 3m (committed)  
-**Type:** Supplemental  
+**Cost:** 3m  
+**Type:** Supplemental; Scene  
 **Mins:** Stealth 1, Paradox 1
 
 When the Stylist and their Shadow copy make a move action, they need not
@@ -53,7 +53,7 @@ disturb no traps, and portals such as doors remain unopened.
 
 ### Unresolved Duality
 
-**Cost:** 3m  
+**Cost:** 2m  
 **Type:** Supplemental  
 **Mins:** Stealth 3, Paradox 2
 
@@ -63,8 +63,8 @@ their original position or their shadow copy.
 
 ### Uncertain Direction Attack
 
-**Cost:** 4m, 4i  
-**Type:** Supplemental  
+**Cost:** 4m, 2i  
+**Type:** Supplemental (Decisive)  
 **Mins:** Stealth 4, Paradox 3
 
 While making an attack in the same turn after swapping positions with
@@ -72,8 +72,7 @@ their shadow self, the Stylist strikes at their befuddled and confused
 target, granting +(Essence) dice to their attack and making it
 Undodgeable.
 
-Greater Techniques
-------------------
+<div class="greater_charm">Greater Techniques</div>
 
 ### Vanishing Act
 

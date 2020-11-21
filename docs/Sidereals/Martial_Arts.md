@@ -17,7 +17,10 @@ Heartstring Weaver Style
 Written by **Codex Empyrean**
 
 **Light Armor, Bow (Light or Medium)**  
-**Abilities:** Archery, Serenity
+**Abilities:** Archery, Serenity  
+Ranged Attacks
+
+Accuracy is calculated off of (Archery + Serenity)
 
 While in this style the practitioner is able to forge a simple ward for
 themselves or an ally by solidifying the ambient love and compassion
@@ -33,32 +36,28 @@ decides to terminate it, the Practitioner may spend 2i as a Reflexive
 action to whisk the target of the ward towards themselves, so long as
 the ward is within Medium Range.
 
-Lesser Techniques
------------------
-
 ### The Heart Skips a Beat
 
-**Cost:** 3m, 1i  
-**Type:** Primary  
+**Cost:** 3m  
+**Type:** Primary (Maneuver)  
 **Mins:** Archery 2, Serenity 1
 
 The Archer of Joy rolls the entirety of an emotion into their shot,
-imparting it into the target. Take a Distract Action with their (**Dex +
-Serenity**) vs. the target's **Resolve**, with +(**Essence**) extra
-successes.
+imparting it into the target. Perform a Ranged Attack Manuever with (Dex
++ Serenity). If it is higher than the **Resolve** of the character,
+force them to discard 3 + (Essence) Impulse.
 
 ### Drunk on Love
 
 **Cost:** 5m, 1i (+3m)  
-**Type:** Supplemental  
+**Type:** Supplemental (Decisive Attack)  
 **Mins:** Archery3, Serenity 2
 
 The Practitioner channels the ambrosia of distilled love into a single
-arrow intoxicating the target. The archer makes a social attack with
-their (**Archery + Serenity**) versus the target’s Resolve. If the
-target takes at least 5 points of damage, and the Archer pays an
-additional (3m), the target will randomly attack any target on their
-next action.
+arrow intoxicating the target. The archer makes a Decisive attack versus
+the target’s **Resolve,** not DV. If the target takes at least 5 points
+of damage, and the Archer pays an additional (3m), the target will
+randomly attack any target on their next action.
 
 ### Heart-A-Flutter
 
@@ -72,15 +71,14 @@ drifting down slowly, unable to take Falling Damage.
 
 When taking a Move action, the practitioner may do so vertically, even
 into thin air. However, if they end their action without firm footing,
-their next Round's Secondary Action will be consumed by them slowly
-drifting to the ground.
+their next Round's Move Action will be consumed by them slowly drifting
+to the ground.
 
-Greater Techniques
-------------------
+<div class="greater_charm">Greater Techniques</div>
 
 ### Wellspring of Compassion
 
-**Cost:** 10m, 2i  
+**Cost:** 8m, 2i  
 **Type:** Simple  
 **Mins:** Archery 4, Serenity3
 
@@ -117,6 +115,8 @@ Greater Foes gain an intimacy towards it, and must roll their (**Will**
 for the remainder of the scene. If they succeed once on their roll, the
 Intimacy is dispelled.
 
+ 
+
 Charcoal March of Spiders
 -------------------------
 
@@ -138,39 +138,35 @@ successes.
 The Practitioner may use (Dexterity + Secrets) for their unarmed Attacks
 Rolls.
 
-Lesser Techniques
------------------
-
 ### Unnatural Steps
 
 **Cost:** 5m  
-**Type:** Secondary  
+**Type:** Supplemental (Move); Scene  
 **Mins:** Sorcery 2, Secrets 1
 
 The Practitioner clings to the strands of Fate, not the ground beneath
-her feet. As a Secondary Action, the practitioner may redirect to where
-she falls towards--be it towards a certain wall, a beam, a ceiling. This
-target must be part of the scene and cannot be a person.
+her feet. The practitioner may redirect to where she falls towards--be
+it towards a certain wall, a beam, a ceiling. This target must be part
+of the scene and cannot be a person.
 
 The Practitioner must use this technique again to change or cancel this
 effect.
 
 ### Maw of Dripping Venom
 
-**Cost:** 5m  
-**Type:** Supplemental  
+**Cost:** 3m  
+**Type:** Supplemental (Decisive)  
 **Mins:** Sorcery 3, Secrets 2
 
 On an attack that deals at least 1 point of damage, the target
 immediately loses either 5 Peripheral Motes or 2 Impulse (Practitioner’s
-choice) for (Essence) Rounds.
+choice).
 
-Greater Techniques
-------------------
+<div class="greater_charm">Greater Techniques</div>
 
 ### Rain of Unseen Threads
 
-**Cost:** 10m  
+**Cost:** 8m  
 **Type:** Simple; Scene  
 **Mins:** Sorcery 4, Secrets 3
 

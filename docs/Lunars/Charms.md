@@ -13,16 +13,13 @@ next_title: Martial Arts
 Charms
 ======
 
-\[\[todo: Clay-wetting Practice, Instant Changes, Hybrid Body
-Rearrangement\]Shapeshifting
-
-Lesser Charms
+Shapeshifting
 -------------
 
 ### Hybrid Body Rearrangement
 
 **Cost:** 3m  
-**Type:** Secondary Action (Scene)  
+**Type:** Free Action (Scene)  
 **Mins:** Shapeshifting 1
 
 The Lunar becomes able to manifest a Boon of one of their known animal
@@ -65,9 +62,9 @@ defense.
 
 ### Prey’s Skin Disguise
 
-**Cost:** --; **Mins:** Shapeshifting 2  
+**Cost:** --  
 **Type:** Permanent  
-**Duration:** Permanent
+**Mins:** Shapeshifting 2
 
 The Lunar is able to take the forms of Humans and other humanoid mortals
 (such as Dragon Kings and Mountain Folk).
@@ -83,39 +80,39 @@ them to express this boon and shapeshift into creatures this size.
 
 ### Towering Beast Form
 
-**Cost:** --; **Mins:** Shapeshifting 3  
+**Cost:** --  
 **Type:** Permanent  
-**Duration:** Permanent
+**Mins:** Shapeshifting 3
 
 The Size Boon of **Giant** becomes available to the Lunar, allowing them
 to express this boon and shapeshift into creatures this size.
 
 ### Spirit-Stealing Form
 
-**Cost:** --; **Mins:** Shapeshifting 4  
+**Cost:** --  
 **Type:** Permanent  
-**Duration:** Permanent
+**Mins:** Shapeshifting 4
 
 The Lunar is able to take the forms of Spirits, Demons, Elementals and
 other such mythical creatures, so long as the target has an Essence
 Rating Equal to or less than the Lunar’s.
 
-Greater Charms
+<div class="greater_charm">Greater Charms</div>
 
 ### Constant Quicksilver Rearrangement
 
-**Cost:** --; **Mins:** Shapeshifting 4  
+**Cost:** --  
 **Type:** Permanent  
-**Duration:** Permanent
+**Mins:** Shapeshifting 4
 
 All shapeshifting actions may be performed Instantaneously, and are
 considered Reflexive instead of a Secondary Action.
 
 ### Insidious Lunar Transformation
 
-**Cost:** 8m, 2i; **Mins:** Shapeshifting 4  
-**Type:** Primary Action  
-**Duration:** One Scene
+**Cost:** 8m, 2i  
+**Type:** Simple (Scene)  
+**Mins:** Shapeshifting 4
 
 By pouring their own blood (worth 2 Endurance) into a target, the Lunar
 instantly alters the form of another into an animal from their Heart’s
@@ -126,19 +123,3 @@ Range.
 
 If the target is unwilling, the Lunar must first succeed on a (Essence +
 Shapeshifting) roll vs the target’s Resolve.
-
-Brawl
-=====
-
-Lesser Charms
--------------
-
-### Throat-Baring Hold
-
-**Cost:** 5m 2i; **Mins:** Brawl 3  
-**Type:** Grapple Action  
-**Duration:** Grapple
-
-The Lunar gains +(Essence) successes on a Grapple action Should they
-succeed on their grapple, they also immediately deal (Strength) damage
-to the target.

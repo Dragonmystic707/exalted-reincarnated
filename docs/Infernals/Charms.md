@@ -8,19 +8,17 @@ prev_url: Introduction
 prev_title: Introduction
 ---
 
-Cecelyne Charms
-===============
+Charms
+======
 
-Lesser Charms
--------------
-
-### 
+Cecelyne
+--------
 
 ### Impending Doom
 
-**Cost:** 2m; **Mins:** Cecelyne 1  
-**Type:** Secondary Action  
-**Duration:** One Scene
+**Cost:** 2m  
+**Type:** Free Action; Scene  
+**Mins:** Cecelyne 1
 
 The Infernal may make a **Influence Emotion** action without being the
 source of the Influence. The target will ascribe this emotion to the
@@ -30,9 +28,9 @@ them.
 
 ### Induced Paranoia
 
-**Cost:** 5m (committed); **Mins:** Cecelyne 2  
-**Type:** Simple  
-**Duration:** One Scene
+**Cost:** 5m  
+**Type:** Simple; Scene  
+**Mins:** Cecelyne 2
 
 The Infernal spikes their words with seeds of doubt, paranoia, and fear,
 and then impales it into the mind of a target.
@@ -48,9 +46,9 @@ secrets and information the Target may know.
 
 ### Inopportune Desire
 
-**Cost:** 4m; **Mins:** Cecelyne 3  
+**Cost:** 4m  
 **Type:** Simple  
-**Duration:** Instant
+**Mins:** Cecelyne 3
 
 The Infernal leverages a target’s Intimacy, and rolls (Insight +
 Cecelyne) against the target’s Resolve. If successful, the target will
@@ -59,9 +57,9 @@ immediately, or with a specific trigger the Infernal states.
 
 ### Knowing the Desolate Heart
 
-**Cost:** 5m; **Mins:** Cecelyne 4  
+**Cost:** 5m  
 **Type:** Simple  
-**Duration:** Instant
+**Mins:** Cecelyne 4
 
 The Infernal may make a **Discover Intimacy** action against a target to
 find out the target’s current, most pressing Desire that they cannot
@@ -70,9 +68,9 @@ not need to be actively displaying any signs of this current Desire.
 
 ### Conflicting Desire
 
-**Cost:** 6m; **Mins:** Cecelyne 4  
+**Cost:** 6m  
 **Type:** Simple  
-**Duration:** Instant
+**Mins:** Cecelyne 4
 
 The Infernal leverages an Intimacy of a character, rolling (Insight +
 Cecelyne) vs the target’s Resolve. If successful, they forcee the
@@ -82,21 +80,20 @@ Intimacy as best they can--if they are one who reveres the Immaculate
 Order, they might rationalize that their new hate for the Order is
 specifically about its high devotion cost in their lives, for example.
 
-Greater Charms
---------------
+<div class="greater_charm">Greater Charms</div>
 
 ### As You Wish
 
-**Cost:** XXm; **Mins:** Cecelyne 4  
-**Type:** Simple  
-**Duration:** One Story
+**Cost:** XXm  
+**Type:** Simple; Story  
+**Mins:** Cecelyne 4
 
 \[\[Works similar to existing charm\]\]
 
 ### The Curse of Truth
 
-**Cost:** XXm; **Mins:** Cecelyne 5  
-**Type:** Simple  
-**Duration:** One Scene
+**Cost:** XXm;  
+**Type:** Simple; Scene  
+**Mins:** Cecelyne 5
 
 \[\[The Cursed character must speak all truth\]\]

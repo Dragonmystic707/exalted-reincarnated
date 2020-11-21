@@ -39,52 +39,50 @@ scales, they may gain an additional +1 Soak at the cost of -1 Evasion.
 Aside from this, other mutations still follow the **Hybrid Body Rules**
 (including their alteration from the Hybrid Body Rearrangement)
 
-Lesser Techniques
-
 ### Hide-Hardening Technique
 
-**Cost:** 3m; **Mins:** Physique 2, Shapeshifting 1  
+**Cost:** 3m  
 **Type:** Reflexive  
-**Duration:** Instant
+**Mins:** Physique 2, Shapeshifting 1
 
 The Lunar reinforces their body, hardening their defenses against an
 attack, gaining +3 Soak.
 
 ### Howling Visage
 
-**Cost:** 5m 2i; **Mins:** Physique 3, Shapeshifting 2  
-**Type:** Distract Action  
-**Duration:** Instant
+**Cost:** 5m 2i  
+**Type:** Simple (Maneuver)  
+**Mins:** Physique 3, Shapeshifting 2
 
 The Lunar lets loose a great and terrifying Howl upon the battlefield,
-using their (Strength + Physique) as a Distract Action against all enemy
+using their (Strength + Physique) vs Resolve against all enemy
 characters that are within Medium Range of the Lunar, and can either
-hear or see them.
+hear or see them. On success, all who hear them lose 3 Impulse.
 
 ### Rip and Tear
 
-**Cost:** 4m, 2i; **Mins:** Physique 4, Shapeshifting 3  
-**Type:** Supplemental  
-**Duration:** Instant
+**Cost:** 4m, 2i  
+**Type:** Supplemental (Decisive)  
+**Mins:** Physique 4, Shapeshifting 3
 
 With raging claws, and teeth, the Lunar shreds their target apart,
 dealing (Essence) additional Damage.
 
-Greater Techniques
+<div class="greater_charm">Greater Techniques</div>
 
 ### Halting the Scarlet Flow
 
-**Cost:** 7m; **Mins:** Physique 5, Shapeshifting 4  
-**Type:** Secondary Action  
-**Duration:** Instant
+**Cost:** 7m  
+**Type:** Free Action  
+**Mins:** Physique 5, Shapeshifting 4
 
 The Lunar immediately regains (Shapeshifting + Essence) Endurance.
 
 ### Towering Giant Enhancement
 
-**Cost:** --(2m); **Mins:** Physique 5, Shapeshifting 5  
-**Type:** Permanent (Secondary Action)  
-**Duration:** Permanent (Instant)
+**Cost:** --(2m)  
+**Type:** Permanent (Free Action)  
+**Mins:** Physique 5, Shapeshifting 5
 
 Instead of becoming **Large** on entering the form, the Lunar may
 instead become **Gigantic** (+4 Soak, +10 Endurance, -2Evasion, No Fine

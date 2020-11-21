@@ -85,8 +85,6 @@ typically made of strengthened glass, wood, or obsidian, that allow for
 quick piercing strikes. Trainees often use harmless chopsticks as their
 practice weapons.
 
-Lesser Techniques
-
 ### Armor-Penetrating Fang
 
 **Cost:** 2m, 1i  
@@ -230,6 +228,62 @@ Damage.
 
 As well, whenever the Stylist attacks a stunned, paralyzed, or otherwise
 forcefully stationary target, they may add an additional +2 damage.
+
+Glorious Dust Dancer Style
+--------------------------
+
+*Based on Glorious Dust Dancer Style by Melissa (JiveX) from the Perfect
+Lotus v.1*
+
+**Performance, Melee**  
+Unarmored, Swords
+
+The Martial Artist is one of precise beauty, elegance, and danger. They
+treat the battlefield as just another Performance.
+
+When in Dust Dancer Form, the Martial Artist gains +3 automatic
+successes when contesting pushback or knockback effects.
+
+### Dance Through Life Attitude
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Performance 2
+
+The Dancer gains +1 Evasion DV, and gains +(Essence)/2, rounded up,  to
+their Initiative roll.
+
+### Sandstorm’s Pace Evocation
+
+**Cost:** 2m  
+**Type:** Supplemental  
+**Mins:** Performance 2, Melee 2
+
+The Dancer may combine a Move action with their Melee attack without
+using up their Secondary Action.
+
+### Rapture and Fascination Pirouette
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Performance 3
+
+The Dancer distracts their foes with their hypnotic and wondrous
+movements. The dancer may perform a Distract Action against all enemies
+within Medium Range who have visual sight on the Dancer.
+
+<div class="greater_charm">Greater Technique</div>
+
+### Blade Dance
+
+**Cost:** 8m  
+**Type:** Simple; Scene  
+**Mins:** Melee 1
+
+You control the area surrounding you, a dangerous dance of death.
+
+Starting with this action, anytime an enemy passes through Short Range
+relative to you lose 2 Impulse, and you gain 2 Impulse.
 
 Crane Style
 -----------

@@ -18,8 +18,8 @@ Lesser Charms
 
 ### Familiar Face Confusion
 
-**Cost:** 5m (committed)  
-**Type:** Primary  
+**Cost:** 5m  
+**Type:** Primary; Scene  
 **Mins:** Deception 1, Luck 1
 
 By chance, the Nocturnal is confused for another in a way that is
@@ -58,8 +58,8 @@ work.
 The Nocturnal cuts their bonds with the reality that exists, and instead
 tethers their bonds to the pull of the Night Sky.
 
-While motes are committed, gravity for the Nocturnal is inverted and
-allows them to fall upwards. Fall damage still applies.
+Gravity for the Nocturnal is inverted and allows them to fall upwards,
+at their choice. Fall damage still applies.
 
 ### Dual Face Observation
 

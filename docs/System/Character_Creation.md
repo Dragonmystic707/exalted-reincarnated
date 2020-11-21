@@ -171,20 +171,20 @@ Steps
     are considered to be carrying it. Mundane armor and weapons are
     included
 
-2.  **General Static Values  
-    **Record the following calculated static values
+2.  **General Static Values**  
+    Record the following calculated static values
 
-    -   **Personal Motes  
-        **10 + (Essence)
+    -   **Personal Motes**  
+        10 + (Essence)
 
-    -   **Peripheral Motes  
-        **15 + (Essence) x2
+    -   **Peripheral Motes**  
+        15 + (Essence) x2
 
-    -   **Guile  
-        **(Composure + Deception)/2
+    -   **Guile**  
+        (Composure + Deception)/2
 
-    -   **Resolve  
-        **(Will + Integrity)/2
+    -   **Resolve**  
+        (Will + Integrity)/2
 
 <table>
 <tbody>
@@ -195,34 +195,33 @@ Steps
 </tbody>
 </table>
 
-1.  **Combat Static Values  
-    **Assign the static values used (most commonly) during a Combat
-    Scene.
+1.  **Combat Static Values**  
+    Assign the static values used (most commonly) during a Combat Scene.
 
-    -   **Endurance  
-        **5+(Stamina+Athletics+Physique)+(Essence) x2
+    -   **Endurance**  
+        5+(Stamina+Athletics+Physique)+(Essence) x2
 
-    -   **Defense Value (DV) *  
-        ***Greater of Evasion or Soak
+    -   **Defense Value (DV)**  
+        Greater of Evasion or Soak
 
     -   **Evasion**  
         (Dexterity + Athletics)/2 + (Evasion Mod)
 
-    -   **Soak*  
-        ***(Stamina + Physique)/2 + (Soak Mod)
+    -   **Soak**  
+        Stamina + Physique)/2 + (Soak Mod)
 
-    -   **Accuracy*  
-        ***(Weapon Att. + Weapon Ability)/2 + (Weapon Mod)  
-        *  
-        *The Attribute and Ability used depends on the current weapon
+    -   **Accuracy**  
+        (Weapon Att. + Weapon Ability)/2 + (Weapon Mod)  
+          
+        The Attribute and Ability used depends on the current weapon
         This is described in more detail in
         [Weapons](/Combat/#weapons-and-armor).
 
-    -   **Base Damage*  
-        ***(Strength + Essence Level)/2 + (Weapon Mod)
+    -   **Base Damage**  
+        (Strength + Essence Level)/2 + (Weapon Mod)
 
-    -   **Initiative*  
-        ***(Cunning + Awareness)/2
+    -   **Initiative**  
+        (Cunning + Awareness)/2
 
 <table>
 <tbody>
