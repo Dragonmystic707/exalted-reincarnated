@@ -26,10 +26,9 @@ The Beastman grows natural weaponry, based on the natural weaponry of
 their Spirit Form. While they are still considered unarmed, they may use
 the statistics of Unarmed, Light, or Medium Weaponry, with an added +1
 to Base Damage. The category choice should be reflective of their Spirit
-Form’s natural weaponry.  
-\[+3 acc, +1 Dmg; +2Acc +2 Dmg; or +1 Acc +3 Dmg\]
+Form’s natural weaponry.
 
-The Beastman gains the size of **Large** (+2 Soak, + 5 Endurance, and -2
+The Beastman gains the size of **Large** (+1 Soak, +3 Endurance, and -2
 successes on Fine Dexterity/Sneak rolls). This does not affect Lunars
 who are already of size Large (or bigger).
 

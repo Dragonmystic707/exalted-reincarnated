@@ -29,13 +29,13 @@ Combat Values
 
 Impulse is a meaure of the current *tactical advantage* the character
 has. The higher the value, the greater the control they have over the
-battlefield.
+battlefield. Impulse is:
 
-Impulse is *gained* through Maneuvers—actions that turn the battlefield
-in the character’s favor.
+-   *Gained* through Maneuvers—actions that turn the battlefield in the
+    character’s favor.
 
-Impulse is then spent on Decisive Actions—actions that deal great
-strikes of force upon their enemies.
+-   *Spent* on Decisive Actions—actions that deal great strikes of force
+    upon their enemies.
 
 Being that it is gained and spent exclusively during a combat scene,
 physical tokens (such as coins or poker chips) are suggested to keep
@@ -75,8 +75,7 @@ track of Impulse.
 
 -   **Initiative**  
     How quickly a character can react to the start of battle,
-    determining their turn order as well as the starting amount of
-    Impulse.
+    determining their turn order as well as the starting Impulse.
 
 The Combat Round
 ----------------
@@ -95,15 +94,14 @@ Move actions, for example, just one. (Without a Power, that is.)
 Free Actions can be taken in an order—before or after the main Action of
 the turn.
 
-Talking is considered a Free Action, and is actively encouraged—it fits
-the genre.
-
 ### Turn Order
 
-Turn order is determined by all character’s rolling a Chance Die (1d10),
-and adding their **Initiative** score. The characters then proceed from
-highest to lowest, then restarting the round once all characters have
-gone.
+Turn order is determined by the Initiative Roll:
+
+**Initiative**: 1d10 + (Initiative)
+
+The characters then proceed from highest to lowest, then restarting the
+round once all characters have gone.
 
 If there is a tie of Initiative between a Player Character and a
 Non-Player Character, the Player gets to choose who goes first. If there
@@ -112,7 +110,6 @@ is a tie between Player Characters, simply flip a coin.
 Each combatant starts with a number of Impulse equal to their Initiative
 score.
 
-**Turn Order:** 1d10 + (Initiative)  
 **Starting Impulse:** (Initiative)
 
 All combatants are assumed to start combat ready: their weapons are
@@ -133,32 +130,33 @@ drawn, they have fallen into their Martial Arts, etc.
 If characters are ambushed—not expecting combat in the least, they must
 suffer through an Ambush Round.
 
-Instead of starting combat as normal, Ambushed characters instead start
-with **0 Impulse**, and may only act *after* all other characters have
-acted, regardless of their Turn Order. Once the Ambush Round ends,
-normal turn order resumes.
+Ambushed characters:
+
+-   Start with **0 Impulse**,
+
+-   May only act *after* all other characters have acted, regardless of
+    their Turn Order. Once the Ambush Round ends, normal turn order
+    resumes.
 
 Ambushes are premeditated affairs--requiring setup, planning, and
 coordination between the party. Players cannot suddenly go into combat
 if things are not going their way and declare it an Ambush.
 
-Player Character always get a Reflexive (Cunning + Awareness) roll to
-individually avoid becoming Ambushed. The difficulty is based on the
-skill of the Ambush characters (e.g. Cunning + Sneak).
+To prevent being ambushed, Player Characters get a Reflexive (Cunning +
+Awareness) roll against the skill of those setting up the ambush.
+Typically this would be a contested roll against (Cunning + Stealth).
 
 ### Holding Action
 
-Characters may choose to Hold their Action, waiting for something to
-happen in order to respond to it. Players must describe what it is they
-are waiting for—they cannot arbitrarily wait. Any action may be held—be
-it a Maneuver, Decisive, or Free Action.
+Any character may Hold their Action, or wait to act based on something
+that happens in the battlefiled. To do so, the must spend **2 Impulse**
+and describe what it is they are waiting for: they cannot arbitrarily
+wait. When the specified event happens, they get a chance to act
+*before* or *after* the event, at their discretion. Any action may be
+held, be it a Maneuver, Decisive, or even Free Action.
 
-When the specified event happens, they must spend **2 Impulse,** and
-then take their action as desired, (either before or after the specified
-event, at their choice)
-
-If the event does not happen in the Round, the Player loses their
-action. (But they do not need to spend the Impulse).
+If the event does not happen in the Round, the character regains their
+spent 2 Impulse, but does not get a chance to act this Round.
 
 ### Change Initiative
 
@@ -174,7 +172,7 @@ the scene—be it to test the stance of their enemies, analyze the
 battlefield for strategic advantage, or to intimidate your foes through
 physical prowess.
 
-Maneuvers also include a type of Attack—but ones that are focused more
+Maneuvers also include a type of Attacks—but ones that are focused more
 on putting your foe on edge, rather than dealing a killing blow. These
 Manuever Attacks that hit (a roll above the DV), would only deal
 superficial harm to the player: a cut on a cheek to dishearten and
@@ -213,7 +211,7 @@ As a reminder: Stunts are special, interesting descriptions of a
 character’s action. By their nature, they *cannot* be repeated over and
 over again in the same scene.
 
-The Stunt effects should be treated as examples, not an exhausted list.
+The Stunt Effects should be treated as examples, not an exhausted list.
 
 *The Night Caste crashes through the window, barrelling into the Ogre,
 forcing it to stumble back from the blow.*
@@ -248,7 +246,8 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>Knockback</p>
+<p>Knockback /</p>
+<p>Pull</p>
 </blockquote></td>
 <td><blockquote>
 <p>DV</p>
@@ -343,7 +342,8 @@ Once the character has gained enough Impulse, they may expend it in a
 Decisive Strike, aimed at knocking their enemy off the battlefield.
 
 You must have a minimum of 2 Impulse available to perform a Decisive
-Strike.
+Strike, which cannot be spent on Powers or other effects until after the
+Accuracy Roll.
 
 Roll the **Accuracy** dice pool against the target’s DV. If the roll
 fails, the attack misses and you lose 2 Impulse.
@@ -384,6 +384,9 @@ Stunt Effects.**
 
 These Stunt Effects have a higher bar to clear, and the difficulty is
 based around the *Damage Roll*.
+
+The Player may decide to use the lesser Maneuver Stunt Effect in place
+of a Decisive Stunt Effect, but still must use the Damage Roll.
 
 <table>
 <tbody>
@@ -453,9 +456,6 @@ based around the *Damage Roll*.
 </tbody>
 </table>
 
-The Player may decide to use the lesser Maneuver Stunt Effect in place
-of a Decisive Stunt Effect, but still must use the Damage Roll.
-
 Positioning
 -----------
 
@@ -496,7 +496,7 @@ conflict.
 
 ### Attack Ranges
 
-**Close Range** actions—such as those made with Melee or Brawl—may only
+**Close Range** action, such as those made with Melee or Brawl, may only
 be made while in Melee/Close Range.
 
 **Ranged** Decisive Strikes—namely those made with Archery and
@@ -505,6 +505,17 @@ Thrown—may be made against all targets within Short, or Medium range.
 Ranged Strikes *may* be made against targets within Melee range, but
 suffer (-2) successes to their Accuracy roll—as though the target had
 Partial Cover.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Range and Maneuvers</strong></p>
+<p>By definition, Maneuver and their Stunts are dependant on judgement calls from the Storyteller.</p>
+<p>Range only matters on Maneuvers that have contact between combatants—a character slamming into another is considered a Melee Attack, while dropping a chandelier on another would be considered a Ranged Attack.</p>
+<p>Maneuvers that don’t have contact—such as anlyzing the battlefield—don’t care about Range and can be performed regardless of distance. There may be other restrictions though: Intimidating an opponent by hurling insults can only work if the opponent can <em>hear</em> said insults, for example.</p></td>
+</tr>
+</tbody>
+</table>
 
 Movement
 --------
@@ -520,6 +531,13 @@ As a Free Action, move one Range Band closer or further away from a
 target. You may not Move while in Melee Range of an enemey—instead you
 must take a Disengage Action.
 
+### Dash
+
+A Dash cannot be made while in Melee Range of an Enemy. Spend 2 Impulse,
+and suffer -1 DV for a round to cross 2 Range Bands instead of 1.
+
+Dash Movements cannot be taken two Rounds in a row.
+
 <table>
 <tbody>
 <tr class="odd">
@@ -528,13 +546,6 @@ must take a Disengage Action.
 </tr>
 </tbody>
 </table>
-
-### Dash
-
-A Dash cannot be made while in Melee Range of an Enemy. Spend 2 Impulse,
-and suffer -1 DV for a round to cross 2 Range Bands instead of 1.
-
-Dash Movements cannot be taken two rounds in a row.
 
 ### Disengage
 
@@ -545,6 +556,44 @@ Short Range.
 Combatants currently in Melee Range may attempt to halt Disengagement.
 Those that roll (Dex + Athletics) above your Evasion remain in Melee
 Range—immediately joining you in your new position.
+
+Opponents that have been successfully disengaged are prevented from
+entering back into Melee Range for a Round.
+
+Situational Defenses
+--------------------
+
+There are two levels of Situational Defenses:
+
+-   **Partial –** Provides +2 DV. This represents significant, but not
+    impenetrable protection from attackers. Such as hiding behind
+    pillars, standing in uneven terrain, or being surrounded by gale
+    winds.
+
+-   **Full** – Cannot be attacked while the defense is active. They are
+    standing behind a full wall, across a giant chasm, or have become
+    Immaterial.
+
+Full Situational Defenses must be countered before the character can be
+attacked. Some times it may be a simple mundane action, such as bursting
+in the room behind the wall. But often certain charms, stunts or powers
+will be required to counter or decrease the Defense by a level: Full to
+Partial, or Partial to None.
+
+### Cover
+
+Cover is one of the most widly available Situational Defenses, as it can
+be ganed simply by ducking into the terrain of the scene.
+
+Cover is considered **Partial** when at least half a character’s body is
+blocked by a material that can withstand weapon blows--such as a
+chest-high wall of broken stone rubble.
+
+Cover is considered **Full** when the character’s entire body is
+blocked, such as behind a wall.
+
+Typically, cover works both ways: a character in Full Defense from
+attacks is also blocked from attacking others for the same reason.
 
 <table>
 <tbody>
@@ -560,54 +609,20 @@ Battlemaps and Absolute Positioning</strong></p>
 <li><p>Dash is Speed x2 hexes (Speed x10 meters)</p></li>
 </ul></li>
 <li><p>A character <em>may</em> move away from Melee/Close Range without Disengaging, but only at Half Speed.</p></li>
-<li><p>References to “Range Band” as a distance is 5 Hexes (25 meters)</p></li>
+<li><p>A character that successfully contests a disengage action reflexively moves <em>halfway</em> towards the new location.</p></li>
+<li><p>References to “Range Band” as a generic distance is 5 Hexes (25 meters)</p></li>
 </ul>
-<p>The definition for range bands are:</p>
+<p>The definition for Specific Range bands are:</p>
 <ul>
 <li><p><strong>Melee/Close:</strong> 0-1 hex (0-5 m.)</p></li>
-<li><p><strong>Short:</strong> 2-5 hex (6-20 m.)</p></li>
-<li><p><strong>Medium:</strong> 6-15 hex (21-70 m.)</p></li>
-<li><p><strong>Long:</strong> 61-30 hex (71-145 m.)</p></li>
-<li><p><strong>Extreme:</strong> 31+ hex (146+ m.)</p></li>
+<li><p><strong>Short:</strong> 2-5 hex (6-25 m.)</p></li>
+<li><p><strong>Medium:</strong> 6-15 hex (26-75 m.)</p></li>
+<li><p><strong>Long:</strong> 61-30 hex (76-150 m.)</p></li>
+<li><p><strong>Extreme:</strong> 31+ hex (151+ m.)</p></li>
 </ul></td>
 </tr>
 </tbody>
 </table>
-
-Cover and Situational Defense
------------------------------
-
-There are two levels of Situational Defenses in Exalted: **Partial** and
-**Full**.
-
-**Partial** means that the Attacking Player has a -2
-Disadvantage--effectively increasing the defending Player’s DV by 2.
-
-**Full** means that they cannot be attacked by mortal means.
-
-Situational Defenses often can be countered by natural means: characters
-can move across the battlefield, or scale a wall.
-
-**Situational Defenses do not stack.** It is either Partial, or Full.
-However, multiple defenses must often be addressed individually. If a
-character is hiding behind a wall (Full) as well as at a distance
-(Partial), if the wall is destroyed by an action, the Range Defense
-would still apply.
-
-### Cover
-
-Characters may use the terrain to gain Situational Defenses, such as by
-ducking against rubble or hiding behind a wall.
-
-Cover is considered **Partial** when at least half a character’s body is
-blocked by a material that can withstand weapon blows--such as a
-chest-high wall of broken stone rubble.
-
-Cover is considered **Full** when the character’s entire body is
-blocked, such as behind a wall.
-
-Typically, cover works both ways: a character in Full Defense from
-attacks is also blocked from attacking others for the same reason.
 
 Environmental Effects
 ---------------------
@@ -633,9 +648,9 @@ etc.) these minor characters may perish without aid.
 
 #### Player Character Defeat
 
-Any character that falls during battle gains **1 Limit**.
-
-Death is only at the choice of the Player.
+Any character that falls during battle gains **1 Limit**. Death is only
+at the choice of the Player, but if the entire party falls the
+Storyteller may impose a grand Complication onto their story.
 
 #### Death and Dying
 

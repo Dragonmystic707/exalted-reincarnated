@@ -367,3 +367,17 @@ That or I spell out specific mutations. 3e Core has them priced way too
 high though.
 
 Low priority.\]\]
+
+Sizes and their bonuses (will be with Lunars/Mutations): 
+
+-   **Miniscule** + 2Evasion/Sneak, cannot use Strength, -5 Endurance. 
+
+-   **Small** +1 Evasion/Sneak, -1 Feats of Strength -3 Endurance
+
+-   **Medium**
+
+-   **Large** +1 Soak, -1 Fine Dexterity/Sneak, +3 End
+
+-   **Gigantic** +2 Soak, No Fine Dexterity/Sneak, -2 Evasion, +5 End 
+
+-   **Titanic** +4 Soak, +10 End, Obvious, no Dex/Sneak, no Evasion
