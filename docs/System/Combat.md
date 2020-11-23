@@ -258,6 +258,17 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 </tr>
 <tr class="even">
 <td><blockquote>
+<p>Keep Pace</p>
+</blockquote></td>
+<td><blockquote>
+<p>Evasion</p>
+</blockquote></td>
+<td><blockquote>
+<p>When the target takes a Move Action away from you, reflexively move to stay within the same Range Band. This does not cosume a Move Action.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
 <p>Intimidate</p>
 </blockquote></td>
 <td><blockquote>
@@ -267,7 +278,7 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <p>The target loses 3 Impulse.</p>
 </blockquote></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><blockquote>
 <p>Stun</p>
 </blockquote></td>
@@ -278,7 +289,7 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <p>The target loses 2 dice from their next action.</p>
 </blockquote></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><blockquote>
 <p>Smash Scenery</p>
 </blockquote></td>
@@ -289,7 +300,7 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <p>Creates Environmental hazards on the field.</p>
 </blockquote></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><blockquote>
 <p>Seek Cover</p>
 </blockquote></td>
@@ -300,7 +311,7 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <p>Attempt to find Cover.</p>
 </blockquote></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><blockquote>
 <p>Counter Cover</p>
 </blockquote></td>
@@ -311,7 +322,7 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <p>Eliminate the Situational Cover bonus a character has. They cannot regain this same cover for at least a Round.</p>
 </blockquote></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><blockquote>
 <p>Defend Other</p>
 </blockquote></td>
@@ -525,6 +536,9 @@ action: Move, Dash, and Disengage. If one is taken during a Round, only
 that one may be taken. (i.e. no Dashing and then Moving in the same
 Round).
 
+The **Rush** Action, instead, consumes an Action slot, and can be
+performed on the same turn as the other Move Actions.
+
 ### Move
 
 As a Free Action, move one Range Band closer or further away from a
@@ -533,8 +547,8 @@ must take a Disengage Action.
 
 ### Dash
 
-A Dash cannot be made while in Melee Range of an Enemy. Spend 2 Impulse,
-and suffer -1 DV for a round to cross 2 Range Bands instead of 1.
+A Dash cannot be made engaged in Melee Combat. Spend 2 Impulse, and
+suffer -1 DV for a round to cross 2 Range Bands instead of 1.
 
 Dash Movements cannot be taken two Rounds in a row.
 
@@ -557,8 +571,17 @@ Combatants currently in Melee Range may attempt to halt Disengagement.
 Those that roll (Dex + Athletics) above your Evasion remain in Melee
 Range—immediately joining you in your new position.
 
-Opponents that have been successfully disengaged are prevented from
-entering back into Melee Range for a Round.
+If an opponent that was successfully disengaged from tries to close into
+Melee Range on the next round, reflexively move back to Short Range from
+them. (This reflexive action does not count as a Move action.)
+
+### Rush
+
+Rush, unlike other move actions, consumes the **Action Slot** of the
+character, and so explicityly *may* be used in conjunction with other
+Move Actions.
+
+Against a targetMake a (Dexterity + Athletics) Roll vs a
 
 Situational Defenses
 --------------------
