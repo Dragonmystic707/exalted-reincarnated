@@ -51,7 +51,9 @@ track of Impulse.
 
 -   **Defense Value (DV)**  
     Reflects the character’s ability to deflect, dodge, or otherwise
-    mitigate an incoming attack.
+    mitigate an incoming attack. Certain attacks will bypass the DV and
+    target a specific defenses. (i.e. room-filled explosions cannot be
+    dodged, and so must be Soaked.)
 
 -   **Evasion**  
     Represents the ability for characters to quickly move and respond to
@@ -264,7 +266,7 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <p>Evasion</p>
 </blockquote></td>
 <td><blockquote>
-<p>When the target takes a Move Action away from you, reflexively move to stay within the same Range Band. This does not cosume a Move Action.</p>
+<p>When the target takes a Move Action <em>away</em> from you, reflexively move one range band toward them. This does not consume a Move Action.</p>
 </blockquote></td>
 </tr>
 <tr class="odd">
@@ -536,9 +538,6 @@ action: Move, Dash, and Disengage. If one is taken during a Round, only
 that one may be taken. (i.e. no Dashing and then Moving in the same
 Round).
 
-The **Rush** Action, instead, consumes an Action slot, and can be
-performed on the same turn as the other Move Actions.
-
 ### Move
 
 As a Free Action, move one Range Band closer or further away from a
@@ -574,14 +573,6 @@ Range—immediately joining you in your new position.
 If an opponent that was successfully disengaged from tries to close into
 Melee Range on the next round, reflexively move back to Short Range from
 them. (This reflexive action does not count as a Move action.)
-
-### Rush
-
-Rush, unlike other move actions, consumes the **Action Slot** of the
-character, and so explicityly *may* be used in conjunction with other
-Move Actions.
-
-Against a targetMake a (Dexterity + Athletics) Roll vs a
 
 Situational Defenses
 --------------------
