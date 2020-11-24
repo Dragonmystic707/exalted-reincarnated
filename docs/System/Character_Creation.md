@@ -164,12 +164,15 @@ Steps
 </tbody>
 </table>
 
-1.  Specify **Equipment** the character carries, considering their
-    background. Unlike other systems, Exalted does not require an
-    extensive list of what equipment or tools the Exalt has on their
-    person---so long as it is reasonable for them to have an item, they
-    are considered to be carrying it. Mundane armor and weapons are
-    included
+1.  Specify any relevant **Equipment** the character carries, such as
+    [A](weapons-and-armor)[rmor
+    and](/Combat/#armor-and-weapons)
+    [Weapons.](weapons-and-armor)  
+      
+    Unlike other systems, Exalted does not require an extensive list of
+    what equipment or tools the Exalt has on their person---so long as
+    it is reasonable for them to have an item, they are considered to be
+    carrying it.
 
 2.  **General Static Values**  
     Record the following calculated static values
@@ -199,7 +202,7 @@ Steps
     Assign the static values used (most commonly) during a Combat Scene.
 
     -   **Endurance**  
-        5+(Stamina+Athletics+Physique)+(Essence) x2
+        5+Athletics+Physique + (Stamina) x2 +(Essence) x3
 
     -   **Defense Value (DV)**  
         Greater of Evasion or Soak
@@ -213,12 +216,14 @@ Steps
     -   **Accuracy**  
         (Weapon Att. + Weapon Ability)/2 + (Weapon Mod)  
           
-        The Attribute and Ability used depends on the current weapon
+        The Attribute and Ability used depends on the current weapon.
         This is described in more detail in
-        [Weapons](/Combat/#weapons-and-armor).
+        [Weapons](/Combat/#armor-and-weapons).  
+          
+        *Note:* Remember that Unarmed grants +2 Accuracy.
 
     -   **Base Damage**  
-        (Strength + Essence Level)/2 + (Weapon Mod)
+        (Weapon Mod) + Essence
 
     -   **Initiative**  
         (Cunning + Awareness)/2
@@ -255,6 +260,12 @@ after Character Creation:
 
 -   Essence 5: 200 xp
 
+Remember that each Essence Rank provides:
+
+-   +3 Endurance
+
+-   +1 Base Damage
+
 Player Characters in the same group should be kept at the same amount of
 experience points, so that no single character gets significantly ahead
 or behind others.
@@ -277,9 +288,9 @@ is a shared and cooperative experience to bring that about.
 
 ### Gaining Resources
 
-Resources should be sought out, and rewarded, based on the Player's
-actions in the story. If they manage to acquire riches, or recruit
-helpers to work, give them Resources to represent such actions.
+Resources should be sought out and rewarded, based on the Player's
+actions in the story—it represents riches to favors to manpower
+gathered.
 
 Each individual **Keystone** *must* be intentionally sought out by the
 player, and requires anywhere from a Scene to a full Story to acquire.

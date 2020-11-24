@@ -67,13 +67,14 @@ track of Impulse.
     The ability to land a hit with an attack. This value is highly
     dependant on the weapon used—for example, a short bow is a light
     archery weapon, so would use Dexterity, Archery, and provide an
-    Accuracy Bonus. This is described in more detail in the
-    [Weapons](/Combat/#weapons-and-armor) section.
+    Accuracy Bonus, wheras a Heavy Axe would rely on Strength, Melee,
+    and have an Accuracy Penalty. This is described in more detail in
+    the [Weapons](/Combat/#armor-and-weapons) section.
 
 -   **Base Damage**  
-    When a Decisive Attack lands, a portion of the of the dice pool
-    comes from a player’s Base Damage—in essence, it is the minimium
-    amount of power behind any striking attack.
+    When a Decisive Attack lands, the Base Damage is the minimal amount
+    of damage behind the blow—heavier weapons will deal more base
+    damage.
 
 -   **Initiative**  
     How quickly a character can react to the start of battle,
@@ -361,13 +362,13 @@ Accuracy Roll.
 Roll the **Accuracy** dice pool against the target’s DV. If the roll
 fails, the attack misses and you lose 2 Impulse.
 
-On a success, take the Threshold Successes from the Accuracy Roll, the
-character’s Base Damage, and *all* the Impulse they currently have to
-form a Damage Dice Pool. The number of successes from that Dice Pool is
-how much Endurance the target loses.
+On a success, take the Threshold Successes from the Accuracy Roll and
+*all* the Impulse they currently have to form a Damage Dice Pool. The
+number of successes from this Damage Pool, plus any Base Damage the
+Exalt has, is how much Endurance the target loses.
 
-**Damage Pool**: (Impulse + Base Damage + Threshold Success)  
-**Target Endurance lost:** \# Successes Rolled
+**Damage Pool**: (Impulse + Threshold Success)  
+**Target Endurance lost:** \# Successes Rolled + Base Damage
 
 <table>
 <tbody>
@@ -689,10 +690,94 @@ times--eventually you will have to move to the Final Confrontation,
 where the fate of these antagonists should be placed into the Players’
 hands.
 
-Weapons and Armor
+Armor and Weapons
 -----------------
 
-&lt;&lt;TODO&gt;&gt;
+All combat equipment in Exalted is divided into four categories Light,
+Medium, Heavy, and of course Unarmed/No Armor.
+
+### Armor
+
+The Category of Armor provides modifers to the Soak or Evasion defenses
+(and ultimately to DV).
+
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Armor</p>
+</blockquote></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p><strong>Soak Modifier</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>Evasion Modifier</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>No Armor</td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Light</p>
+</blockquote></td>
+<td>+0</td>
+<td>+1</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Medium</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1</p>
+</blockquote></td>
+<td><blockquote>
+<p>-1</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Heavy</p>
+</blockquote></td>
+<td><blockquote>
+<p>+2</p>
+</blockquote></td>
+<td><blockquote>
+<p>-2</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+-   **Medium** and **Heavy** armors provide increasing Soak protection,
+    but at the cost of more limited mobility. Most traditional armors,
+    such as breastplates, chain shirts, and articulated plate fit into
+    the Medium or Heavy Category
+
+-   **Light** armors are those that have been tailor made to aid in
+    flexible movement—above and beyond what normal clothes will do.
+    Typically, light armors will consisted of padded gloves, tightly
+    wound fabrics, and other cushions to assist in acrobatic movements.
+
+### Weapons
+
+The category of **Weapon** provides accuracy and base damage bonuses—the
+heavier the weapon, the more damage it does, but at the cost of
+accuracy.
+
+Weapons also determine which Attribute is used during an Accuracy
+roll—whether it be focused more on Dexterity or Strength.
 
 <table>
 <tbody>
@@ -728,7 +813,7 @@ Weapons and Armor
 <p>+2</p>
 </blockquote></td>
 <td><blockquote>
-<p>-1</p>
+<p>+0</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -739,7 +824,7 @@ Weapons and Armor
 <p>Dexterity</p>
 </blockquote></td>
 <td><blockquote>
-<p>+1</p>
+<p>+4</p>
 </blockquote></td>
 <td><blockquote>
 <p>+0</p>
@@ -754,7 +839,7 @@ Weapons and Armor
 <p>Strength</p>
 </blockquote></td>
 <td><blockquote>
-<p>+0</p>
+<p>+2</p>
 </blockquote></td>
 <td><blockquote>
 <p>+1</p>
@@ -768,7 +853,7 @@ Weapons and Armor
 <p>Strength</p>
 </blockquote></td>
 <td><blockquote>
-<p>-1</p>
+<p>+0</p>
 </blockquote></td>
 <td><blockquote>
 <p>+2</p>
@@ -777,65 +862,34 @@ Weapons and Armor
 </tbody>
 </table>
 
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p>Armor</p>
-</blockquote></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><blockquote>
-<p><strong>Soak Modifier</strong></p>
-</blockquote></td>
-<td><blockquote>
-<p>Evasion Modifier</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td>No Armor</td>
-<td><blockquote>
-<p>-1</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Light</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Medium</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1</p>
-</blockquote></td>
-<td><blockquote>
-<p>-1</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Heavy</p>
-</blockquote></td>
-<td><blockquote>
-<p>+2</p>
-</blockquote></td>
-<td><blockquote>
-<p>-2</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+-   **Unarmed** and **Medium** weapons can be effectively used by those
+    who favor Dexterity or Strength.
+
+-   **Light** weapons rely only on fine, precise movements to find their
+    targets, and so rely soley on Dexterity.
+
+-   **Heavy** weapons rely primarily on stable, graceful moves with a
+    pendulous weight. Strength alone controls where the weapon goes.
+
+### Weapon Attributes
+
+&lt;&lt;TODO&gt;&gt;
+
+Weapons are associated with abilities, and a speciality of them. Swords
+is a speciality of Melee. Weapons can cross specialities and even
+abilities: a claymore can double as a Sword or Club. A Spear as a sword
+or a thrown weapon.
+
+### Artifacts
+
+&lt;&lt;TODO&gt;&gt;
+
+Artifacts combat equipement can get one of the following:
+
+-   +1 Soak or Evasion (no more than +2 total)
+
+-   +2 Accuracy (no more than +4 total)
+
+-   +1 Damage.
+
+-   Use of non-standard Attribute.
