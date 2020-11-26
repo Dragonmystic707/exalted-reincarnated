@@ -35,27 +35,31 @@ When using a ranged attack, reduce up to (Essence) dice of Disadvantages
 caused by non-visual conditions such as high winds, storms, sleet, and
 other similar Environmental Effects.
 
+### Dragonfly Finds Mate
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** (Ranged Ability) 3
+
+The Exalt lets loose their weapon, knocking incoming projectiles out of
+the sky.
+
+Against any Ranged attack, you may define DV as (Dexterity + Archery)/2.
+This may be used to Defend Others who are within Medium Range.
+
 Archery
 -------
 
 ### Flashing Vengeance Draw 
 
-**Cost: 4**m, 1i  
+**Cost:** 4m, 1i  
 **Type:** Reflexive  
 **Mins:** Archery 1
 
 After the Initiative Order has been decided, but before the first
 Action, the Archer may make an immediate Maneuver.
 
-### Dragonfly Finds Mate
-
-**Cost:** 2m  
-**Type:** Reflexive  
-**Mins:** Archery 2
-
-Against an attack that uses a projectile (such as Archery or Thrown),
-the Exalt may define their DV as (Dexterity + Archery)/2. This may be
-used to Defend Others who are within Medium Range of the Archer.
+### 
 
 ### Forceful Arrow 
 
@@ -296,6 +300,17 @@ respectively.
 **Permanent Effect:** On purchasing this charm, and at the start of each
 story, the Exalt gains an additional +15 RES, to be used only for Craft
 Projects.
+
+Melee
+-----
+
+### Blow Deflecting Stance
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Melee 3
+
+DV may be defined as (Dexterity + Melee)/2
 
 Physique
 --------

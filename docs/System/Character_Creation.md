@@ -232,7 +232,7 @@ Steps
 <tbody>
 <tr class="odd">
 <td><p><strong>XP Generation</strong></p>
-<p>If you prefer pure xp generation, character creation ends at 150xp, with the following minimums:</p>
+<p>If you prefer pure xp generation, character creation ends at 150xp with the following minimums:</p>
 <ul>
 <li><p>Attributes: 68 xp</p></li>
 <li><p>Favored Abilities: 18xp</p></li>
@@ -242,6 +242,16 @@ Steps
 <li><p><strong>15</strong> Project Resources</p></li>
 <li><p><strong>3</strong> Specialities</p></li>
 </ul></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Purchase Protection</strong></p>
+<p>Some Powers, Abilities, or other aspects of the character end up not being used in a campaign. To some extent, this is normal in any RPG, but the wide-spanning nature of Exalted can exaggerate this.</p>
+<p>Storytellers should allow Players to redistribute their xp, returning any unused ascpects of their charcters.</p></td>
 </tr>
 </tbody>
 </table>

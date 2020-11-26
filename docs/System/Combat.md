@@ -211,8 +211,8 @@ These Stunt Maneuvers must make sense in the context of the action, and
 must exceed the difficulty of the action with the roll to take effect.
 
 As a reminder: Stunts are special, interesting descriptions of a
-character’s action. By their nature, they *cannot* be repeated over and
-over again in the same scene.
+character’s action. By their very nature, *Stunt Effects cannot be
+repeated over and over—*they would cease to be a Stunt.
 
 The Stunt Effects should be treated as examples, not an exhausted list.
 
@@ -226,6 +226,15 @@ Successes.
 They immediately gain 5 Impulse for their Maneuver, regardless. Then,
 (since this is a Knockback), they compare their 5 Successes against the
 Ogre’s DV (4). The Ogre is knocked back as desired.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Antagonists and Stunt Effects</strong></p>
+<p>Important Non-Player Characters may attempt Stunt Effects, though the Storyteller should be judicious about their use.</p></td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tbody>
@@ -250,13 +259,14 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <tr class="odd">
 <td><blockquote>
 <p>Knockback /</p>
-<p>Pull</p>
+<p>Pull /</p>
+<p>Hold</p>
 </blockquote></td>
 <td><blockquote>
 <p>DV</p>
 </blockquote></td>
 <td><blockquote>
-<p>Moves the target one range band.</p>
+<p>Moves the target one range band, or force the target to stay in their current location.</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -305,27 +315,17 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>Seek Cover</p>
+<p>Seek Cover/</p>
+<p>Destroy Cover</p>
 </blockquote></td>
 <td><blockquote>
 <p>Based on Scenery</p>
 </blockquote></td>
 <td><blockquote>
-<p>Attempt to find Cover.</p>
+<p>Attempt to find Cover, or eliminate Cover of a target.</p>
 </blockquote></td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>Counter Cover</p>
-</blockquote></td>
-<td><blockquote>
-<p>Based on Scenery</p>
-</blockquote></td>
-<td><blockquote>
-<p>Eliminate the Situational Cover bonus a character has. They cannot regain this same cover for at least a Round.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
 <td><blockquote>
 <p>Defend Other</p>
 </blockquote></td>
@@ -336,6 +336,17 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <p>Protect a character within Short Range for a Round. They may use your DV instead of their own</p>
 </blockquote></td>
 </tr>
+<tr class="even">
+<td><blockquote>
+<p>Disarm</p>
+</blockquote></td>
+<td><blockquote>
+<p>Soak</p>
+</blockquote></td>
+<td><blockquote>
+<p>Knock a weapon out of a hand, which cannot be reclaimed for a Round.</p>
+</blockquote></td>
+</tr>
 </tbody>
 </table>
 
@@ -343,8 +354,7 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <tbody>
 <tr class="odd">
 <td><p><strong>Charms, Stunts and Maneuvers</strong></p>
-<p>There are some Charms that have the same effects as Maneuver Stunts. If a character chooses the same stunt effect as a charm, the effect can be doubled according to the Storyteller’s discretion.</p>
-<p>Unless otherwise specified, charms will apply the same for both Strikes as they would a Maneuver attack. “On Hit” means that either a Maneuver roll or the Accuracy roll is above the DV.</p></td>
+<p>There are some Charms that have the same effects as Maneuver Stunts. If a character chooses the same stunt effect as a charm, the effect can be doubled—whether it be in magnitude of the effect, duration, or other methodology.</p></td>
 </tr>
 </tbody>
 </table>
@@ -367,8 +377,8 @@ On a success, take the Threshold Successes from the Accuracy Roll and
 number of successes from this Damage Pool, plus any Base Damage the
 Exalt has, is how much Endurance the target loses.
 
-**Damage Pool**: (Impulse + Threshold Success)  
-**Target Endurance lost:** \# Successes Rolled + Base Damage
+**Damage Pool:** (Impulse + Threshold Success)  
+**Damage Dealt:** \# Successes Rolled + Base Damage
 
 <table>
 <tbody>
@@ -389,86 +399,6 @@ do so, simply make an Accuracy Roll against the target with the
 Once damage has been calculated, it is spread out among all the targets
 at the Player’s discretion. e.g. If 5 damage is rolled, they can decide
 to place 1 on one target and 4 on another.
-
-### Stunting Decisive Strikes
-
-If the Player stunts during a Decisive Strike, they gain +2 dice to
-their Accuracy Roll, and they have access to more powerful **Decisive
-Stunt Effects.**
-
-These Stunt Effects have a higher bar to clear, and the difficulty is
-based around the *Damage Roll*.
-
-The Player may decide to use the lesser Maneuver Stunt Effect in place
-of a Decisive Stunt Effect, but still must use the Damage Roll.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><strong>Decisive Strike Stunt Effects</strong></p>
-</blockquote></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Name</p>
-</blockquote></td>
-<td><blockquote>
-<p>Difficulty</p>
-</blockquote></td>
-<td><blockquote>
-<p>Description</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Disarm</p>
-</blockquote></td>
-<td><blockquote>
-<p>Soak</p>
-</blockquote></td>
-<td><blockquote>
-<p>The target drops their weapon, being unable to re-equip it for one Round.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Restrain<br />
-(Grapple)</p>
-</blockquote></td>
-<td><blockquote>
-<p>Evasion</p>
-</blockquote></td>
-<td><blockquote>
-<p>The target becomes unable to move of their own will for one Round, and may be dragged by the attacker’s move action.</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Maim /</p>
-<p>Humiliate /</p>
-<p>Terrorize</p>
-</blockquote></td>
-<td><blockquote>
-<p>DV /</p>
-<p>Guile /</p>
-<p>Resolve</p>
-</blockquote></td>
-<td><blockquote>
-<p>The target suffers the <a href="#Drawbacks|outline">Wound Drawback</a> in the Physical, Social, or Mental Category, respective to the Defense targetted.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>&lt;Reserved&gt;</p>
-</blockquote></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 Positioning
 -----------
@@ -643,6 +573,62 @@ Environmental Effects
 ---------------------
 
 &lt;&lt;TODO&gt;&gt;
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Environmental Effects</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Effect Type</p>
+</blockquote></td>
+<td><blockquote>
+<p>Lesser</p>
+</blockquote></td>
+<td><blockquote>
+<p>Greater</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>Damaging</td>
+<td>Any who end their turn in the area lose 3 Endurance</td>
+<td>Any who end their turn in the area or pass through it lose 6 Endurance.</td>
+</tr>
+<tr class="even">
+<td>Impassable</td>
+<td>Must mkae a (Dex + Athletics) check vs 3 to get across.</td>
+<td>Cannot move across</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 Endurance
 ---------

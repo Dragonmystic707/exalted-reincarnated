@@ -40,12 +40,13 @@ Aside from this, other mutations still follow the **Hybrid Body Rules**
 
 ### Hide-Hardening Technique
 
-**Cost:** 3m  
+**Cost:** (2m per Dmg)  
 **Type:** Reflexive  
 **Mins:** Physique 2, Shapeshifting 1
 
 The Lunar reinforces their body, hardening their defenses against an
-attack, gaining +3 Soak.
+attack. They may reduce damage from a Decisive Strike at a cost of 2m
+per point of damage, up to (Essence) times on a single Strike.
 
 ### Howling Visage
 
