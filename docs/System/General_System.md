@@ -274,9 +274,8 @@ requires motes of Essence the exalt will drain from their mote pools:
 **Personal** and/or **Peripheral.**
 
 **Personal Motes** are intrinsic to the character. Expenditure of these
-motes are subtle and do not agitate their anima banner. However, they
-regain more slowly at a rate of **2 Motes per Hour** of non-strenuous
-activity.
+motes are subtle and do not agitate their anima banner. They regain only
+after a full night’s rest
 
 **Peripheral Motes** are the character’s ability to manipulate the world
 immediately surrounding them, channelling it to their will. Using these
@@ -316,8 +315,8 @@ life, and their very soul starts to show to the world in the form of the
 eventually escalates to a towering bonfire of personal iconography and
 symbols deeply personal to the character.
 
-**Using enough Peripheral Motes in a single action** will inflame the
-anima banner:
+**As the Peripheral Pool is depleted**, the Anima banner will
+automatically and reflexively ignite.
 
 -   **(0m) Dim** The natural state of the anima. It is invisible to all
     natural senses, but may be seen by those that can peek into the

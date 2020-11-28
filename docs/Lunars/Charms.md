@@ -110,7 +110,7 @@ considered Reflexive instead of a Secondary Action.
 
 ### Insidious Lunar Transformation
 
-**Cost:** 8m, 2i  
+**Cost:** 8m, (3i)  
 **Type:** Simple (Scene)  
 **Mins:** Shapeshifting 4
 
@@ -118,8 +118,8 @@ By pouring their own blood (worth 2 Endurance) into a target, the Lunar
 instantly alters the form of another into an animal from their Heart’s
 Blood library. This effect will last until the remainder of the Scene.
 
-If done in combat, this is a Primary Action that must be done at Close
-Range.
+If done in combat, this action must be done in Melee Range, with 3
+Impulse.
 
 If the target is unwilling, the Lunar must first succeed on a (Essence +
 Shapeshifting) roll vs the target’s Resolve.

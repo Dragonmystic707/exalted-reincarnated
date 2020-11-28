@@ -312,7 +312,10 @@ difficulty to recognize this fact is lowered by 1).
 
 Projects to Repair crafted materials, Manses, Artifacts, and other such
 physical goods are now 1 scale easier. I.e. Minor repairs are -3 Scale,
-Major -2, and Monumental -1 Scale of their base Project cost.
+Major -2, and Monumental -1 against their base Project cost.
+
+This charm may also be used in the same way for Projects that destroy or
+demolish such Crafted items.
 
 ### Mark of the Maker
 
@@ -338,8 +341,8 @@ Problem, it will take the form of a Minor, Moderate, or Major Drawback,
 respectively.
 
 **Permanent Effect:** On purchasing this charm, and at the start of each
-story, the Exalt gains an additional +15 RES, to be used only for Craft
-Projects.
+story, the Exalt gains an additional +15 RES, which may only be used
+only for Craft Projects.
 
 Melee
 -----

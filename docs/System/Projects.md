@@ -365,15 +365,19 @@ You must have a base score in the related Ability to start a Project.
 </tbody>
 </table>
 
-### Repairing or Altering Projects
+### Repairing, Altering, or Destroying Projects
 
 Some Projects focus on altering an existing aspect of the world—such as
 repairing a great Manse or taking an existing network of people and
-converting them to work for you.
+converting them to work for you, or completely eradicating it
+altogether.
 
 Since much of the work has been done already, these types of Projects
 will be *reduced in scale*, depending on the severity of the repairs or
 changes needed to be made.
+
+Destruction of a Projects focuses more on doing so *safely*, and in a
+controlled manner.
 
 -   **Minor** (-2 to Scale). The repairs and/or changes needed to be
     made are significant enough to warrent attention, but will not
