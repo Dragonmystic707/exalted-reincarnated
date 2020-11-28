@@ -41,7 +41,7 @@ of no cost (such as Permanent effects) will be designated with “--”.
     an Encounter Scene, requires **Influence.**
 
 -   **sm** -- Sorcerous Motes, which are described in more detail in the
-    [<u>Sorcery</u>](/Sorcery_and_Necromancy/#sorcery-and-necromancy).
+    [<u>Sorcery</u>](/System/Sorcery_and_Necromancy/#sorcery-and-necromancy).
 
 ### Type
 

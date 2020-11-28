@@ -69,7 +69,7 @@ track of Impulse.
     archery weapon, so would use Dexterity, Archery, and provide an
     Accuracy Bonus, wheras a Heavy Axe would rely on Strength, Melee,
     and have an Accuracy Penalty. This is described in more detail in
-    the [Weapons](/Combat/#armor-and-weapons) section.
+    the [Weapons](/System/Combat/#armor-and-weapons) section.
 
 -   **Base Damage**  
     When a Decisive Attack lands, the Base Damage is the minimal amount
@@ -685,7 +685,7 @@ manage to get away, though suffering a major blow to their own
 plans--they will often be forced to retreat and lick their wounds.
 
 If you force a retreat on these Antagonists, you must bribe your players
-each with a [**<u>Strife Point</u>**](/General_System/#strifes) as compensation.
+each with a [**<u>Strife Point</u>**](/System/General_System/#strifes) as compensation.
 
 Remember, though, that recurring antagonists can only be used so many
 times--eventually you will have to move to the Final Confrontation,

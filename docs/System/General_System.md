@@ -143,7 +143,7 @@ exhaustive or exclusive:
 
 *Immediately Limit Break at 10.*
 
-The character gains 1 point of [<u>Limit</u>](/General_System/#limit), representing the
+The character gains 1 point of [<u>Limit</u>](/System/General_System/#limit), representing the
 spiritual stress required to do the task.
 
 ### Wound/Exhaustion
@@ -172,7 +172,7 @@ Botching
 
 If a character fails their action, they may choose to *worsen* their
 failure dramatically, as represented by taking a Drawback. In exchange,
-they will gain a [**<u>Strife Point</u>**](/General_System/#strifes).
+they will gain a [**<u>Strife Point</u>**](/System/General_System/#strifes).
 
 If at all possible, the Player should try to include their **Great
 Curse** as reasoning for this Botch. Perhaps a prideful character could
@@ -369,8 +369,12 @@ Regardless of its source, every Exalt carries with them the Great Curse,
 an aggrandized character flaw that can interrupt and sabotage a
 character’s well meaning in spite of their better nature.
 
-Each Exaltation carries with a different interpretation and influence of
-the Great Curse:
+Each individual Exaltation book details their Great Curse, but it is
+important to know that these are all *suggestions*. So long as a
+character has a flaw that affects their decision, it is an acceptable
+Great Curse.
+
+For Example:
 
 -   **Solars** suffer by their own Ego. They are those that tirelessly
     seek greatness and perfection, and may find others or even
@@ -386,10 +390,7 @@ the Great Curse:
     their name and relations; their lost vitality; a loss of emotion and
     feeling.
 
--   Each individual Exaltation book details their Great Curse, but it is
-    important to know that these are all *suggestions*. So long as a
-    character has a flaw that affects their decision, it is an
-    acceptable Great Curse.
+-   
 
 ### Limit
 
@@ -579,7 +580,7 @@ the difficulty.”
 Strife may be gained through two ways: **Botches** and **Scene
 Complications**.
 
-[<u>Botches</u>](/General_System/#botching) are Player-driven choices to drive their
+[<u>Botches</u>](/System/General_System/#botching) are Player-driven choices to drive their
 character's failure into a *magnificent* failure--a low so that they may
 later rise to even greater heights.
 

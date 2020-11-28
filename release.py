@@ -126,7 +126,7 @@ def procces_dir(dir_dict, group_order):
                         # Create a link to include the file name.
                         link_name = match.group(1)
                         if link_name not in header_dict:
-                            header_dict[link_name] = "/" + file_name + "/#" + link_name
+                            header_dict[link_name] = "/" + folder_name + "/" + file_name + "/#" + link_name
                     # See if we've reached the first header.
                     elif re.match(r'==*', line):
                         # The header is on the previous line

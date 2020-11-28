@@ -92,7 +92,7 @@ Steps
     Expression, and Great Curse.
 
 2.  Choose your character’s [**<u>Great
-    Curse</u>**](/General_System/#the-great-curse), the character flaw which
+    Curse</u>**](/System/General_System/#the-great-curse), the character flaw which
     your Exalt struggles with day in and day out. Often, your
     character’s flaw will flare up, causing them to Botch their rolls,
     fail their actions, or otherwise veer them off of their intended
@@ -102,7 +102,7 @@ Steps
     to have a flaw of Ego, Lunars by their loss of identity, and
     Sidereals by their complicated relationship with Fate, for example.
 
-3.  Choose Three [**<u>Intimacies</u>**](/Social/#intimacies), which
+3.  Choose Three [**<u>Intimacies</u>**](/System/Social/#intimacies), which
     represent your devotions or relations to ideas, people, or history.
 
 4.  **Distribute 26 dots to Attributes**. No single Attribute may be
@@ -135,7 +135,7 @@ Steps
 
     -   Choose 3 **Specialities,** each in a seperate Favored Ability.
 
-6.  Choose a [**<u>Martial Arts Style</u>**](/Martial_Arts/#martial-arts).
+6.  Choose a [**<u>Martial Arts Style</u>**](/System/Martial_Arts/#martial-arts).
     Martial Arts dictates how your character interacts during combat,
     ranging from animal styles to esoteric and strange supernatural
     styles.
@@ -166,7 +166,7 @@ Steps
 
 1.  Specify any relevant **Equipment** the character carries, such as
     [A](weapons-and-armor)[rmor
-    and](/Combat/#armor-and-weapons)
+    and](/System/Combat/#armor-and-weapons)
     [Weapons.](weapons-and-armor)  
       
     Unlike other systems, Exalted does not require an extensive list of
@@ -218,7 +218,7 @@ Steps
           
         The Attribute and Ability used depends on the current weapon.
         This is described in more detail in
-        [Weapons](/Combat/#armor-and-weapons).  
+        [Weapons](/System/Combat/#armor-and-weapons).  
           
         *Note:* Remember that Unarmed grants +2 Accuracy.
 
