@@ -52,18 +52,16 @@ Archery
 
 ### Flashing Vengeance Draw 
 
-**Cost:** 4m, 1i  
+**Cost:** 3m, 1i  
 **Type:** Reflexive  
 **Mins:** Archery 1
 
-After the Initiative Order has been decided, but before the first
-Action, the Archer may make an immediate Maneuver.
-
-### 
+After the Initiative Order has been decided but before the first Action,
+the Archer may make an immediate Maneuver.
 
 ### Forceful Arrow 
 
-**Cost:** 3m  
+**Cost:** 2m  
 **Type:** Supplemental  
 **Mins:** Archery 2
 
@@ -71,7 +69,25 @@ On a successful hit, the target is knocked back one Range Band from the
 Archer.
 
 Alternatively, the Exalt may choose to knock themselves backwards from
-their target one Range Band.
+their target by one Range Band.
+
+### Hunter’s Swift Answer 
+
+**Cost:** 2m  
+**Type:** Reflexive  
+**Mins:** Archery 2
+
+After Successfully disengaging, the Archer fires a returning blow on
+their pursuer, causing them to lose 3 Impulse.
+
+### Flying Anchor
+
+**Cost:** 2m  
+**Type:** Supplemental  
+**Mins:** Archery 3
+
+On Hit, the target becomes pinned, unable to move from their location
+for one Round.
 
 ### Arrow Storm Technique
 
@@ -81,17 +97,6 @@ their target one Range Band.
 
 The Exalt buries an area with a flurry of arrows, making sure that at
 least one will hit. Their attack targets Soak instead of DV.
-
-**Upgrade**: At Essence 4, this charm adds +3 dice to Accuracy.
-
-### Flying Anchor
-
-**Cost:** 3m  
-**Type:** Supplemental  
-**Mins:** Archery 3
-
-On Hit, the target becomes pinned, unable to move from their location
-for one Round.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -115,17 +120,21 @@ Athletics
 
 The Exalt may perform athletics of balance such as running across things
 too narrow or weak to normally support the Exalt. Examples include
-awnings, precarious poles, and even laundry lines.
+awnings, precarious poles, and thin wires.
 
 ### Soaring Leap
 
-**Cost:** 3m  
+**Cost:** 2m  
 **Type:** Reflexive  
 **Mins:** Athletics 2
 
 The Exalt increases their leaping distance, allowing them to cross
-chasms and scale buildings. They may effortlessly leap 6 meters in one
-bound, and do not take fall damage from such leaps.
+chasms and scale buildings. They may effortlessly leap a single story in
+one bound, and may continue to vault upwards if there is some surface
+firm enough for their force.
+
+In addition, Exalts do not take fall damage from such leaps, nor from
+descending from all but the tallest of buildings.
 
 ### Lightning Speed
 
@@ -137,8 +146,7 @@ The Exalt may double their running speed for a specific task, blazing
 off with great abandon. For races and tests of speed, the Exalt may add
 (Essence) successes to their roll.
 
-In combat, this may supplement a Move Action, letting the character Dash
-with no Impulse cost.
+In combat, the character can Dash without Impulse cost or DV penalty.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -151,6 +159,8 @@ with no Impulse cost.
 The Exalt may run up walls, cross liquids, and even run across the
 underside of horizontal surfaces, such as bridges or roofs, so long as
 they continue to run.
+
+### 
 
 Awareness
 ---------
@@ -227,7 +237,7 @@ Brawl
 **Type:** Supplemental  
 **Mins**: Brawl 1
 
-On Hit, remove (Essence) Impulse from the target(s).
+On Hit, remove 2 + (Essence) Impulse from the target.
 
 ### Sledgehammer Strike
 
@@ -235,10 +245,30 @@ On Hit, remove (Essence) Impulse from the target(s).
 **Type:** Supplemental  
 **Mins**: Brawl 2
 
-On Feats of Strength, add 2x(Essence) dice.
+On Feats of Strength, such as breaking through walls or destroying
+scenery, add (Essence)x2 dice.
 
 Decisive Strikes against animate beings (such as Earth elementals and
 golems), add (Essence) dice to Accuracy.
+
+### Force-Delivering Blow
+
+**Cost:** 2m  
+**Type:** Supplemental  
+**Mins**: Brawl 2
+
+On a successful (Strength + Brawl) vs. DV Maneuver or Decisive Brawl
+Attack, knock the target back one range band.
+
+### Foe-Toppling Maneuver
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins**: Brawl 3
+
+On a successful (Strength + Brawl) vs. DV Maneuver or Decisive Brawl
+Attack, destabilize their movements and footing, causing them to be
+stunned and remove 4 Dice from the next action.
 
 <div class="greater_charm">Greater Charms </div>
 
@@ -273,6 +303,16 @@ as the crafter’s work, and not a forgery.
 
 (If this current object they are studying is in fact a forgery, the
 difficulty to recognize this fact is lowered by 1).
+
+### Crack-Mending Eye
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Craft 3
+
+Projects to Repair crafted materials, Manses, Artifacts, and other such
+physical goods are now 1 scale easier. I.e. Minor repairs are -3 Scale,
+Major -2, and Monumental -1 Scale of their base Project cost.
 
 ### Mark of the Maker
 

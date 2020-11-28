@@ -22,7 +22,7 @@ Global Charms
 
 With perfect control, the Solar lets loose a ranged attack that follows
 a perfect arc, angle, or even a series of ricochets to reach its target,
-diminishing the target’s Cover advantage by one level.
+diminishing the target’s Cover by one level.
 
 Archery
 -------
@@ -34,7 +34,7 @@ Archery
 **Mins**: Archery 3
 
 The Solar infuses their arrow with their golden anima and lets it loose
-in a perfect arch, streaming with concentratedSoulfire. Spirits such as
+in a perfect arch, streaming with concentrated Soulfire. Spirits such as
 ghosts, elementals, and gods can be piereced by these arrows—negating
 their (Immaterial) defense.
 
@@ -167,7 +167,17 @@ Type:** Permanent
 All of The Solar’s movement is doubled--rolls depending on speed add an
 additional (Athletics) dice. Leaps and bounds are also doubled.
 
-In combat, they may Dash at no Impulse cost.
+In combat, Dashes may be taken at no penalty.
+
+### One Extra Step
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Athletics 5
+
+Once per Scene, the Exalt will find and reach a Position or Target in
+the current Scene by the next Action, so long as a possible path exists.
+This may be repeated in the Scene by spending a Strife Point.
 
 ### Eagle-Wing Style
 

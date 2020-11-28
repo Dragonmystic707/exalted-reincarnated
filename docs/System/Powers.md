@@ -252,49 +252,6 @@ This charm has ended up being pretty powerful, but that was its
 intention. However, this does mean that I should put its Mote and
 Impulse cost up at a higher level than normal.
 
-### Judging Costs
-
-#### Damage/Accuracy
-
-+1 Base Damage is roughly equivalent to +2 Dice Accuracy. To make things
-easier on us, I will frame things primarily in +X Damage.
-
-#### Standard Attacks
-
-The Base Ability *Push the Attack* pins +1 dmg per 2 Impulse. With the
-Recovery Ability, an Impulse is worth 2 Peripheral Motes. This means
-that pricing the mote cost for +1 dmg should never be at or more than 4
-Motes, or 2 Impulse--it would be a worthless charm. The following
-pricing is suggested:
-
-1.  1 Impulse for +1Dmg/+2Dice
-
-2.  2 Motes for +1Dmg/+2Dice.
-
-3.  3 Motes for (+Essence Dice)
-
-4.  4 Motes for (+Essence Damage), 1 impulse
-
-#### Flurry Attacks
-
-The total amount of damage should be considerably lower for Flurry
-attacks--which are typically about clearing Lesser Foes from the
-battlefield. Since this attack hits multiple targets, the Mote and
-Impulse cost should double from a Standard Attack. As well, the total
-amount granted should be capped, typically at (Essence).
-
--   **Cost:** 2 Impulse for +1Dmg/+2Dice
-
--   **Cost:** 4 Motes for +1Dmg/+2Dice
-
-#### Unsoakable/Undodgeable
-
-Remember, **an attack must have a counter**. Typically this means it
-cannot *both* be unsoakable *and* undodgeable. These effects should
-typically be around Essence 3, and no earlier than Essence 2.
-
-These effects must *always* have an Impulse cost.
-
 ### Iterate/Edit
 
 I have lied a bit to you with this Example: I have given the impression
@@ -367,3 +324,16 @@ actual numbers again, and then potentially undo their memorization.
 **Only use a Dice Trick if it is necessary**. A sparing number of these
 effects here and there--perhaps restricted by a conditional--is fine.
 But if too many of them appear, it will slow down play considerably!
+
+Judging Costs
+-------------
+
+-   Lesser Charms should have mins from 1-3 (maybe 4)
+
+-   Greater Charms should have Mins from 3-4 (maybe 5)
+
+-   Effects in the Maneuver Stunts table should be 2m at base. If you
+    improve them, no more than 5m.
+
+-   Targetting Evasion/Soak is 3m, 1i. Targetting a non-standard defense
+    is 4m, 2i.

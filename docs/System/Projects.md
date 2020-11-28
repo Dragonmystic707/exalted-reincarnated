@@ -243,18 +243,27 @@ You must have a base score in the related Ability to start a Project.
 <td></td>
 </tr>
 <tr class="even">
-<td>Base Cost</td>
-<td><p>Obstruction</p>
-<p>Rolls</p></td>
-<td>Required Ability Score</td>
 <td><blockquote>
-<p>Merit Rating</p>
+<p>Scale</p>
+</blockquote></td>
+<td><blockquote>
+<p><strong>Resource</strong> Cost</p>
+</blockquote></td>
+<td><blockquote>
+<p>Obstruction</p>
+<p>Rolls</p>
+</blockquote></td>
+<td><blockquote>
+<p>Required Ability Score</p>
 </blockquote></td>
 <td><blockquote>
 <p>Affects Population</p>
 </blockquote></td>
 </tr>
 <tr class="odd">
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
 <td><blockquote>
 <p>1</p>
 </blockquote></td>
@@ -265,18 +274,15 @@ You must have a base score in the related Ability to start a Project.
 <p>1</p>
 </blockquote></td>
 <td><blockquote>
-<p>-</p>
-</blockquote></td>
-<td><blockquote>
 <p>Hamlet</p>
 </blockquote></td>
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>2</p>
+<p>1</p>
 </blockquote></td>
 <td><blockquote>
-<p>1</p>
+<p>2</p>
 </blockquote></td>
 <td><blockquote>
 <p>1</p>
@@ -290,13 +296,13 @@ You must have a base score in the related Ability to start a Project.
 </tr>
 <tr class="odd">
 <td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
 <p>5</p>
 </blockquote></td>
 <td><blockquote>
 <p>1</p>
-</blockquote></td>
-<td><blockquote>
-<p>2</p>
 </blockquote></td>
 <td><blockquote>
 <p>2</p>
@@ -307,13 +313,13 @@ You must have a base score in the related Ability to start a Project.
 </tr>
 <tr class="even">
 <td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
 <p>10</p>
 </blockquote></td>
 <td><blockquote>
 <p>2</p>
-</blockquote></td>
-<td><blockquote>
-<p>3</p>
 </blockquote></td>
 <td><blockquote>
 <p>3</p>
@@ -324,13 +330,13 @@ You must have a base score in the related Ability to start a Project.
 </tr>
 <tr class="odd">
 <td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
 <p>20 (1Key)</p>
 </blockquote></td>
 <td><blockquote>
 <p>2</p>
-</blockquote></td>
-<td><blockquote>
-<p>4</p>
 </blockquote></td>
 <td><blockquote>
 <p>4</p>
@@ -341,13 +347,13 @@ You must have a base score in the related Ability to start a Project.
 </tr>
 <tr class="even">
 <td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
 <p>50 (2Key)</p>
 </blockquote></td>
 <td><blockquote>
 <p>3</p>
-</blockquote></td>
-<td><blockquote>
-<p>5</p>
 </blockquote></td>
 <td><blockquote>
 <p>5</p>
@@ -359,11 +365,53 @@ You must have a base score in the related Ability to start a Project.
 </tbody>
 </table>
 
-**Opposing Modifiers**
+### Repairing or Altering Projects
+
+Some Projects focus on altering an existing aspect of the world—such as
+repairing a great Manse or taking an existing network of people and
+converting them to work for you.
+
+Since much of the work has been done already, these types of Projects
+will be *reduced in scale*, depending on the severity of the repairs or
+changes needed to be made.
+
+-   **Minor** (-2 to Scale). The repairs and/or changes needed to be
+    made are significant enough to warrent attention, but will not
+    consume the Character endlessly.
+
+-   **Major** (-1 to Scale). There is significant damage or resitance to
+    your changes.
+
+-   **Monumental** (-0 to Scale). It would be the same amount of effort
+    to repair and or alter the Project as it would be to create a new
+    one from the ground up.
+
+This cannot decrease the Scale below 0.
+
+There’s a Size 3 Assassin network the Eclipse Caste has recently become
+the leader of. Being a pacifist, he wants them to stop killing and
+convert into simply a network of Spys. There is enough internal
+resistance to this command that he must make a Minor Alteration Project
+(*Base 3, -2) and so it becomes a Scale 1 Project.*
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Altering Existing Projects</strong></p>
+<p>You can’t alter a Project if someone else <em>currently</em> owns it. You would first have to depose the current leader of a Spy Network and <em>then</em> take over the leaderless network as your own.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Opposing Modifiers
 
 When making a change on the world, sometimes the world pushes back.
-Modifiers will increase the Base Project Resource cost of the Project.
-(But not change the Keystone cost or the number of Obstruction Rolls)
+Modifiers will multiply the Resource cost of the Project.
+
+Opposition Modifiers are typically *active*
+
+If there are any Powers or effects that modifies the Resource cost,
+first resolve those and *then* apply this multiplier.
 
 **x2 - Significant**
 
@@ -386,6 +434,8 @@ Modifiers will increase the Base Project Resource cost of the Project.
 
 -   Opposed by powerful forces, such as the Deep Wyld, Gods, or a
     High-Level Exalted.
+
+### 
 
 Example Projects:
 

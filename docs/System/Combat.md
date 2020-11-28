@@ -569,6 +569,22 @@ Battlemaps and Absolute Positioning</strong></p>
 </tbody>
 </table>
 
+Lesser Foes
+-----------
+
+Lesser Foes are those that are below the power level of the main players
+on the field.
+
+Instead of attacking or defending, they will do special maneuvers to
+slow down or harass combatants, *or* they will do Maneuvers to grant
+their Greater Foe Ally Impulse.
+
+Lesser Foes tend to group up into packs. “Individual targets” for this
+purpose of Charms, Flurries, etc. refer to the group size magnitude, not
+individuals numbers.
+
+&lt;&lt;TODO&gt;&gt;
+
 Environmental Effects
 ---------------------
 
@@ -603,27 +619,27 @@ Environmental Effects
 <td>Cannot move across</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
+<td>&lt;Reserved&gt;</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td>&lt;Reserved&gt;</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td>&lt;Reserved&gt;</td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>&lt;Reserved&gt;</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>&lt;Reserved&gt;</td>
 <td></td>
 <td></td>
 </tr>
