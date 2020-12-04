@@ -298,10 +298,27 @@ granting up to (Essence) x2 bonus.
 Craft
 -----
 
+### Spiritual Armaments
+
+**Cost:** 6m  
+**Type:** Simple; (Essence) Days  
+**Mins:** Craft 2
+
+By reaching deep into their psyche, the Solar can manifest a
+fully-formed armament of their choice into the world—a coelesced form of
+their Anima. This is treated as an Artifact of level 2. Only one such
+armament may be active at a time.
+
+The Solar may also awaken a spiritual armament in Mortals who have a
+particular drive or Intimacy.
+
+The Solar may use a Project to make an Armament (either thiers or of a
+Mortals) permanent.
+
 ### Chaos-Resistance Preparation
 
 **Cost:** 8m  
-**Type:** Primary; (Essence) Weeks  
+**Type:** Simple; (Essence) Weeks  
 **Mins:** Craft 4
 
 Reinforce an object no larger than (Essence) meters in its largest
@@ -310,3 +327,21 @@ dimension.
 For (Essence) Weeks, that object, and anything inside of it, become
 resistant to the chaotic effects of the Wyld, gaining (Essence)
 difficulty to warp it.
+
+### 
+
+<div class="greater_charm">Greater Charms</div>
+
+### Marvellous Machinery
+
+**Cost:** 8m  
+**Type:** Simple; Scene  
+**Mins:** Craft 4
+
+The Solar imbues a statue, complex machinery, or even inert ancient
+aorking with their very Essence—so long as it is not owned. For the
+Scene the Solar may control this imbued object as though it were an
+extension of their body.
+
+Deception
+---------

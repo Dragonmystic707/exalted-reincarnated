@@ -145,8 +145,6 @@ Steps
 
 8.  Gain **3 Lesser Powers,** each in an Ability that is **Favored.**
 
-9.  Spend **30 xp** as desired.
-
 <table>
 <tbody>
 <tr class="odd">
@@ -164,7 +162,9 @@ Steps
 </tbody>
 </table>
 
-1.  Specify any relevant **Equipment** the character carries, such as
+1.  Spend **30 xp** as desired.
+
+2.  Specify any relevant **Equipment** the character carries, such as
     [A](weapons-and-armor)[rmor
     and](/System/Combat/#armor-and-weapons)
     [Weapons.](weapons-and-armor)  
@@ -174,7 +174,16 @@ Steps
     it is reasonable for them to have an item, they are considered to be
     carrying it.
 
-2.  **General Static Values**  
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Rounding<br />
+</strong>Always round up to the nearest whole number.</td>
+</tr>
+</tbody>
+</table>
+
+1.  **General Static Values**  
     Record the following calculated static values
 
     -   **Personal Motes**  
@@ -189,16 +198,7 @@ Steps
     -   **Resolve**  
         (Will + Integrity)/2
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Rounding</strong></p>
-<p>Always round up to the nearest whole number.</p></td>
-</tr>
-</tbody>
-</table>
-
-1.  **Combat Static Values**  
+2.  **Combat Static Values**  
     Assign the static values used (most commonly) during a Combat Scene.
 
     -   **Endurance**  

@@ -175,13 +175,6 @@ the scene—be it to test the stance of their enemies, analyze the
 battlefield for strategic advantage, or to intimidate your foes through
 physical prowess.
 
-Maneuvers also include a type of Attacks—but ones that are focused more
-on putting your foe on edge, rather than dealing a killing blow. These
-Manuever Attacks that hit (a roll above the DV), would only deal
-superficial harm to the player: a cut on a cheek to dishearten and
-surprise, a blow to the chest to knock back down. Ultimate, the target’s
-Endurance pool is not harmed.
-
 The Player describes any action that would grant them tactical
 advantage, and then rolls the \[Att + Abi\] dice pool. The Number of
 Successes rolled is then gained as Impulse.
@@ -191,50 +184,34 @@ be leaping across narrow banisters, dancing steel in testing feints, and
 channelling their inner might during combat. Nearly any action, if
 described well enough, can grant Impulse.
 
+### Attack Maneuvers
+
+Maneuvers also include a type of Attacks—but ones that are focused more
+on putting your foe on edge, rather than dealing a killing blow. These
+Manuever Attacks that hit (a roll above the DV), would only deal
+superficial harm to the player: a cut on a cheek to dishearten and
+surprise, a blow to the chest to knock back down.
+
+Attack Maneuvers do not deal direct damage to any normal foe on the
+battlefield.
+
+### Attacking Lesser Foes
+
+However, Attack Maneuvers *can* directly harm [Lesser
+Foes](/System/Combat/#lesser-foes). Damage is the number of Successes from the
+Maneuver, minus the DV of the Lesser Foe(s) targetted. The Player still
+receives full Impulse from the Maneuver.
+
+-   **Lesser Foe Damage:** (Maneuver Roll) - DV
+
 ### Stunting Maneuvers
 
 Stunts in a combat Maneuver not only grant +2 dice, they let the Player
 choose an effect their Maneuver has on the battlefield (in addition to
 gaining Impulse.)
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Maneuvers and Free Actions</strong></p>
-<p>Free Actions can be encorporated into a Maneuver. Vaulting across the battlefield to get closer to the target is a perfectly valid Maneuver.</p>
-<p>In these cases the Free Action is <em>combined</em> with the Maneuver, and still follows the same restrictions—namely that another Free Action of the same type cannot be made on the turn.</p></td>
-</tr>
-</tbody>
-</table>
-
 These Stunt Maneuvers must make sense in the context of the action, and
 must exceed the difficulty of the action with the roll to take effect.
-
-As a reminder: Stunts are special, interesting descriptions of a
-character’s action. By their very nature, *Stunt Effects cannot be
-repeated over and over—*they would cease to be a Stunt.
-
-The Stunt Effects should be treated as examples, not an exhausted list.
-
-*The Night Caste crashes through the window, barrelling into the Ogre,
-forcing it to stumble back from the blow.*
-
-Here, the Player is stunting a \[Dexterity + Athletics\] Maneuver with a
-Knockback effect. They have 10 dice, (+2 from the stunt), and roll 5
-Successes.
-
-They immediately gain 5 Impulse for their Maneuver, regardless. Then,
-(since this is a Knockback), they compare their 5 Successes against the
-Ogre’s DV (4). The Ogre is knocked back as desired.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Antagonists and Stunt Effects</strong></p>
-<p>Important Non-Player Characters may attempt Stunt Effects, though the Storyteller should be judicious about their use.</p></td>
-</tr>
-</tbody>
-</table>
 
 <table>
 <tbody>
@@ -353,6 +330,32 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 <table>
 <tbody>
 <tr class="odd">
+<td><p><strong>Antagonists and Stunt Effects</strong></p>
+<p>Important Non-Player Characters may attempt Stunt Effects, though the Storyteller should be judicious about their use.</p></td>
+</tr>
+</tbody>
+</table>
+
+As a reminder: Stunts are special, interesting descriptions of a
+character’s action. By their very nature, *Stunt Effects cannot be
+repeated over and over—*they would cease to be a Stunt.
+
+The Stunt Effects should be treated as examples, not an exhausted list.
+
+*The Night Caste crashes through the window, barrelling into the Ogre,
+forcing it to stumble back from the blow.*
+
+Here, the Player is stunting a \[Dexterity + Athletics\] Maneuver with a
+Knockback effect. They have 10 dice, (+2 from the stunt), and roll 5
+Successes.
+
+They immediately gain 5 Impulse for their Maneuver, regardless. Then,
+(since this is a Knockback), they compare their 5 Successes against the
+Ogre’s DV (4). The Ogre is knocked back as desired.
+
+<table>
+<tbody>
+<tr class="odd">
 <td><p><strong>Charms, Stunts and Maneuvers</strong></p>
 <p>There are some Charms that have the same effects as Maneuver Stunts. If a character chooses the same stunt effect as a charm, the effect can be doubled—whether it be in magnitude of the effect, duration, or other methodology.</p></td>
 </tr>
@@ -372,20 +375,27 @@ Accuracy Roll.
 Roll the **Accuracy** dice pool against the target’s DV. If the roll
 fails, the attack misses and you lose 2 Impulse.
 
+-   **Accuracy Pool:** (Attribute + Ability + Weapon Mod)
+
+-   **Hit:** (Accuracy Roll) &gt;= Target DV.
+
+-   **Acc. Threshold Successes**: (Accuracy Roll) – (Target DV)
+
 On a success, take the Threshold Successes from the Accuracy Roll and
 *all* the Impulse they currently have to form a Damage Dice Pool. The
 number of successes from this Damage Pool, plus any Base Damage the
 Exalt has, is how much Endurance the target loses.
 
-**Damage Pool:** (Impulse + Threshold Success)  
-**Damage Dealt:** \# Successes Rolled + Base Damage
+-   **Damage Pool:** (Impulse + Acc. Threshold Successes)
+
+-   **Damage Dealt:** (Damage Roll) + Base Damage
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>Dice Adders and Damage Pool</strong></p>
 <p>Unless a Power or mechanic specifically states otherwise, they do not adjust or change a Damage Pool.</p>
-<p>Drawbacks <em>may</em> be taken on a Damage Roll.</p></td>
+<p>Drawbacks <em>may explicitly</em> be taken on a Damage Roll.</p></td>
 </tr>
 </tbody>
 </table>
@@ -438,13 +448,23 @@ during combat without specific Powers. Any reinforcements to the scene
 will spend one Round in the Extreme Range Band before moving into the
 conflict.
 
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Maneuvers and Free Actions</strong></p>
+<p>Free Actions (namely Movement) can be encorporated into a Maneuver. Vaulting across the battlefield to get closer to the target is a perfectly valid Maneuver.</p>
+<p>In these cases the Free Action is <em>combined</em> with the Maneuver, and still follows the same restrictions—namely that another Free Action of the same type cannot be made on the turn.</p></td>
+</tr>
+</tbody>
+</table>
+
 ### Attack Ranges
 
 **Close Range** action, such as those made with Melee or Brawl, may only
 be made while in Melee/Close Range.
 
-**Ranged** Decisive Strikes—namely those made with Archery and
-Thrown—may be made against all targets within Short, or Medium range.
+**Ranged** Decisive Strikes, namely those made with Archery and Thrown,
+may be made against all targets at Short or Medium range.
 
 Ranged Strikes *may* be made against targets within Melee range, but
 suffer (-2) successes to their Accuracy roll—as though the target had
@@ -610,8 +630,8 @@ Environmental Effects
 </tr>
 <tr class="odd">
 <td>Damaging</td>
-<td>Any who end their turn in the area lose 3 Endurance</td>
-<td>Any who end their turn in the area or pass through it lose 6 Endurance.</td>
+<td>Any who end their turn in the area lose 2 Endurance</td>
+<td>Any who end their turn in the area or pass through it lose 4 Endurance.</td>
 </tr>
 <tr class="even">
 <td>Impassable</td>
@@ -890,7 +910,7 @@ Artifacts combat equipement can get one of the following:
 
 -   +1 Soak or Evasion (no more than +2 total)
 
--   +2 Accuracy (no more than +4 total)
+-   +1 Accuracy (no more than +4 total)
 
 -   +1 Damage.
 

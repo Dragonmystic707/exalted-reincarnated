@@ -59,7 +59,16 @@ Archery
 After the Initiative Order has been decided but before the first Action,
 the Archer may make an immediate Maneuver.
 
-### Forceful Arrow 
+### Aimed Shot
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Archery 1
+
+The Archer holds their shot still, increasing their Accuracy by
+(Essence) Dice.
+
+### Forceful Arrows 
 
 **Cost:** 2m  
 **Type:** Supplemental  
@@ -284,8 +293,19 @@ Craft
 The Exalt may reinforce an object --no more than (Essence) meters in its
 largest dimension--and make it nigh unbreakable.
 
-The object is not considered “mundane,” and increases the difficulty to
-break or otherwise destroy it by (Essence).
+While reinforced, the object is no longer considered “mundane,” and
+increases the difficulty to break or otherwise destroy it by (Essence).
+
+### Deftly Applied Tools 
+
+**Cost:** 5m  
+**Type:** Supplemental  
+**Mins:** Craft 3
+
+All things, with the proper study and analysis, may be approached
+without the need for brute force. During Feats of Strength, such as
+lifting, carrying, or destroying crafted materials, they may use
+(Cunning + Craft) roll instead, gaining (Essence) immediate successes.
 
 ### Discerning Craftsmanship
 
@@ -301,8 +321,8 @@ to mimic the style of the original artist. They also may use (Insight +
 Craft), with a +2 dice advantage to study other objects to recognize it
 as the crafter’s work, and not a forgery.
 
-(If this current object they are studying is in fact a forgery, the
-difficulty to recognize this fact is lowered by 1).
+If this current object they are studying is in *fact* a forgery, the
+difficulty to recognize this fact is lowered by 1.
 
 ### Crack-Mending Eye
 
@@ -310,21 +330,21 @@ difficulty to recognize this fact is lowered by 1).
 **Type:** Permanent  
 **Mins:** Craft 3
 
-Projects to Repair crafted materials, Manses, Artifacts, and other such
-physical goods are now 1 scale easier. I.e. Minor repairs are -3 Scale,
-Major -2, and Monumental -1 against their base Project cost.
-
-This charm may also be used in the same way for Projects that destroy or
-demolish such Crafted items.
+Projects to repair, alter, or destroy crafted materials such as Manses,
+Artifacts, and other such physical goods are now 1 scale easier. I.e.
+Minor repairs are -3 Scale, Major -2, and Monumental -1 against their
+base Project cost.
 
 ### Mark of the Maker
 
 **Cost:** 3m  
 **Type:** Simple  
-**Mins:** Craft 2
+**Mins:** Craft 3
 
 Glean immediate insight into the original purpose, material makeup, age,
-and other such information while studying an object.
+and other such information while studying a Crafted object. Often, you
+are able to glance into the very emotions of the original craftsman at
+the moment, seeing it in the handiwork of their creation.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -335,13 +355,14 @@ and other such information while studying an object.
 **Mins:** Craft 4
 
 On activation of this charm, the Exalt may immediately finish a Craft
-Project they have in the works. They must still roll the Obstruction
-Rolls. However, instead of developing an Oddity, Problem, or Major
-Problem, it will take the form of a Minor, Moderate, or Major Drawback,
-respectively.
+Project they have in the works. They may go up to 20 Res in debt to do
+so.
+
+The Obstruction roll immediately activates, and may provide additional
+complications on the scene.
 
 **Permanent Effect:** On purchasing this charm, and at the start of each
-story, the Exalt gains an additional +15 RES, which may only be used
+Story, the Exalt gains an additional +15 RES, which may only be used
 only for Craft Projects.
 
 Melee

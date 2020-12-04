@@ -67,7 +67,8 @@ of fire.
 <tbody>
 <tr class="odd">
 <td><p><strong>Ammunition</strong></p>
-<p><em>Exalted</em> does not require the Player to keep track of their character’s ammunition. It is simply assumed that the character has crafted or procured enough ammunition to perform their actions.</p></td>
+<p><em>Exalted</em> does not require the Player to keep track of their character’s ammunition. It is simply assumed that the character has crafted or procured enough ammunition to perform their actions.</p>
+<p>However, Storytellers may introduce a lack of ammunition as a <a href="#Complication|outline">Complication</a> into the story, granting the Player a Strife Point in exchange. Like all complications, the Player must accept the Strife Point for it to take effect.</p></td>
 </tr>
 </tbody>
 </table>
@@ -413,6 +414,14 @@ example, a modern setting would ask for the abilities *Firearms* and
 Abilities do not need to be exclusive from each other, nor do their
 descending Charms. It is perfectly acceptable to have two abilities that
 overlap.
+
+If the custom Ability is close to an existing one, and charms could
+reasonably be used for one Ability or the Other, the Storyteller should
+allow one purchase of the charm to be used for both abilities. For
+example: if a character decides they want to create an “Architecture”
+ability in the similar vein to the “Craft” ability, they could
+reasonably purchase craft charms once and use them both for Architecture
+and Craft.
 
 ### Example: Drive
 
