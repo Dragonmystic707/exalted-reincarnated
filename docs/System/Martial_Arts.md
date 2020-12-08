@@ -118,7 +118,7 @@ Wound.
 On Hit, the Stylist disrupts the momentum and motions of their target,
 instantly reducing the target’s Initiative by 2.
 
-Greater Techniques
+<div class="greater_charm">Greater Techniques</div>
 
 ### Countless Coils Evasion
 
@@ -169,8 +169,6 @@ from unsteady ground or being prone to attack: they may use their entire
 body in their strikes. As well, their attacks are vicious and carry with
 them the momentum, providing **+1 to Base Damage**.
 
-Lesser Techniques
-
 ### Retreating Momentum
 
 **Cost:** 2m; **Mins:** Brawl 2, Athletics 1  
@@ -206,7 +204,7 @@ Against a stunned, paralyzed, or otherwise forcefully stationary target,
 the Stylist may make frenzied, brutal strikes, increasing their Base
 Damage by +2.
 
-Greater Techniques
+<div class="greater_charm">Greater Techniques</div>
 
 ### Bone-Shattering Bite
 
@@ -229,6 +227,30 @@ Damage.
 As well, whenever the Stylist attacks a stunned, paralyzed, or otherwise
 forcefully stationary target, they may add an additional +2 damage.
 
+&lt;Dervish Dancer Style&gt;
+----------------------------
+
+**Performance, Melee  
+**Unarmored, Swords
+
+Long ago in the Great Southern Desert, voices of slaves cried out into
+the winds of the sands in anguish.
+
+Instead of carrying the voices afar as they had done so many times
+before, the Inescapable Winds themselves listened to the anguish of the
+mortals and became enraged, rushing down from the dunes in a glorious
+storm.
+
+In this moment, the truthes of the southern winds were imparted to these
+mortals, and the slaves learned to harness the deadly winds to their
+advantage.
+
+The style formed around it, hidden in a beautiful and entrancing dance,
+the grace and poise belying the strength and danger behind every move.
+With it, the Slaves struck down their cruel master, and its
+practitioners have vowed to come to all who are so oppressed,
+inescapable in its message.
+
 Glorious Dust Dancer Style
 --------------------------
 
@@ -250,7 +272,7 @@ successes when contesting pushback or knockback effects.
 **Type:** Permanent  
 **Mins:** Performance 2
 
-The Dancer gains +1 Evasion DV, and gains +(Essence)/2, rounded up,  to
+The Dancer gains +1 Evasion DV, and gains +(Essence)/2, rounded up, to
 their Initiative roll.
 
 ### Sandstorm’s Pace Evocation
@@ -259,8 +281,7 @@ their Initiative roll.
 **Type:** Supplemental  
 **Mins:** Performance 2, Melee 2
 
-The Dancer may combine a Move action with their Melee attack without
-using up their Secondary Action.
+&lt;&lt;TODO&gt;&gt;
 
 ### Rapture and Fascination Pirouette
 
@@ -328,13 +349,11 @@ The Octarine Angles of Impossibility style delves into the concepts of
 *nothing*, that which cannot exist in reality.
 
 The Stylist is able to space and compress it in a sheering manner around
-enemies, which is considered a **Ranged Light** **Weapon** (+2 Acc, +1
+enemies, which is considered a **Ranged Light** **Weapon** (+4 Acc, +0
 Dmg). This uses an Int + Lore Attack.
 
 The Stylist’s anima becomes fractured and twisted, as if seen through
 broken glass.
-
-Lesser Techniques
 
 ### Angular Time Displacement
 
@@ -384,7 +403,7 @@ fully protected as well.
 The Target gains a resistance to this effect, gaining +2 Evasion against
 the attack to avoid it for the remainder of the scene.
 
-Greater Techniques
+<div class="greater_charm">Greater Techniques</div>
 
 Magma Kraken
 ------------

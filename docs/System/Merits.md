@@ -21,35 +21,49 @@ wealth because they were born into it--and typically may only be gained
 or upgraded during character creation, or through the Projects system
 during campaign.
 
-Merits bought with XP or with Project Points cannot be removed or
-cancelled *permanently* by the Storyteller without the Player’s
-permission, and should be considered under the complete ownership of the
-Player. For example, an Ally should not suddenly turn face and become an
-antagonist without both the Player agreeing to such a turn of events.
+Almost all Merits are location or context-dependant, and so are often
+restricted based on the nature of the story campaign.
 
-Temporary restrictions to merits--such as an Ally being unable to
-help--is explicitly allowed. However, the Storyteller should always be
-judicious about such decisions.
+When you purchase Contacts, for example, you must specify wha their
+nature is, and their location. i.e. “The assassins of the Eastern
+Forests.”
 
-If a Player chooses to lose or downgrade their bought Merits through
-story means, they are awarded back whatever resources they used to buy
-or upgrade the Merit.
+Multiple merits of different locations and types can be purchased.
 
-The Storyteller may decide to award temporary Merits that are under the
-full control and whim of the Storyteller--such as a platoon of soldiers
-as a Command. If appropriate to the story, the Player may purchase
-control of said Merit at full cost of either xp or Project Points, with
-Storyteller permission.
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Merit Protection</strong></p>
+<p>Merits cannot be removed or cancelled <em>permanently</em> by the Storyteller without the Player’s permission, and should be considered under the complete ownership of the Player. For example, an Ally should not suddenly turn face and become an antagonist without both the Player agreeing to such a turn of events.</p>
+<p>Temporary restrictions to merits--such as an Ally being unable to help--is explicitly allowed. However, the Storyteller should always be judicious about such decisions.</p>
+<p>If a Player chooses to lose or downgrade their bought Merits through story means, they are awarded back whatever resources they used to buy or upgrade the Merit.</p>
+<p>The Storyteller may decide to award temporary Merits that are under the full control and whim of the Storyteller--such as a platoon of soldiers as a Command. If appropriate to the story, the Player may purchase control of said Merit at full cost of either xp or Project Points, with Storyteller permission.</p></td>
+</tr>
+</tbody>
+</table>
 
-\[\[ TODO**: Most merits are location-specific, or restrained in some
-way.** Your cult is in X location, your language is Y language. I need
-to denote this. \]\]
+### 
 
-Merits with Charges
--------------------
+&lt;&lt;TODO&gt;&gt;
 
-In addition to their base effect, Merits in this category have
-**Charges** equal to their Dot Rating.
+**Author’s Note:** Most existing meits in 3e work pretty well with
+minimal translation to Exalted Reincarnated, so translating them over
+properly has been a bit lower on my todo list. For the moment, 3e’s
+merits will be a good placeholder.
+
+Couple addendems to that:
+
+-   Mutations are overpriced, knock them down a dot or two.
+
+-   Abidextrous, Martial Artist, and Hideous don’t do anything.
+
+-   Hearthstones should just be considered an Artifact, without any need
+    for a Manse.
+
+&lt;&lt;/TODO&gt;&gt;
+
+Natural Merits
+--------------
 
 ### Backing(1-5)
 
@@ -59,38 +73,40 @@ how much organizational power the character has.
 For example, Backing 2 would either represent being the head of a local
 organization, or the leader of a local chapter of a global organization.
 
+The Character may instruct subordinates to Perform a Task without
+question, so long as it is in line with the goals and morals of the
+organization.
+
 *Disadvantage:* Higher-ranking members may call upon the Character to do
 a task and uphold duties. As well, lower members may come to the
 Character for guidance.
 
-**Additional Use*:*** The Character may instruct subordinates to Perform
-a Task without question, so long as it is in line with the goals and
-morals of the organization.
-
 ### Bond(1-5)
+
+**Special Note**: Bonded individuals must each have the Bond merit,
+though the level does not need to be the same.
 
 Your soul has been entwined with another’s, uniting your Destinies. The
 character instinctively knows if their Bond is in danger, and the
 general direction they are in.
 
-**Note**: Bonded individuals must each have the Bond merit, though the
-level does not need to be the same.
+Influence to directly harm, endanger, or otherwise disadvantage their
+Bond is treated as Unacceptable Influence. This may be used reflexively.
 
-*Disadvantage:* Their Bond may always use the Bond in place of an
-Intimacy for Social Influence.
-
-**Additional Use:** Influence to directly harm, endanger, or otherwise
-disadvantage their Bond is treated as Unacceptable Influence. This may
-be used reflexively.
+*Disadvantage:* Their Bonded may always use the Bond in place of an
+Intimacy to socially influence the character.
 
 ### Contacts (1-5)
 
 You have a network of contacts in a given location and class of society
 willing to give you information.
 
-**Additional Use:** You may *Introduce a Fact* with a charge of
-Contacts, rather than a Strife Point. The Fact must be centered on
-information your Contacts could have gathered, in place of a Speciality.
+Once per story, you may *Introduce a Fact* with information gathered by
+your Contacts without expending a Strife Point. The Fact must be
+centered on information your Contacts could have gathered, in place of a
+Speciality.
+
+&lt;&lt;TODO: Give this more
 
 ### Cult(1-5)
 
@@ -106,15 +122,11 @@ Wealth is a renewable source of money. A character with any source of
 Wealth needs not worry for basic necessities or sustenance, and may
 always purchase a place to rest.
 
-*Disadvantage:* If the extent of your Wealth is known, people may
-request charges of your Wealth.
+Targets can be paid (or bribed) to Perform a Task without needing a roll
+or any Social Influence. Some characters may refuse this offer, or even
+be offended by it.
 
-**Additional Use**: Targets can be paid (or bribed) to Perform a Task
-without needing a roll or any Social Influence. Some characters may
-refuse this offer, or even be offended by it.
-
-Standalone Merits
------------------
+&lt;&lt;TODO: Translate over more of the Resources merit&gt;&gt;
 
 ### Ally (1-5)
 
@@ -145,14 +157,13 @@ supernatural usefulness, such as a water skin inlaid with jade that
 filters and purifies all water within. Rating 2 Artifacts have **no**
 Evocations.
 
-Rating 3 Artifacts have 2-4 Evocations, with the maximum Essence
-requirement being Essence 3
+Rating 3 Artifacts have up to 3 Evocations.
 
-Rating 4 Artifacts have 3-6 Evocations, with the maximum Essence
-requirement being Essence 4
+Rating 4 Artifacts have up to 5 Evocations, and have a Greater
+Evocation.
 
-Rating 5 Artifacts have 5-10 Evocations with the maximum Essence
-requirement being Essence 5
+Rating 5 Artifacts have up to 5 Evocations, and have 2 Greater
+Evocations.
 
 ### Language (1)
 
@@ -184,14 +195,50 @@ Local Tongue and Tradespeak, the common language.
 -   **Local Tongue**: This marks the character as having the exact
     speech patterns and mannerisms as locals.
 
-### Manse (3-5)
+Supernatural Merits
+-------------------
 
-\[\[You get a manse!\]\]
+Most Supernatural Merits require *Storyteller Approval* to purchase.
 
- 
+### Endowment (3-5)
+
+Gain access to a Supernatural Ability normally outside your perview.
+This must be given as a boon from a supernatural entity that already has
+access to that Supernatural Ability.
+
+Mortal Sorcerors must take this merit.
+
+Exalted characters may grant mortals this merit as a Project. At Essence
+4 they may grant Endowment 3, and at Essence 5 they may grant Endowment
+4.
+
+Endowment grants access to a mote pool of 10 if the character does not
+have one. This mote pool may only be used for this specific Endowment.
+
+If a Mortal Exalts with this merit, and that supernatural ability is
+granted to them, they are refunded the merit costs.
+
+-   **3 –** Use of the Ability, but restricted to a speciality. For
+    example, Shapeshifting into only one creature.
+
+-   **4 –** Use of the Ability, restricted to a speciality, with the
+    ability to purchase its Charms (excluding Greater Charms).
+
+-   **5 –** Use of the Ability in its entirity and the ability to
+    purchase its Charms, (excluding Greater Charms).
+
+### Master Stylist (3)
+
+**Mortal-Only**
+
+Allows a mortal to purchase Techniques of a specific Style, (excluding
+Greater Techniques), and grants them a mote pool of 10 that may only be
+used on the styles Techniques.
+
+A Mortal may learn this merit on their own, though it is rare.
 
 Mutations
-=========
+---------
 
 \[\[Cosmetic Mutations do not cost points, but have no mechanical
 Advantage. For example, the player may decide they have a tail, but

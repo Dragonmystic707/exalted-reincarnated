@@ -259,8 +259,9 @@ must exceed the difficulty of the action with the roll to take effect.
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>Intimidate</p>
-</blockquote></td>
+<p>Distract /</p>
+</blockquote>
+<p>Intimidate</p></td>
 <td><blockquote>
 <p>Resolve</p>
 </blockquote></td>
@@ -323,15 +324,6 @@ must exceed the difficulty of the action with the roll to take effect.
 <td><blockquote>
 <p>Knock a weapon out of a hand, which cannot be reclaimed for a Round.</p>
 </blockquote></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Antagonists and Stunt Effects</strong></p>
-<p>Important Non-Player Characters may attempt Stunt Effects, though the Storyteller should be judicious about their use.</p></td>
 </tr>
 </tbody>
 </table>
@@ -635,8 +627,8 @@ Environmental Effects
 </tr>
 <tr class="even">
 <td>Impassable</td>
-<td>Must mkae a (Dex + Athletics) check vs 3 to get across.</td>
-<td>Cannot move across</td>
+<td>Must make a (Dex + Athletics) check vs 3 to get across.</td>
+<td>Cannot move across the zone.</td>
 </tr>
 <tr class="odd">
 <td>&lt;Reserved&gt;</td>
@@ -910,8 +902,8 @@ Artifacts combat equipement can get one of the following:
 
 -   +1 Soak or Evasion (no more than +2 total)
 
--   +1 Accuracy (no more than +4 total)
+-   +2 Accuracy (no more than +4 total)
 
 -   +1 Damage.
 
--   Use of non-standard Attribute.
+-   Use of non-standard Attribute or Ability

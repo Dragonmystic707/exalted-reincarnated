@@ -365,6 +365,21 @@ complications on the scene.
 Story, the Exalt gains an additional +15 RES, which may only be used
 only for Craft Projects.
 
+Deception 
+---------
+
+Integrity 
+---------
+
+Leadership 
+----------
+
+Lore 
+----
+
+Medicine 
+--------
+
 Melee
 -----
 
@@ -375,6 +390,15 @@ Melee
 **Mins:** Melee 3
 
 DV may be defined as (Dexterity + Melee)/2
+
+Navigation 
+----------
+
+Performance 
+-----------
+
+Persuasion 
+----------
 
 Physique
 --------
@@ -391,4 +415,13 @@ width.
 
 For non-mundane walls, they may add +(Essence) to this Feat of Strength.
 
-<div class="greater_charm">Greater Charms</div>
+<div class="greater_charm">Greater Charms </div>
+
+Politics 
+--------
+
+Stealth 
+-------
+
+Thrown
+------

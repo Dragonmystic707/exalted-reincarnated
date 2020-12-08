@@ -95,7 +95,7 @@ is quite a large deal!
 <td>As high as heavily-armored Mundane target can reach. This is a significant challenge and should not be thrown at players lightly.</td>
 </tr>
 <tr class="even">
-<td><strong>Note:</strong> Even defense-focused Exalts cannot reach above 5 without some sacrifices in another area.</td>
+<td><strong>Note:</strong> Even defense-focused Exalts cannot reach above 5 without assistance, and typically a tradeoff. For example, Soak armor at the expense of Evasion.</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -111,6 +111,15 @@ is quite a large deal!
 
 Quick Powers
 ------------
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Antagonists and Maneuver Stunt Effects</strong></p>
+<p>Important Non-Player Characters may attempt Stunt Effects, though the Storyteller should be judicious about their use.</p></td>
+</tr>
+</tbody>
+</table>
 
 &lt;&lt;TODO: clean up the following draft&gt;&gt;
 
