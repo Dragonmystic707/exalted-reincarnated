@@ -72,7 +72,7 @@ actions such as **Influence Intimacy** and **Perform Task**.
 
 Insight is a measure of how a character can understand others by
 observing their actions, words, and expressions. A character with high
-Insight would be able to correctly guess and understand another's
+Insight would be able to correctly guess and understand an other's
 motivation to predict their next actions. It is used for actions such as
 **Read Intentions** and **Discover Intimacy.**
 

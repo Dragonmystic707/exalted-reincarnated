@@ -14,7 +14,7 @@ Introduction
 Character Creation
 ------------------
 
-The Sideral gains access to separate aspects of reality, represented by
+The Sidereal gains access to separate aspects of reality, represented by
 the Supernatural Abilities: **Journey, Serenity, Battles, Secrets,** and
 **Endings.**
 

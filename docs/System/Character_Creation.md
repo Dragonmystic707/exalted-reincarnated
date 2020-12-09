@@ -133,7 +133,7 @@ Steps
     -   **6 dots** in *non-Favored* Abilities, with no single Ability
         raised higher than **3** during this phase.
 
-    -   Choose 3 **Specialities,** each in a seperate Favored Ability.
+    -   Choose 3 **Specialties,** each in a separate Favored Ability.
 
 6.  Choose a [**<u>Martial Arts Style</u>**](/System/Martial_Arts/#martial-arts).
     Martial Arts dictates how your character interacts during combat,
@@ -157,7 +157,7 @@ Steps
 <p><strong>3</strong> Lesser Powers (Favored)</p>
 <p><strong>1</strong> Martial Arts Form</p>
 <p><strong>15</strong> Project Resources</p>
-<p><strong>3</strong> Specialities</p></td>
+<p><strong>3</strong> Specialties</p></td>
 </tr>
 </tbody>
 </table>
@@ -211,7 +211,7 @@ Steps
         (Dexterity + Athletics)/2 + (Evasion Mod)
 
     -   **Soak**  
-        Stamina + Physique)/2 + (Soak Mod)
+        (Stamina + Physique)/2 + (Soak Mod)
 
     -   **Accuracy**  
         (Weapon Att. + Weapon Ability)/2 + (Weapon Mod)  
@@ -240,7 +240,7 @@ Steps
 <li><p>Lesser Powers: 12xp</p></li>
 <li><p>Martial Arts Form: 4xp</p></li>
 <li><p><strong>15</strong> Project Resources</p></li>
-<li><p><strong>3</strong> Specialities</p></li>
+<li><p><strong>3</strong> Specialties</p></li>
 </ul></td>
 </tr>
 </tbody>

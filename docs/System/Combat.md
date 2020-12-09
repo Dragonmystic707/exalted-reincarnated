@@ -27,7 +27,7 @@ Combat Values
 
 ### Impulse
 
-Impulse is a meaure of the current *tactical advantage* the character
+Impulse is a measure of the current *tactical advantage* the character
 has. The higher the value, the greater the control they have over the
 battlefield. Impulse is:
 
@@ -152,7 +152,7 @@ Typically this would be a contested roll against (Cunning + Stealth).
 ### Holding Action
 
 Any character may Hold their Action, or wait to act based on something
-that happens in the battlefiled. To do so, the must spend **2 Impulse**
+that happens in the battlefield. To do so, the must spend **2 Impulse**
 and describe what it is they are waiting for: they cannot arbitrarily
 wait. When the specified event happens, they get a chance to act
 *before* or *after* the event, at their discretion. Any action may be
@@ -354,6 +354,10 @@ Ogre’s DV (4). The Ogre is knocked back as desired.
 </tbody>
 </table>
 
+### Charms and Stunt Maneuvers
+
+There are Charms
+
 Decisive Strike
 ---------------
 
@@ -539,8 +543,8 @@ Partial, or Partial to None.
 
 ### Cover
 
-Cover is one of the most widly available Situational Defenses, as it can
-be ganed simply by ducking into the terrain of the scene.
+Cover is one of the most widely available Situational Defenses, as it
+can be gained simply by ducking into the terrain of the scene.
 
 Cover is considered **Partial** when at least half a character’s body is
 blocked by a material that can withstand weapon blows--such as a

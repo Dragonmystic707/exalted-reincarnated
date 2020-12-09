@@ -186,7 +186,7 @@ but require direct attention of the Exalt to resolve.
     leading to a variance in essence flow. It might lead to a new and
     unintended strange power.
 
-### Problems 
+### Problems
 
 Problems, if not dealt with, will set back the Project.
 
@@ -243,22 +243,12 @@ You must have a base score in the related Ability to start a Project.
 <td></td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>Scale</p>
-</blockquote></td>
-<td><blockquote>
-<p><strong>Resource</strong> Cost</p>
-</blockquote></td>
-<td><blockquote>
-<p>Obstruction</p>
-<p>Rolls</p>
-</blockquote></td>
-<td><blockquote>
-<p>Required Ability Score</p>
-</blockquote></td>
-<td><blockquote>
-<p>Affects Population</p>
-</blockquote></td>
+<td>Scale</td>
+<td><strong>Resource</strong> Cost</td>
+<td><p>Obstruction</p>
+<p>Rolls</p></td>
+<td>Required Ability Score</td>
+<td>Affects Population</td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -401,7 +391,7 @@ resistance to this command that he must make a Minor Alteration Project
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Altering Existing Projects</strong></p>
+<td><p><strong>Altering Owned Projects</strong></p>
 <p>You can’t alter a Project if someone else <em>currently</em> owns it. You would first have to depose the current leader of a Spy Network and <em>then</em> take over the leaderless network as your own.</p></td>
 </tr>
 </tbody>

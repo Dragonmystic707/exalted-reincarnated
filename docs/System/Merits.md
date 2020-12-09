@@ -24,7 +24,7 @@ during campaign.
 Almost all Merits are location or context-dependant, and so are often
 restricted based on the nature of the story campaign.
 
-When you purchase Contacts, for example, you must specify wha their
+When you purchase Contacts, for example, you must specify what their
 nature is, and their location. i.e. “The assassins of the Eastern
 Forests.”
 
@@ -218,13 +218,13 @@ have one. This mote pool may only be used for this specific Endowment.
 If a Mortal Exalts with this merit, and that supernatural ability is
 granted to them, they are refunded the merit costs.
 
--   **3 –** Use of the Ability, but restricted to a speciality. For
+-   **3 –** Use of the Ability, but restricted to a specialty. For
     example, Shapeshifting into only one creature.
 
 -   **4 –** Use of the Ability, restricted to a speciality, with the
     ability to purchase its Charms (excluding Greater Charms).
 
--   **5 –** Use of the Ability in its entirity and the ability to
+-   **5 –** Use of the Ability in its entirety and the ability to
     purchase its Charms, (excluding Greater Charms).
 
 ### Master Stylist (3)

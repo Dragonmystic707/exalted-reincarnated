@@ -34,7 +34,7 @@ They then start a Day-long process of reincarnation into a possibility
 of who they might have been. While they will have the same memories,
 their personality, physical appearance, and gender might all change
 
-If they are again killed during this renewal process, they will truely
+If they are again killed during this renewal process, they will truly
 die.
 
 **Caste**

@@ -73,7 +73,7 @@ not need to be actively displaying any signs of this current Desire.
 **Mins:** Cecelyne 4
 
 The Infernal leverages an Intimacy of a character, rolling (Insight +
-Cecelyne) vs the target’s Resolve. If successful, they forcee the
+Cecelyne) vs the target’s Resolve. If successful, they force the
 character to simultaneously take an equal and opposite Intimacy for the
 remainder of the scene. The target will attempt to rationalize this new
 Intimacy as best they can--if they are one who reveres the Immaculate

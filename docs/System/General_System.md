@@ -605,10 +605,10 @@ react, but the outcome is a forgone conclusion.)
 
 In other words, while Players can spend Strife to Turn the Scene in
 their *favor*, Storytellers can give Strife to Turn the Scene *against*
-the Players--not simply describe challenges or consequences of actions.
+the Players—not simply describe challenges or consequences of actions.
 
 The Storyteller gifts a Strife Point to all Players who are affected by
-this event--and this single Strife Point guarantees the *outcome* of the
+this event—and this single Strife Point guarantees the *outcome* of the
 event in the Scene, no matter how many attempts are made.
 
 **Examples:**

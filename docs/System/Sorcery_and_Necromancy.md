@@ -131,7 +131,7 @@ requiring a **Project.**
 
 -   **Third Circle** 10 RES
 
-All Spells, once unravelled, have a chance of their discarded magics
+All Spells, once unraveled, have a chance of their discarded magics
 being cast aside in wild effects. A single **Challenge Roll** should be
 performed for the unravelling to see if a side-effect occurs.
 

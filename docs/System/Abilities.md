@@ -26,20 +26,19 @@ learn, improve, and perform upon. Characters may always roll with a
 dealing with the supernatural aspects of the world. Sorcery, Necromancy,
 Shapeshifting, and control of Fire are all examples.
 
-Specialities
-------------
+Specialties
+-----------
 
 Abilities are broad fields of human accomplishment and skill. For an
 Exalt, the variance in competence across these subsets of the Ability is
 generally so small it does not affect the dice roll.
 
 However, there are a small number of smaller skills that the Exalt
-*excels* at. These are called *Specialities.*
+*excels* at. These are called *Specialties.*
 
-When Rolling in an Ability Speciality, roll with an additional dice
-(+1).
+When Rolling in an Ability Specialty, roll with an additional dice (+1).
 
-Specialities do **not** affect Static Values.
+Specialties do **not** affect Static Values.
 
 Natural Abilities
 -----------------
@@ -48,12 +47,12 @@ Natural Abilities
 
 Mastery of ranged weapons that propel projectiles. The bow and arrow is
 the dominant form, but other examples range from the mechanical
-crossbow, to slings, to even the exotic flampiece that shoots streamers
+crossbow, to slings, to even the exotic flamepiece that shoots streamers
 of fire.
 
 **Combat:** Archery attacks are Ranged.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Bow
 
@@ -81,7 +80,7 @@ of activity, both prolonged marathons and quick sprints.
 Athletics is used to calculate the Static Values **Evasion** and
 **Endurance.**
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Running
 
@@ -96,10 +95,10 @@ events through any and all of the senses. Characters with high Awareness
 are in tune-consciously or subconsciously-of everything that happens
 around them.
 
-#### Sample Specialites
+#### Sample Specialties
 
-Specialities in Awareness are location dependent, reflecting what sort
-of background the character grew up in. Those born out in the wilderness
+Specialties in Awareness are location dependent, reflecting what sort of
+background the character grew up in. Those born out in the wilderness
 would find themselves overwhelmed by the large crowds in a city, for
 example.
 
@@ -121,7 +120,7 @@ even spike-tipped boots--are still part of the Brawling Ability.
 
 **Combat:** Brawl attacks are Close Range.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Punching
 
@@ -136,7 +135,7 @@ moving parts. A crafter knows how to take even raw discard material and
 turn it into a wondrous, complicated machine intended for a variety of
 mechanical purposes, from fending off attacks to plowing a field.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Carpentry
 
@@ -150,18 +149,27 @@ mechanical purposes, from fending off attacks to plowing a field.
 
 ### Deception
 
-Deception is the art of lying, trickery, and manipulation. Its masters
-are adept at getting people to do what they want without them even
-realizing an outside influence is even there. Deception is used to
-calculate **Guile**.
+Deception is the art of trickery, manipulation, and bold-faced lying.
+Its masters are adept at getting people to do what they want without
+them even realizing an outside influence is even there. Deception is
+used to calculate **Guile**.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Forgery
 
 -   Sleight of Hand
 
 -   Conceal evidence
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Everyone can Lie</p>
+<p>Deception is the natural ability for liars to gravitate towards, but it is not <em>required</em> for lying. Every person and every ability, has the ability to misdirect and lie. Deception is just the purest expression of this.</p></td>
+</tr>
+</tbody>
+</table>
 
 ### Integrity
 
@@ -177,7 +185,7 @@ through the **Intimacy** system.
 Leadership covers the skills necessary to manage, inspire, and otherwise
 command large groups of people to act as one unified whole.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Oratory
 
@@ -195,7 +203,7 @@ exclusive.** All Abilities can attempt an (Int+Ability) roll to know
 about their particular subject. Recognizing a famous swordsman, for
 example, could both be an (Int + Melee) and (Int + Lore) roll.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Geography
 
@@ -220,7 +228,7 @@ Medicine is the diagnosis and healing of the mind, body, and soul. Those
 with high Medicine have an intense knowledge of the bone and muscle
 structure, herbal remedies, as well as precise chakras.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Alchemy
 
@@ -236,13 +244,13 @@ Mastery of close range combat that uses a weapon as their primary method
 of felling their foe.
 
 Over the millennia of human history, there have been countless styles
-and forms of weapons made. Specialities therefore are *representative*
-of how the weapon is used: A spear could be used as a Sword, Staff, or
+and forms of weapons made. Specialties therefore are *representative* of
+how the weapon is used: A spear could be used as a Sword, Staff, or
 Spear, for example.
 
 **Combat:** Melee attacks are Close Range.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Swords
 
@@ -258,7 +266,7 @@ know their hand at reigns, the stern of a ship, how to survive in a
 city’s underworld, as well as be able to tell you which wild fruit is
 poisonous or edible.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Ocean
 
@@ -276,7 +284,7 @@ but the ability to convey meaning and thoughts through those actions. A
 skilled performer not only knows how to entertain their crowd, but also
 knows how to incite that crowd into a frenzied riot should they desire.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Dance
 
@@ -286,25 +294,11 @@ knows how to incite that crowd into a frenzied riot should they desire.
 
 -   Poetry/Linguistics
 
-### Persuasion
-
-Persuasive characters know how to talk and charm people with their
-bright personality, ultimately with a goal in mind. It is used to both
-extract as well as impart information and tasks.
-
-#### Sample Specialites
-
--   Charm
-
--   Beguilement
-
--   Fast-Talking
-
 ### Physique
 
-Physique is the measure of fortitude and wellbeing, strength and
+Physique is the measure of fortitude and well-being, strength and
 hardiness: the ability to shrug off attacks, poisons, and any
-debilitations of the body. As well, it is used for tests of endurance,
+debilitation of the body. As well, it is used for tests of endurance,
 and for feats of Strength. Physique is used to calculate **Soak**, as
 well as **Endurance**.
 
@@ -322,12 +316,12 @@ Politics is the maneuvering and manipulation of groups of
 ideological-similar people. M A character skilled in Politics will be
 able to manipulate peoples according to their will.
 
-Specialities in Politics focus on either the *type* of politics at work
+Specialties in Politics focus on either the *type* of politics at work
 (Bureaucracy, Small-town), or specific political parties. Generally
 speaking, the larger and more powerful a Political Party, the more
 necessary the specialization needs to be tailor-made for them.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Bureaucracy
 
@@ -337,13 +331,30 @@ necessary the specialization needs to be tailor-made for them.
 
 -   Undercity
 
+### Socialize
+
+Socialization is a way to relate and talk with people, making them feel
+heard and personally connected to the
+
+Persuasive characters know how to talk and charm people with their
+bright personality, ultimately with a goal in mind. It is used to both
+extract as well as impart information and tasks.
+
+#### Sample Specialties
+
+-   Charm
+
+-   Beguilement
+
+-   Fast-Talking
+
 ### Stealth
 
 Stealth is the ability to avoid detection-through any sense. They know
 how to carry their body, which ways shadows cast, as well as creating
 disguises and blending into crowds.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Disguise
 
@@ -351,7 +362,7 @@ disguises and blending into crowds.
 
 -   Hiding
 
--   Pickpocketing
+-   Pick-pocketing
 
 -   Shadowing
 
@@ -362,7 +373,7 @@ the weapon is hurled at the opponent, rather than projectiles.
 
 **Combat:** Thrown attacks are Ranged.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Javelin (Spear, Atlatl, dart)
 

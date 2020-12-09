@@ -215,7 +215,7 @@ get there first. For convenience sake, these are referred to as the "the
 same" Key Issue.
 
 However, antagonists having the same Key Issue is not a
-*requirement*--they may be working on a seperate Goal for the scene, and
+*requirement*--they may be working on a separate Goal for the scene, and
 they have tangential or completely unrelated Key Issues. Typically,
 these start out as Hidden to the Party.
 
@@ -239,7 +239,7 @@ the Threshold Successes of the action are *taken away* from the opposing
 party's influence over the Key Issue.
 
 The Character is not allowed to split the effect of Influence: it is
-either fully a Gathering Actionor a Sabotage Action.
+either fully a Gathering Action or a Sabotage Action.
 
 ### Key Issue Control
 

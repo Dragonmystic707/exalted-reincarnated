@@ -58,32 +58,20 @@ is quite a large deal!
 <td></td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>1</p>
-</blockquote></td>
-<td><blockquote>
-<p>The target has the barest, weakest defenses that could exist. Missing would be an embarresment to an Exalt.</p>
-</blockquote></td>
+<td>1</td>
+<td>The target has the barest, weakest defenses that could exist. Missing would be an embarresment to an Exalt.</td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>2</p>
-</blockquote></td>
-<td><blockquote>
-<p>Typical Mortal defenses.</p>
-</blockquote></td>
+<td>2</td>
+<td>Typical Mortal defenses.</td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>3</p>
-</blockquote></td>
-<td><blockquote>
-<p>The median DV, what will often be a noticeable, but not insurmantable challenge. Most enemies should hover aound DV 3.</p>
-</blockquote></td>
+<td>3</td>
+<td>The median DV, what will often be a noticeable, but not insurmountable challenge. Most enemies should hover aound DV 3.</td>
 </tr>
 <tr class="odd">
-<td><p><strong>Note</strong>: Any Enemy with DV 4 or higher should have their Soak and Evasion tracked seperately—they will often be wearing armor to boost their DV.</p>
-<p>Only extremely powerful enemies (such as Exalts) can have both Soak and Evasion simulthigher than 3.</p></td>
+<td><p><strong>Note</strong>: Any Enemy with DV 4 or higher should have their Soak and Evasion tracked separately—they will often be wearing armor to boost their DV.</p>
+<p>Only extremely powerful enemies (such as Exalts) can have both Soak and Evasion simultaneous higher than 3.</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -95,7 +83,7 @@ is quite a large deal!
 <td>As high as heavily-armored Mundane target can reach. This is a significant challenge and should not be thrown at players lightly.</td>
 </tr>
 <tr class="even">
-<td><strong>Note:</strong> Even defense-focused Exalts cannot reach above 5 without assistance, and typically a tradeoff. For example, Soak armor at the expense of Evasion.</td>
+<td><strong>Note:</strong> Even defense-focused Exalts cannot reach above 5 without assistance, and typically a trade-off. For example, Soak armor at the expense of Evasion.</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -135,88 +123,20 @@ that signals that the character will use it. Only the most powerful of
 foes will offhand be able to use these powers, and not at the Greater
 Level.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Quick Powers</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><blockquote>
-<p>Normal</p>
-</blockquote></td>
-<td><blockquote>
-<p>Greater</p>
-</blockquote></td>
-<td><blockquote>
-<p>Description</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td>Increase Accuracy</td>
-<td>+2 Dice</td>
-<td>+4 Dice</td>
-<td>On a decisive attack, add dice to the Accuracy of the attack.</td>
-</tr>
-<tr class="even">
-<td>Raise Defenses</td>
-<td>Partial (+2DV)</td>
-<td>Full</td>
-<td>Create defenses out of nothing, typically with a weak point. For example, an Ice Golem summons a sphere of Ice surrounding them.</td>
-</tr>
-<tr class="odd">
-<td>&lt;Reserved&gt;</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>&lt;Reserved&gt;</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>&lt;Reserved&gt;</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>&lt;Reserved&gt;</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>&lt;Reserved&gt;</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>&lt;Reserved&gt;</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>&lt;Reserved&gt;</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>&lt;Reserved&gt;</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|                   |                |         |                                                                                                                                  |
+|-------------------|----------------|---------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Quick Powers**  |                |         |                                                                                                                                  |
+|                   | Normal         | Greater | Description                                                                                                                      |
+| Increase Accuracy | +2 Dice        | +4 Dice | On a decisive attack, add dice to the Accuracy of the attack.                                                                    |
+| Raise Defenses    | Partial (+2DV) | Full    | Create defenses out of nothing, typically with a weak point. For example, an Ice Golem summons a sphere of Ice surrounding them. |
+| &lt;Reserved&gt;  |                |         |                                                                                                                                  |
+| &lt;Reserved&gt;  |                |         |                                                                                                                                  |
+| &lt;Reserved&gt;  |                |         |                                                                                                                                  |
+| &lt;Reserved&gt;  |                |         |                                                                                                                                  |
+| &lt;Reserved&gt;  |                |         |                                                                                                                                  |
+| &lt;Reserved&gt;  |                |         |                                                                                                                                  |
+| &lt;Reserved&gt;  |                |         |                                                                                                                                  |
+| &lt;Reserved&gt;  |                |         |                                                                                                                                  |
 
 Spirits
 -------

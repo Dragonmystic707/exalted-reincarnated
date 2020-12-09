@@ -14,7 +14,7 @@ Introduction
 Exalted is a game where the heroes are demigods, fonts of power. That
 which mortals toil and test against fall easily against the might of the
 Exalts, and the Exalts now test their mettle against the monsters and
-problems of the world: from the chaotic fae beasts which rip at the
+problems of the world: from the chaotic Fae beasts which rip at the
 edges of the world, to the horrid effects of greed and systemic
 corruption that hides in the hearts of man.
 

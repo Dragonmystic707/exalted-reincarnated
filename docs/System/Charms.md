@@ -371,7 +371,7 @@ Deception
 Integrity 
 ---------
 
-Leadership 
+Leadership
 ----------
 
 Lore 

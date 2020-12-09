@@ -343,5 +343,31 @@ aorking with their very Essence—so long as it is not owned. For the
 Scene the Solar may control this imbued object as though it were an
 extension of their body.
 
-Deception
+Deception 
 ---------
+
+Integrity 
+---------
+
+Leadership
+----------
+
+<div class="greater_charm">Greater Charms</div>
+
+### Commanding Words
+
+**Cost:** 6m  
+**Type:** Simple  
+**Mins:** Leadership 4
+
+Drawing from their divine rule, a Solar makes a quick command, from
+which all snap to attention and must obey.
+
+The Solar targets a Mortal, or a Yu-Shan spirit of Essence less than the
+Solar. So long as they issue a simple command that may be accomplished
+by an individual or a group in the scene, the target must obey. If the
+target is some other entity, the Solar must roll Composure + Leadership
+vs. their Resolve.
+
+If the task would run counter their intimacies, or the task is
+considered unacceptable influence, this charm automatically fails.
