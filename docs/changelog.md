@@ -1,3 +1,9 @@
+2020-12-12
+==========
+- Reworked Combat subsystem.
+- Improved Website.
+- Improved Workflow/automated release.
+
 2020-10-30
 ==========
 

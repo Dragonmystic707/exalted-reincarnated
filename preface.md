@@ -2,7 +2,7 @@
 
 Codex, DeProf Gaming, Effendoor, Exthalion, Insuling,  
 Jancarius, Kaleth, Ortha, Redman808, The Red One, SkyBoundFencer,  
-Soarin1, Sponsored by Nobody, Tsurumah, and Zeus
+Soarin1, Sponsored by Nobody, Tsurumah, Wolfblade, and Zeus
 
 [<u>Development Discord Channel</u>](https://discord.gg/JxmYUSD)
 

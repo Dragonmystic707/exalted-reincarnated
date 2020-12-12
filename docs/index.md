@@ -21,19 +21,17 @@ The goal is to make a system that focuses more on Player actions, rather than sy
 
 [<u>Changelog History</u>](/changelog)
 
-**2020-10-30**
 
-Completed:
-----------
+2020-12-12
+==========
 
-Moved Exalted Reincarnated to its own site.
-- Reworked Encounters sub-system to be simpler and more robust
-- Officially Codified Sorcery and Necromancy from psuedo-rules.
+- Reworked Combat subsystem.
+- Improved Website.
+- Improved Workflow/automated release.
 
 Working On:
 -----------
 
-- Prettying up website
 - Writing Solar and Universal Charms
 
 Future Goals:

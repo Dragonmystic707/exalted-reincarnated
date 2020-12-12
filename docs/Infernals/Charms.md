@@ -20,7 +20,7 @@ Cecelyne
 **Type:** Free Action; Scene  
 **Mins:** Cecelyne 1
 
-The Infernal may make a **Influence Emotion** action without being the
+The Infernal may make an **Influence Emotion** action without being the
 source of the Influence. The target will ascribe this emotion to the
 closest thing that they can rationalize. If Panic were to be placed into
 them, they might become convinced that their ally is about to betray

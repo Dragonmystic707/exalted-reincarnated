@@ -19,7 +19,7 @@ effects. These charms are therefore Universal to all Exalts.
 While the manifestation and method of these powers will look different,
 the end result is the same. A Lunar might borrow the eyes of a falcon to
 see further, while an Air Dragonblood would create a focal lens out of
-the air--but they both would spend the same number of motes and end up
+the air—but they both would spend the same number of motes and end up
 with the same perception advantage.
 
  Global
@@ -189,8 +189,8 @@ darkness by up to (Essence) dice.
 **Type:** Reflexive  
 **Mins**: Awareness 2
 
-Reroll an Initiative Roll, taking the preferred result. This may only be
-done once.
+Re-roll an Initiative Roll, taking the preferred result. This may only
+be done once.
 
 ### Uncanny Perception Technique
 
@@ -199,7 +199,7 @@ Type:** Permanent
 **Mins:** Awareness 2
 
 The presence of dematerialized, intangible, or otherwise spectral
-creatures may be natively detected--although the precise location still
+creatures may be natively detected—although the precise location still
 remains a mystery. The creature may attempt to use Stealth to combat
 this awareness.
 
@@ -246,7 +246,8 @@ Brawl
 **Type:** Supplemental  
 **Mins**: Brawl 1
 
-On Hit, remove 2 + (Essence) Impulse from the target.
+On a Brawl Attack Maneuver higher than the target’s Soak, remove 2 +
+(Essence) Impulse from the target.
 
 ### Sledgehammer Strike
 
@@ -275,9 +276,9 @@ Attack, knock the target back one range band.
 **Type:** Supplemental  
 **Mins**: Brawl 3
 
-On a successful (Strength + Brawl) vs. DV Maneuver or Decisive Brawl
-Attack, destabilize their movements and footing, causing them to be
-stunned and remove 4 Dice from the next action.
+On a successful Decisive Brawl Attack, or a Brawl Attack Maneuver that
+exceeds the target’s DV, destabilize their movements and footing causing
+them to be stunned and remove 4 Dice from the next action.
 
 <div class="greater_charm">Greater Charms </div>
 
@@ -290,8 +291,8 @@ Craft
 **Type:** Simple; Scene  
 **Mins:** Craft 1
 
-The Exalt may reinforce an object --no more than (Essence) meters in its
-largest dimension--and make it nigh unbreakable.
+The Exalt may reinforce an object—no more than (Essence) meters in its
+largest dimension—and make it nigh unbreakable.
 
 While reinforced, the object is no longer considered “mundane,” and
 increases the difficulty to break or otherwise destroy it by (Essence).
@@ -331,7 +332,7 @@ difficulty to recognize this fact is lowered by 1.
 **Mins:** Craft 3
 
 Projects to repair, alter, or destroy crafted materials such as Manses,
-Artifacts, and other such physical goods are now 1 scale easier. I.e.
+Artifacts, and other such physical goods are now 1 scale easier. i.e.
 Minor repairs are -3 Scale, Major -2, and Monumental -1 against their
 base Project cost.
 
@@ -365,8 +366,45 @@ complications on the scene.
 Story, the Exalt gains an additional +15 RES, which may only be used
 only for Craft Projects.
 
-Deception 
+Deception
 ---------
+
+### Mimicry of Form
+
+**Cost:** 3m  
+**Type:** Simple; Week  
+**Mins:** Deception 1
+
+After studying a mannerism of a target for a short time, such as
+handwriting, voice, or even walking pattern, the Exalt may replicate it
+as needed for a week, gaining (Essence) additional dice to do so.
+
+### Words within Words
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Deception 2
+
+By speaking with specific phrases, deliberate pauses, and coded words,
+you may convey a message or socially influence a single target in a
+group.
+
+Those attentively listening may roll an (Insight + Awareness) roll
+against your Guile to notice that a coded message has been spoken. Like
+all defenses, you may deliberately choose to fail.
+
+### False Pursuit
+
+**Cost:** 4m  
+**Type:** Simple; Scene  
+**Mins:** Deception 3
+
+On a successful (Charisma + Deception) roll against the Guile of a
+target, they become convinced that an ultimately benign or small point
+of the Scene holds great value to their current goal. For example, they
+may be convinced that the blades used murder are made of a special
+composition, which is a keystone to their case, despite the blades being
+only slightly out of normal make.
 
 Integrity 
 ---------
@@ -397,8 +435,7 @@ Navigation
 Performance 
 -----------
 
-Persuasion 
-----------
+ 
 
 Physique
 --------
@@ -419,6 +456,9 @@ For non-mundane walls, they may add +(Essence) to this Feat of Strength.
 
 Politics 
 --------
+
+Socialize 
+---------
 
 Stealth 
 -------

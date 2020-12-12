@@ -14,7 +14,7 @@ Charms
 Global Charms
 -------------
 
-### Inescapable Judgement
+### Inescapable Judgment
 
 **Cost:** 2m  
 **Type:** Supplemental  
@@ -35,7 +35,7 @@ Archery
 
 The Solar infuses their arrow with their golden anima and lets it loose
 in a perfect arch, streaming with concentrated Soulfire. Spirits such as
-ghosts, elementals, and gods can be piereced by these arrows—negating
+ghosts, elementals, and gods can be pierced by these arrows—negating
 their (Immaterial) defense.
 
 Creatures of Darkness suffer an additional (+Essence) damage from this
@@ -71,7 +71,7 @@ within Short Range of the last.
 
 <div class="greater_charm">Greater Charms</div>
 
-### The Mark of Judgement
+### The Mark of Judgment
 
 **Cost:** 8m, 3i  
 **Type:** Simple; Scene  
@@ -93,7 +93,7 @@ nor automatic success.
 **Mins**: Archery 5
 
 The Solar focuses all their Wrath into a single shot, and selects a
-target location--such as where a person is standing. They then launch a
+target location—such as where a person is standing. They then launch a
 streaming arrow of light into the air.
 
 At the start of the next Round, the arrow crashes down at the targeted
@@ -221,7 +221,7 @@ normal distance--they can clearly hear or see across a field.
 **Type:** Reflexive  
 **Mins:** Awareness 4
 
-Reroll an Awareness Roll, taking the preferred result. This may only be
+Re-roll an Awareness Roll, taking the preferred result. This may only be
 done once.
 
 ### Living Pulse Perception
@@ -269,7 +269,7 @@ On a Brawl Maneuver or Attack that hits, the target(s) are thrown back
 or down one range band of the Brawler’s choice.
 
 If they impact a wall or other solid surface, deal 2 damage to the
-target--potentially shattering the impacted surface.
+target—potentially shattering the impacted surface.
 
 Throwing creatures of a size class or above the character does not deal
 the extra damage, but still may shatter the surface.
@@ -298,6 +298,21 @@ granting up to (Essence) x2 bonus.
 Craft
 -----
 
+### Impurity-Hammering Blow
+
+**Cost:** 5m  
+**Type:** Simple  
+**Mins:** Craft 1
+
+By infusing their methods with their own burning anima, the Solar can
+quickly purify any mundane, raw material into pure versions of its type.
+
+The Solar may not convert more than their own body weight in a single
+day.
+
+On gaining Resources in the form of raw, impure materials, the Solar may
+gain double its Resource value.
+
 ### Spiritual Armaments
 
 **Cost:** 6m  
@@ -305,14 +320,14 @@ Craft
 **Mins:** Craft 2
 
 By reaching deep into their psyche, the Solar can manifest a
-fully-formed armament of their choice into the world—a coelesced form of
+fully-formed armament of their choice into the world—a coalesced form of
 their Anima. This is treated as an Artifact of level 2. Only one such
 armament may be active at a time.
 
 The Solar may also awaken a spiritual armament in Mortals who have a
 particular drive or Intimacy.
 
-The Solar may use a Project to make an Armament (either thiers or of a
+The Solar may use a Project to make an Armament (either theirs or of a
 Mortals) permanent.
 
 ### Chaos-Resistance Preparation
@@ -332,19 +347,37 @@ difficulty to warp it.
 
 <div class="greater_charm">Greater Charms</div>
 
-### Marvellous Machinery
+### Marvelous Machinery
 
 **Cost:** 8m  
 **Type:** Simple; Scene  
 **Mins:** Craft 4
 
 The Solar imbues a statue, complex machinery, or even inert ancient
-aorking with their very Essence—so long as it is not owned. For the
+working with their very Essence—so long as it is not owned. For the
 Scene the Solar may control this imbued object as though it were an
 extension of their body.
 
-Deception 
+Deception
 ---------
+
+### Spurious Ownership
+
+**Cost:** 4m  
+**Type:** Simple; Scene  
+**Mins:** Deception 1
+
+With the force of certainty and their unconsciously regal presence,
+whatever the Solar speaks claims ownership of is instinctively believed.
+
+On a successful Deception Roll above the target’s Guile, the target will
+believe that a claimed object, structure, or even specific idea belongs
+to the Solar for the remainder of the scene. This belief may remain
+unless directly challenged.
+
+If they have knowledge or direct evidence to the contrary, they instead
+gain a temporary Intimacy of doubt towards their own known evidence, but
+remain convinced of its true ownership.
 
 Integrity 
 ---------

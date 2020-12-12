@@ -143,9 +143,9 @@ mechanical purposes, from fending off attacks to plowing a field.
 
 -   Blacksmithing
 
--   Stoneworking
+-   Stone-working
 
--   Clothworking
+-   Cloth-working
 
 ### Deception
 
@@ -161,6 +161,8 @@ used to calculate **Guile**.
 -   Sleight of Hand
 
 -   Conceal evidence
+
+-   Misdirection
 
 <table>
 <tbody>
@@ -217,7 +219,7 @@ example, could both be an (Int + Melee) and (Int + Lore) roll.
 <td><p><strong>The Non-Omniscient Scholar<br />
 </strong>Having a high Lore does not confer <em>absolute truths</em> upon a character-rather it represents being well-versed in what is known--and often as much as what is unknown.</p>
 <p>It is a fact that the Immaculate Order claims that Solars and Lunars are Anathema. It is a fact that many other societies claim. High lore will allow knowledge that these two facts exist, but not which one of them are right.</p>
-<p>Storytellers should keep a character’s background (and speciality) in mind when revealing information to players--phrasing information through such natural biases.</p></td>
+<p>Storytellers should keep a character’s background (and specialty) in mind when revealing information to players--phrasing information through such natural biases.</p></td>
 </tr>
 </tbody>
 </table>
@@ -302,7 +304,7 @@ debilitation of the body. As well, it is used for tests of endurance,
 and for feats of Strength. Physique is used to calculate **Soak**, as
 well as **Endurance**.
 
-#### Sample Specialites
+#### Sample Specialties
 
 -   Lifting
 
