@@ -145,7 +145,7 @@ at a time, and may choose to discontinue their charges at will.
 **Cost:** 5sm; **Mins:** Sorcery 2  
 **Duration:** Indefinite
 
-Focusing on a specific, known memory, the Sorcerer makes a (Cunning +
+Focusing on a specific, known memory, the Sorcerer makes a (Wits +
 Sorcery) roll vs the Target’s Guile.
 
 If successful, they place an pure-cut emerald (Resources 2) on the

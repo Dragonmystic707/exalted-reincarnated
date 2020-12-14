@@ -28,7 +28,7 @@ followed:
 Actions are Momentous
 
 The Player Character is the right person at the right time to change the
-world--for better or for worse. This blessing and burden cannot be given
+world—for better or for worse. This blessing and burden cannot be given
 to another, and the Gods are restrained in their actions for reasons
 ranging from arcane laws, to being involved in their own machinations,
 to being too weak to do anything.
@@ -46,7 +46,7 @@ their actions.
 The Heroes are Flawed
 
 Despite all of their powers and might, Exalts are still human and carry
-with them their flaws--and this does not make them any less of a hero.
+with them their flaws—and this does not make them any less of a hero.
 
 Dice
 ----
@@ -70,7 +70,7 @@ Tumult.,
 The mighty Realm, whose reach expanded even out of the Blessed Isle, has
 lost her Empress with no heir declared. Now, each Dragonblooded Clan
 vies to claim the throne for their own, whether it be by politics or by
-force--ignoring all else that goes on around them.
+force—ignoring all else that goes on around them.
 
 The Silver Pact, that loose association only tied together by their
 hatred and resistance to the Realm, find their alliances crumbling.

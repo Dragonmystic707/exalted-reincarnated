@@ -145,9 +145,9 @@ Ambushes are premeditated affairs--requiring setup, planning, and
 coordination between the party. Players cannot suddenly go into combat
 if things are not going their way and declare it an Ambush.
 
-To prevent being ambushed, Player Characters get a Reflexive (Cunning +
+To prevent being ambushed, Player Characters get a Reflexive (Wits +
 Awareness) roll against the skill of those setting up the ambush.
-Typically this would be a contested roll against (Cunning + Stealth).
+Typically this would be a contested roll against (Wits + Stealth).
 
 ### Holding Action
 

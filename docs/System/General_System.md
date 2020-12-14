@@ -25,16 +25,22 @@ that is appropriate for the situation, and then determine an appropriate
 Difficulty for the roll.
 
 The Player will then roll a number of Ten-Sided Dice (d10’s) equal to
-the combined rating of the selected Attribute and Ability--this combined
+the combined rating of the selected Attribute and Ability—this combined
 number is called the Dice Pool.
 
 This will be referred to as \[Att+Abi\] xd10’s.
+
+Some powers and actions will call out specific Attribute + Ability
+combinations, such as \[Wits + Awareness\], but others may simply
+specify one or the other. For example, an “Awareness Roll” or a “Wits
+Roll”. The two still require a full \[Att + Abi\] combination, they
+simply allow the non-specified part to be determined by the Storyteller.
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>Only roll if the Result is unknown</strong></p>
-<p>If the outcome of an action is already known beforehand (either as a failure or a success), there is no need for a roll--simply declare what happens and continue on with the story.</p></td>
+<p>If the outcome of an action is already known beforehand (either as a failure or a success), there is no need for a roll—simply declare what happens and continue on with the story.</p></td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +70,7 @@ on the roll.
 ### Difficulty
 
 *Before a roll is performed*, the Storyteller should determine the
-**Difficulty** of the roll--the number of successes that the roll must
+**Difficulty** of the roll—the number of successes that the roll must
 match or exceed for the action to be considered a success.
 
 -   **Difficulty 1 (Easy)**- This task is expected to be passed by a
@@ -76,7 +82,7 @@ match or exceed for the action to be considered a success.
     category.
 
 -   **Difficulty 5** **(Difficult)**- Tasks which are daunting fall in
-    this category--climbing a sheer cliff in winds, charming a staunch
+    this category—climbing a sheer cliff in winds, charming a staunch
     Dynast with sweet words, or avoiding the bite of a venomous beast.
 
 -   **Difficulty 7 (Challenging)**- Tasks which should be
@@ -116,17 +122,19 @@ keeping watch, and the thief is attempting to sneak past them. The dice
 pool for the player-controlled thief would be Dexterity + Stealth.
 
 *Since this is a NPC, and there are no dice-affecting powers active, the
-storyteller simply takes the average: (Cunning + Awareness)/2. Should
-the thief match or surpass that number, they successfully sneak past.
-Should they not, the guard discovers them*.
+storyteller simply takes the average: (Wits + Awareness)/2. Should the
+thief match or surpass that number, they successfully sneak past. Should
+they not, the guard discovers them*.
+
+### Common Rolls
 
 Drawbacks
 ---------
 
 Exalts can push themselves past their mortal limits and achieve the
-impossible--but it often comes at a price.
+impossible—but it often comes at a price.
 
-Ater the Player rolls and all effects finalized, the Player may choose
+After the Player rolls and all effects finalized, the Player may choose
 to **Take a Drawback**. In exchange, they gain **+2 successes** to a
 roll, or **+1** **Defense**. Only one drawback may be taken per action.
 
@@ -158,6 +166,8 @@ uninterrupted, restful night’s sleep, the character suffers (-1) dice to
 any roll made with the Attribute Category (Physical, Social, or Mental)
 they used on this roll.
 
+This does not affect Static Values such as Resolve.
+
 ### The Scene Turns Sour
 
 *This Drawback may only be taken once per scene.*
@@ -184,26 +194,37 @@ Advantages and Disadvantages
 ----------------------------
 
 The difficulty of an action can be modified by various conditions,
-whether it be environmental, helpful, or antagonistic. Advantages and
-Disadvantages are collectively called **Modifiers**.
+whether it be environmental, helpful, or antagonistic. As generic term,
+these are called **Dice Modifiers**, but will more often is designated
+specifically as either an **Advantage** or as a **Disadvantage,**
+depending on if it helps the character or impedes them.
 
-Advantages grant characters extra dice to roll with on their action,
-whereas Disadvantages increase the difficulty of the roll.
+By default, Advantages and disadvantages are written in terms of
+**dice** available for the character to roll: (+2, -2 dice). Since this
+is the default, the “dice” moniker is often dropped—if a power ever
+simply says “+2”, it means to dice.
 
-For clarity, Advantages are written as (+X) dice, whereas Disadvantages
-are written as (-X)--as they can also be interpreted as losing successes
-from a roll.
+Whenever a Modifier affects a static value, such as Resolve or
+Difficulty, you should **take the average**, rounding up. +2 dice is +1
+to Resolve, for example. Some powers will directly reference Static
+Value or Difficulty modifiers, instead of dice.
 
-Any **Modifier** should be something significant to the scene--something
+### Assigning Modifiers
+
+Modifiers can be granted from any source, such as any powers, the
+environment, or even the mental condition of the character taking the
+action.
+
+Any **Modifier** should be something significant to the scene—something
 that would perturb even an Exalt. A light rain, while thematic, would
-not count as a disadvantage. Only when the levels of pummeling rain
-(-1), or even a raging Typhoon (-4)
+not count as a disadvantage. Only when there are levels of pummeling
+rain (-2), or even a raging Typhoon (-4).
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>Natural Modifiers and Difficulty</strong></p>
-<p>Difficulty is a measure of “Base difficulty + all Disadvantages”. This can often be forgotten when choosing a Difficulty for a task, or when countering specific modifiers.</p>
+<p>Difficulty, in its most basic sense, is a measure of “Base difficulty + all Disadvantages”. This can often be forgotten when choosing a Difficulty for a task, or when countering specific modifiers.</p>
 <p>If a player removes the “visual impairment” modifier from a Difficulty 7 task, it is up to the Storyteller to decide how much of the Difficulty for the task was a result of “visual impairment”, and how much is simply the base difficulty of the task.</p></td>
 </tr>
 </tbody>
@@ -239,7 +260,7 @@ receiving character may only accept one Assist per roll.
 The Receiving Player may both accept an Assist, as well as stunt their
 own action.
 
-Assisting is considered a Primary Action.
+Assisting is considered a Simple Action.
 
 Essence
 -------
@@ -262,7 +283,7 @@ increases in rating as the character gains xp.
 <td><p><strong>The Uniqueness of Player Characters</strong></p>
 <p>Player Characters are unusual in the sheer speed and heights they can reach with Essence. The constant stress and challenge of adventure accelerates the gain of Essence far beyond what is normal in the world of Exalted.</p>
 <p>Non-Player Characters do not follow the same rapid gain of Essence that Player Characters do, and are often constrained and capped, limiting what Essence Rating they can reach based on their circumstances.</p>
-<p>Dragonblooded, for example, would find it takes a lifetime to even reach Essence 3--only the eldest of their kind would have access to Major Charms.</p></td>
+<p>Dragonblooded, for example, would find it takes a lifetime to even reach Essence 3—only the eldest of their kind would have access to Major Charms.</p></td>
 </tr>
 </tbody>
 </table>
@@ -278,7 +299,7 @@ motes are subtle and do not agitate their anima banner. They regain only
 after a full night’s rest
 
 **Peripheral Motes** are the character’s ability to manipulate the world
-immediately surrounding them, channelling it to their will. Using these
+immediately surrounding them, channeling it to their will. Using these
 motes will **expose their anima banner**.
 
 Peripheral Mote pools are automatically refilled at the start of each
@@ -291,7 +312,7 @@ the **Underworld**, or are filled with antagonistic Essence that cannot
 be easily drawn inward, like **The Wyld**.
 
 In these locations, all characters will suffer a Penalty to their
-Peripheral Mote pool, lowering their capacity.. For example, the penalty
+Peripheral Mote pool, lowering their capacity. For example, the penalty
 suffered by Underworld would be as follows, as the characters descends
 deeper away from Creation:
 
@@ -309,14 +330,14 @@ Anima Banner
 Exalts are brimming with energy, their souls suffused with the crackling
 energy.
 
-Whenever a character **uses Peripheral Motes**, this energy crackles to
+Whenever a character uses **Peripheral Motes**, this energy crackles to
 life, and their very soul starts to show to the world in the form of the
-**Anima Banner**--a display of light that starts as a soft glow and
+**Anima Banner**—a display of light that starts as a soft glow and
 eventually escalates to a towering bonfire of personal iconography and
 symbols deeply personal to the character.
 
-**As the Peripheral Pool is depleted**, the Anima banner will
-automatically and reflexively ignite.
+As the Peripheral Pool is depleted, the Anima banner will automatically
+and reflexively ignite.
 
 -   **(0m) Dim** The natural state of the anima. It is invisible to all
     natural senses, but may be seen by those that can peek into the
@@ -390,8 +411,6 @@ For Example:
     their name and relations; their lost vitality; a loss of emotion and
     feeling.
 
--   
-
 ### Limit
 
 The stress and wear of an Exalt’s life will build and press upon them,
@@ -399,23 +418,25 @@ eventually driving them to a breaking point. This is represented by
 **Limit Points**.
 
 Ranging from 0-10, **Limit Points** represent how strained the Exalt
-is--how much wear and tear their psyche and soul is under.
+is—how much wear and tear their psyche and soul is under.
 
 A character gains limit by:
 
 -   Choosing it as a Drawback.
 
 -   Acting against one of their Intimacies, or other deeply-held
-    beliefs. (One Limit per scene).  
-      
-    This can range from directly suppressing Intimacies in order to
-    proceed with the “greater good”, to being tricked and swindled into
-    taking action against your Intimacies, such as through Social
-    Influence.  
-      
-    Ultimately, the decision of whether or not the Character has “acted
-    against their Intimacy” is a personal one, and should be at sole
-    discretion of the Player.
+    beliefs.
+
+“Acting against an Intimacy” is a highly subjective term, that
+ultimately can only be answered
+
+This can range from directly suppressing Intimacies in order to proceed
+with the “greater good”, to being tricked and swindled into taking
+action against your Intimacies, such as through Social Influence.  
+  
+Ultimately, the decision of whether or not the Character has “acted
+against their Intimacy” is a personal one, and should be at sole
+discretion of the Player.
 
 If the character reaches **10 Limit**, or if they fail on their **Limit
 Trigger**, the character will enter into a **Limit Break.**
@@ -439,7 +460,7 @@ decide what sort of events will **inflame** their Great Curse. This is
 called the **Limit Trigger.**
 
 A compassionate character might balk whenever they see a wanton,
-senseless act of cruelty upon another--such as a slave being whipped.
+senseless act of cruelty upon another—such as a slave being whipped.
 Another might be the sense of failure and dejection when a plan spirals
 out of control.
 
@@ -459,7 +480,7 @@ that does not align with their **Great Curse** and will make active and
 considered effort to fulfill it, damn the consequences.
 
 A character Limit Breaking does not lose their faculties, nor do they
-forget their Intimacies--but those are simply *secondary* to their Great
+forget their Intimacies—but those are simply *secondary* to their Great
 Curse. Often they will use convoluted and strange reasoning to justify
 their actions.
 
@@ -473,8 +494,8 @@ At the end of a Limit Break, reset Limit to 0.
 <tbody>
 <tr class="odd">
 <td><p><strong>Ticking Time Bomb</strong></p>
-<p>There will be occasions when a character enters Limit Break, but turning it into a Limit Break Scene just doesn’t fit--it occurred during a lighthearted scene, or when the Exalt is in the middle of nowhere on their own, or the scene was just wrapping up...</p>
-<p>If this occurs, with both the Storyteller and Player in agreement, the Character can postpone the Limit Break to a more appropriate scene--just don’t wait <em>too</em> long.</p></td>
+<p>There will be occasions when a character enters Limit Break, but turning it into a Limit Break Scene just doesn’t fit—it occurred during a lighthearted scene, or when the Exalt is in the middle of nowhere on their own, or the scene was just wrapping up.</p>
+<p>If this occurs, with both the Storyteller and Player in agreement, the Character can postpone the Limit Break to a more appropriate scene—just don’t wait <em>too</em> long.</p></td>
 </tr>
 </tbody>
 </table>
@@ -503,10 +524,30 @@ manipulate what the Target Number of a roll will be.
 Each Exalt’s particular Strife Expression is detailed in their
 respective book.
 
+#### Introduce a Fact
+
+The Player is allowed to introduce a Fact about the setting, detailing
+something that is (and always has been) true in the world of Creation.
+
+This Fact must be internally consistent with what has already been shown
+to be true about the world. As well, the Storyteller has a right to veto
+this introduced Fact (in which the Strife Point is returned), but is
+encouraged to try to make the new Fact work.
+
+The Fact should be related to the Player’s character in some way,
+drawing from their Favored Abilities, Specialties, backstory, or Merits
+in some way. Introducing the Fact that there is ancient order of
+warriors known to be in the general area would make sense for a Player
+whose character is a swordsman, but not one whose character is a
+sorcerer, for example.
+
+As is the case with **Turn the Scene**, introducing a Fact cannot
+*directly* solve the scene.
+
 #### Turn the Scene
 
 In addition to their Exalt and Caste Strife Expressions, all players may
-use a strife point to **Turn the Scene** (typically in their Favor.)
+use a strife point to **Turn the Scene** (in their Favor.)
 
 There is no roll required: the Player describes the actions their
 character does, and it simply happens.
@@ -524,7 +565,7 @@ Stunt:
 -   The Action cannot *directly* solve the scene; it can only assist and
     guide it.
 
--   The Action should flow naturally from the character--a Solar cannot
+-   The Action should flow naturally from the character—a Solar cannot
     suddenly shapeshift, for example.
 
 ##### Example 1
@@ -541,20 +582,20 @@ cutting off the dynasts reinforcements.
 accomplishes two dramatic things: it changes the environment, but
 ultimately it is about stopping the Antagonist’s time constraint on
 their battle. It assists the Player and their scene, but does not solve
-the pressing issue--the fight with the Dragonblooded.
+the pressing issue—the fight with the Dragonblooded.
 
 ##### Example 2
 
 The Sorcerer looks apprehensive at his map. The desert has become
 inhospitable to their travels, and the rations for their mortal
-followers slim--if a solution isn’t found, they will arrive exhausted,
-or be forced to take a detour through the Guild’s controlled areas. His
+followers slim—if a solution isn’t found, they will arrive exhausted, or
+be forced to take a detour through the Guild’s controlled areas. His
 brown furrows, then suddenly shoots up: “Turn the caravan west, I see a
 Dragonline I can tap for water!”
 
 “He’s going to use Sorcery to pull up water from the ground.” In this
 situation, the problem being addressed is exhaustion or avoiding a bad
-decision--preventing a negative.
+decision—preventing a negative.
 
 ##### Example 3
 
@@ -581,7 +622,7 @@ Strife may be gained through two ways: **Botches** and **Scene
 Complications**.
 
 [<u>Botches</u>](/System/General_System/#botching) are Player-driven choices to drive their
-character's failure into a *magnificent* failure--a low so that they may
+character’s failure into a *magnificent* failure—a low so that they may
 later rise to even greater heights.
 
 <table>
@@ -589,9 +630,9 @@ later rise to even greater heights.
 <tr class="odd">
 <td><p><strong>Rejecting Strife</strong></p>
 <p>Players, by accepting the Strife, are giving up their ability to change the course of the event.</p>
-<p>They have the option of refusing to take the Strife Point, defying the Storyteller's influence. (This must be an all-or-nothing decision between all Players receiving the Strife--all must reject, or else all must accept.)</p>
+<p>They have the option of refusing to take the Strife Point, defying the Storyteller’s influence. (This must be an all-or-nothing decision between all Players receiving the Strife—all must reject, or else all must accept.)</p>
 <p>If this happens, the Storyteller must let the Player Characters challenge the event in a fair manner.</p>
-<p>The Storyteller should also take care not to <em>abuse</em> the Complication mechanic to the point where it becomes unfun--if they find that Players are constantly rejecting Strife, or grumbling and accepting, make sure to talk with the Players to see if the direction of the game is what everyone agrees with.</p></td>
+<p>The Storyteller should also take care not to <em>abuse</em> the Complication mechanic to the point where it becomes frustrating—if they find that Players are constantly rejecting Strife, or grumbling and accepting, make sure to talk with the Players to see if the direction of the game is what everyone agrees with.</p></td>
 </tr>
 </tbody>
 </table>
@@ -599,7 +640,7 @@ later rise to even greater heights.
 #### Complications
 
 A **Complication** is a tool for the Storyteller to inject danger,
-twists, and story momentum into the Story--*without Player Characters
+twists, and story momentum into the Story—*without Player Characters
 being able to meaningfully react.* (The Characters will almost certainly
 react, but the outcome is a forgone conclusion.)
 
@@ -626,7 +667,7 @@ The main source of Strife is gained by players choosing to **Botch**
 their rolls.
 
 Another source is being gifted a point by the Storyteller in exchange
-for letting certain events unfold as described--in spite of Player
+for letting certain events unfold as described—in spite of Player
 actions. For example, after a combat scene with a recurring antagonist,
 the Storyteller would grant a Strife point to allow the antagonist to
 escape without a (successful) pursuit, so they can lick their wounds and
@@ -641,15 +682,15 @@ locations. Mortals will often attribute this forgetfulness, or not
 recognize the incongruity at all, when in reality it is the tireless
 motions of the Loom taking shortcuts.
 
-Exalts, long ago, learned how to quietly and easily exploit this--simply
+Exalts, long ago, learned how to quietly and easily exploit this—simply
 though sleight of hand, they can store their physical items in places
 and not feel the weight nor brunt of the equipment. It is not unusual
 for an Exalt to suddenly pull out a large daiklaive from little more
 than a handbag’s opening.
 
 Sidereals have labeled this flaw as “Elsewhere,” since the items are
-neither here nor there, but somewhere “else..” It is certainly a problem
-that needs to be fixed...eventually.
+neither here nor there, but somewhere “else.” It is certainly a problem
+that needs to be fixed…eventually.
 
 Elsewhere is not all-powerful. The Exalt must reasonably be able to
 carry the items in the first place, and it must not be something that
@@ -659,9 +700,8 @@ affect items inside of Elsewhere, it will rapidly catch up once pulled
 out.
 
 Items stored in Elsewhere of a dead Exalt will eventually reassert
-themselves into reality--often by finding themselves in nearby
-containers that may not have existed until needed for this precise
-purpose.
+themselves into reality—often by finding themselves in nearby containers
+that may not have existed until needed for this precise purpose.
 
 Storyteller Timelines
 ---------------------
@@ -691,8 +731,8 @@ Magnitudes
 ----------
 
 *Exalted* is styled in more of a cinematic, broad-sweeping style game
-rather than a precise simulation wargame. Instead of detailing out every
-person, time frame, or area, it will instead deal with measures of
+rather than a precise simulation war-game. Instead of detailing out
+every person, time frame, or area, it will instead deal with measures of
 *magnitude.*
 
 Some Powers will declare an increase (or decrease) in a *magnitude*.
@@ -716,7 +756,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>0</p>
+<p>1</p>
 </blockquote></td>
 <td><blockquote>
 <p>1</p>
@@ -730,7 +770,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>1</p>
+<p>2</p>
 </blockquote></td>
 <td><blockquote>
 <p>10</p>
@@ -744,7 +784,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>2</p>
+<p>3</p>
 </blockquote></td>
 <td><blockquote>
 <p>50</p>
@@ -758,7 +798,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>3</p>
+<p>4</p>
 </blockquote></td>
 <td><blockquote>
 <p>100</p>
@@ -772,7 +812,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>4</p>
+<p>5</p>
 </blockquote></td>
 <td><blockquote>
 <p>500</p>
@@ -786,7 +826,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>5</p>
+<p>6</p>
 </blockquote></td>
 <td><blockquote>
 <p>1,000</p>
@@ -800,7 +840,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>6</p>
+<p>7</p>
 </blockquote></td>
 <td><blockquote>
 <p>10,000</p>
@@ -814,7 +854,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>7</p>
+<p>8</p>
 </blockquote></td>
 <td><blockquote>
 <p>100,000</p>
@@ -828,7 +868,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>8</p>
+<p>9</p>
 </blockquote></td>
 <td><blockquote>
 <p>1,000,000</p>
@@ -857,7 +897,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>0</p>
+<p>1</p>
 </blockquote></td>
 <td><blockquote>
 <p>Second (Instant)</p>
@@ -865,7 +905,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>1</p>
+<p>2</p>
 </blockquote></td>
 <td><blockquote>
 <p>Minute (Moment)</p>
@@ -873,7 +913,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>2</p>
+<p>3</p>
 </blockquote></td>
 <td><blockquote>
 <p>Hour</p>
@@ -881,7 +921,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>3</p>
+<p>4</p>
 </blockquote></td>
 <td><blockquote>
 <p>Day</p>
@@ -889,7 +929,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>4</p>
+<p>5</p>
 </blockquote></td>
 <td><blockquote>
 <p>Week</p>
@@ -897,7 +937,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>5</p>
+<p>6</p>
 </blockquote></td>
 <td><blockquote>
 <p>Month</p>
@@ -905,7 +945,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>6</p>
+<p>7</p>
 </blockquote></td>
 <td><blockquote>
 <p>Season</p>
@@ -913,7 +953,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>7</p>
+<p>8</p>
 </blockquote></td>
 <td><blockquote>
 <p>Year</p>
@@ -921,7 +961,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>8</p>
+<p>9</p>
 </blockquote></td>
 <td><blockquote>
 <p>Decade</p>
@@ -929,7 +969,7 @@ Those magnitude definitions are as follows:
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>9</p>
+<p>10</p>
 </blockquote></td>
 <td><blockquote>
 <p>Century</p>

@@ -110,13 +110,13 @@ While the **Social Category** Attributes are the majority fit for Social
 Actions, they are not exclusive.
 
 For example, Intimidation may be done with (Strength + Physique), or
-bamboozlement with (Cunning + Deception). Finding creative
-interpretations of the character’s strengths is perfectly valid!
+bamboozle with (Wits + Deception). Finding creative interpretations of
+the character’s strengths is perfectly valid!
 
 ### Groups
 
 Social actions against groups of people, rather than individuals, suffer
-from the lack of intimacy--in addition to the natural logistical issues.
+from the lack of intimacy—in addition to the natural logistical issues.
 
 Characters in groups of magnitude of “Crowd” or larger gain Resolve
 according to their **Scale**. i.e. Crowd gains +2, Village +4, and City

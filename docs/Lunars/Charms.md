@@ -56,9 +56,8 @@ to patterning to even texture.
 If they have Prey's Skin Disguise, they also may mimic and alter
 clothing.
 
-Accurately Mimicking a *specific* pattern is a contested roll of
-(Cunning + Shapeshifting) vs. the target's (Insight + Awareness)
-defense.
+Accurately Mimicking a *specific* pattern is a contested roll of (Wits +
+Shapeshifting) vs. the target's (Insight + Awareness) defense.
 
 ### Prey’s Skin Disguise
 

@@ -29,7 +29,7 @@ below One.
 Physical
 --------
 
-### Strength
+### Strength (Str)
 
 **Force**
 
@@ -38,16 +38,16 @@ as well as the intuition and practice to use it effectively. It is used
 to calculate **Base Damage,** the **Attack Roll** of Heavy Weapons, as
 well as feats of strength such as lifting, breaking, and climbing.
 
-### Dexterity
+### Dexterity (Dex)
 
 **Finesse**
 
 Dexterity is the fine control, reflexes, and agility a character has
 over their own body. It is used to calculate the **Attack Roll** of
 Light Weapons, as well as **Evasion**, and can help with various tasks
-such as balance, dancing, and lockpicking.
+such as balance, dancing, and lock-picking.
 
-### Stamina
+### Stamina (Sta)
 
 **Resilience**
 
@@ -58,7 +58,7 @@ forces. It is used to calculate **Endurance** value.
 Social
 ------
 
-### Charisma
+### Charisma (Cha)
 
 **Force**
 
@@ -66,17 +66,17 @@ Charisma is a measure of how a character can outwardly express
 themselves to others through *active* communication. It is used for
 actions such as **Influence Intimacy** and **Perform Task**.
 
-### Insight
+### Insight (Ins)
 
 **Finesse**
 
 Insight is a measure of how a character can understand others by
 observing their actions, words, and expressions. A character with high
-Insight would be able to correctly guess and understand an other's
+Insight would be able to correctly guess and understand an other’s
 motivation to predict their next actions. It is used for actions such as
 **Read Intentions** and **Discover Intimacy.**
 
-### Composure
+### Composure (Cmp)
 
 **Resilience**
 
@@ -88,7 +88,7 @@ non-reaction. It is used to calculate **Guile.**
 Mental
 ------
 
-### Intelligence
+### Intelligence (Int)
 
 **Force**
 
@@ -96,16 +96,16 @@ Intelligence is a measure of how a character can think logically,
 organize thoughts, absorb information, and connect together disparate
 pieces of information.
 
-### Cunning
+### Wits 
 
 **Finesse**
 
-Cunning is a measure of intuition, common sense, and fast-thinking.
+Wits is a measure of intuition, common sense, and fast-thinking.
 
-### Will
+### Willpower (Will)
 
 **Resilience**
 
-Will is the mental fortitude of a character, their ability to endure
-hard times, and power through and complete their own ideas and thoughts.
-It is used to calculate **Resolve.**
+Willpower is the mental fortitude of a character, their ability to
+endure hard times, and power through and complete their own ideas and
+thoughts. It is used to calculate **Resolve.**

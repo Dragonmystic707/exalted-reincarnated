@@ -36,7 +36,7 @@ generally so small it does not affect the dice roll.
 However, there are a small number of smaller skills that the Exalt
 *excels* at. These are called *Specialties.*
 
-When Rolling in an Ability Specialty, roll with an additional dice (+1).
+When Rolling in an Ability Specialty, roll with an additional +1 die.
 
 Specialties do **not** affect Static Values.
 
@@ -108,15 +108,15 @@ example.
 
 -   Political Gatherings
 
-### Brawl
+### Brawl 
 
 Mastery of form that uses the body itself as a natural weapon. Punches,
 kicks, grapples, and leg sweeps are but a fraction of the endless ways
 generations have devised ways of harming each other.
 
 Brawl is *generally* performed Unarmed, but weapons that strengthen or
-reinforce the natural body form--such as brass knuckles, tiger claws, or
-even spike-tipped boots--are still part of the Brawling Ability.
+reinforce the natural body form—such as brass knuckles, tiger claws, or
+even spike-tipped boots—are still part of the Brawling Ability.
 
 **Combat:** Brawl attacks are Close Range.
 
@@ -173,7 +173,7 @@ used to calculate **Guile**.
 </tbody>
 </table>
 
-### Integrity
+### Integrity 
 
 Integrity is a measure of how tightly a character can keep to their
 convictions, goals, and objectives. It is used to calculate the Static
@@ -262,11 +262,11 @@ Spear, for example.
 
 ### Navigation
 
-Navigation is the ability to traverse terrains--from land, to sea, to
-jungle--and come out unscathed and on time. A trained Navigator will
-know their hand at reigns, the stern of a ship, how to survive in a
-city’s underworld, as well as be able to tell you which wild fruit is
-poisonous or edible.
+Navigation is the ability to traverse terrains—from land, to sea, to
+jungle—and come out unscathed and on time. A trained Navigator will know
+their hand at reigns, the stern of a ship, how to survive in a city’s
+underworld, as well as be able to tell you which wild fruit is poisonous
+or edible.
 
 #### Sample Specialties
 
@@ -336,17 +336,20 @@ necessary the specialization needs to be tailor-made for them.
 ### Socialize
 
 Socialization is a way to relate and talk with people, making them feel
-heard and personally connected to the
+heard and personally connected with them.
 
-Persuasive characters know how to talk and charm people with their
-bright personality, ultimately with a goal in mind. It is used to both
-extract as well as impart information and tasks.
+Characters with high Socialize will be able to congenially relate to
+people, softening their stance on things, and open them up for
+persuasion to the character’s side. As well, they can often get a target
+talking, making them speak more than they should have.
 
 #### Sample Specialties
 
 -   Charm
 
 -   Beguilement
+
+-   Information Extraction
 
 -   Fast-Talking
 

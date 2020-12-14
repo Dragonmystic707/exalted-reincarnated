@@ -378,8 +378,8 @@ across chasms.
 The Stylist speaks the language of Nothing, articulating its emptiness
 with perfect articulation, yet devoid of any meaning.
 
-The Stylist takes a Distract Action of (Cunning + Lore) vs Resolve of
-all enemy characters that can hear the Stylist within Short Range.
+The Stylist takes a Distract Action of (Wits + Lore) vs Resolve of all
+enemy characters that can hear the Stylist within Short Range.
 
 ### Door to Nowhere
 
@@ -391,7 +391,7 @@ The Door to Nowhere may be opened, forcing those it touches into a state
 of non-existence--though this cannot last as *nothing*, having no
 properties, cannot contain *something*.
 
-The Stylist makes a (Cunning + Sorcery) roll against the target’s
+The Stylist makes a (Wits + Sorcery) roll against the target’s
 **Evasion. (**The target may choose to not Evade.) If successful, the
 target ceases to exist for the next (Essence) actions, where they will
 reappear in a location up to one Range Band away from where they

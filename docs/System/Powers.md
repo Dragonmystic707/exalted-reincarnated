@@ -31,16 +31,16 @@ Powers are presented in a manner similar to the following:
 Designates what character resources it takes to use the Power. A Power
 of no cost (such as Permanent effects) will be designated with “--”.
 
--   **m** -- Motes of Essence, which can be a chosen combination of
+-   **m—**Motes of Essence, which can be a chosen combination of
     Personal or Peripheral
 
     -   Some Powers will specifically designate (personal) or
         (peripheral) in their cost.
 
--   **i** -- If used in a Combat Scene, requires **Impulse**. If used in
-    an Encounter Scene, requires **Influence.**
+-   **i—**If used in a Combat Scene, requires **Impulse**. If used in an
+    Encounter Scene, requires **Influence.**
 
--   **sm** -- Sorcerous Motes, which are described in more detail in the
+-   **sm—**Sorcerous Motes, which are described in more detail in the
     [<u>Sorcery</u>](/System/Sorcery_and_Necromancy/#sorcery-and-necromancy).
 
 ### Type
@@ -102,7 +102,7 @@ immediately dissipates after activation.
 When buying a Power, there are certain Minimums that must first be
 met--such as the dot Rating in a specific Ability.
 
-Glossery of Terms
+Glossary of Terms
 -----------------
 
 There are specific words and phrases that charms commonly use as a
@@ -152,11 +152,11 @@ use Custom Charms that fit individual characters and their needs--the
 provided charms are intended to cover most common uses of charms, but
 could never encompass all that an Exalt *could* do.
 
-Charms and Custom Charms do not have any sort of "niche protection" from
+Charms and Custom Charms do not have any sort of “niche protection” from
 each other. Do not be afraid to create Custom Charms that have similar
 effects.
 
-Making custom charms can be a bit difficult, so let's run through an
+Making custom charms can be a bit difficult, so let’s run through an
 example.
 
 ##### Example: Searing Sunfire Interdiction
@@ -335,5 +335,5 @@ Judging Costs
 -   Effects in the Maneuver Stunts table should be 2m at base. If you
     improve them, no more than 5m.
 
--   Targetting Evasion/Soak is 3m, 1i. Targetting a non-standard defense
+-   Targeting Evasion/Soak is 3m, 1i. Targeting a non-standard defense
     is 4m, 2i.

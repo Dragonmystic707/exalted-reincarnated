@@ -30,8 +30,8 @@ Lesser Foes may be **Grouped** together. For each increase in
 <tr class="odd">
 <td><p><strong>Antagonists are not Player characters</strong></p>
 <p>[[ Don’t build them like they are.</p>
-<p>Dragonbloods tend to be Essence 1-2.</p>
-<p>Essence Rating prerequisites aren’t hard-enforced for antagonists. The essence rating represents how hard it is to train, how long they have to dedicate your life to it. Jo Shmo DB isn’t going to get an Essence 4 MA technique while stuck at Essence 1, but a monk who has been training at it their entire life might, while still technically at Essence 3]]</p></td>
+<p>Dragonblooded tend to be Essence 1-2.</p>
+<p>Essence Rating prerequisites aren’t hard-enforced for antagonists. The essence rating represents how hard it is to train, how long they have to dedicate your life to it. A typical DB isn’t going to get an Essence 4 MA technique while stuck at Essence 1, but a monk who has been training at it their entire life might, while still technically at Essence 3]]</p></td>
 </tr>
 </tbody>
 </table>
@@ -39,7 +39,7 @@ Lesser Foes may be **Grouped** together. For each increase in
 Estimating Defenses
 -------------------
 
-When choosing or modifing enemies, you need to pay close attention to
+When choosing or modifying enemies, you need to pay close attention to
 the Defenses to make sure the combat is fun and interesting—*too high of
 DV will result in an unfun combat,* because the Players will never be
 able to hit their target.
@@ -59,7 +59,7 @@ is quite a large deal!
 </tr>
 <tr class="even">
 <td>1</td>
-<td>The target has the barest, weakest defenses that could exist. Missing would be an embarresment to an Exalt.</td>
+<td>The target has the barest, weakest defenses that could exist. Missing would be an embarrassment to an Exalt.</td>
 </tr>
 <tr class="odd">
 <td>2</td>
@@ -67,7 +67,7 @@ is quite a large deal!
 </tr>
 <tr class="even">
 <td>3</td>
-<td>The median DV, what will often be a noticeable, but not insurmountable challenge. Most enemies should hover aound DV 3.</td>
+<td>The median DV, what will often be a noticeable, but not insurmountable challenge. Most enemies should hover around DV 3.</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Note</strong>: Any Enemy with DV 4 or higher should have their Soak and Evasion tracked separately—they will often be wearing armor to boost their DV.</p>
@@ -169,7 +169,7 @@ swarmed with a pack of Lesser Foes.
 
 The sharks will ambush characters in seeming moments of physical
 weakness, particularly any who is bleeding. They will perform a grapple
-maneuver, and then single-mindedly attack their target until forced off.
+maneuver, and then single-minded attack their target until forced off.
 
 If forced off their target, or by missing their grapple, they will
 attempt to retreat to the mists to await their next attack.

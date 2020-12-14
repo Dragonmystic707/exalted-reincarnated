@@ -138,9 +138,9 @@ awnings, precarious poles, and thin wires.
 **Mins:** Athletics 2
 
 The Exalt increases their leaping distance, allowing them to cross
-chasms and scale buildings. They may effortlessly leap a single story in
-one bound, and may continue to vault upwards if there is some surface
-firm enough for their force.
+chasms and scale buildings. They may effortlessly leap a single story
+vertically or horizontally in one bound, and may continue to vault
+upwards if there is some surface firm enough for their force.
 
 In addition, Exalts do not take fall damage from such leaps, nor from
 descending from all but the tallest of buildings.
@@ -157,6 +157,14 @@ off with great abandon. For races and tests of speed, the Exalt may add
 
 In combat, the character can Dash without Impulse cost or DV penalty.
 
+### Flashing Anticipation
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Athletics 3
+
+The Exalt adds +(Essence) to their Initiative.
+
 <div class="greater_charm">Greater Charms</div>
 
 ### Feather Foot Style
@@ -166,8 +174,19 @@ In combat, the character can Dash without Impulse cost or DV penalty.
 **Mins:** Athletics 4
 
 The Exalt may run up walls, cross liquids, and even run across the
-underside of horizontal surfaces, such as bridges or roofs, so long as
+underside of a horizontal surfaces, such as bridges or roofs, so long as
 they continue to run.
+
+### Rolling with the Punches.
+
+**Cost:** (3m per Dmg.)  
+**Type:** Reflexive  
+**Mins:** Athletics 5
+
+For every 3 motes spent, reduce incoming damage by 1 point, with no more
+than (Essence) damage reduced per single attack.
+
+### 
 
 ### 
 
@@ -190,7 +209,7 @@ darkness by up to (Essence) dice.
 **Mins**: Awareness 2
 
 Re-roll an Initiative Roll, taking the preferred result. This may only
-be done once.
+be done once per combat.
 
 ### Uncanny Perception Technique
 
@@ -221,6 +240,15 @@ may always be made while asleep.
 In addition, the Exalt never suffers from the ill effects of an Ambush
 Round.
 
+### Inner Eye Focus
+
+**Cost:** 4m  
+**Type:** Reflexive  
+**Mins:** Awareness 4
+
+Re-roll an Awareness Roll, taking the preferred result. This may only be
+done once per action.
+
 <div class="greater_charm">Greater Charms</div>
 
 ### Sense-Destroying Method
@@ -229,13 +257,24 @@ Round.
 **Type:** Simple  
 **Mins:** Awareness 4
 
-On touching a target, and by successfully rolling (Cunning + Awareness)
-vs the target’s (Stamina + Physique), the Exalt can destroy one of the
+On touching a target, and by successfully rolling (Wits + Awareness) vs
+the target’s (Stamina + Physique), the Exalt can destroy one of the
 classical five senses at their choice. Only one sense of a target may be
 destroyed in a particular scene.
 
 Undoing this destruction is a Medicine Project of at least 10 PR. Most
 targets will not have this luxury.
+
+### Watchful Justicar’s Eye
+
+**Cost:** 4m  
+**Type:** Simple; Scene  
+**Mins:** Awareness 4
+
+By observing for an action, the Exalt can identify which characters of
+the scene are behaving outside what would be considered normal for the
+scene. They may also keep track of all characters and their actions, so
+long as they do not leave the place for more than a brief moment.
 
 Brawl
 -----
@@ -285,6 +324,15 @@ them to be stunned and remove 4 Dice from the next action.
 Craft
 -----
 
+### Workshop Without Bounds
+
+**Cost:** 2m  
+**Type:** Supplemental; Scene  
+**Mins:** Craft 1
+
+When working without the proper tools, reduce the Disadvantage by up to
+(Essence) dice.
+
 ### Durability-Enhancing Technique
 
 **Cost:** 2m  
@@ -297,16 +345,7 @@ largest dimension—and make it nigh unbreakable.
 While reinforced, the object is no longer considered “mundane,” and
 increases the difficulty to break or otherwise destroy it by (Essence).
 
-### Deftly Applied Tools 
-
-**Cost:** 5m  
-**Type:** Supplemental  
-**Mins:** Craft 3
-
-All things, with the proper study and analysis, may be approached
-without the need for brute force. During Feats of Strength, such as
-lifting, carrying, or destroying crafted materials, they may use
-(Cunning + Craft) roll instead, gaining (Essence) immediate successes.
+A Project may be performed to make this enhancement permanent.
 
 ### Discerning Craftsmanship
 
@@ -325,6 +364,17 @@ as the crafter’s work, and not a forgery.
 If this current object they are studying is in *fact* a forgery, the
 difficulty to recognize this fact is lowered by 1.
 
+### Deftly Applied Tools 
+
+**Cost:** 5m  
+**Type:** Supplemental  
+**Mins:** Craft 3
+
+All things, with the proper study and analysis, may be approached
+without the need for brute force. During Feats of Strength, such as
+lifting, carrying, or destroying crafted materials, they may use (Wits +
+Craft) roll instead, gaining (Essence) immediate successes.
+
 ### Crack-Mending Eye
 
 **Cost: --**  
@@ -336,7 +386,9 @@ Artifacts, and other such physical goods are now 1 scale easier. i.e.
 Minor repairs are -3 Scale, Major -2, and Monumental -1 against their
 base Project cost.
 
-### Mark of the Maker
+### 
+
+###  Mark of the Maker
 
 **Cost:** 3m  
 **Type:** Simple  
@@ -365,6 +417,8 @@ complications on the scene.
 **Permanent Effect:** On purchasing this charm, and at the start of each
 Story, the Exalt gains an additional +15 RES, which may only be used
 only for Craft Projects.
+
+### 
 
 Deception
 ---------
@@ -406,8 +460,19 @@ may be convinced that the blades used murder are made of a special
 composition, which is a keystone to their case, despite the blades being
 only slightly out of normal make.
 
-Integrity 
+<div class="greater_charm">Greater Charms </div>
+
+Integrity
 ---------
+
+### Enduring Mental Toughness
+
+**Cost:** 3m  
+**Type:** Reflexive; Scene  
+**Mins:** Integrity 1
+
+For the scene, remove any Disadvantages to Resolve or Guile caused by
+pain, illness, or other such physical anguish that the Exalt is enduring
 
 Leadership
 ----------

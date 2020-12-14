@@ -27,6 +27,15 @@ diminishing the target’s Cover by one level.
 Archery
 -------
 
+### Phantom Arrow Technique
+
+**Cost:** 1m  
+**Type:** Supplemental  
+**Mins**: Archery 1
+
+Instead of ammunition, the Solar may use their very anima. Once struck,
+this dissolves, leaving no evidence behind.
+
 ### Spirit Piercing Technique
 
 **Cost:** 2m  
@@ -86,10 +95,29 @@ in diameter), allowing the Solar to freely and reflexively attack any
 who enter the location. This does not grant the Partial Defense removal
 nor automatic success.
 
+### Whispered Prayers of Retribution
+
+**Cost:** 5m, 3i  
+**Type:** Supplemental  
+**Mins**: Archery 5
+
+Wrapping all of the emotions, horrors, and pain the Solar has seen into
+their arrow, they pierce it into their target and force them to
+experience it all in a flashing moment.
+
+On a successful Archery Attack Maneuver or Strike, the target suffers
+through visions and the emotions imparted on them, causing them to lose
+their next action. Targets without emotions are not effected, and the
+same target cannot be hit twice in a row.
+
+This may be used outside of combat. As well, the Player can choose to do
+no physical damage with this attack—as they may form the projectile from
+their anima and emotion.
+
 ### Searing Sunfire Interdiction
 
 **Cost:** 10m, 4i  
-**Type:** Primary  
+**Type:** Simple  
 **Mins**: Archery 5
 
 The Solar focuses all their Wrath into a single shot, and selects a
@@ -164,20 +192,10 @@ Evasion against an attack by (Essence).
 Type:** Permanent  
 **Mins:** Athletics 4
 
-All of The Solar’s movement is doubled--rolls depending on speed add an
+All of The Solar’s movement is doubled—rolls depending on speed add an
 additional (Athletics) dice. Leaps and bounds are also doubled.
 
 In combat, Dashes may be taken at no penalty.
-
-### One Extra Step
-
-**Cost:** --  
-**Type:** Permanent  
-**Mins:** Athletics 5
-
-Once per Scene, the Exalt will find and reach a Position or Target in
-the current Scene by the next Action, so long as a possible path exists.
-This may be repeated in the Scene by spending a Strife Point.
 
 ### Eagle-Wing Style
 
@@ -189,15 +207,36 @@ By using the barest of scenery, be it lampposts, delicate tree branches,
 or even coins the Solar carries with them to launch against, they Solar
 may leap effortlessly through the air.
 
+### One Extra Step
+
+**Cost:** 8m  
+**Type:** Supplemental (Move)  
+**Mins:** Athletics 5
+
+Once per Scene, the Exalt will find and reach a Position or Target in
+the current Scene by the next Action, so long as a possible path exists.
+This may be repeated in the Scene by spending a Strife Point.
+
  
 
 Awareness
 ---------
 
+### Inquisitor’s Unfailing Notice
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Awareness 1
+
+The Solar is instinctively and subconsciously aware of any actions of
+thievery or Stealth performed by those in their presence who are below
+(Essence). The exact target, circumstances, nor direction is not
+disclosed, simply the fact that it is happening.
+
 ### Genius Palate Summation
 
 **Cost:** 2m  
-**Type:** Primary  
+**Type: Simple**  
 **Mins:** Awareness 3
 
 The emotions and intentions of an individual bleed through to their
@@ -215,19 +254,10 @@ The Solar reduces Awareness disadvantages due to distance by up to
 (Essence) dice. This also opens up Awareness checks up to twice the
 normal distance--they can clearly hear or see across a field.
 
-### Inner Eye Focus
-
-**Cost:** 4m  
-**Type:** Reflexive  
-**Mins:** Awareness 4
-
-Re-roll an Awareness Roll, taking the preferred result. This may only be
-done once.
-
 ### Living Pulse Perception
 
 **Cost:** 3m  
-**Type:** Primary  
+**Type:** Simple  
 **Mins:** Awareness 4
 
 By focusing all their senses into a single point, the Solar can gather a
@@ -237,12 +267,38 @@ This allows a roll against all hidden creatures that breathe, live, or
 are currently in motion in the current scene, and eliminates up to
 (Essence) penalties that would be applied against the roll.
 
+### Irresistible Questioning Technique
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Awareness 4
+
+The Solar’s unquestioning gaze will make even the most unwilling talk.
+Ask a specific question, and make an Awareness Roll against the target’s
+Guile. If successful, the target *must* answer and speak the truth to
+that particular question.
+
 <div class="greater_charm">Greater Charms</div>
+
+### Unsurpassed Senses Discipline
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Awareness 4
+
+All of the senses of the Solar become perfected; they become enhanced
+beyond that of mortal limits. Battlefields are seen in perfect clarity,
+the subtle changes of the winds, and the divine differences of different
+variety of herbs play across taste.
+
+This enhanced sense behaves naturally to the Solar, and they are able to
+shut it out as normal—they do not become more susceptible to pain
+because their ability to feel has become more broad, for example.
 
 ### Eye of the Unconquered Sun
 
 **Cost:** 10m  
-**Type:** Primary; Scene  
+**Type:** Simple; Scene  
 **Mins:** Awareness 5
 
 For a Moment, the Caste Mark of the Solar flares up for all to see and
@@ -251,10 +307,23 @@ becomes a focal lens for the Inner eye, revealing all to the Lawgiver.
 For that brief moment, all characters in the scene can be sensed, giving
 a snapshot of their current position, and movement.
 
-As well, roll a (Cunning + Awareness). All characters in the scene with
+As well, roll a (Wits + Awareness). All characters in the scene with
 (Essence) less or equal to the roll are valid targets for any future
 perception during the scene, regardless of obstacles such as hiding
 behind walls.
+
+### Enlightened Touch Insight
+
+**Cost:** 6m  
+**Type:** Simple  
+**Mins:** Awareness 5
+
+By touching or analyzing an object for a moment, the Solar can surmise
+its recent history and its usage.
+
+The Solar reconstructs the scene in their mind, effectively gaining a
+vision of what happened surrounding the object in moments of great
+emotion and action.
 
 Brawl
 -----
@@ -293,7 +362,31 @@ capped at (Essence)x2.
 During a Flurry attack, deal +1 damage, for each individual target,
 granting up to (Essence) x2 bonus.
 
-<div class="greater_charm">Greater Charms </div>
+If the target is a Group, instead add +(Group Scale) for damage. For
+example, a Crowd (Scale 3) grants +3.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Cancel the Apocalypse
+
+**Cost:** 6m  
+**Type:** Simple  
+**Mins:** Brawl 4
+
+On a successful Attack Maneuver vs. the Target’s Evasion, the Exalt
+strikes at the foe, stopping an ongoing Scene-effect the target has
+initiated, and preventing them restarting it the next Round.
+
+This may also be used to halt a Sorcerer from completing a Spell.
+
+### Adamant Fists of Battle
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Brawl 5
+
+On a successful Brawl Decisive attack, the Solar may add an additional
+(Essence) Base Damage.
 
 Craft
 -----
@@ -311,7 +404,7 @@ The Solar may not convert more than their own body weight in a single
 day.
 
 On gaining Resources in the form of raw, impure materials, the Solar may
-gain double its Resource value.
+double its normal Resource value.
 
 ### Spiritual Armaments
 
@@ -354,9 +447,12 @@ difficulty to warp it.
 **Mins:** Craft 4
 
 The Solar imbues a statue, complex machinery, or even inert ancient
-working with their very Essence—so long as it is not owned. For the
-Scene the Solar may control this imbued object as though it were an
-extension of their body.
+working with their very Essence—so long as it is not currently bound to
+a hostile entity. For the Scene the Solar may control this imbued object
+as though it were an extension of their body.
+
+Hostile entities may attempt to wrest control from the object by
+performing a contested Craft Roll.
 
 Deception
 ---------
@@ -370,16 +466,32 @@ Deception
 With the force of certainty and their unconsciously regal presence,
 whatever the Solar speaks claims ownership of is instinctively believed.
 
-On a successful Deception Roll above the target’s Guile, the target will
-believe that a claimed object, structure, or even specific idea belongs
-to the Solar for the remainder of the scene. This belief may remain
-unless directly challenged.
+With a successful Deception Roll above the target’s Guile, the target
+will believe that a claimed object, structure, or even specific idea
+belongs to the Solar for the remainder of the scene. This belief may
+remain unless directly challenged.
 
 If they have knowledge or direct evidence to the contrary, they instead
 gain a temporary Intimacy of doubt towards their own known evidence, but
 remain convinced of its true ownership.
 
-Integrity 
+### Preying on Uncertainty Approach
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Deception 2
+
+Through statements that deny questioning, the Solar denies the known
+reality of a target, and places the stated one in instead. An unexpected
+guard rotation was scheduled, an extra invitation was sent out, or the
+passing glimpse of a blank paperwork certainly contained the correct
+seals.
+
+Mundane mortals will not question this uncertainty, requiring no roll to
+succeed. Against other creatures, the Solar gains (Essence) dice on
+their Deception roll.
+
+Integrity
 ---------
 
 Leadership
@@ -404,3 +516,23 @@ vs. their Resolve.
 
 If the task would run counter their intimacies, or the task is
 considered unacceptable influence, this charm automatically fails.
+
+Stealth
+-------
+
+### 
+
+<div class="greater_charm">Greater Charms</div>
+
+### Sunlight Bleeding Away
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Stealth 4.
+
+Take a Stealth Maneuver action vs. a Target’s (Wits + Awareness). On
+success, you disappear from their sight and become unseen and an invalid
+Target by them until your next Action.
+
+Multiple targets may be chosen at the same time, but doing so causes a
+(-2) penalty on the Maneuver.

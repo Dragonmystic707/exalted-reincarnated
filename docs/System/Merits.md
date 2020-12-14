@@ -21,7 +21,7 @@ wealth because they were born into it--and typically may only be gained
 or upgraded during character creation, or through the Projects system
 during campaign.
 
-Almost all Merits are location or context-dependant, and so are often
+Almost all Merits are location or context-dependent, and so are often
 restricted based on the nature of the story campaign.
 
 When you purchase Contacts, for example, you must specify what their
@@ -34,7 +34,7 @@ Multiple merits of different locations and types can be purchased.
 <tbody>
 <tr class="odd">
 <td><p><strong>Merit Protection</strong></p>
-<p>Merits cannot be removed or cancelled <em>permanently</em> by the Storyteller without the Player’s permission, and should be considered under the complete ownership of the Player. For example, an Ally should not suddenly turn face and become an antagonist without both the Player agreeing to such a turn of events.</p>
+<p>Merits cannot be removed or canceled <em>permanently</em> by the Storyteller without the Player’s permission, and should be considered under the complete ownership of the Player. For example, an Ally should not suddenly turn face and become an antagonist without both the Player agreeing to such a turn of events.</p>
 <p>Temporary restrictions to merits--such as an Ally being unable to help--is explicitly allowed. However, the Storyteller should always be judicious about such decisions.</p>
 <p>If a Player chooses to lose or downgrade their bought Merits through story means, they are awarded back whatever resources they used to buy or upgrade the Merit.</p>
 <p>The Storyteller may decide to award temporary Merits that are under the full control and whim of the Storyteller--such as a platoon of soldiers as a Command. If appropriate to the story, the Player may purchase control of said Merit at full cost of either xp or Project Points, with Storyteller permission.</p></td>
@@ -46,16 +46,16 @@ Multiple merits of different locations and types can be purchased.
 
 &lt;&lt;TODO&gt;&gt;
 
-**Author’s Note:** Most existing meits in 3e work pretty well with
+**Author’s Note:** Most existing merits in 3e work pretty well with
 minimal translation to Exalted Reincarnated, so translating them over
 properly has been a bit lower on my todo list. For the moment, 3e’s
 merits will be a good placeholder.
 
-Couple addendems to that:
+Couple addendum to that:
 
 -   Mutations are overpriced, knock them down a dot or two.
 
--   Abidextrous, Martial Artist, and Hideous don’t do anything.
+-   Ambidextrous, Martial Artist, and Hideous don’t do anything.
 
 -   Hearthstones should just be considered an Artifact, without any need
     for a Manse.
@@ -86,7 +86,7 @@ Character for guidance.
 **Special Note**: Bonded individuals must each have the Bond merit,
 though the level does not need to be the same.
 
-Your soul has been entwined with another’s, uniting your Destinies. The
+Your soul has been entwined with another, uniting your Destinies. The
 character instinctively knows if their Bond is in danger, and the
 general direction they are in.
 
@@ -101,12 +101,10 @@ Intimacy to socially influence the character.
 You have a network of contacts in a given location and class of society
 willing to give you information.
 
-Once per story, you may *Introduce a Fact* with information gathered by
-your Contacts without expending a Strife Point. The Fact must be
-centered on information your Contacts could have gathered, in place of a
-Speciality.
-
-&lt;&lt;TODO: Give this more
+Every story, you may *Introduce a Fact* with information gathered by
+your Contacts without expending a Strife Point for every point of
+Contacts.. The Fact must be centered on information your Contacts could
+have gathered.
 
 ### Cult(1-5)
 
@@ -140,7 +138,7 @@ willingly or knowingly hurt the player character.
 The Rating of Allies represents both the scale and influence of the
 ally: Rating 1 would be a competent, but still mortal--guard. Rating 3
 would be an Exalt or a medium spanning organization. Rating 5 would be a
-high-ratinging God or an organization such as the Guild.
+high-rating God or an organization such as the Guild.
 
 ### Artifact (2-5)
 
@@ -202,11 +200,11 @@ Most Supernatural Merits require *Storyteller Approval* to purchase.
 
 ### Endowment (3-5)
 
-Gain access to a Supernatural Ability normally outside your perview.
+Gain access to a Supernatural Ability normally outside your purview.
 This must be given as a boon from a supernatural entity that already has
 access to that Supernatural Ability.
 
-Mortal Sorcerors must take this merit.
+Mortal Sorcerers must take this merit.
 
 Exalted characters may grant mortals this merit as a Project. At Essence
 4 they may grant Endowment 3, and at Essence 5 they may grant Endowment
@@ -218,14 +216,14 @@ have one. This mote pool may only be used for this specific Endowment.
 If a Mortal Exalts with this merit, and that supernatural ability is
 granted to them, they are refunded the merit costs.
 
--   **3 –** Use of the Ability, but restricted to a specialty. For
+-   **3—**Use of the Ability, but restricted to a specialty. For
     example, Shapeshifting into only one creature.
 
--   **4 –** Use of the Ability, restricted to a speciality, with the
+-   **4—**Use of the Ability, restricted to a specialty, with the
     ability to purchase its Charms (excluding Greater Charms).
 
--   **5 –** Use of the Ability in its entirety and the ability to
-    purchase its Charms, (excluding Greater Charms).
+-   **5—**Use of the Ability in its entirety and the ability to purchase
+    its Charms, (excluding Greater Charms).
 
 ### Master Stylist (3)
 
@@ -248,7 +246,7 @@ without purchasing it as a merit, they do not get the effect. \]\]
 
 -   Perceive further
 
--   Perceive differently (electrosensing)
+-   Perceive differently (electro-sensing)
 
 -   Native(Mice, cats, etc.)
 
@@ -298,7 +296,7 @@ All Mutations are built with a combination of **Boons** and **Banes**.
 
     1.  The first Flurry of any attack does not pay Impulse.
 
--   (+1) Dextrous Limb(s).
+-   (+1) Dexterous Limb(s).
 
     1.  Allows for grabbing and holding onto items at once. (Humans
         naturally have this boon for their two arms.)
@@ -314,9 +312,9 @@ All Mutations are built with a combination of **Boons** and **Banes**.
     1.  Grants 3x (X) extra Endurance. At level 3 or above, cannot be
         paired with Subtle.
 
--   (+2) Physical Speciality Bonus
+-   (+2) Physical Specialty Bonus
 
-    1.  +1 to a speciality in an ability. May only affect Natural,
+    1.  +1 to a specialty in an ability. May only affect Natural,
         Physical Abilities such as Athletics, Physique, Stealth, and
         Awareness.
 
@@ -355,12 +353,12 @@ Example Mutations
 ### Extra Arms (3)
 
 **Flurry Bonus (+2)  
-Dextrous Limbs (+1)**  
+Dexterous Limbs (+1)**  
 The character possesses more than the normal amount of arms.
 
 ### Enhanced Sight (1)
 
-**Speciality Bonus: Awareness (Vision)**
+**Specialty Bonus: Awareness (Vision)**
 
 ### Fins (2)
 
@@ -376,12 +374,12 @@ The character possesses more than the normal amount of arms.
 
 ### Tail (1)
 
-**Speciality Bonus: Athletics (Balance)**
+**Specialty Bonus: Athletics (Balance)**
 
 ### Tail, Prehensile (2)
 
-**Speciality Bonus: Athletics (Balance)  
-Dextrous Limb(s)**
+**Specialty Bonus: Athletics (Balance)  
+Dexterous Limb(s)**
 
 ### Toxin Resistance (1)
 
@@ -399,7 +397,7 @@ Supernatural Ability(N/A)
 as Sorcery). Typically used for mortals. It’s how you do Thaumaturgist.
 
 You have to convince a God (or other creature of power) to give you this
-ability. It’s not something you can do in a Project---hence (N/A)
+ability. It’s not something you can do in a Project—hence (N/A)
 
 Exalted characters cannot start with this Merit. \]\]
 

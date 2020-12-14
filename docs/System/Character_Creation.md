@@ -170,8 +170,8 @@ Steps
     [Weapons.](weapons-and-armor)  
       
     Unlike other systems, Exalted does not require an extensive list of
-    what equipment or tools the Exalt has on their person---so long as
-    it is reasonable for them to have an item, they are considered to be
+    what equipment or tools the Exalt has on their person—so long as it
+    is reasonable for them to have an item, they are considered to be
     carrying it.
 
 <table>
@@ -226,7 +226,7 @@ Steps
         (Weapon Mod) + Essence
 
     -   **Initiative**  
-        (Cunning + Awareness)/2
+        (Wits + Awareness)/2
 
 <table>
 <tbody>
@@ -298,7 +298,7 @@ is a shared and cooperative experience to bring that about.
 
 ### Gaining Resources
 
-Resources should be sought out and rewarded, based on the Player's
+Resources should be sought out and rewarded, based on the Player’s
 actions in the story—it represents riches to favors to manpower
 gathered.
 

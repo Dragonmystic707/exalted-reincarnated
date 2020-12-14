@@ -17,25 +17,22 @@ The goal is to make a system that focuses more on Player actions, rather than sy
 
 
  Updates and Current Goals
-==========================
+--------------------------
 
 [<u>Changelog History</u>](/changelog)
 
 
-2020-12-12
-==========
+### 2020-12-12
 
 - Reworked Combat subsystem.
 - Improved Website.
 - Improved Workflow/automated release.
 
-Working On:
------------
+### Working On:
 
 - Writing Solar and Universal Charms
 
-Future Goals:
--------------
+### Future Goals:
 
 - Martial Arts
 - Sorcery Spells

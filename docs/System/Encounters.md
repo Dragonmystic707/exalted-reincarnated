@@ -89,7 +89,7 @@ If the roll is not appropriate, the Storyteller should inform the Player
 before they take up the action.)
 
 What is different is that all Threshold Successes of the roll become
-converted into Influence--in addition to the normal outcome of the
+converted into Influence—in addition to the normal outcome of the
 action. These Influence Points are then applied against the *specific*
 Key Issue being addressed.
 
@@ -123,7 +123,7 @@ contested Key Issue.
 <tbody>
 <tr class="odd">
 <td><p><strong>Not Everything is a Gathering Influence Action<br />
-</strong>There are plenty of actions that are helpful, useful, and actionable in the scene--but they aren’t Gathering Influence Actions. For example: Discovering Intimacies.</p>
+</strong>There are plenty of actions that are helpful, useful, and actionable in the scene—but they aren’t Gathering Influence Actions. For example: Discovering Intimacies.</p>
 <p>The general rule of thumb for rulings is “Does this directly, singularly address the Key Issue.” If not, it is not a Gathering Influence Action.</p></td>
 </tr>
 </tbody>
@@ -147,7 +147,7 @@ the nature of Hidden Issues.
 
 Players, in turn, may use an action similar to “Probe Intimacy” to
 divine the nature of the Hidden Issue, with the same rules and
-effects--the Player summarizes a list of actions, events, or behaviors,
+effects—the Player summarizes a list of actions, events, or behaviors,
 and then attempts to divine what the Key Issue behind them is.
 
 As well, it is perfectly possible for Players to gather Influence over a
@@ -164,16 +164,16 @@ has even told them that intimidating a particular Sycophant (with deep
 ties to the Immaculate Order) could be applied to the hidden Key Issue,
 if they wanted.
 
-One Player now decides to use the "Probe for Key Issue," trying to
+One Player now decides to use the “Probe for Key Issue,” trying to
 divine the relationship between the Sycophant and the Trade Prince. They
 succeed on their roll, and the Storyteller responds by noting that the
-Trade Prince "Fears what that man represents," and notes that the man
+Trade Prince “Fears what that man represents,” and notes that the man
 has signs of the Immaculate Order woven into his clothes.
 
 ### Altering/Adding Goals
 
 During the Encounter, the Players may decide they want to alter the
-ultimate goal--perhaps they have decided to push further, or have found
+ultimate goal—perhaps they have decided to push further, or have found
 an alternate goal they prefer.
 
 In both cases, the Storyteller should add an additional Key Issue to
@@ -183,9 +183,9 @@ Issue if the altered goal no longer applies.
 Flow
 ----
 
-An Encounter is not like a Combat Scene--the timing is fluid, and
-actions do not follow a set order, depending primarily on the natural
-flow of the narrative.
+An Encounter is not like a Combat Scene—the timing is fluid, and actions
+do not follow a set order, depending primarily on the natural flow of
+the narrative.
 
 However, a “Round” is still defined: each character has one and only one
 Full Action (Primary + Secondary) in a round.
@@ -210,9 +210,9 @@ Antagonists are operating on their own goal during the scene, and have
 their own Key Issues that they must Gather Influence upon.
 
 Typically, the Antagonist’s Goal and Goals and Key Issues are directly
-related to the Party's--whether in direct opposition, or competing to
-get there first. For convenience sake, these are referred to as the "the
-same" Key Issue.
+related to the Party’s--whether in direct opposition, or competing to
+get there first. For convenience sake, these are referred to as the “the
+same” Key Issue.
 
 However, antagonists having the same Key Issue is not a
 *requirement*--they may be working on a separate Goal for the scene, and
@@ -230,13 +230,13 @@ these start out as Hidden to the Party.
 
 ### Sabotaging Influence
 
-The Antagonist and Party's Influence tracks are independent of each
-other--only a dedicated **Sabotage Influence** Action allows one side to
-disturb the other's Influence.
+The Antagonist and Party’s Influence tracks are independent of each
+other—only a dedicated **Sabotage Influence** Action allows one side to
+disturb the other’s Influence.
 
 This action is nearly identical to a Gather Influence action, save that
 the Threshold Successes of the action are *taken away* from the opposing
-party's influence over the Key Issue.
+party’s influence over the Key Issue.
 
 The Character is not allowed to split the effect of Influence: it is
 either fully a Gathering Action or a Sabotage Action.
@@ -257,18 +257,18 @@ Encounter End
 -------------
 
 The Encounter ends the same Round that all Key Issues become
-*controlled*--though they do not need to be under control all by the
-same *side.*
+*controlled*—though they do not need to be under control all by the same
+*side.*
 
-If a Goal's Key Issues are completely controlled by one side--they will
+If a Goal’s Key Issues are completely controlled by one side--they will
 achieve their Goal.
 
 A Goal with split Key Issue control will find they have a *partial*
-victory--they do not get the full Goal they wanted, but they do not get
+victory—they do not get the full Goal they wanted, but they do not get
 nothing at all.
 
 When weighing a Partial Victory, the Storyteller should lean heavily
-into the uncontrolled Key Issues--why will this bring trouble to them?
+into the uncontrolled Key Issues—why will this bring trouble to them?
 Perhaps they get what they want, but only at a certain cost?
 
 <table>
