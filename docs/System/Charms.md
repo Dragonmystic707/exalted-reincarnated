@@ -115,7 +115,7 @@ least one will hit. Their attack targets Soak instead of DV.
 Type:** Permanent  
 **Mins:** Archery 4
 
-The Exalts Archery attacks are extended. They may now attack at Long
+The Exalts Archery attacks know no bounds. They may now attack at Long
 Range, and at Melee Range for no penalty.
 
 Athletics

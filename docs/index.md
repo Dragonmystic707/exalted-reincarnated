@@ -11,7 +11,7 @@ The goal is to make a system that focuses more on Player actions, rather than sy
 
 **Contributors from and Special Thanks to:**
 
-*Codex, DeProf Gaming, Effendoor, Exthalion, Insuling, Jancarius, Kaleth, Ortha, Redman808, The Red One, SkyBoundFencer, Soarin1, Sponsored by Nobody, Tsurumah, and Zeus*
+*Codex, DeProf Gaming, Effendoor, Exthalion, Insuling, Jancarius, Kaleth, Ortha, Redman808, The Red One, SkyBoundFencer, Soarin1, Sponsored by Nobody, Tsurumah, Wolfblade, and Zeus*
 
 [<u>Development Discord Channel</u>](https://discord.gg/JxmYUSD)
 

@@ -171,21 +171,21 @@ them the momentum, providing **+1 to Base Damage**.
 
 ### Retreating Momentum
 
-**Cost:** 2m; **Mins:** Brawl 2, Athletics 1  
+**Cost:** 2m  
 **Type:** Reflexive  
-**Duration:** Instant
+**Mins:** Brawl 2, Athletics 1
 
 On an incoming attack, the Stylist whirls around to defend themselves,
 enhancing their defenses with their motion. They increase both their DV
 by 3, but must surrender their current position by immediately taking a
-Move Action away from the attacker. Ths consumes their next Secondary
+Move Action away from the attacker. This consumes their next Secondary
 Action.
 
 ### Crimson Leaping Cat
 
-**Cost:** 4m, 1i; **Mins:** Brawl 2, Athletics 1  
+**Cost:** 4m, 1i  
 **Type:** Simple  
-**Duration:** Instant
+**Mins:** Brawl 2, Athletics 1
 
 The Stylists leaps onto their target, stunning them and halting their
 target’s movement.
@@ -196,9 +196,9 @@ Rounds.
 
 ### Prey-Maiming Frenzy
 
-**Cost:** 4m, 1i; **Mins:** Brawl 3, Athletics 2  
+**Cost:** 4m, 1i  
 **Type:** Supplementary  
-**Duration:** Instant
+**Mins:** Brawl 3, Athletics 2
 
 Against a stunned, paralyzed, or otherwise forcefully stationary target,
 the Stylist may make frenzied, brutal strikes, increasing their Base
@@ -208,17 +208,20 @@ Damage by +2.
 
 ### Bone-Shattering Bite
 
-**Cost:** 8m, 3i; **Mins:** Brawl 4, , Athletics 3  
+**Cost:** 8m, 2i  
 **Type:** Reflexive  
-**Duration:** Instant
+**Mins:** Brawl 4, Athletics 3
 
-\[\[Didn’t like this one, need another good idea\]\]
+After delivering a successful Decisive attack that deals at least 3
+points of damage after all calculations have finished, the Stylists may
+inflict a Wound on the Physical Attributes. This can often take the form
+of a broken bone.
 
 ### Angry Predator Frenzy
 
-**Cost:** --; **Mins:** Brawl 5, , Athletics 4  
+**Cost:** --  
 **Type:** Permanent  
-**Duration:** Permanent
+**Mins:** Brawl 5, Athletics 4
 
 The apex Predator stalks the jungle. While in Tiger Style Form, the
 Stylist permanently adds an additional (Strength)/2 to their Base
@@ -227,13 +230,19 @@ Damage.
 As well, whenever the Stylist attacks a stunned, paralyzed, or otherwise
 forcefully stationary target, they may add an additional +2 damage.
 
-&lt;Dervish Dancer Style&gt;
-----------------------------
+Gale of the Siroccan Wastes
+---------------------------
 
-**Performance, Melee  
-**Unarmored, Swords
+**Performance, Melee or Thrown  
+**Unarmored, Swords or Chakram
 
-Long ago in the Great Southern Desert, voices of slaves cried out into
+Practitioners of the style gain +1 Evasion. As a Free Action, they may
+grant Impulse to their allies.
+
+Their movements across the battlefield are ones of grace and beauty,
+quickly followed by great and terrible blows.
+
+Long ago in the Great Siroccan Wastes, voices of slaves cried out into
 the winds of the sands in anguish.
 
 Instead of carrying the voices afar as they had done so many times
@@ -241,7 +250,7 @@ before, the Inescapable Winds themselves listened to the anguish of the
 mortals and became enraged, rushing down from the dunes in a glorious
 storm.
 
-In this moment, the truthes of the southern winds were imparted to these
+In this moment, the truths of the southern winds were imparted to these
 mortals, and the slaves learned to harness the deadly winds to their
 advantage.
 
@@ -251,47 +260,43 @@ With it, the Slaves struck down their cruel master, and its
 practitioners have vowed to come to all who are so oppressed,
 inescapable in its message.
 
-Glorious Dust Dancer Style
---------------------------
+### Performer’s Grace
 
-*Based on Glorious Dust Dancer Style by Melissa (JiveX) from the Perfect
-Lotus v.1*
+**Cost:** 1m  
+**Type:** Reflexive  
+**Mins:** Performance 1
 
-**Performance, Melee**  
-Unarmored, Swords
+The Practitioner gains (Performance)/2 dice on Athletics checks during a
+combat scene, and may always do so to counter environmental hazards such
+as unsteady terrain.
 
-The Martial Artist is one of precise beauty, elegance, and danger. They
-treat the battlefield as just another Performance.
+### Distracting Performance
 
-When in Dust Dancer Form, the Martial Artist gains +3 automatic
-successes when contesting pushback or knockback effects.
-
-### Dance Through Life Attitude
-
-**Cost:** --  
-**Type:** Permanent  
+**Cost:** 2m; 1i  
+**Type:** Supplemental  
 **Mins:** Performance 2
 
-The Dancer gains +1 Evasion DV, and gains +(Essence)/2, rounded up, to
-their Initiative roll.
+The Practitioner’s movements commands the attention of others, slowing
+and confusing their movements while at the same time positioning
+themselves to their death.
 
-### Sandstorm’s Pace Evocation
+On a Performance Maneuver, all enemies with a Resolve less than the
+number of successes and who can see the Dancer, lose 3 Impulse. The
+Practitioner then gains that Impulse, up to a maximum of (Performance)
+per Round.
 
-**Cost:** 2m  
+### Dancer’s Reach
+
+**Cost:** 3m, 2i  
 **Type:** Supplemental  
-**Mins:** Performance 2, Melee 2
+**Mins:** Performance 3, Melee 2 or Thrown 2
 
-&lt;&lt;TODO&gt;&gt;
+The movements of the Dancer are unpredictable on the battlefield,
+allowing the practitioner to move in and out of standard movements
+before their opponent can catch up.
 
-### Rapture and Fascination Pirouette
-
-**Cost:** 4m  
-**Type:** Simple  
-**Mins:** Performance 3
-
-The Dancer distracts their foes with their hypnotic and wondrous
-movements. The dancer may perform a Distract Action against all enemies
-within Medium Range who have visual sight on the Dancer.
+Attacks made with Melee may be done at Short Range, while attacks made
+with Thrown may be done at Close at no penalty.
 
 <div class="greater_charm">Greater Technique</div>
 
@@ -301,10 +306,13 @@ within Medium Range who have visual sight on the Dancer.
 **Type:** Simple; Scene  
 **Mins:** Melee 1
 
-You control the area surrounding you, a dangerous dance of death.
+You control the area surrounding you, a dangerous dance of death that
+lasts through the scene.
 
 Starting with this action, anytime an enemy passes through Short Range
-relative to you lose 2 Impulse, and you gain 2 Impulse.
+they lose 2 Impulse, which you gain.
+
+###  
 
 Crane Style
 -----------
