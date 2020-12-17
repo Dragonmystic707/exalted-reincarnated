@@ -297,8 +297,8 @@ On a Brawl Attack Maneuver higher than the target’s Soak, remove 2 +
 On Feats of Strength, such as breaking through walls or destroying
 scenery, add (Essence)x2 dice.
 
-Decisive Strikes against animate beings (such as Earth elementals and
-golems), add (Essence) dice to Accuracy.
+Additionally, a Decisive Strikes against animate beings (such as Earth
+elementals and golems), add (Essence) dice to the Damage Roll.
 
 ### Force-Delivering Blow
 
@@ -460,7 +460,24 @@ may be convinced that the blades used murder are made of a special
 composition, which is a keystone to their case, despite the blades being
 only slightly out of normal make.
 
-<div class="greater_charm">Greater Charms </div>
+### 
+
+<div class="greater_charm">Greater Charms</div>
+
+### Flashing Quill Atemi
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Deception 4
+
+With just a short moment in possession of a written text, the Exalt may
+insert, expunge, or replace words as they see fit. No mundane means or
+mortal characters will be able decipher the difference between the
+altered content.
+
+An Exalt, God, or other creature of power must successfully contest the
+Guile of the forging Exalt to notice that the document has been altered
+at all—let alone what specifically has been altered.
 
 Integrity
 ---------
@@ -472,16 +489,39 @@ Integrity
 **Mins:** Integrity 1
 
 For the scene, remove any Disadvantages to Resolve or Guile caused by
-pain, illness, or other such physical anguish that the Exalt is enduring
+pain, illness, or other such physical anguish that the Exalt is
+enduring.
+
+### Integrity Protection Prana
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Integrity 2
+
+The Exalt is able to resist the ambient and intoxicating energies of the
+Wyld, and other such places of abundant swirling essence that seek to
+change and alter their body.
+
+This does not protect against any *directed* effects, such as from a
+Fae, or any secondhand effect such as fire. As well, there is a limit to
+this protection in places of pure energy such as the deepest of the
+Wyld.
+
+### Heart-Hardening Meditation
+
+**Cost:** 4m  
+**Type:** Reflexive  
+**Mins:** Integrity 3
+
+Calls to pure emotion are easy to spot, and the Exalt has become trained
+to resist them. Against any Influence Intimacy rolls that employ
+emotion, raise the Exalt’s Resolve by +(Essence).
 
 Leadership
 ----------
 
 Lore 
 ----
-
-Medicine 
---------
 
 Melee
 -----
@@ -499,8 +539,6 @@ Navigation
 
 Performance 
 -----------
-
- 
 
 Physique
 --------
@@ -522,8 +560,16 @@ For non-mundane walls, they may add +(Essence) to this Feat of Strength.
 Politics 
 --------
 
-Socialize 
+Socialize
 ---------
+
+### The Belonging Kind
+
+**Cost:** 4m  
+**Type:** Simple; Scene  
+**Mins:** Deception 3
+
+Ad
 
 Stealth 
 -------

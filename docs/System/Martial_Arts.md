@@ -233,8 +233,9 @@ forcefully stationary target, they may add an additional +2 damage.
 Gale of the Siroccan Wastes
 ---------------------------
 
-**Performance, Melee or Thrown  
-**Unarmored, Swords or Chakram
+**Abilities** Performance, Melee or Thrown  
+**Weapons** Melee (Swords) or Thrown (Chakram)  
+**Armor** Unarmored
 
 Practitioners of the style gain +1 Evasion. As a Free Action, they may
 grant Impulse to their allies.

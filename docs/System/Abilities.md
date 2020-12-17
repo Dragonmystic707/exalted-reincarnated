@@ -224,22 +224,6 @@ example, could both be an (Int + Melee) and (Int + Lore) roll.
 </tbody>
 </table>
 
-### Medicine
-
-Medicine is the diagnosis and healing of the mind, body, and soul. Those
-with high Medicine have an intense knowledge of the bone and muscle
-structure, herbal remedies, as well as precise chakras.
-
-#### Sample Specialties
-
--   Alchemy
-
--   Chi
-
--   Surgery
-
--   Medicinal Plants
-
 ### Melee
 
 Mastery of close range combat that uses a weapon as their primary method

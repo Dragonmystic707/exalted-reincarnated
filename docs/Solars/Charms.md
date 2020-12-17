@@ -22,7 +22,8 @@ Global Charms
 
 With perfect control, the Solar lets loose a ranged attack that follows
 a perfect arc, angle, or even a series of ricochets to reach its target,
-diminishing the target’s Cover by one level.
+diminishing the target’s Cover. Those in Full Cover only gain Partial
+Defense, while those in any less find their cover becoming meaningless.
 
 Archery
 -------
@@ -491,8 +492,93 @@ Mundane mortals will not question this uncertainty, requiring no roll to
 succeed. Against other creatures, the Solar gains (Essence) dice on
 their Deception roll.
 
+<div class="greater_charm">Greater Charms</div>
+
+### Twisted Meaning
+
+**Cost:** 8m  
+**Type:** Simple; Scene  
+**Mins:** Deception 4
+
+With but a few well placed words, the Solar can turn the words of their
+enemies against themselves.
+
+On a successful Deception roll against a target’s Guile, the Solar
+chooses a particular intimacy, topic of discussion, or idea the target
+espouses, and then poisons it with the Solar’s own words.
+
+For the remainder of the scene anytime the target speaks, acts, or
+otherwise tries to communicate the poisoned concept, it will always be
+expressed or interpreted as the Solar dictated: such as true belief
+becoming mocking disdain.
+
 Integrity
 ---------
+
+### Certainty of Form
+
+**Cost:** 2m per target  
+**Type:** Simple; Scene  
+**Mins:** Integrity 2  
+**Prerequisite:** Integrity Protection Prana
+
+The Solar protects not only themselves, but their certainty of will
+extends to others.
+
+Grant the effects of Integrity Protection Prana for the scene to up to
+(Essence) x2 targets, at a cost of 2m per target.
+
+### Sun King Radiance
+
+**Cost:** 1m per target  
+**Type:** Simple; Scene  
+**Mins:** Integrity 3
+
+The Solar radiates their strength to others. Choose up to (Essence) x2
+targets, and one of the Solar’s Intimacies. So long as the target is
+acting in accordance with the Intimacy, they may use the Resolve of the
+Solar instead of their own.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Eminent Paragon Approach
+
+**Cost:** 6m  
+**Type:** Simple; Scene  
+**Mins:** Integrity 4
+
+When acting with direct purpose and in conjunction with one of their
+Intimacies, the Solar’s motions become unimpeded for the Scene. Any who
+has a Resolve less than that the Solar’s Essence will instinctively part
+in silence, and will always allow the Solar to speak first.
+
+### Accord of the Unbreakable Spirit
+
+**Cost:** 8m  
+**Type:** Simple; Week  
+**Mins:** Integrity 5
+
+Choose one of your Intimacies, and spend an hour leading a group of up
+to 10 people in meditation, prayer, or other such mind-cleansing
+activities. For the remainder of the week, the group will consider any
+Influence against the chosen Intimacy to be Unacceptable Influence.
+
+Only one Intimacy may be reinforced at a time through this method.
+
+### Righteous Lion Defense
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Integrity 5
+
+The Exalt becomes one with their own Intimacies, and instinctively knows
+when people are attempting to lead the Solar to take action against
+them, no matter how sweet their words or naive their intention may be.
+
+Additionally, if the Solar ever finds themselves in an impossible
+situation where they would have to betray one of their Intimacies, they
+may spend a Strife Point, and they will find a new, seemingly impossible
+path that they will be able to successfully pursue.
 
 Leadership
 ----------

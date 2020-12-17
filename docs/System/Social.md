@@ -17,10 +17,10 @@ Intimacies
 ----------
 
 All characters have various ideals, desires, and loved ones. An Intimacy
-is a representation of their core being, who the person is--for better
-or for worse.
+is a representation of their core being, who the person is—for better or
+for worse.
 
-An *Intimacy* is a step above a person’s natural likes and dislikes--it
+An *Intimacy* is a step above a person’s natural likes and dislikes—it
 is some aspect that defines them in some way.
 
 Intimacies should be specific and close to your character’s definition
@@ -30,7 +30,7 @@ and goals:
 
 -   “Trust that inner enlightenment will bring about external good”
 
-Intimacies are both a boon and a bane to characters--they have a
+Intimacies are both a boon and a bane to characters—they have a
 resistance to any social influence that runs contrary to that Intimacy
 (+2 Resolve).
 
@@ -58,7 +58,7 @@ considered antithetical to their very nature, such as betraying loyal
 causes, violating self preservation, or harming those dearly loved.
 
 Players, as they know their characters much better than the Storyteller,
-reserve the sole right to declare if Influence is *Unacceptable*--though
+reserve the sole right to declare if Influence is *Unacceptable*—though
 they should justify it to the rest of the group.
 
 ### Defining Intimacy
@@ -66,7 +66,7 @@ they should justify it to the rest of the group.
 Some characters have an Intimacy so central to their character, that it
 is considered their **Defining Intimacy**.
 
-Characters cannot be made to work *against* their Defining Intimacy--it
+Characters cannot be made to work *against* their Defining Intimacy—it
 is Unacceptable Influence.
 
 However, they are much more susceptible to its influence. Any valid
@@ -86,7 +86,7 @@ Intimacies as appropriate to reflect what has happened in the Story.
 <tbody>
 <tr class="odd">
 <td><p><strong>Respect Your Group</strong></p>
-<p>Throughout history people have committed horrific acts against each other--acts which still continue to this day. You may desire to show it as a proper challenge to overcome, to the levels that a character will sink to--even so called heroes. That said:</p>
+<p>Throughout history people have committed horrific acts against each other--acts which still continue to this day. You may desire to show it as a proper challenge to overcome, to the levels that a character will sink to—even so called heroes. That said:</p>
 <p><strong>No Person should ever feel uncomfortable at the table.<br />
 </strong></p>
 <p>At the end of the day, this is a game that you and your friends are playing in modern times, surrounded by modern schools of morality.</p>
@@ -123,8 +123,8 @@ according to their **Scale**. i.e. Crowd gains +2, Village +4, and City
 +6.
 
 A City is the largest Magnitude that a Social Action may naturally
-address--and that in itself requires logistics such as a scaled tower,
-or distributed writings.
+address—and that in itself requires logistics such as a scaled tower, or
+distributed writings.
 
 ### Perform Task
 
@@ -135,7 +135,7 @@ categorized into three tiers:
 
 -   **Inconvenient task**  
     There is at most mild danger, opposition, or time devoted to this
-    task. At most the task will take a few hours--maybe a day.
+    task. At most the task will take a few hours—maybe a day.
 
 -   **Serious Task  
     **(+1 Resolve)  
@@ -169,7 +169,7 @@ This action cannot decrease a permanent **Defining** **Intimacy**.
 #### Emotion
 
 Instead of a particular Intimacy, the character may choose to suppress
-or enflame an *emotion*. This may have unpredictable effects
+or inflame an *emotion*. This may have unpredictable effects
 
 This may be useful when targeting a disparate crowd, or if specific
 intimacies are not known.
@@ -179,7 +179,7 @@ intimacies are not known.
 <tr class="odd">
 <td><p><strong>Players on the Defensive</strong></p>
 <p>The Player Characters are the main characters of the story, not NPCs.</p>
-<p>When on the defensive from Social Actions, the Player still controls how the character acts in response to the roll, not the Storyteller. This is especially relevant for the “Perform Task” Action--the Player is free to interpret how and when they perform this task.</p></td>
+<p>When on the defensive from Social Actions, the Player still controls how the character acts in response to the roll, not the Storyteller. This is especially relevant for the “Perform Task” Action—the Player is free to interpret how and when they perform this task.</p></td>
 </tr>
 </tbody>
 </table>
