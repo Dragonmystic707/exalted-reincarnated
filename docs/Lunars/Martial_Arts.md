@@ -92,4 +92,4 @@ The Lunar may switch between **Large** and **Gigantic** as a Secondary
 Action costing 2m.
 
 Regardless of if the Lunar is Large or Gigantic, they gain an additional
-+2 Base Damage.
++1 Base Damage.
