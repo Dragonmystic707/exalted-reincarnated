@@ -750,7 +750,7 @@ The Category of Armor provides modifers to the Soak or Evasion defenses
 <td><blockquote>
 <p>Light</p>
 </blockquote></td>
-<td>+0</td>
+<td>-1</td>
 <td>+1</td>
 </tr>
 <tr class="odd">

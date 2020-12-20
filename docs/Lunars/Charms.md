@@ -38,9 +38,9 @@ days apart.
 
 The form taken must still adhere to what forms the Lunar could take.
 
-The amount taken is enough to cause a sharp pain to the target--enough
-to be noticed and potentially attributed to a particularly nasty scratch
-or cut, but not so much that it is considered a wound or impairs the
+The amount taken is enough to cause a sharp pain to the target—enough to
+be noticed and potentially attributed to a particularly nasty scratch or
+cut, but not so much that it is considered a wound or impairs the
 target.
 
 ### Changing Plumage Mastery
@@ -53,11 +53,11 @@ The Lunar may alter their known forms into different patterns and
 markings that could plausibly be part of their form, ranging from colors
 to patterning to even texture.
 
-If they have Prey's Skin Disguise, they also may mimic and alter
+If they have Prey’s Skin Disguise, they also may mimic and alter
 clothing.
 
 Accurately Mimicking a *specific* pattern is a contested roll of (Wits +
-Shapeshifting) vs. the target's (Insight + Awareness) defense.
+Shapeshifting) vs. the target’s (Insight + Awareness) defense.
 
 ### Prey’s Skin Disguise
 
@@ -104,8 +104,8 @@ Rating Equal to or less than the Lunar’s.
 **Type:** Permanent  
 **Mins:** Shapeshifting 4
 
-All shapeshifting actions may be performed Instantaneously, and are
-considered Reflexive instead of a Secondary Action.
+All shapeshifting actions may be performed Instantaneously, without mote
+cost, and are considered Reflexive instead of Free Action.
 
 ### Insidious Lunar Transformation
 
