@@ -85,8 +85,8 @@ The Lunar immediately regains (Shapeshifting + Essence) Endurance.
 **Mins:** Physique 5, Shapeshifting 5
 
 Instead of becoming **Large** on entering the form, the Lunar may
-instead become **Gigantic** (+4 Soak, +10 Endurance, -2Evasion, No Fine
-Dexterity/Sneak).
+instead become **Gigantic** (+2 Soak, No Fine Dexterity/Sneak, -2
+Evasion, +5 End).
 
 The Lunar may switch between **Large** and **Gigantic** as a Secondary
 Action costing 2m.

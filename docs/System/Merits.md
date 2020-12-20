@@ -425,4 +425,4 @@ Sizes and their bonuses (will be with Lunars/Mutations): 
 
 -   **Gigantic** +2 Soak, No Fine Dexterity/Sneak, -2 Evasion, +5 End 
 
--   **Titanic** +4 Soak, +10 End, Obvious, no Dex/Sneak, no Evasion
+-   **Titanic** +3 Soak, +10 End, Obvious, no Dex/Sneak, no Evasion

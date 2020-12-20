@@ -186,9 +186,7 @@ they continue to run.
 For every 3 motes spent, reduce incoming damage by 1 point, with no more
 than (Essence) damage reduced per single attack.
 
-### 
-
-### 
+###  
 
 Awareness
 ---------
@@ -260,12 +258,12 @@ done once per action.
 On touching a target, and by successfully rolling (Wits + Awareness) vs
 the target’s (Stamina + Physique), the Exalt can destroy one of the
 classical five senses at their choice. Only one sense of a target may be
-destroyed in a particular scene.
+destroyed per scene.
 
 Undoing this destruction is a Medicine Project of at least 10 PR. Most
 targets will not have this luxury.
 
-### Watchful Justicar’s Eye
+### Watchful Justiciar’s Eye
 
 **Cost:** 4m  
 **Type:** Simple; Scene  
@@ -543,17 +541,7 @@ Performance
 Physique
 --------
 
-### Stone-Shattering Step
-
-**Cost:** 2m  
-**Type:** Supplemental  
-**Mins:** Physique 3
-
-When taking a Move action, the Exalt may burst through any mundane
-wooden wall or barrier, and any mundane stone wall less than 1 meter in
-width.
-
-For non-mundane walls, they may add +(Essence) to this Feat of Strength.
+### 
 
 <div class="greater_charm">Greater Charms </div>
 
@@ -563,13 +551,7 @@ Politics
 Socialize
 ---------
 
-### The Belonging Kind
-
-**Cost:** 4m  
-**Type:** Simple; Scene  
-**Mins:** Deception 3
-
-Ad
+###  
 
 Stealth 
 -------

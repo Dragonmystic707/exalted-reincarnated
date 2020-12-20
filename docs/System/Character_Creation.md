@@ -61,7 +61,7 @@ Techniques, Martial Arts Form, Spells, and Evocations.
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>Lesser Power</p>
+<p>Power</p>
 </blockquote></td>
 <td><blockquote>
 <p>5</p>
@@ -108,7 +108,7 @@ Steps
 4.  **Distribute 26 dots to Attributes**. No single Attribute may be
     lower than 1, nor higher than 5.  
       
-    *Suggested Method:  
+    *Suggested Method:* *  
     *Set all Attributes to 1.  
     Assign each category (Mental, Social, Mental) to be your character’s
     Primary, Secondary, or Tertiary set. Then add:
@@ -286,8 +286,8 @@ RES**, in addition to any Extra XP or RES they may have earned.
 ### Extra XP
 
 The Storyteller may grant extra xp (+2 each) for roleplay. All player
-characters receive this bonus--while one character may initiate it, it
-is a shared and cooperative experience to bring that about.
+characters receive this bonus—while one character may initiate it, it is
+a shared and cooperative experience to bring that about.
 
 -   Reaching a milestone in a player character’s personal story.
 

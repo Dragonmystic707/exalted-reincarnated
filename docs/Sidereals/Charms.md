@@ -20,7 +20,7 @@ Charms
 **Mins:** Performance 2, Serenity 1
 
 On completing a Project worth at least 10 PR, and that results in a
-grandiose ceremony--anything from a newborn’s naming to a funeral--the
+grandiose ceremony—anything from a newborn’s naming to a funeral—the
 Celestial Bureaucracy smiles on those non-Exalted citizens who performed
 in the ceremony, blessing the inhabitants. Crops grow larger, harmony
 and peace is enjoyed, and so on for a month. Any attempts to disrupt

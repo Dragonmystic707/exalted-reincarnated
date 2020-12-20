@@ -73,11 +73,9 @@ Conjuring the deepest Intimacy, the Solar lashes out with a spike of
 Soulfire, launching a Flurry Attack that deals a +(2) damage each, up to
 (Essence) targets
 
-The spike dashes from target to target like lightning, and may continue
+The spike jumps from target to target like lightning, and may continue
 past the Solar’s typically range boundary so long as each target is
 within Short Range of the last.
-
-### 
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -131,8 +129,6 @@ Range of the target location.
 
 For the remainder of the scene, the affected area becomes bathed in
 Soulfire Environmental Damage. (Essence) per Round.
-
- 
 
 Athletics
 ---------
@@ -205,8 +201,8 @@ In combat, Dashes may be taken at no penalty.
 **Mins:** Athletics 5
 
 By using the barest of scenery, be it lampposts, delicate tree branches,
-or even coins the Solar carries with them to launch against, they Solar
-may leap effortlessly through the air.
+or even coins the Solar carries with them to launch against, and may
+leap effortlessly through the air.
 
 ### One Extra Step
 
@@ -214,9 +210,9 @@ may leap effortlessly through the air.
 **Type:** Supplemental (Move)  
 **Mins:** Athletics 5
 
-Once per Scene, the Exalt will find and reach a Position or Target in
-the current Scene by the next Action, so long as a possible path exists.
-This may be repeated in the Scene by spending a Strife Point.
+Once per Scene, the Exalt may reach a Position or Target they can
+observe, so long as a *possible* path exists. This may be repeated in
+the Scene by spending a Strife Point.
 
  
 
@@ -512,6 +508,26 @@ otherwise tries to communicate the poisoned concept, it will always be
 expressed or interpreted as the Solar dictated: such as true belief
 becoming mocking disdain.
 
+### Master Plan Meditation
+
+**Cost: --**  
+**Type:** Reflexive  
+**Mins:** Deception 5
+
+Once per story, the Player may declare their character predicted and
+accordingly planned for a certain event, and have somehow twisted it to
+their own benefit. Evidence provided turns out to be a planted fake;
+eyewitnesses have already been successfully bribed.
+
+This charm represents the Solar’s mastermind-level planning and
+cunning—essentially revealing hidden information to the Players
+themselves. As such, it can not actually change anything that has been
+firmly established, but it can complicate or muddy the veracity of those
+“facts.”
+
+This charm may be used additionally in a story by spending a Strife
+Point.
+
 Integrity
 ---------
 
@@ -597,8 +613,8 @@ which all snap to attention and must obey.
 The Solar targets a Mortal, or a Yu-Shan spirit of Essence less than the
 Solar. So long as they issue a simple command that may be accomplished
 by an individual or a group in the scene, the target must obey. If the
-target is some other entity, the Solar must roll Composure + Leadership
-vs. their Resolve.
+target is some other entity, the Solar must roll (Composure +
+Leadership) vs. their Resolve.
 
 If the task would run counter their intimacies, or the task is
 considered unacceptable influence, this charm automatically fails.

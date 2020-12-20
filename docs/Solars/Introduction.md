@@ -57,13 +57,13 @@ Castes
 
 ### Dawn
 
-When their Anima is at the Burning Level, Dawn Castes gain an additional
-2 Impulse on Maneuvers in a Combat Scene.
-
 Spending a Strife Point, the Dawn immediately instills an emotion of
 Fear, Awe, Intimidation, or similar emotion into up to (Essence)
 targets. This may affect targets that normally do not feel said
 emotions, such as golems and zombies.
+
+**Burning Anima:**  
+Dawn Castes gain an additional 2 Impulse on Maneuvers in a Combat Scene.
 
 *Associated Abilities:* Archery, Awareness, Brawl, Physique, Melee,
 Leadership.
@@ -71,14 +71,14 @@ Leadership.
 ### Zenith
 
 Spending a Strife Point, the Zenith’s flaring anima becomes a weapon
-against all those that shirk from the Sun’s Gaze for the entire Scene..
+against all those that shirk from the Sun’s Gaze for the entire Scene.
 All Creatures of Darkness who end their action within Close Range of the
 Zenith immediately take 5 Damage. Any creature or being who dies in the
 bathing light of the Zenith cannot be raised as a zombie or hungry
 ghost.
 
-*Associated Abilities:* Integrity, Performance, Persuasion, Leadership,
-Physique, Navigation.
+*Associated Abilities:* Integrity, Performance, Leadership, Physique,
+Navigation, Socialize
 
 ### Twilight
 
@@ -88,8 +88,7 @@ and their companions, may take to bring about their desired result in a
 scene. The Storyteller must accept this prediction as fact when crafting
 the scene.
 
-*Associated Abilities*: Awareness, Craft, Lore, Medicine, Politics,
-Sorcery
+*Associated Abilities*: Awareness, Craft, Lore, Politics, Sorcery
 
 ### Night
 
@@ -97,8 +96,9 @@ The Night caste excels at secrecy and subtlety. By Spending a Strife
 Point the Night may choose at any time during the Scene to conceal or
 reveal their Anima Banner, up to Burning Level.
 
+**Burning Anima:**  
 At Bonfire Level, they may instead curl their Anima inwards to obscure
-all discerning characteristics--the existence of an Exalt is undeniable,
+all discerning characteristics—the existence of an Exalt is undeniable,
 but no possible form of perception can reveal their identity.
 
 *Associated Abilities*: Athletics, Awareness, Deception, Navigation,
@@ -117,14 +117,14 @@ willingly made by Non-Player Characters. The NPC will not be able to
 break said oath.
 
 *Associated Abilities*: Deception, Integrity, Leadership, Lore,
-Persuasion, Politics.
+Politics, Socialize.
 
 Strife Expression
 -----------------
 
 ### Solar Excellency
 
-The Solar chooses a Favored (or Supernal) Ability and then **doubles**
+The Solar chooses a Favored or Supernal Ability and then **doubles**
 their permanent value for the remainder of the Scene. This effect also
 carries over into any derived **Static Values.**
 
@@ -152,11 +152,11 @@ Creatures of Darkness
 Solars have powers that are harmful to *Creatures of Darkness*. These
 are any Spirits, demons, or other supernatural creatures whose bodies
 and nature recoil at the sight of the sun. It is not some sort of
-judgement of how good and moral the creature is, rather just a statement
+judgment of how good and moral the creature is, rather just a statement
 of what powers sustain them.
 
 Creatures of Darkness are any denizens of the **Underworld**, such as
-ghosts, spectres, and zombies. The Exaltations **Abyssals** and
+ghosts, specters, and zombies. The Exaltations **Abyssals** and
 **Liminals** also fall under this category.
 
 Demons that descend from the shadowy **Ebon Dragon** are also considered

@@ -13,9 +13,6 @@ next_title: Martial Arts
 Charms
 ======
 
-Lesser Charms
--------------
-
 ### Familiar Face Confusion
 
 **Cost:** 5m  

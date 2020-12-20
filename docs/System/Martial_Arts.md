@@ -30,7 +30,7 @@ are presented in.</u>**
 #### Form Weapons and Armor
 
 As well, Martial Arts are restricted by what sorts of **weapons** and
-**armor** the Stylist uses--after all, it would be all but impossible to
+**armor** the Stylist uses—after all, it would be all but impossible to
 take the light, dancing maneuvers of Snake Style in Heavy Plate!
 
 When using multiple styles, Stylist may start to use an array of
@@ -46,7 +46,7 @@ what they need.
 ### Weapons
 
 \[\[Need to give a listing of example weapons types. These will be used
-for Attack Ability Specialities…
+for Attack Ability Specialties…
 
 **Melee**
 
