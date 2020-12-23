@@ -18,7 +18,7 @@ The aim of this project is to provide a new system that is simplier to learn, bu
  * **Encounters:** A system has been created to help guide non-combat encounters, so that your courtroom scene or "Picard Speech" can have the same weight as combat.
  * **Projects:** A downtime system that lets the characters change the world at large.  
 
-For a more in-depth breakdown, see [About](/About).
+For a more in-depth breakdown, see [About](/about).
 
 
 **Contributors from and Special Thanks to:**
