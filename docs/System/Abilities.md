@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Abilities
-group_order: 1
+group_order: 2
 order: 5
 prev_url: Attributes
 prev_title: Attributes
@@ -20,11 +20,15 @@ Five (5).
 There are two types of abilities: **Natural, and Supernatural.** Natural
 Abilities are those that any mortal (and thus Exalt) has the capacity to
 learn, improve, and perform upon. Characters may always roll with a
-**Natural** **Ability,** even if they have Rating Zero (0) in it.
+**Natural** **Ability.**
 
 **Supernatural Abilities** are those that only may be accessed by
 dealing with the supernatural aspects of the world. Sorcery, Necromancy,
 Shapeshifting, and control of Fire are all examples.
+
+Characters must be somehow inducted into a Supernatural Ability to
+purchase dots in the ability, or roll with it. Often, access will be
+granted by Exaltation, though there are other means of being inducted.
 
 Specialties
 -----------

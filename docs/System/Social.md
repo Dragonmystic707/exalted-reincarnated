@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Social
-group_order: 1
+group_order: 2
 order: 6
 prev_url: Abilities
 prev_title: Abilities

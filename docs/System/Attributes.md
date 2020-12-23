@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Attributes
-group_order: 1
+group_order: 2
 order: 4
 prev_url: General_System
 prev_title: General System

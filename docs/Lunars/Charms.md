@@ -2,7 +2,7 @@
 layout: page
 base_url: Lunars
 title: Charms
-group_order: 3
+group_order: 4
 order: 2
 prev_url: Introduction
 prev_title: Introduction

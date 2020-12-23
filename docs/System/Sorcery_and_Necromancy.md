@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Sorcery and Necromancy
-group_order: 1
+group_order: 2
 order: 12
 prev_url: Charms
 prev_title: Charms

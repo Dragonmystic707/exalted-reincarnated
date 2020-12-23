@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Charms
-group_order: 1
+group_order: 2
 order: 11
 prev_url: Powers
 prev_title: Powers

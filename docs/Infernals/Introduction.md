@@ -2,7 +2,7 @@
 layout: page
 base_url: Infernals
 title: Introduction
-group_order: 5
+group_order: 6
 order: 1
 next_url: Charms
 next_title: Charms

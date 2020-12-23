@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Encounters
-group_order: 1
+group_order: 2
 order: 7
 prev_url: Social
 prev_title: Social

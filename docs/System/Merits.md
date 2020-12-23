@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Merits
-group_order: 1
+group_order: 2
 order: 15
 prev_url: Martial_Arts
 prev_title: Martial Arts

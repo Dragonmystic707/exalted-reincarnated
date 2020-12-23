@@ -8,6 +8,8 @@ import re
 import os
 import os.path as path
 
+start_index = 2
+
 core = {
     "folder": "System",
     "base_url": "System",
@@ -231,7 +233,7 @@ def main(args):
         print("Converting Summary to pdf...")
         subprocess.Popen(soffice_cmd).wait()
 
-    group_order = 1
+    group_order = start_index
     # Create the release
     for dir_dict in src_list:
         folder_name = dir_dict["folder"]

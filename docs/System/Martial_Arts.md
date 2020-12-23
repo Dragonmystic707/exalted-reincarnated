@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Martial Arts
-group_order: 1
+group_order: 2
 order: 14
 prev_url: Spells
 prev_title: Spells

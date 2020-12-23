@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Powers
-group_order: 1
+group_order: 2
 order: 10
 prev_url: Projects
 prev_title: Projects

@@ -2,7 +2,7 @@
 layout: page
 base_url: Solars
 title: Charms
-group_order: 2
+group_order: 3
 order: 2
 prev_url: Introduction
 prev_title: Introduction

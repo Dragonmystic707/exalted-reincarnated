@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Antagonists
-group_order: 1
+group_order: 2
 order: 16
 prev_url: Merits
 prev_title: Merits

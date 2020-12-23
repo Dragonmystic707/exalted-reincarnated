@@ -2,7 +2,7 @@
 layout: page
 base_url: Nocturnals
 title: Martial Arts
-group_order: 6
+group_order: 7
 order: 3
 prev_url: Charms
 prev_title: Charms

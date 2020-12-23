@@ -2,7 +2,7 @@
 layout: page
 base_url: Sidereals
 title: Introduction
-group_order: 4
+group_order: 5
 order: 1
 next_url: Charms
 next_title: Charms

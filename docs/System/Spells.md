@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Spells
-group_order: 1
+group_order: 2
 order: 13
 prev_url: Sorcery_and_Necromancy
 prev_title: Sorcery and Necromancy

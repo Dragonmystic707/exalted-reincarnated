@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Projects
-group_order: 1
+group_order: 2
 order: 9
 prev_url: Combat
 prev_title: Combat

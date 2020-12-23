@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: General System
-group_order: 1
+group_order: 2
 order: 3
 prev_url: Character_Creation
 prev_title: Character Creation
@@ -541,23 +541,25 @@ warriors known to be in the general area would make sense for a Player
 whose character is a swordsman, but not one whose character is a
 sorcerer, for example.
 
-As is the case with **Turn the Scene**, introducing a Fact cannot
-*directly* solve the scene.
-
-#### Turn the Scene
+#### *Charm-like Effect*
 
 In addition to their Exalt and Caste Strife Expressions, all players may
-use a strife point to **Turn the Scene** (in their Favor.)
+use a strife point to create a charm-like effect, which will turn the
+scene in their favor. Inspiration can be drawn from any existing
+non-Greater charm, or it can be custom tailored for the situation.
 
-There is no roll required: the Player describes the actions their
-character does, and it simply happens.
+When using a Strife, the action should simply happen without a roll. So
+long as a character *should* be able to do something, and it is *cool*
+for them to do so, it *does.* In this way, it can be thought of as a
+more powerful Stunt.
 
-So long as a character *should* be able to do something, and it is
-*cool* for them to do so, it *does.* In this way, Turning the Scene can
-be thought of as a more powerful Stunt.
+The only exception being if it *directly* targets an Exalt-level
+antagonist, in which case a contested roll may be used.
 
-There are a few guiding restrictions to keep in mind, similar to a
-Stunt:
+### Strife Limitations
+
+There are a few guiding restrictions to keep in mind with Strifes,
+similar to a Stunt:
 
 -   Other character’s actions cannot be dictated: only those under
     control of the Player’s.

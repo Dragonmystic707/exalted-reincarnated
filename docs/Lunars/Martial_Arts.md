@@ -2,7 +2,7 @@
 layout: page
 base_url: Lunars
 title: Martial Arts
-group_order: 3
+group_order: 4
 order: 3
 prev_url: Charms
 prev_title: Charms

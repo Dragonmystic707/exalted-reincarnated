@@ -2,7 +2,7 @@
 layout: page
 base_url: System
 title: Combat
-group_order: 1
+group_order: 2
 order: 8
 prev_url: Encounters
 prev_title: Encounters
