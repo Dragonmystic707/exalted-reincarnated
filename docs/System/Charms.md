@@ -477,6 +477,23 @@ An Exalt, God, or other creature of power must successfully contest the
 Guile of the forging Exalt to notice that the document has been altered
 at all—let alone what specifically has been altered.
 
+### Mind-Wiping Gaze
+
+**Cost:** 6m  
+**Type:** Reflexive; Scene  
+**Mins:** Deception 5
+
+The Exalt pierces the target with a gaze that penetrates the very soul,
+extinguishing the flame of memories.
+
+Interrupt a target taking a Social Influence action, or who is
+attempting to communicate in a way. On a successful Deception vs. Guile
+roll, the target loses their thoughts and memories regarding their
+action and immediately fails on their action. In addition, they cannot
+remember to pick the task up again until after the scene.
+
+The given target may only be affected by this once per scene.
+
 Integrity
 ---------
 
@@ -517,6 +534,8 @@ emotion, raise the Exalt’s Resolve by +(Essence).
 
 <div class="greater_charm">Greater Charms</div>
 
+###  
+
 Leadership
 ----------
 
@@ -556,6 +575,10 @@ row.
 The Exalt may command across large groups with great ease. When
 commanding a Group to Perform a Task, the Exalt may counter up to
 (Essence) bonus Resolve gained from being in a Group.
+
+<div class="greater_charm">Greater Charms</div>
+
+###  
 
 Lore 
 ----

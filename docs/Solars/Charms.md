@@ -599,25 +599,90 @@ path that they will be able to successfully pursue.
 Leadership
 ----------
 
+### Peril-Demanding Haste
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Leadership 1
+
+On successfully convincing a target to perform an Inconvenient task, the
+Solar immediately Instills an emotion of “impending peril.” The target
+will complete the task in half of the normal time, if at all physically
+possible.
+
+### Underling-Promoting Touch
+
+**Cost:** 6m  
+**Type:** Simple  
+**Mins:** Leadership 3
+
+The Solar may uplifts a servant to act in their stead, designating their
+role as a ruler, guide, or other form of leadership to a group of
+people. While the target is acting in given role, and in accordance with
+the Solar’s Intimacies, all who gaze on them will instinctively know
+they work on behalf of the Solar.
+
+In addition, the target may use the Leadership, Guile, and/or Resolve of
+the Solar in place of their own while operating in their given capacity.
+
+The Solar may only designate one target at a time for this effect. They
+may choose to rescind their blessing, or perform a 10 Res. Project to
+make this effect permanent, either of which would allow them to bless a
+new target.
+
 <div class="greater_charm">Greater Charms</div>
+
+### Majestic Radiant Presence
+
+**Cost:** 6m  
+**Type:** Reflexive  
+**Mins:** Leadership 4
+
+None may speak before the Lawgiver’s voice has been heard.
+
+Interrupt a target before or during a social action, such as speaking,
+performing, or using Social Influence. The Solar may immediately take
+their own social action, forcing the target to wait until the Solar is
+done.
+
+Any who observes this interruption with a Guile less than the Solar’s
+Essence will develop a temporary negative Intimacy of “disdain” towards
+the target—including the target themselves.
+
+### Fear-Banishing Aura
+
+**Cost:** 6m  
+**Type:** Reflexive; Scene  
+**Mins:** Leadership 4
+
+Allies need only look to the Solar to steady their nerves and keep their
+wits together.
+
+Immediately banish fear, panic, and other similar emotions from all
+allies within Medium Range of the Solar, and force any future attempts
+to fail for the remainder of the scene.
+
+This Charm does not protect against the Dawn Caste’s Strife.
 
 ### Commanding Words
 
 **Cost:** 6m  
-**Type:** Simple  
-**Mins:** Leadership 4
+**Type:** Simple; Scene  
+**Mins:** Leadership 5
 
 Drawing from their divine rule, a Solar makes a quick command, from
 which all snap to attention and must obey.
 
 The Solar targets a Mortal, or a Yu-Shan spirit of Essence less than the
-Solar. So long as they issue a simple command that may be accomplished
-by an individual or a group in the scene, they will perform it to the
-best of their abilities. If the target is some other entity, the Solar
-must roll (Composure + Leadership) vs. their Resolve.
+Solar. Any inconvenient task the Solar commands will be performed to the
+best of their abilities, without question nor needed roll.
 
-If the task would run counter their intimacies, or the task is otherwise
-considered unacceptable influence, this charm automatically fails.
+If the target is some other entity, the Solar must succeed on a
+(Composure + Leadership) vs. Resolve roll for this to take effect.
+
+If a given task would run counter their intimacies, or the task is
+otherwise considered unacceptable influence, this charm automatically
+fails and the target is broken from the Solar’s influence.
 
 Stealth
 -------
