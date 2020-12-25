@@ -45,7 +45,7 @@ their respective spells.
 Solars gain an expanded Peripheral Mote pool: (Essence) + 5 additional
 Motes, bringing the total to:
 
-**Peripheral** 20 + (Essence) x3
+**Peripheral** (Essence) x3 + 20
 
 ### Defining Intimacy
 

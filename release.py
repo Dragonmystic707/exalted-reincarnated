@@ -203,7 +203,7 @@ def zip_downloads():
         
         for pdf_file in pdf_list:
             print("-",pdf_file)
-            zip_obj.write( os.path.join(downloads_dir, pdf_file))
+            zip_obj.write( os.path.join(downloads_dir, pdf_file), arcname=pdf_file)
 
 def export_pdf(folder_name):
     folder_dir = path.join(src_dir, folder_name)

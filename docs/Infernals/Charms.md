@@ -128,4 +128,8 @@ impossible for the target to do, and the target cannot be bound to the
 task for more than one month.
 
 A character cannot be the beneficiary of this charm more than once a
-year. The Infernal cannot target themselves with this charm.
+year.
+
+Player characters, including the Infernal themselves, are restricted to
+only gaining 20 Resources from this Charm, and not on anything that
+costs xp such as Attributes or Abilities.

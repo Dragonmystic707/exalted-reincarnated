@@ -612,11 +612,11 @@ which all snap to attention and must obey.
 
 The Solar targets a Mortal, or a Yu-Shan spirit of Essence less than the
 Solar. So long as they issue a simple command that may be accomplished
-by an individual or a group in the scene, the target must obey. If the
-target is some other entity, the Solar must roll (Composure +
-Leadership) vs. their Resolve.
+by an individual or a group in the scene, they will perform it to the
+best of their abilities. If the target is some other entity, the Solar
+must roll (Composure + Leadership) vs. their Resolve.
 
-If the task would run counter their intimacies, or the task is
+If the task would run counter their intimacies, or the task is otherwise
 considered unacceptable influence, this charm automatically fails.
 
 Stealth

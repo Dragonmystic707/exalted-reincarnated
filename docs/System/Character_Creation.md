@@ -98,7 +98,7 @@ Steps
     fail their actions, or otherwise veer them off of their intended
     course.  
       
-    The Great Curse is often influenced by their Exaltation--Solars tend
+    The Great Curse is often influenced by their Exaltation—Solars tend
     to have a flaw of Ego, Lunars by their loss of identity, and
     Sidereals by their complicated relationship with Fate, for example.
 
@@ -165,9 +165,8 @@ Steps
 1.  Spend **30 xp** as desired.
 
 2.  Specify any relevant **Equipment** the character carries, such as
-    [A](weapons-and-armor)[rmor
-    and](/System/Combat/#armor-and-weapons)
-    [Weapons.](weapons-and-armor)  
+    [Armor and
+    Weapons.](../../../../../Dragonmystic/exalted-reincarnated/src/System/Armor%20and%20Weapons%7Coutline)  
       
     Unlike other systems, Exalted does not require an extensive list of
     what equipment or tools the Exalt has on their person—so long as it
@@ -187,10 +186,10 @@ Steps
     Record the following calculated static values
 
     -   **Personal Motes**  
-        10 + (Essence)
+        (Essence) + 10
 
     -   **Peripheral Motes**  
-        15 + (Essence) x2
+        (Essence)x2 + 15
 
     -   **Guile**  
         (Composure + Deception)/2
@@ -202,7 +201,7 @@ Steps
     Assign the static values used (most commonly) during a Combat Scene.
 
     -   **Endurance**  
-        5+Athletics+Physique + (Stamina) x2 +(Essence) x3
+        (Essence)x3 + (Stamina)x2 + Athletics + Physique + 5
 
     -   **Defense Value (DV)**  
         Greater of Evasion or Soak
@@ -308,6 +307,61 @@ player, and requires anywhere from a Scene to a full Story to acquire.
 Each source of Resource should be added together when combined. For
 example, by having access to the wealth and income of an entire city
 (20) for a Season (50) would result in 70 RES.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p><strong>Resources</strong></p>
+</blockquote></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Merit</strong></td>
+<td><strong>Resource</strong> Cost</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>10</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>20 (1Key)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>50 (2Key)</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tbody>

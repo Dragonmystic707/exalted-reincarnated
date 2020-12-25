@@ -86,7 +86,7 @@ Intimacies as appropriate to reflect what has happened in the Story.
 <tbody>
 <tr class="odd">
 <td><p><strong>Respect Your Group</strong></p>
-<p>Throughout history people have committed horrific acts against each other--acts which still continue to this day. You may desire to show it as a proper challenge to overcome, to the levels that a character will sink to—even so called heroes. That said:</p>
+<p>Throughout history people have committed horrific acts against each other—acts which still continue to this day. You may desire to show it as a proper challenge to overcome, to the levels that a character will sink to—even so called heroes. That said:</p>
 <p><strong>No Person should ever feel uncomfortable at the table.<br />
 </strong></p>
 <p>At the end of the day, this is a game that you and your friends are playing in modern times, surrounded by modern schools of morality.</p>

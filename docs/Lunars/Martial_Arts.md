@@ -32,11 +32,11 @@ The Beastman gains the size of **Large** (+1 Soak, +3 Endurance, and -2
 successes on Fine Dexterity/Sneak rolls). This does not affect Lunars
 who are already of size Large (or bigger).
 
-If the Beastman’s animal form has natural armor, such as a carapace or
-scales, they may gain an additional +1 Soak at the cost of -1 Evasion.
+If the animal form has natural armor, such as a carapace or scales, they
+may gain an additional +1 Soak at the cost of -1 Evasion.
 
 Aside from this, other mutations still follow the **Hybrid Body Rules**
-(including their alteration from the Hybrid Body Rearrangement)
+(including their alteration from the Hybrid Body Rearrangement).
 
 ### Hide-Hardening Technique
 
@@ -93,3 +93,13 @@ Action costing 2m.
 
 Regardless of if the Lunar is Large or Gigantic, they gain an additional
 +1 Base Damage.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Dangeous, but Obvious</strong></p>
+<p>The Deadly Beastman Style is one of the most devastating ways a Lunar has to tear down their foes, but there is no way to hide the nature of the Lunar while using it.</p>
+<p>Lunars will need to pick up another Martial Arts, or choose not to activate this style, if they have need of hiding thier true nature.</p></td>
+</tr>
+</tbody>
+</table>

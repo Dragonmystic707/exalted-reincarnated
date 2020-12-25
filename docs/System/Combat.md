@@ -22,6 +22,17 @@ constantly testing each other, looking for openings, and strategizing
 through Maneuvers, until they have built up enough Impulse to strike
 with a Decisive Blow.
 
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Combat, Subtlety, and the Reveal of Exalted Nature</strong></p>
+<p>Combat Scenes allows greater latitude in what a character can do before their Exalted nature is revealed to the world; the chaos and confusion caused by the scene will often cover for the actions of all combatants.</p>
+<p>Generally speaking, only something as extreme as a Burning Anima level, or something overtly magical such as shapeshifting might get people to wonder if the combatants are Exalts.</p>
+<p>Setup your expectation with players before a scene starts: if something is likely to tip their hand, warn them. Don’t unexpectedly punish your players for being awesome.</p></td>
+</tr>
+</tbody>
+</table>
+
 Combat Values
 -------------
 
@@ -667,15 +678,15 @@ Endurance
 
 Endurance is a value measuring how much fight a character has left in
 them. Once a character’s Endurance Pool has been exhausted, either
-through pain, disheartenment, or whatever means are employed, the
+through pain, disheartening, or whatever means are employed, the
 character is considered out of the battle.
 
 ### Defeat
 
-Characters who are knocked out of battle are typically not dead--they
-are simply at the mercy of the opposing characters.
+Characters who are knocked out of battle are typically not dead—they are
+simply at the mercy of the opposing characters.
 
-Non-recurring antagonistic characters' fates should be left to the
+Non-recurring antagonistic characters’ fates should be left to the
 players. Depending on the narrative type of damage (slashing, stabbing,
 etc.) these minor characters may perish without aid.
 
@@ -698,7 +709,7 @@ the members of the Exalted.
 
 If they are intended to be a recurring antagonist, they should always
 manage to get away, though suffering a major blow to their own
-plans--they will often be forced to retreat and lick their wounds.
+plans—they will often be forced to retreat and lick their wounds.
 
 If you force a retreat on these Antagonists, you must bribe your players
 each with a [**<u>Strife Point</u>**](/System/General_System/#strifes) as compensation.
@@ -778,15 +789,15 @@ The Category of Armor provides modifers to the Soak or Evasion defenses
 </tbody>
 </table>
 
--   **Medium** and **Heavy** armors provide increasing Soak protection,
-    but at the cost of more limited mobility. Most traditional armors,
-    such as breastplates, chain shirts, and articulated plate fit into
-    the Medium or Heavy Category
-
 -   **Light** armors are those that have been tailor made to aid in
     flexible movement—above and beyond what normal clothes will do.
     Typically, light armors will consisted of padded gloves, tightly
     wound fabrics, and other cushions to assist in acrobatic movements.
+
+-   **Medium** and **Heavy** armors provide increasing Soak protection,
+    but at the cost of more limited mobility. Most traditional armors,
+    such as breastplates, chain shirts, and articulated plate fit into
+    the Medium or Heavy Category
 
 ### Weapons
 

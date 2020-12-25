@@ -515,8 +515,47 @@ Calls to pure emotion are easy to spot, and the Exalt has become trained
 to resist them. Against any Influence Intimacy rolls that employ
 emotion, raise the Exalt’s Resolve by +(Essence).
 
+<div class="greater_charm">Greater Charms</div>
+
 Leadership
 ----------
+
+### Rulership-Gazing Eye
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Leadership 1
+
+With but a glance, the leader of a group can be immediately recognized
+if present, even if that leader is acting through a proxy. If they are
+not present, the Exalt recognizes this fact.
+
+This charm immediately succeeds against any mundane group interaction,
+but will require a Leadership vs. Guile roll on other groups and
+leaders, such as Exalts.
+
+### Command-Breaking Stance
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Leadership 2
+
+A skilled commander knows what brings drilled groups together, and what
+can break them apart.
+
+The Exalt breaks up a group of Lesser Foes, causing their next action to
+be lost as they reform. This cannot be done to the same group twice in a
+row.
+
+### Organization of Command
+
+**Cost:** 4m  
+**Type:** Supplemental  
+**Mins:** Leadership 3
+
+The Exalt may command across large groups with great ease. When
+commanding a Group to Perform a Task, the Exalt may counter up to
+(Essence) bonus Resolve gained from being in a Group.
 
 Lore 
 ----

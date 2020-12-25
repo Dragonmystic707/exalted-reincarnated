@@ -51,11 +51,11 @@ After rolling their Dice Pool, the player needs to count the number of
 dice that are showing digits equal or greater than the Target Number of
 7. Examine the results of six rolled dice:
 
-**1, 4, 4, 7, 8 , 8**
+**1, 4, 4, 7, 8, 8**
 
 The values of 7, 8, and 8 are greater than or equal to (7), so they are
 each counted as a success, meaning this particular roll would result in
-4Successes.
+3 Successes.
 
 ### Double 10’s
 
@@ -125,8 +125,6 @@ pool for the player-controlled thief would be Dexterity + Stealth.
 storyteller simply takes the average: (Wits + Awareness)/2. Should the
 thief match or surpass that number, they successfully sneak past. Should
 they not, the guard discovers them*.
-
-### Common Rolls
 
 Drawbacks
 ---------

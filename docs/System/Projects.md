@@ -29,7 +29,7 @@ Resources
 Projects require a certain number of **Resources (RES)** to complete.
 This resource is a generalized representation of everything from labor,
 physical materials, knowledge, and the like that can be applied to the
-Project. Once applied to the project, RES is permanently consumed--while
+Project. Once applied to the project, RES is permanently consumed—while
 the labor force may still be there, perhaps payment toward them ran dry,
 or they can no longer delay tending to their crops.
 
@@ -88,17 +88,17 @@ Anything that doesn’t match can’t be done.\]\]
 example, the character might decide to recruit *Followers*, establish a
 network of *Contacts*, or make an *Artifact*.
 
-Common Sense, and the Storyteller's approval, should be applied when
-gaining or improving a merit. People generally don't simply just grow
-*Extra Limbs* out of the blue...unless they are in the deepest recesses
-of the Wyld.
+Common Sense, and the Storyteller’s approval, should be applied when
+gaining or improving a merit. People generally don’t simply just grow
+*Extra Limbs* out of the blue…unless they are in the deepest recesses of
+the Wyld.
 
 If a character is *improving* a Merit to a higher rating, they pay the
 *difference* in RES, Keystones, and time between the ratings. For
 example, improving *Contacts* from Rating 1 to Rating 2 would be the
 difference between a Minor and Basic Project: 4 RES and 6 days.
 
-Obstruction Rolls 
+Obstruction Rolls
 -----------------
 
 All projects, save Basic Projects, will have at least one Obstruction
@@ -370,11 +370,11 @@ Destruction of a Projects focuses more on doing so *safely*, and in a
 controlled manner.
 
 -   **Minor** (-2 to Scale). The repairs and/or changes needed to be
-    made are significant enough to warrent attention, but will not
+    made are significant enough to warrant attention, but will not
     consume the Character endlessly.
 
--   **Major** (-1 to Scale). There is significant damage or resitance to
-    your changes.
+-   **Major** (-1 to Scale). There is significant damage or resistance
+    to your changes.
 
 -   **Monumental** (-0 to Scale). It would be the same amount of effort
     to repair and or alter the Project as it would be to create a new
