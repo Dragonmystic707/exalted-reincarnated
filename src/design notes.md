@@ -4,8 +4,6 @@
 * Make separate check box for Supernal attribute?
 * Is there a place for Anima powers? I didn’t see one.
 * How to spend Resources is confusing. Move the table up—they will assume 1 Res = 1 dot otherwise.
-* Why make people buy the initial dot? It does allow for more scope for diversity; 0-5 vs 1-5, which is nice.
-    * I don't. The first dot is free. This means the explanation is cofusing.
 * From the character creation rules, it sounds like buying a martial art is mandatory. Could it be phrased more clearly?
 
 **Make Spots for:**
@@ -33,4 +31,5 @@ General Notes
 Done
 ----
 
-* Download All folder is multiply nested, you have to click through a lot to get to the files
+* Fixed folder structure of zip file.
+* Made Attribute selection clearer

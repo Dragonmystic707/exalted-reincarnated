@@ -62,7 +62,7 @@ immediately dissipates after activation.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Terminating Active Powers</strong></p>
+<td><p>Terminating Active Powers</p>
 <p>An Exalt may willfully terminate a Power earlier than its stated duration (unless specifically stated otherwise.) However, they must then pay the activation cost again if they want to reuse the power.</p></td>
 </tr>
 </tbody>
@@ -96,9 +96,9 @@ first. If this exists, the prerequisite charm will be listed here.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Timing Conflicts</strong></p>
+<td><p>Timing Conflicts</p>
 <p>If there is ever a timing conflict, such as with two Reflexive Charms going off at once, the resolution goes according to the <em>defender’s choice</em>.</p>
-<p>If that is still unclear, there should be a contested roll using the relevant <em>Finesse</em> Attribute.</p></td>
+<p>If that is still unclear, there should be a contested roll using the relevant <em>Finesse</em> Attribute: Dexterity, Insight, or Cunning.</p></td>
 </tr>
 </tbody>
 </table>
@@ -136,9 +136,9 @@ These powers are inherently personal, and each expression will vary from
 individual to individual: those that are listed are simply
 generalizations and categorization for easy shorthand.
 
-Typically, a character does not know they are using a specific charm
-with a specific name--they simply know that their instinctual channeling
-of their essence will produce the desired effect.
+Typically, a character does not know they are using a specific charm: it
+is simply an instinctual channeling of essence to produce the desired
+effect.
 
 ### Greater Charms
 

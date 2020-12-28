@@ -129,9 +129,9 @@ be offended by it.
 ### Ally (1-5)
 
 Allies are individuals, groups, or organizations that a character may
-call upon to aid them in their endeavors--proven to be an asset.
+call upon to aid them in their endeavors—proven to be an asset.
 
-Allies are not at the whim and mercy of the character--they have their
+Allies are not at the whim and mercy of the character—they have their
 own lives and concerns to deal with, but they can be assumed to not
 willingly or knowingly hurt the player character.
 

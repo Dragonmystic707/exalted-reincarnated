@@ -25,10 +25,7 @@ An Encounter starts with a **Goal** for the scene: what the Players
 intend the outcome of the scene to be. If there is no clearly defined
 goal, or that goal is unreachable, an Encounter should not start.
 
-On the southern shores of the Inland Sea party decides that they will
-need a full caravan to traverse the Burning Sands.. There is a local
-Trade-Prince whom they think they can convince to finance and supply
-them this caravan.
+> On the southern shores of the Inland Sea party decides that they will need a full caravan to traverse the Burning Sands.. There is a local Trade-Prince whom they think they can convince to finance and supply them this caravan.
 
 Key Issues
 ----------
@@ -55,23 +52,13 @@ Issue may be revealed at their discretion.
 
 -   Complicated 15 Influence
 
-The Storyteller decides there are 3 Key Issues preventing the
-Trade-Prince from funding the caravan:
+> The Storyteller decides there are 3 Key Issues preventing the Trade-Prince from funding the caravan:
+> 
+> 1. Needing a return on investment. (Simple). Understandably, the Trade-Prince will need to be convinced it is worth his while to dedicate so many resources to this goal. This Key Issue can be easily guessed, so is revealed on Encounter start.
 
-1\. Needing a return on investment. (Simple). Understandably, the
-Trade-Prince will need to be convinced it is worth his while to dedicate
-so many resources to this goal. This Key Issue can be easily guessed, so
-is revealed on Encounter start.
-
-2\. Antagonistic Sycophants (Simple). The Trade-Prince has surrounded
-himself with sycophants, who deeply despise any perceived change to
-their position. The Party must silence their influence.
-
-3\. Fear of the Immaculate Order (Average) (Hidden). Through the party’s
-past actions, the Trade-Prince has secretly caught on that they are
-Anathema. He does not personally care, but he will need a way to make
-sure that the Immaculate Order will not find out about this deal--or at
-least be convinced of this fact.
+> 2. Antagonistic Sycophants (Simple). The Trade-Prince has surrounded himself with sycophants, who deeply despise any perceived change to their position. The Party must silence their influence.
+> 
+> 3. Fear of the Immaculate Order (Average) (Hidden). Through the party’s past actions, the Trade-Prince has secretly caught on that they are Anathema. He does not personally care, but he will need a way to make sure that the Immaculate Order will not find out about this deal—or at least be convinced of this fact.
 
 ### Gathering Influence
 
@@ -95,12 +82,7 @@ Key Issue being addressed.
 
 **Influence** = Successes - Difficulty
 
-The Socialite of the group, a Solar Eclipse, moves to address the
-“Antagonist Sycophants” Key Issue by suppressing the Intimacy the
-Trade-Prince has of them. He performs a “Influence Intimacy” Social
-Action, rolling 5 Success against the Prince’s 3 Resolve. He gains 2
-Influence Points against the Key Issue, as well as successfully lowering
-the Prince’s Intimacy.
+> The Socialite of the group, a Solar Eclipse, moves to address the “Antagonist Sycophants” Key Issue by suppressing the Intimacy the Trade-Prince has of them. He performs a “Influence Intimacy” Social Action, rolling 5 Success against the Prince’s 3 Resolve. He gains 2 Influence Points against the Key Issue, as well as successfully lowering the Prince’s Intimacy.
 
 Once enough Influence has been gathered against a Key Issue, it is
 considered *resolved*, and the Players are one step closer to their
@@ -122,8 +104,8 @@ contested Key Issue.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Not Everything is a Gathering Influence Action<br />
-</strong>There are plenty of actions that are helpful, useful, and actionable in the scene—but they aren’t Gathering Influence Actions. For example: Discovering Intimacies.</p>
+<td><p>Not Everything is a Gathering Influence Action</p>
+<p>There are plenty of actions that are helpful, useful, and actionable in the scene—but they aren’t Gathering Influence Actions. For example: Discovering Intimacies.</p>
 <p>The general rule of thumb for rulings is “Does this directly, singularly address the Key Issue.” If not, it is not a Gathering Influence Action.</p></td>
 </tr>
 </tbody>
@@ -137,7 +119,7 @@ After all, there is only so much you can intimidate bystanders to do in
 one Scene.
 
 This limitation should be clearly expressed to the Players so that they
-may take this factor into account--either by changing their approach, or
+may take this factor into account—either by changing their approach, or
 finding new sources of Influence for the scene.
 
 ### Hidden Key Issues
@@ -157,18 +139,9 @@ A Player Intentionally “going in blind” is taking a risk--if their
 assumption is wrong on the Issue, they do not gain any Influence Points
 for their roll, no matter how many Threshold Successes they roll.
 
-The Players have managed to completely avoid uncovering the nature of
-the Third Key Issue. So far, the Storyteller has dropped hints that the
-Trade Prince may know of their true nature in their conversations, and
-has even told them that intimidating a particular Sycophant (with deep
-ties to the Immaculate Order) could be applied to the hidden Key Issue,
-if they wanted.
-
-One Player now decides to use the “Probe for Key Issue,” trying to
-divine the relationship between the Sycophant and the Trade Prince. They
-succeed on their roll, and the Storyteller responds by noting that the
-Trade Prince “Fears what that man represents,” and notes that the man
-has signs of the Immaculate Order woven into his clothes.
+> The Players have managed to completely avoid uncovering the nature of the Third Key Issue. So far, the Storyteller has dropped hints that the Trade Prince may know of their true nature in their conversations, and has even told them that intimidating a particular Sycophant (with deep ties to the Immaculate Order) could be applied to the hidden Key Issue, if they wanted. 
+> 
+> One Player now decides to use the “Probe for Key Issue,” trying to divine the relationship between the Sycophant and the Trade Prince. They succeed on their roll, and the Storyteller responds by noting that the Trade Prince “Fears what that man represents,” and notes that the man has signs of the Immaculate Order woven into his clothes.
 
 ### Altering/Adding Goals
 
@@ -210,12 +183,12 @@ Antagonists are operating on their own goal during the scene, and have
 their own Key Issues that they must Gather Influence upon.
 
 Typically, the Antagonist’s Goal and Goals and Key Issues are directly
-related to the Party’s--whether in direct opposition, or competing to
-get there first. For convenience sake, these are referred to as the “the
+related to the Party’s—whether in direct opposition, or competing to get
+there first. For convenience sake, these are referred to as the “the
 same” Key Issue.
 
 However, antagonists having the same Key Issue is not a
-*requirement*--they may be working on a separate Goal for the scene, and
+*requirement*—they may be working on a separate Goal for the scene, and
 they have tangential or completely unrelated Key Issues. Typically,
 these start out as Hidden to the Party.
 
@@ -223,7 +196,7 @@ these start out as Hidden to the Party.
 <tbody>
 <tr class="odd">
 <td><strong>Abstract Antagonists<br />
-</strong>It is easy to recognize an antagonist when it is an individual. However, Antagonists can be anything--from mobs of people to an avalanche to Time itself closing off a Key Issue.</td>
+</strong>It is easy to recognize an antagonist when it is an individual. However, Antagonists can be anything—from mobs of people to an avalanche to Time itself closing off a Key Issue.</td>
 </tr>
 </tbody>
 </table>

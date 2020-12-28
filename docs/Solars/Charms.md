@@ -610,6 +610,15 @@ Solar immediately Instills an emotion of “impending peril.” The target
 will complete the task in half of the normal time, if at all physically
 possible.
 
+### Empowering Shout
+
+**Cost:** 3m  
+**Type:** Simple  
+**Mins:** Leadership 2
+
+Grant +2 to a target character’s Ability score (or +1 for a static
+Value). This lasts for a Turn.
+
 ### Underling-Promoting Touch
 
 **Cost:** 6m  
@@ -629,6 +638,15 @@ The Solar may only designate one target at a time for this effect. They
 may choose to rescind their blessing, or perform a 10 Res. Project to
 make this effect permanent, either of which would allow them to bless a
 new target.
+
+### Enemy-Castigating Solar Judgment
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Leadership 3
+
+Supplement a social action against a Creature of Darkness with an
+additional +3 dice.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -683,6 +701,92 @@ If the target is some other entity, the Solar must succeed on a
 If a given task would run counter their intimacies, or the task is
 otherwise considered unacceptable influence, this charm automatically
 fails and the target is broken from the Solar’s influence.
+
+Lore
+----
+
+### Order-Affirming Blow
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Lore 2
+
+The Solar knows the effects of the Wyld, Underworld, and other such
+places that might try to forcibly change the targets.
+
+So long as the effects have occurred within the last week, and not
+deeply ingrained into the soul of the subject, the Solar may banish the
+changes.
+
+### Will-Shattering Riddle
+
+**Cost:** 5m  
+**Type:** Simple  
+**Mins:** Lore 2
+
+The Solar Poses a terrible Paradox to the target, forcing them to be
+involved and distracted solving it.
+
+Roll a contested (Int. + Lore). If the target fails, they suffer from
+Exhaustion to their Mental category, and lose 2 dice from any Awareness
+rolls for the remainder of the scene.
+
+Only one such forced Exhaustion may be on a target per Scene.
+
+### Truth-Rendering Gaze
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Lore 3
+
+Roll (Insight + Lore) against a target’s Guile. On a success, learn
+insight on the nature of a creature. Much like “Read Intentions,” the
+Player asks a question that the Storyteller must answer truthfully, if
+cryptically.
+
+### Harmonious Academic Methodology
+
+**Cost:** 6m  
+**Type:** Simple; Week  
+**Mins:** Lore 4
+
+Targeting a non-Player individual, organization, or other such group,
+the Solar may grant their knowledge and resources. The target(s) gain +2
+dice on a particular type of task that the Solar is designates.
+
+This effect lasts for a week.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Inspection of Flaw
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Lore 4
+
+Once per Session, the Player may Introduce a Fact about a target
+creature, institution, or series of events that may be exploited to the
+character’s advantage without spending a Strife Point.
+
+Additional uses per Session may be done by spending a Strife Point per
+usage.
+
+### Wyld-Shaping Technique
+
+**Cost:** 6m  
+**Type:** Simple  
+**Mins:** Lore 5
+
+The Solar imposes their will upon the Wyld, and it must obey.
+
+Once a story, gain +15 Resources. As well, the Solar may create projects
+in the Wyld without suffering any Opposition Modifiers from the land.
+
+Creating Manses and other places of Power from the Wyld becomes a valid
+Project.
+
+Melee
+-----
 
 Stealth
 -------

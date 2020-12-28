@@ -148,7 +148,7 @@ at a time, and may choose to discontinue their charges at will.
 Focusing on a specific, known memory, the Sorcerer makes a (Wits +
 Sorcery) roll vs the Target’s Guile.
 
-If successful, they place an pure-cut emerald (Resources 2) on the
+If successful, they place a pure-cut emerald (Resources 2) on the
 forehead of their target, and siphon the memory away into the gem. The
 target may no longer relive the memory. Anyone with the gem may spend
 1m, clasp it to their forehead and relive it.

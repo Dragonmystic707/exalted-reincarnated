@@ -25,7 +25,7 @@ with a Decisive Blow.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Combat, Subtlety, and the Reveal of Exalted Nature</strong></p>
+<td><p>Combat, Subtlety, and the Reveal of Exalted Nature</p>
 <p>Combat Scenes allows greater latitude in what a character can do before their Exalted nature is revealed to the world; the chaos and confusion caused by the scene will often cover for the actions of all combatants.</p>
 <p>Generally speaking, only something as extreme as a Burning Anima level, or something overtly magical such as shapeshifting might get people to wonder if the combatants are Exalts.</p>
 <p>Setup your expectation with players before a scene starts: if something is likely to tip their hand, warn them. Don’t unexpectedly punish your players for being awesome.</p></td>
@@ -345,21 +345,16 @@ repeated over and over—*they would cease to be a Stunt.
 
 The Stunt Effects should be treated as examples, not an exhausted list.
 
-*The Night Caste crashes through the window, barrelling into the Ogre,
-forcing it to stumble back from the blow.*
+> *The Night Caste crashes through the window, barrelling into the Ogre, forcing it to stumble back from the blow.*
+> 
+> Here, the Player is stunting a \[Dexterity + Athletics\] Maneuver with a Knockback effect. They have 10 dice, (+2 from the stunt), and roll 5 Successes. 
 
-Here, the Player is stunting a \[Dexterity + Athletics\] Maneuver with a
-Knockback effect. They have 10 dice, (+2 from the stunt), and roll 5
-Successes.
-
-They immediately gain 5 Impulse for their Maneuver, regardless. Then,
-(since this is a Knockback), they compare their 5 Successes against the
-Ogre’s DV (4). The Ogre is knocked back as desired.
+> They immediately gain 5 Impulse for their Maneuver, regardless. Then, (since this is a Knockback), they compare their 5 Successes against the Ogre’s DV (4). The Ogre is knocked back as desired.
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Charms, Stunts and Maneuvers</strong></p>
+<td><p>Charms, Stunts and Maneuvers</p>
 <p>There are some Charms that have the same effects as Maneuver Stunts. If a character chooses the same stunt effect as a charm, the effect can be doubled—whether it be in magnitude of the effect, duration, or other methodology.</p></td>
 </tr>
 </tbody>
@@ -400,7 +395,7 @@ Exalt has, is how much Endurance the target loses.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Dice Adders and Damage Pool</strong></p>
+<td><p>Dice Adders and Damage Pool</p>
 <p>Unless a Power or mechanic specifically states otherwise, they do not adjust or change a Damage Pool.</p>
 <p>Drawbacks <em>may explicitly</em> be taken on a Damage Roll.</p></td>
 </tr>
@@ -458,8 +453,8 @@ conflict.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Maneuvers and Free Actions</strong></p>
-<p>Free Actions (namely Movement) can be encorporated into a Maneuver. Vaulting across the battlefield to get closer to the target is a perfectly valid Maneuver.</p>
+<td><p>Maneuvers and Free Actions</p>
+<p>Free Actions (namely Movement) can be incorporated into a Maneuver. Vaulting across the battlefield to get closer to the target is a perfectly valid Maneuver.</p>
 <p>In these cases the Free Action is <em>combined</em> with the Maneuver, and still follows the same restrictions—namely that another Free Action of the same type cannot be made on the turn.</p></td>
 </tr>
 </tbody>
@@ -480,10 +475,10 @@ Partial Cover.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Range and Maneuvers</strong></p>
-<p>By definition, Maneuver and their Stunts are dependant on judgement calls from the Storyteller.</p>
+<td><p>Range and Maneuvers</p>
+<p>By definition, Maneuver and their Stunts are dependent on judgment calls from the Storyteller.</p>
 <p>Range only matters on Maneuvers that have contact between combatants—a character slamming into another is considered a Melee Attack, while dropping a chandelier on another would be considered a Ranged Attack.</p>
-<p>Maneuvers that don’t have contact—such as anlyzing the battlefield—don’t care about Range and can be performed regardless of distance. There may be other restrictions though: Intimidating an opponent by hurling insults can only work if the opponent can <em>hear</em> said insults, for example.</p></td>
+<p>Maneuvers that don’t have contact—such as analyzing the battlefield—don’t care about Range and can be performed regardless of distance. There may be other restrictions though: Intimidating an opponent by hurling insults can only work if the opponent can <em>hear</em> said insults, for example.</p></td>
 </tr>
 </tbody>
 </table>
@@ -499,7 +494,7 @@ Round).
 ### Move
 
 As a Free Action, move one Range Band closer or further away from a
-target. You may not Move while in Melee Range of an enemey—instead you
+target. You may not Move while in Melee Range of an enemy—instead you
 must take a Disengage Action.
 
 ### Dash
@@ -570,8 +565,8 @@ attacks is also blocked from attacking others for the same reason.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Alternate Rules:<br />
-Battlemaps and Absolute Positioning</strong></p>
+<td><p>Alternate Rules:<br />
+Battlemaps and Absolute Positioning</p>
 <p>Sometimes a particular battle, or even the Player Group will prefer the tactical feel of minatures on a battlemap. This is perfectly fine, and it is simple enough to convert to Absolute Positioning with the following changes:</p>
 <ul>
 <li><p>A typical battlemap will use hexagonal spaces (hexes), each representing 5 meters.</p></li>
@@ -913,7 +908,7 @@ or a thrown weapon.
 
 &lt;&lt;TODO&gt;&gt;
 
-Artifacts combat equipement can get one of the following:
+Artifacts combat equipment can get one of the following:
 
 -   +1 Soak or Evasion (no more than +2 total)
 

@@ -26,7 +26,7 @@ although the most widely known is **Emerald, Sapphire,** and
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Dynasts and Sorcery</strong></p>
+<td><p>Dynasts and Sorcery</p>
 <p>It is known that Dragonblooded do not reach past the First Circle: that power is corruptive, created by the Anathema to tempt and trap those that seek power for the sake of power--save for the pure and righteous Empress herself.</p>
 <p>So says the Immaculate philosophy.</p>
 <p>But there is no such declaration. Careful Monks, when reviewing the passages so often quoted as proof, will find it lacking. Proper historical context and translations from Old Realm will unravel this as an “incorrect surface level reading.”</p>
@@ -63,7 +63,7 @@ the respective circle.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Moteless Casting</strong></p>
+<td><p>Moteless Casting</p>
 <p>There are alternate ways to cast Spells, whether it be through purpose built Wonders, long, elaborate rituals, or even physically rearranging the Essence lines of Creation itself.</p>
 <p>Practically speaking, none of these methods can or will be used by Player Characters--Sorcerous Motes are faster and easier in every way--but it can be an interesting narrative tool for a crafty Storyteller.</p></td>
 </tr>
@@ -133,7 +133,7 @@ requiring a **Project.**
 
 All Spells, once unraveled, have a chance of their discarded magics
 being cast aside in wild effects. A single **Challenge Roll** should be
-performed for the unravelling to see if a side-effect occurs.
+performed for the unraveling to see if a side-effect occurs.
 
 Initiation
 ----------
@@ -142,11 +142,11 @@ While all Exalts *can* become Sorcerers, it does not come naturally to
 them. They must first be **Initiated** into the mysteries of the world
 by creatures of power, or life-changing events. Their link to power
 becomes their guide through all three circles throughout their
-life--swapping tutors is unheard of.
+life—swapping tutors is unheard of.
 
 While it is almost always the case, the Master teaching and Initiating
 their pupil does not need to be of the Circle the student is being
-inducted into--they don’t even necessarily have to be a sorcerer
+inducted into—they don’t even necessarily have to be a sorcerer
 themselves.
 
 The First Circle Sorcery can be learned at Essence 0. While extremely
@@ -183,11 +183,16 @@ will result in a permanent change in the character.
 <tbody>
 <tr class="odd">
 <td><p><strong>Raksi and the Third Circle</strong></p>
-<p>By all accounts, Raksi should be a Third Circle Sorcerer--and yet she is not.</p>
+<p>By all accounts, Raksi should be a Third Circle Sorcerer—and yet she is not.</p>
 <p>She has not completed her Third Circle Initiation. Whatever her third Task was, she has refused to complete it. Instead she chooses to rail against the task, seeking desperately another way.</p></td>
 </tr>
-<tr class="even">
-<td><p><strong>Sidereals and Sorcery</strong></p>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Sidereals and Sorcery</p>
 <p>Sidereals have the time, resources, and training available to them to become highly skilled Sorcerers-and many of them pursue this path quite readily.</p>
 <p>However, while Sorcery is a part of the workings of Creation, The Second and <em>especially</em> the Third Circle Spells are rather rough on the Loom of Fate. More often than not, these overt, flashy, and incredibly disruptive actions run counter to all of Sidereal methodology.</p>
 <p>For this reason the Sidereal Host, particularly the Bronze Faction, encourages Sidereals to always try a Fate-Based solution first, and discourage new Sidereals from advancing up the circles “before they are ready for the responsibility.”</p></td>

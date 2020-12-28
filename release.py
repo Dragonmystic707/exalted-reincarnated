@@ -181,11 +181,21 @@ def procces_dir(dir_dict, group_order):
                 # Replace the intra-document hyperlinks
                 link_str = r"\(#[^#\n]*\)"
                 data = re.sub(link_str, replace_link, data)
-
+              
                 # Replace any Header 10 (Greater Charms) with the class
                 # Github cannot process anything above Header 6
                 header_str = r"##########\s*(.*)"
                 header_replace = r"""<div class="greater_charm">\1</div>"""
+                data = re.sub(header_str, header_replace, data)
+
+                # Replace any Header 9 (Examples) with the "indent" figure
+                header_str = r"#########\s(.*)"
+                header_replace = r"""> \1"""
+                data = re.sub(header_str, header_replace, data)
+
+                # Make sure any blank spaces between example paragraphs get that indentation too
+                header_str = r"(> .*\n)\n(> .*)"
+                header_replace = r"""\1> \n\2"""
                 data = re.sub(header_str, header_replace, data)
 
                 with open(path.join(new_dir, file_name + ".md"), "w", encoding="utf8") as w:

@@ -16,9 +16,6 @@ Character Creation
 Aspects of the character are measured in **Dot Ratings**, the higher
 number representing greater proficiency.
 
-A **Power** is a general term to refer to Charms, Martial Arts
-Techniques, Martial Arts Form, Spells, and Evocations.
-
 <table>
 <tbody>
 <tr class="odd">
@@ -83,6 +80,81 @@ Techniques, Martial Arts Form, Spells, and Evocations.
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p><strong>Merit Cost</strong></p>
+</blockquote></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Merit</strong></td>
+<td><strong>Resource</strong>s</td>
+<td>Keystones</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>10</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>20</p>
+</blockquote></td>
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>50</p>
+</blockquote></td>
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+A **Power** is a general term that refers to Charms, Martial Arts Form
+and Techniques, Sorcerous Spells, and Evocations.
+
 Steps
 -----
 
@@ -105,11 +177,10 @@ Steps
 3.  Choose Three [**<u>Intimacies</u>**](/System/Social/#intimacies), which
     represent your devotions or relations to ideas, people, or history.
 
-4.  **Distribute 26 dots to Attributes**. No single Attribute may be
-    lower than 1, nor higher than 5.  
+4.  Set all Attributes to 1, then **distribute 17 additional dots to
+    Attributes**. No single Attribute may be higher than 5.  
       
-    *Suggested Method:* *  
-    *Set all Attributes to 1.  
+    *Suggested Method:*  
     Assign each category (Mental, Social, Mental) to be your character’s
     Primary, Secondary, or Tertiary set. Then add:
 
@@ -140,8 +211,14 @@ Steps
     ranging from animal styles to esoteric and strange supernatural
     styles.
 
-7.  Gain 15 **Resources**, which may immediately be spent on Merits.
-    During character creation, Obstruction rolls are ignored.
+7.  Gain 15 **Resources**, which may immediately be spent on Merits.  
+      
+    With special Storyteller permission, the character may start with a
+    high-ranked merit that is central to their character, such as an
+    Artifact. The character will start in Resource debt, and the
+    Keystone(s) will take the form of an unresolved plot hook that
+    revolves around that Merit. See [Projects](/System/Projects/#projects) for more
+    details.
 
 8.  Gain **3 Lesser Powers,** each in an Ability that is **Favored.**
 
@@ -150,7 +227,7 @@ Steps
 <tr class="odd">
 <td><p><strong>Summary</strong></p>
 <p>Before spending xp, double check that your character has the following minimums:</p>
-<p><strong>26</strong> Attribute Points</p>
+<p><strong>26</strong> Attribute Points, (including free lvl. 1 dots)</p>
 <p><strong>14</strong> Favored Ability Points</p>
 <p>(<strong>+1</strong> from Exaltation/Caste)</p>
 <p><strong>6</strong> Non-Favored Ability Points</p>
@@ -307,61 +384,6 @@ player, and requires anywhere from a Scene to a full Story to acquire.
 Each source of Resource should be added together when combined. For
 example, by having access to the wealth and income of an entire city
 (20) for a Season (50) would result in 70 RES.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><strong>Resources</strong></p>
-</blockquote></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Merit</strong></td>
-<td><strong>Resource</strong> Cost</td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>1</p>
-</blockquote></td>
-<td><blockquote>
-<p>2</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>2</p>
-</blockquote></td>
-<td><blockquote>
-<p>5</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>3</p>
-</blockquote></td>
-<td><blockquote>
-<p>10</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>4</p>
-</blockquote></td>
-<td><blockquote>
-<p>20 (1Key)</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>5</p>
-</blockquote></td>
-<td><blockquote>
-<p>50 (2Key)</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
 
 <table>
 <tbody>

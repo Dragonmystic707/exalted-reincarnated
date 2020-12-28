@@ -117,14 +117,11 @@ the character’s strengths is perfectly valid!
 
 Social actions against groups of people, rather than individuals, suffer
 from the lack of intimacy—in addition to the natural logistical issues.
+Any character in a group of a magnitude of “Crowd” or larger gains +2 to
+their Resolve.
 
-Characters in groups of magnitude of “Crowd” or larger gain Resolve
-according to their **Scale**. i.e. Crowd gains +2, Village +4, and City
-+6.
-
-A City is the largest Magnitude that a Social Action may naturally
-address—and that in itself requires logistics such as a scaled tower, or
-distributed writings.
+Crowds of magnitude “City” or larger cannot be addressed by a single
+roll.
 
 ### Perform Task
 
@@ -169,15 +166,14 @@ This action cannot decrease a permanent **Defining** **Intimacy**.
 #### Emotion
 
 Instead of a particular Intimacy, the character may choose to suppress
-or inflame an *emotion*. This may have unpredictable effects
-
-This may be useful when targeting a disparate crowd, or if specific
-intimacies are not known.
+or inflame an *emotion*. This may have unpredictable effects. This may
+be useful when targeting a disparate crowd, or if specific intimacies
+are not known.
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Players on the Defensive</strong></p>
+<td><p>Players on the Defensive</p>
 <p>The Player Characters are the main characters of the story, not NPCs.</p>
 <p>When on the defensive from Social Actions, the Player still controls how the character acts in response to the roll, not the Storyteller. This is especially relevant for the “Perform Task” Action—the Player is free to interpret how and when they perform this task.</p></td>
 </tr>

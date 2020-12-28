@@ -431,19 +431,19 @@ After studying a mannerism of a target for a short time, such as
 handwriting, voice, or even walking pattern, the Exalt may replicate it
 as needed for a week, gaining (Essence) additional dice to do so.
 
-### Words within Words
+### Hidden Meaning
 
 **Cost:** 3m  
 **Type:** Supplemental  
 **Mins:** Deception 2
 
-By speaking with specific phrases, deliberate pauses, and coded words,
-you may convey a message or socially influence a single target in a
-group.
+The Exalt hides their true meaning in inflections, allusions, and other
+roundabout ways of speaking, writing, or other methods of communication.
 
-Those attentively listening may roll an (Insight + Awareness) roll
-against your Guile to notice that a coded message has been spoken. Like
-all defenses, you may deliberately choose to fail.
+The intended contact will be the only one who can divine the true
+meaning of the conversation, but others may make a contested roll
+(Cunning + Awareness) vs. the Exalt’s (Cunning + Lore) to notice that
+there is a coded message.
 
 ### False Pursuit
 
@@ -566,6 +566,15 @@ The Exalt breaks up a group of Lesser Foes, causing their next action to
 be lost as they reform. This cannot be done to the same group twice in a
 row.
 
+### Direct Orders
+
+**Cost:** 4m  
+**Type:** Reflexive  
+**Mins:** Leadership 2
+
+The Exalt may take charge of a group of allied Lesser Foes, directing
+their action, and granting them +4 dice to do so.
+
 ### Organization of Command
 
 **Cost:** 4m  
@@ -573,15 +582,129 @@ row.
 **Mins:** Leadership 3
 
 The Exalt may command across large groups with great ease. When
-commanding a Group to Perform a Task, the Exalt may counter up to
-(Essence) bonus Resolve gained from being in a Group.
+commanding a Group to Perform a Task, the Exalt may counter the bonus
+Resolve gained from being in a Group.
 
 <div class="greater_charm">Greater Charms</div>
 
-###  
+### Fury Inciting Speech
 
-Lore 
+**Cost:** 6m  
+**Type:** Simple  
+**Mins:** Leadership 4
+
+The Exalt immediately Instills anger, rage, or a similar emotion into
+any mortal or sapient creature that can observe the Exalt with an
+Essence Rating less than their own.
+
+### Worshipful Lackey Acquisition
+
+**Cost:** 8m  
+**Type:** Reflexive; Day  
+**Mins:** Leadership 5
+
+After successfully completing an Encounter Scene with all Key Issues
+under their Party’s Control, those who observed the scene become
+enthralled by the Exalt, willing to nearly anything.
+
+Any who has a Resolve less than the Exalt’s Essence gains a positive
+Intimacy towards the Exalt for the next day, and will perform any
+Inconvenient tasks when asked without the need of a roll.
+
+### Prophet-Uplifting Evocation
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Leadership 5
+
+You may now perform Projects to grant the [Endowment](endowment) Merit
+to others, up to rank 4, of an Ability the Exalt knows.
+
+Lore
 ----
+
+### Strange Tongue Communication
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Lore 1
+
+Bypassing any language barriers, the Exalt can communicate a
+self-contained concept to the target. The concept may be moderately
+complicated, such as steps to follow, but will not grant any ability
+necessary to enact the concept.
+
+### Concept-Forming Thought
+
+**Cost:** 3m  
+**Type:** Simple  
+**Mins:** Lore 2
+
+The Exalt can manifest their ideas into a concise, easily-understandable
+format with no chance of misunderstanding.
+
+Simple ideas and commands can be immediately transcribed onto a physical
+document and replicated. More complex thoughts, like entire tombs, need
+to be transcribed over a course of a night.
+
+### Sagacious Reading of Intent
+
+**Cost:** 3m  
+**Type:** Simple  
+**Mins:** Lore 2
+
+After analyzing a written (or otherwise recorded) work, immediately
+glean insight into the writer’s state of mind, general well-being, and
+motivations behind the writing. If they were trying to hide such
+matters, the character may roll (Insight + Lore) with +(Essence) bonus
+Dice against the author’s Guile.
+
+### Endless Depths of Knowledge
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Lore 3
+
+Once per Session, Introduce a Fact related to one of the character’s
+Specialties without using a Strife Point.
+
+### Flowing Mind Methodology
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Lore 3
+
+On purchasing this charm, designate a non-player character that has a
+significant connection to the Exalt, such as an Ally or a Ward.
+
+Whenever the Exalt gains xp, the targeted character will keep pace,
+staying at around ½ of the total xp the Exalt has.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Absence of Thought
+
+**Cost:** 8m  
+**Type:** Simple  
+**Mins:** Lore 4
+
+Sometimes, knowledge can be a burden. On touching a character, and on a
+successful (Int. + Lore) vs. Resolve roll, purge a thought, idea, or
+other-self contained concept from the target’s mind.
+
+This absence of knowledge is guaranteed for a Day, after which it may
+return based on the Storyteller’s discretion.
+
+### Prophet of Seventeen Cycles
+
+**Cost:** 8m  
+**Type:** Simple  
+**Mins:** Lore 4
+
+Once a Session, the Player may introduce a complication into an
+antagonist’s plans, plots, or ongoing Project. This operates under the
+same general principles of “Introducing a Fact:” the declaration must be
+self-consistent with what has been shown to operate in this world.
 
 Melee
 -----
@@ -613,7 +736,16 @@ Politics
 Socialize
 ---------
 
-###  
+### Excellent Friend Approach
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Socialize 1
+
+The charms of the Exalt are hard to resist. So long as there is no
+specific reason against it, Mortals and beings with Essence lower than
+the Exalt’s will be friendly and cordial to them, even if they have just
+met.
 
 Stealth 
 -------

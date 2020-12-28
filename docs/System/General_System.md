@@ -49,7 +49,7 @@ simply allow the non-specified part to be determined by the Storyteller.
 
 After rolling their Dice Pool, the player needs to count the number of
 dice that are showing digits equal or greater than the Target Number of
-7. Examine the results of six rolled dice:
+(7). Examine the results of six rolled dice:
 
 **1, 4, 4, 7, 8, 8**
 
@@ -117,14 +117,9 @@ The Storyteller should take the average number of successes for
 non-player characters as ½ their Dice pool, which is their \[Att +
 Ability +/- Modifiers\]
 
-There are two characters in the scene: a guard and a thief. The guard is
-keeping watch, and the thief is attempting to sneak past them. The dice
-pool for the player-controlled thief would be Dexterity + Stealth.
-
-*Since this is a NPC, and there are no dice-affecting powers active, the
-storyteller simply takes the average: (Wits + Awareness)/2. Should the
-thief match or surpass that number, they successfully sneak past. Should
-they not, the guard discovers them*.
+> There are two characters in the scene: a guard and a thief. The guard is keeping watch, and the thief is attempting to sneak past them. The dice pool for the player-controlled thief would be Dexterity + Stealth.
+> 
+> Since this is a NPC, and there are no dice-affecting powers active, the storyteller simply takes the average: (Wits + Awareness)/2. Should the thief match or surpass that number, they successfully sneak past. Should they not, the guard discovers them.
 
 Drawbacks
 ---------
@@ -235,20 +230,16 @@ The setting of *Exalted* encourages wild, ambitious, and perhaps
 dangerous actions of the characters. When a player describes their
 character doing a “cool” action, the Storyteller should reward them.
 
-When a player performs a stunt, they get **+2 Dice** for their action.
+When a player performs a stunt, they get **+2 Dice** for their action,
+and are given more lenience on what actions they are able to perform.
 
-But the true power is that-should they succeed on the roll-what the
-player describes is what actually happens in the setting. What is
-impossible becomes temporarily possible. A list of example Stunts is
-provided with each Ability, as inspiration.
+The guiding philosophy of stunts is the “Rule of Cool.” If the stated
+action is “cool” and enhances an existing action, it should both be
+allowed and encouraged—even if it is not technically allowed.
 
 There are limits to Stunting. A Player cannot dictate the actions or
 emotions of characters, for example, and the Storyteller reserves the
 right to reject or alter the stated effects of the stunt as needed.
-
-The guiding philosophy of stunts is the “Rule of Cool.” If the stated
-action is “cool” and enhances an existing action, it should both be
-allowed and encouraged.
 
 ### Assisting
 
@@ -269,7 +260,7 @@ to create powerful effects upon the world, called Charms.
 
 A character’s Essence Rating is a measure of how in tune the character
 is with the flows of energy through and surrounding them. Much like an
-Attribute, it has a Rating ranging between One and Five. (Mortals have a
+Attribute, it ranges between One and Five for Exalts. (Mortals have a
 Rating of Zero.)
 
 The Rating of Essence cannot be directly trained. Instead, it only
@@ -289,19 +280,20 @@ increases in rating as the character gains xp.
 ### Motes
 
 Essence expenditure is measured in *Motes*. When activating a Power that
-requires motes of Essence the exalt will drain from their mote pools:
-**Personal** and/or **Peripheral.**
+requires motes of Essence the exalt will **first** drain from their
+Personal Mote pool, and once that is exhausted they will drain from
+their Peripheral Mote Pool.
 
-**Personal Motes** are intrinsic to the character. Expenditure of these
-motes are subtle and do not agitate their anima banner. They regain only
-after a full night’s rest
+-   **Personal Motes** are intrinsic to the character. Expenditure of
+    these motes are subtle and do not agitate their anima banner.
 
-**Peripheral Motes** are the character’s ability to manipulate the world
-immediately surrounding them, channeling it to their will. Using these
-motes will **expose their anima banner**.
+    -   Refreshed after a full night’s rest.
 
-Peripheral Mote pools are automatically refilled at the start of each
-Scene.
+-   **Peripheral Motes** are the character’s ability to manipulate the
+    world immediately surrounding them, channeling it to their will.
+    Using these motes will **expose their anima banner**.
+
+    -   Refreshed at the beginning of a new Scene.
 
 #### Antagonistic Locations
 
@@ -310,17 +302,48 @@ the **Underworld**, or are filled with antagonistic Essence that cannot
 be easily drawn inward, like **The Wyld**.
 
 In these locations, all characters will suffer a Penalty to their
-Peripheral Mote pool, lowering their capacity. For example, the penalty
-suffered by Underworld would be as follows, as the characters descends
-deeper away from Creation:
+Peripheral Mote pool, lowering their capacity.
 
--   Shadowlands: -5
-
--   Underworld: -10
-
--   The Labyrinth: -15
-
--   The Void: -20
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Example Locations</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Mote <strong>Pool</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>Underworld</p>
+</blockquote></td>
+<td><blockquote>
+<p>Wyld</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>-5</td>
+<td>Shadowlands</td>
+<td>Bordermarches</td>
+</tr>
+<tr class="even">
+<td>-10</td>
+<td>Underworld</td>
+<td>Wyld</td>
+</tr>
+<tr class="odd">
+<td>-15</td>
+<td>The Labyrinth</td>
+<td>Deep Wyld</td>
+</tr>
+<tr class="even">
+<td>-20</td>
+<td>Void</td>
+<td>Expanse of Madness</td>
+</tr>
+</tbody>
+</table>
 
 Anima Banner
 ------------
@@ -359,20 +382,9 @@ so long that no action inflames them again. Often, this means that the
 Burning and Bonfire Levels will be active for an entire scene.
 
 Exalts may choose to intentionally increase their anima to any desired
-level by committing One Mote (as a Reflexive Action.). This effect
-immediately dissipates after releasing the mote to its natural state,
-and does not need time to abate.
-
-#### Splitting Motes
-
-When taking an action, a Player may split their motes between their
-Personal and Peripheral motes in order to avoid their Anima banner
-flare.
-
-For example, activating a 10m charm can avoid a Burning Bonfire anima
-level by paying 5m from the Personal Mote pool, and 5m from the
-Peripheral Mote pool. Doing so would only activate the Glowing Anima
-level.
+level by spending One Mote (as a Reflexive Action). This lasts until the
+Exalt chooses to dismiss it where it immediately dissipates, unlike the
+natural Anima Flare.
 
 The Great Curse
 ---------------
@@ -395,7 +407,7 @@ Great Curse.
 
 For Example:
 
--   **Solars** suffer by their own Ego. They are those that tirelessly
+-   **Solars** suffer from their own Ego. They are those that tirelessly
     seek greatness and perfection, and may find others or even
     themselves not up to the standards they desire.
 
@@ -418,6 +430,11 @@ eventually driving them to a breaking point. This is represented by
 Ranging from 0-10, **Limit Points** represent how strained the Exalt
 is—how much wear and tear their psyche and soul is under.
 
+If the character reaches **10 Limit**, or if they fail on their **Limit
+Trigger**, the character will enter into a **Limit Break.**
+
+### Gaining Limit
+
 A character gains limit by:
 
 -   Choosing it as a Drawback.
@@ -425,21 +442,12 @@ A character gains limit by:
 -   Acting against one of their Intimacies, or other deeply-held
     beliefs.
 
-“Acting against an Intimacy” is a highly subjective term, that
-ultimately can only be answered
-
-This can range from directly suppressing Intimacies in order to proceed
-with the “greater good”, to being tricked and swindled into taking
-action against your Intimacies, such as through Social Influence.  
-  
-Ultimately, the decision of whether or not the Character has “acted
-against their Intimacy” is a personal one, and should be at sole
-discretion of the Player.
-
-If the character reaches **10 Limit**, or if they fail on their **Limit
-Trigger**, the character will enter into a **Limit Break.**
-
-At the end of a Limit Break, reset to 0 Limit.
+“Acting against an Intimacy” can range from directly suppressing
+Intimacies in order to proceed with the “greater good”, to being tricked
+and swindled into taking action against your Intimacies, such as through
+Social Influence. Ultimately, the decision of whether or not the
+Character has “acted against their Intimacy” is a personal one, and
+should be at the discretion of the Player.
 
 <table>
 <tbody>
@@ -465,8 +473,7 @@ out of control.
 When this event occurs (and the character has at least 2 Limit,) the
 Player must roll a 1d10. If the die roll matches or exceeds their
 current Limit, the Character is able to control their emotions for the
-remainder of the scene. (They do not have to roll multiple times in a
-scene).
+remainder of the scene.
 
 However, if the roll is **under** the current Limit, the Character
 enters a **Limit Break**.
@@ -475,7 +482,7 @@ enters a **Limit Break**.
 
 When a character **Limit Breaks,** they lose all perspective on anything
 that does not align with their **Great Curse** and will make active and
-considered effort to fulfill it, damn the consequences.
+considered effort to fulfill it, regardless of the consequences.
 
 A character Limit Breaking does not lose their faculties, nor do they
 forget their Intimacies—but those are simply *secondary* to their Great
@@ -484,7 +491,7 @@ their actions.
 
 A Limit Break lasts for an entire scene. Only performing a grave offense
 against their own deeply-held Intimacies would be enough to snap the
-character out of their actions.
+character out of their actions prematurely.
 
 At the end of a Limit Break, reset Limit to 0.
 
@@ -570,13 +577,7 @@ similar to a Stunt:
 
 ##### Example 1
 
-The Archer turns from the Dragonblood threatening her and focusing her
-essence into a point on their arrow. With a sharp hiss of air, she lets
-it loose into the nearest mountain, watching as the arrow explodes in an
-impressive show of Anima. The mountain rumbles as the snow dislodges,
-causing the newly-fallen snow to groan, rumble, and then start cascading
-into a deadly avalanche which rushes into the passage, sealing it and
-cutting off the dynasts reinforcements.
+> The Archer turns from the Dragonblood threatening her and focusing her essence into a point on their arrow. With a sharp hiss of air, she lets it loose into the nearest mountain, watching as the arrow explodes in an impressive show of Anima. The mountain rumbles as the snow dislodges, causing the newly-fallen snow to groan, rumble, and then start cascading into a deadly avalanche which rushes into the passage, sealing it and cutting off the dynasts reinforcements.
 
 “I’m going to use my archery to cause an avalanche”. This example
 accomplishes two dramatic things: it changes the environment, but
@@ -586,12 +587,7 @@ the pressing issue—the fight with the Dragonblooded.
 
 ##### Example 2
 
-The Sorcerer looks apprehensive at his map. The desert has become
-inhospitable to their travels, and the rations for their mortal
-followers slim—if a solution isn’t found, they will arrive exhausted, or
-be forced to take a detour through the Guild’s controlled areas. His
-brown furrows, then suddenly shoots up: “Turn the caravan west, I see a
-Dragonline I can tap for water!”
+> The Sorcerer looks apprehensive at his map. The desert has become inhospitable to their travels, and the rations for their mortal followers slim—if a solution isn’t found, they will arrive exhausted, or be forced to take a detour through the Guild’s controlled areas. His brown furrows, then suddenly shoots up: “Turn the caravan west, I see a Dragonline I can tap for water!”
 
 “He’s going to use Sorcery to pull up water from the ground.” In this
 situation, the problem being addressed is exhaustion or avoiding a bad
@@ -599,9 +595,7 @@ decision—preventing a negative.
 
 ##### Example 3
 
-The Crafter analyzes the complex door in front of them, which is
-blocking their way, the code shifting and twisting before their eyes. “I
-can simply craft a new key to the puzzle. Hold on for a moment.”
+> The Crafter analyzes the complex door in front of them, which is blocking their way, the code shifting and twisting before their eyes. “I can simply craft a new key to the puzzle. Hold on for a moment.”
 
 “The door is locked? I can just open it with crafting.” Is **bad**
 because the main objective of this scene is to get past the door
@@ -609,9 +603,7 @@ blocking their path. In a different scene where the door was not the
 main obstacle, this *might* be acceptable. Instead, an alteration can be
 suggested:
 
-> *The Crafter analyzes the shifting patterns of the door, then with a
-> swift kick, lodges one of the panels shut, stopping the patterns from
-> constantly moving. “There, that should be easier to read now.”*
+>  The Crafter analyzes the shifting patterns of the door, then with a swift kick, lodges one of the panels shut, stopping the patterns from constantly moving. “There, that should be easier to read now.”
 
 “The puzzle glyphs are moving? I’m going to jam them down so it lowers
 the difficulty.”
@@ -624,18 +616,6 @@ Complications**.
 [<u>Botches</u>](/System/General_System/#botching) are Player-driven choices to drive their
 character’s failure into a *magnificent* failure—a low so that they may
 later rise to even greater heights.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Rejecting Strife</strong></p>
-<p>Players, by accepting the Strife, are giving up their ability to change the course of the event.</p>
-<p>They have the option of refusing to take the Strife Point, defying the Storyteller’s influence. (This must be an all-or-nothing decision between all Players receiving the Strife—all must reject, or else all must accept.)</p>
-<p>If this happens, the Storyteller must let the Player Characters challenge the event in a fair manner.</p>
-<p>The Storyteller should also take care not to <em>abuse</em> the Complication mechanic to the point where it becomes frustrating—if they find that Players are constantly rejecting Strife, or grumbling and accepting, make sure to talk with the Players to see if the direction of the game is what everyone agrees with.</p></td>
-</tr>
-</tbody>
-</table>
 
 #### Complications
 
@@ -663,6 +643,18 @@ event in the Scene, no matter how many attempts are made.
 -   A source of information shoots down interrogation techniques,
     refusing to divulge important details.
 
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Rejecting Strife</p>
+<p>Players, by accepting the Strife, are giving up their ability to change the course of the event.</p>
+<p>They have the option of refusing to take the Strife Point, defying the Storyteller’s influence. (This must be an all-or-nothing decision between all Players receiving the Strife—all must reject, or else all must accept.)</p>
+<p>If this happens, the Storyteller must let the Player Characters challenge the event in a fair manner.</p>
+<p>The Storyteller should also take care not to <em>abuse</em> the Complication mechanic to the point where it becomes frustrating—if they find that Players are constantly rejecting Strife, or grumbling and accepting, make sure to talk with the Players to see if the direction of the game is what everyone agrees with.</p></td>
+</tr>
+</tbody>
+</table>
+
 The main source of Strife is gained by players choosing to **Botch**
 their rolls.
 
@@ -689,15 +681,19 @@ for an Exalt to suddenly pull out a large daiklaive from little more
 than a handbag’s opening.
 
 Sidereals have labeled this flaw as “Elsewhere,” since the items are
-neither here nor there, but somewhere “else.” It is certainly a problem
-that needs to be fixed…eventually.
+neither *here* nor *there*, but simply somewhere…else. Certainly it is
+something that needs to be fixed. Eventually. Preferably by someone
+else.
 
 Elsewhere is not all-powerful. The Exalt must reasonably be able to
 carry the items in the first place, and it must not be something that
 has a particularly close and important tie to reality. For example:
-living creatures or anything with sapience. As well, while time does not
-affect items inside of Elsewhere, it will rapidly catch up once pulled
-out.
+living creatures cannot be kept in Elsewhere, as their mind and soul has
+far too great of self-awareness to be forgotten by reality.
+
+As well, while time does not affect items *inside* of Elsewhere, the
+moment it is pulled out reality will quickly reassert itself. Food would
+rot within seconds, and we iron rust within a blink of an eye.
 
 Items stored in Elsewhere of a dead Exalt will eventually reassert
 themselves into reality—often by finding themselves in nearby containers
@@ -710,22 +706,44 @@ Rather than count the exact minutes and hours of effects, Exalted rely
 on a more cinematic approach. A charm’s duration may be declared as a
 *Scene*, for example.
 
--   **Round** How long it takes for all characters to each perform a set
-    of Actions, typically in Combat or an Encounter.
-
--   **Scene** Long enough to set out and accomplish a single, dedicated
-    task. Combat from start to finish would be a scene, as would
-    characters searching for clues in an old abandoned monastery. This
-    typically spans minutes to hours.
-
--   **Session** A single sitting of when Players begin and end
-    roleplaying, spanning an entire night.
-
--   **Story** Several sessions that form a full narrative arch: from
-    establishing a threat to reaching the resolution.
-
--   **Chronicle** A complete game, encompassing all the stories relevant
-    to a set of characters.
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><strong>Description</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Round</strong></td>
+<td><blockquote>
+<p>How long it takes for all characters to each perform a set of Actions, typically in Combat or an Encounter.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><strong>Scene</strong></td>
+<td><blockquote>
+<p>Long enough to set out and accomplish a single, dedicated task. Combat from start to finish would be a scene, as would characters searching for clues in an old abandoned monastery. This typically spans minutes to hours.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><strong>Session</strong></td>
+<td><blockquote>
+<p>A single sitting of when Players begin and end roleplaying, spanning an entire night.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><strong>Story</strong></td>
+<td><blockquote>
+<p>Several sessions that form a full narrative arch: from establishing a threat to reaching the resolution.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><strong>Chronicle</strong></td>
+<td><blockquote>
+<p>A complete game, encompassing all the stories relevant to a set of characters.</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 Magnitudes
 ----------
@@ -747,12 +765,14 @@ Those magnitude definitions are as follows:
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td>Scale</td>
 <td>Population</td>
 <td>Name</td>
-<td>Military Designation</td>
+<td>Military Designations</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -763,6 +783,9 @@ Those magnitude definitions are as follows:
 </blockquote></td>
 <td><blockquote>
 <p>Individual</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
 </blockquote></td>
 <td><blockquote>
 <p>-</p>
@@ -781,6 +804,9 @@ Those magnitude definitions are as follows:
 <td><blockquote>
 <p>Squad</p>
 </blockquote></td>
+<td><blockquote>
+<p>Fang</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -794,6 +820,9 @@ Those magnitude definitions are as follows:
 </blockquote></td>
 <td><blockquote>
 <p>Troop</p>
+</blockquote></td>
+<td><blockquote>
+<p>Scale</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -809,6 +838,9 @@ Those magnitude definitions are as follows:
 <td><blockquote>
 <p>Company</p>
 </blockquote></td>
+<td><blockquote>
+<p>Talon</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -822,6 +854,9 @@ Those magnitude definitions are as follows:
 </blockquote></td>
 <td><blockquote>
 <p>Battalion</p>
+</blockquote></td>
+<td><blockquote>
+<p>Wing</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -837,6 +872,9 @@ Those magnitude definitions are as follows:
 <td><blockquote>
 <p>Regiment</p>
 </blockquote></td>
+<td><blockquote>
+<p>Dragon</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -850,6 +888,9 @@ Those magnitude definitions are as follows:
 </blockquote></td>
 <td><blockquote>
 <p>Army</p>
+</blockquote></td>
+<td><blockquote>
+<p>Legion</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -865,6 +906,9 @@ Those magnitude definitions are as follows:
 <td><blockquote>
 <p>-</p>
 </blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -875,6 +919,9 @@ Those magnitude definitions are as follows:
 </blockquote></td>
 <td><blockquote>
 <p>Province</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
 </blockquote></td>
 <td><blockquote>
 <p>-</p>
