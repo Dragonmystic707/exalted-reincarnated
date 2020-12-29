@@ -22,30 +22,7 @@ see further, while an Air Dragonblood would create a focal lens out of
 the air—but they both would spend the same number of motes and end up
 with the same perception advantage.
 
- Global
-------
-
-### There is No Wind
-
-**Cost:** 1m;  
-**Type:** Supplemental (Ranged Attack)  
-**Mins:** (Ranged Ability) 1
-
-When using a ranged attack, reduce up to (Essence) dice of Disadvantages
-caused by non-visual conditions such as high winds, storms, sleet, and
-other similar Environmental Effects.
-
-### Dragonfly Finds Mate
-
-**Cost: --**  
-**Type:** Permanent  
-**Mins:** (Ranged Ability) 3
-
-The Exalt lets loose their weapon, knocking incoming projectiles out of
-the sky.
-
-Against any Ranged attack, you may define DV as (Dexterity + Archery)/2.
-This may be used to Defend Others who are within Medium Range.
+  
 
 Archery
 -------
@@ -59,14 +36,15 @@ Archery
 After the Initiative Order has been decided but before the first Action,
 the Archer may make an immediate Maneuver.
 
-### Aimed Shot
+### There is No Wind
 
-**Cost:** 3m  
+**Cost:** 1m;  
 **Type:** Supplemental  
-**Mins:** Archery 1
+**Mins:** Archery or Thrown 1
 
-The Archer holds their shot still, increasing their Accuracy by
-(Essence) Dice.
+Reduce up to (3) dice of Disadvantages caused by non-visual conditions
+such as high winds, storms, sleet, and other similar Environmental
+Effects on Archery Attacks.
 
 ### Forceful Arrows 
 
@@ -107,6 +85,18 @@ for one Round.
 The Exalt buries an area with a flurry of arrows, making sure that at
 least one will hit. Their attack targets Soak instead of DV.
 
+### Dragonfly Finds Mate
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Archery 3
+
+The Exalt lets loose their weapon, knocking incoming projectiles out of
+the sky.
+
+Against any Ranged attack, you may define DV as (Dexterity + Archery)/2.
+This may be used to Defend Others who are within Medium Range.
+
 <div class="greater_charm">Greater Charms</div>
 
 ### Accuracy Without Distance
@@ -116,7 +106,7 @@ Type:** Permanent
 **Mins:** Archery 4
 
 The Exalts Archery attacks know no bounds. They may now attack at Long
-Range, and at Melee Range for no penalty.
+Range and at Melee Range for no penalty.
 
 Athletics
 ---------
@@ -163,7 +153,7 @@ In combat, the character can Dash without Impulse cost or DV penalty.
 **Type:** Permanent  
 **Mins:** Athletics 3
 
-The Exalt adds +(Essence) to their Initiative.
+Adds (3) to the Initiative Score.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -198,7 +188,7 @@ Awareness
 **Mins**: Awareness 1
 
 Reduce any disadvantage from visual conditions such as smoke, fog, and
-darkness by up to (Essence) dice.
+darkness by up to (4) dice.
 
 ### Awakening Eye
 
@@ -244,8 +234,8 @@ Round.
 **Type:** Reflexive  
 **Mins:** Awareness 4
 
-Re-roll an Awareness Roll, taking the preferred result. This may only be
-done once per action.
+Re-roll an Awareness Roll, taking the preferred result. This cannot be
+performed on the same action multiple times.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -293,10 +283,11 @@ On a Brawl Attack Maneuver higher than the target’s Soak, remove 2 +
 **Mins**: Brawl 2
 
 On Feats of Strength, such as breaking through walls or destroying
-scenery, add (Essence)x2 dice.
+scenery, add (Essence)x2 dice. The Exalt is even able to damage walls
+made of magical materials, though must roll to do so.
 
 Additionally, a Decisive Strikes against animate beings (such as Earth
-elementals and golems), add (Essence) dice to the Damage Roll.
+elementals and golems), add (3) dice to the Damage Roll.
 
 ### Force-Delivering Blow
 
@@ -329,7 +320,7 @@ Craft
 **Mins:** Craft 1
 
 When working without the proper tools, reduce the Disadvantage by up to
-(Essence) dice.
+(4) dice.
 
 ### Durability-Enhancing Technique
 
@@ -413,7 +404,7 @@ The Obstruction roll immediately activates, and may provide additional
 complications on the scene.
 
 **Permanent Effect:** On purchasing this charm, and at the start of each
-Story, the Exalt gains an additional +15 RES, which may only be used
+Story, the Exalt gains an additional +15 Res, which may only be used
 only for Craft Projects.
 
 ### 
@@ -429,7 +420,7 @@ Deception
 
 After studying a mannerism of a target for a short time, such as
 handwriting, voice, or even walking pattern, the Exalt may replicate it
-as needed for a week, gaining (Essence) additional dice to do so.
+as needed for a week, gaining (4) additional dice to do so.
 
 ### Hidden Meaning
 
@@ -522,7 +513,7 @@ Fae, or any secondhand effect such as fire. As well, there is a limit to
 this protection in places of pure energy such as the deepest of the
 Wyld.
 
-### Heart-Hardening Meditation
+### Heart-Hardening Response
 
 **Cost:** 4m  
 **Type:** Reflexive  
@@ -531,6 +522,8 @@ Wyld.
 Calls to pure emotion are easy to spot, and the Exalt has become trained
 to resist them. Against any Influence Intimacy rolls that employ
 emotion, raise the Exalt’s Resolve by +(Essence).
+
+### 
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -617,8 +610,10 @@ Inconvenient tasks when asked without the need of a roll.
 **Type:** Permanent  
 **Mins:** Leadership 5
 
-You may now perform Projects to grant the [Endowment](endowment) Merit
-to others, up to rank 4, of an Ability the Exalt knows.
+You may now perform Projects to grant the Rank 4 [Endowment](endowment)
+Merit to those with significant ties to the character.
+
+Rank 3 may now be granted to mortals without restriction.
 
 Lore
 ----
@@ -709,13 +704,40 @@ self-consistent with what has been shown to operate in this world.
 Melee
 -----
 
+### Bulwark Stance
+
+**Cost:** 1m (+2m)  
+**Type:** Reflexive  
+**Mins:** Melee 2
+
+You may Defend a target within Melee Range. The target may use your DV
+in place of their own.
+
+At a cost of (2m), you may reflexively use your Move Action for the
+Round to move to defend another.
+
 ### Blow Deflecting Stance
 
 **Cost:** --  
 **Type:** Permanent  
 **Mins:** Melee 3
 
-DV may be defined as (Dexterity + Melee)/2
+The Exalt may parry any blows coming towards them. DV may be defined as
+(Dexterity + Melee)/2.
+
+### Iron Whirlwind Attack
+
+**Cost:** 4m, 1i  
+**Type:** Supplemental (Flurry)  
+**Mins:** Melee 3
+
+During a Flurry attack, deal +1 damage for each individual target,
+granting up to (Essence) x2 bonus.
+
+If the target is a Group, instead add +(Group Scale) for damage. For
+example, a Crowd (Scale 3) grants +3.
+
+Those hit by the attack are knocked back a range band.
 
 Navigation 
 ----------
@@ -752,3 +774,5 @@ Stealth
 
 Thrown
 ------
+
+### 

@@ -680,6 +680,9 @@ and not feel the weight nor brunt of the equipment. It is not unusual
 for an Exalt to suddenly pull out a large daiklaive from little more
 than a handbag’s opening.
 
+Depositing or retrieving equipment from Elsewhere takes an entire
+Action.
+
 Sidereals have labeled this flaw as “Elsewhere,” since the items are
 neither *here* nor *there*, but simply somewhere…else. Certainly it is
 something that needs to be fixed. Eventually. Preferably by someone

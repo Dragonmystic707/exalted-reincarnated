@@ -47,11 +47,21 @@ Normally, I don’t pay attention to the size of a rulebook--it’s as long as i
 
 My suspicion, which seems to be anecdotally backed up from the grapevine, is that Exalted simply didn’t have a proper Editor—someone to analyze and reign back enthusiastic writers. I suspect this is the root cause of many of the other issues as well.
 
+### Bloated list of Charms
+
+There are so many Charms that a character can take, but the vast majority of them are simply *boring*. There are a significant portion of the charms that only do "dice tricks," such as making 9's and 8's count as double successes. The sheer number of charms and their very technical nature turns the game into a bookkeeping nightmare.
+
+I intend to shorten the *number* of charms, while condensing the effects. As well, the free-form nature of Strifes should allow people to create charm-like effects, opening up the field for creative expression that a designer could never account of.
+
+### Overcomplication of all Systems
+
+One thing I notice when browsing the rules is that everything is overcomplicated. It's not the worst I've ever seen, but there often seems to be rules for the sake of rules.
+
 ### Siloed Playstyle
 
 One of the most annoying things about 3e is not what it did, but what it *didn’t* do. Exalted has a huge problem with “siloed” play, where one and only one Player gets to play for large periods at a time.
 
-This is an emergent property from multiple facets, none of which are individually wrong or bad, but together they pose a problem:
+This is an emergent property from multiple aspects of the game, none of which are individually wrong or bad, but together they pose a problem:
 
 1. There is not a central method of “interacting” with the game. For contrast, think of DnD: It is primarily a combat simulator, and so all of its characters revolve around combat in some way. In Exalted, you can truly have characters of nearly all types: socialites, combatants, artists, detectives, etc.
 

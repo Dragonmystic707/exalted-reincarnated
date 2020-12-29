@@ -486,16 +486,17 @@ Partial Cover.
 Movement
 --------
 
-The following are all considered to be sub-types of the Move Free
-action: Move, Dash, and Disengage. If one is taken during a Round, only
-that one may be taken. (i.e. no Dashing and then Moving in the same
-Round).
+The following are all considered to be sub-types of the Move Action:
+Move, Dash, and Disengage. If one is taken during a Round, only that one
+may be taken. (i.e. no Dashing and then Moving in the same Round).
+
+All Move-type actions are Free Actions.
 
 ### Move
 
-As a Free Action, move one Range Band closer or further away from a
-target. You may not Move while in Melee Range of an enemy—instead you
-must take a Disengage Action.
+Move one Range Band closer or further away from a target. You may not
+Move while in Melee Range of an enemy—instead you must take a Disengage
+Action.
 
 ### Dash
 
@@ -710,9 +711,8 @@ If you force a retreat on these Antagonists, you must bribe your players
 each with a [**<u>Strife Point</u>**](/System/General_System/#strifes) as compensation.
 
 Remember, though, that recurring antagonists can only be used so many
-times--eventually you will have to move to the Final Confrontation,
-where the fate of these antagonists should be placed into the Players’
-hands.
+times—eventually you will have to move to the Final Confrontation, where
+the fate of these antagonists should be placed into the Players’ hands.
 
 Armor and Weapons
 -----------------
@@ -722,7 +722,7 @@ Medium, Heavy, and of course Unarmed/No Armor.
 
 ### Armor
 
-The Category of Armor provides modifers to the Soak or Evasion defenses
+The Category of Armor provides modifiers to the Soak or Evasion defenses
 (and ultimately to DV).
 
 <table>

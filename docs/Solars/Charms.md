@@ -356,11 +356,13 @@ capped at (Essence)x2.
 **Type:** Supplemental (Flurry)  
 **Mins:** Brawl 3
 
-During a Flurry attack, deal +1 damage, for each individual target,
+During a Flurry attack, deal +1 damage for each individual target,
 granting up to (Essence) x2 bonus.
 
 If the target is a Group, instead add +(Group Scale) for damage. For
 example, a Crowd (Scale 3) grants +3.
+
+Those hit by the attack lose 3 Impulse.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -787,6 +789,40 @@ Project.
 
 Melee
 -----
+
+### Call the Blade
+
+**Cost:** 1m  
+**Type:** Free Action  
+**Mins:** Melee 2
+
+Return a weapon to the Solar’s hand, so long as a path exists for the
+weapon to follow. This charm may also be used to banish or summon a
+weapon from Elsewhere.
+
+### Dipping Swallow Defense
+
+**Cost:** 3m  
+**Type:** Reflexive  
+**Mins:** Melee 2
+
+Ignore any Disadvantages imposed on the Parry DV. (Targeting Evasion or
+Soak is not a penalty.)
+
+### Solar Counterattack
+
+**Cost:** 5m  
+**Type:** Reflexive  
+**Mins:** Melee 3
+
+Once per Session, after being attacked by an opponent in Melee range,
+the Solar can immediately make a Decisive Attack against them. This does
+not consume an Action.
+
+This charm may be activated more times in a Session by spending a Strife
+Point.
+
+###  
 
 Stealth
 -------

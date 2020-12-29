@@ -63,7 +63,7 @@ immediately dissipates after activation.
 <tbody>
 <tr class="odd">
 <td><p>Terminating Active Powers</p>
-<p>An Exalt may willfully terminate a Power earlier than its stated duration (unless specifically stated otherwise.) However, they must then pay the activation cost again if they want to reuse the power.</p></td>
+<p>An Exalt may willfully terminate a Power early, should they desire. However, they must then pay the activation cost again if they want to reactivate the power.</p></td>
 </tr>
 </tbody>
 </table>
@@ -75,7 +75,7 @@ immediately dissipates after activation.
 -   **Simple.** Consumes an Action Slot. Only one Action may be taken
     per turn.
 
--   **Free**. Does not consume an Action Slot, but must still be
+-   **Free Action**. Does not consume an Action Slot, but must still be
     activated on the character’s Turn. (i.e. not Reflexively.)
 
 -   **Supplemental.** Enhances a Primary or Secondary Action. There is

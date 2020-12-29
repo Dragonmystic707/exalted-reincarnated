@@ -98,6 +98,19 @@ Rating Equal to or less than the Lunar’s.
 
 <div class="greater_charm">Greater Charms</div>
 
+### Gift of the Moon
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Shapeshifting 5
+
+You may now perform Projects to grant the Rank 4 [Endowment](endowment)
+Merit of Shapeshifting to those with significant ties to the character.
+
+You may grant Rank 3 to groups, which self-perpetuates without your
+influence, based on a method that you decide. The maximum number of
+people it can effect is limited to a City’s population.
+
 ### Constant Quicksilver Rearrangement
 
 **Cost:** --  

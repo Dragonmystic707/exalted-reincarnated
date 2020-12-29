@@ -193,6 +193,16 @@ Local Tongue and Tradespeak, the common language.
 -   **Local Tongue**: This marks the character as having the exact
     speech patterns and mannerisms as locals.
 
+### Master Stylist (3)
+
+**Mortal-Only**
+
+Allows a mortal to purchase Techniques of a specific Style, (excluding
+Greater Techniques), and grants them a mote pool of 10 that may only be
+used on the styles Techniques.
+
+A Mortal may learn this merit on their own, though it is rare.
+
 Supernatural Merits
 -------------------
 
@@ -204,11 +214,7 @@ Gain access to a Supernatural Ability normally outside your purview.
 This must be given as a boon from a supernatural entity that already has
 access to that Supernatural Ability.
 
-Mortal Sorcerers must take this merit.
-
-Exalted characters may grant mortals this merit as a Project. At Essence
-4 they may grant Endowment 3, and at Essence 5 they may grant Endowment
-4.
+Mortal Sorcerers must have this merit to access Sorcery or Necromancy.
 
 Endowment grants access to a mote pool of 10 if the character does not
 have one. This mote pool may only be used for this specific Endowment.
@@ -220,20 +226,15 @@ granted to them, they are refunded the merit costs.
     example, Shapeshifting into only one creature.
 
 -   **4—**Use of the Ability, restricted to a specialty, with the
-    ability to purchase its Charms (excluding Greater Charms).
+    ability to purchase related Charms (excluding Greater Charms).
 
 -   **5—**Use of the Ability in its entirety and the ability to purchase
     its Charms, (excluding Greater Charms).
 
-### Master Stylist (3)
+At Essence 3, Exalts may take a Project to grant Rank 3 to mortals with
+significant ties to them, such as Allies or Wards.
 
-**Mortal-Only**
-
-Allows a mortal to purchase Techniques of a specific Style, (excluding
-Greater Techniques), and grants them a mote pool of 10 that may only be
-used on the styles Techniques.
-
-A Mortal may learn this merit on their own, though it is rare.
+###  
 
 Mutations
 ---------
