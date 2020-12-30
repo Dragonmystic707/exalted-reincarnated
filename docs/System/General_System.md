@@ -121,18 +121,21 @@ Ability +/- Modifiers\]
 > 
 > Since this is a NPC, and there are no dice-affecting powers active, the storyteller simply takes the average: (Wits + Awareness)/2. Should the thief match or surpass that number, they successfully sneak past. Should they not, the guard discovers them.
 
-Drawbacks
----------
+Push the Roll
+-------------
 
 Exalts can push themselves past their mortal limits and achieve the
 impossible—but it often comes at a price.
 
 After the Player rolls and all effects finalized, the Player may choose
-to **Take a Drawback**. In exchange, they gain **+2 successes** to a
-roll, or **+1** **Defense**. Only one drawback may be taken per action.
+to **Push their Roll** In exchange, they gain **+2 successes** to a
+roll, or **+1** **Defense,** at the expense of **Taking a Drawback**.
 
 **Note:** Drawbacks cannot be taken for Luck Rolls, Limit Break, Join
 Battle or anything else that uses a 1d10 as its roll.
+
+Drawbacks
+---------
 
 A Drawback can be any sort of action that the Storyteller deems to be a
 proper **Price to Pay** for succeeding (or exceeding) their roll.

@@ -76,7 +76,7 @@ dealing (Essence) additional Damage.
 **Type:** Free Action  
 **Mins:** Physique 5, Shapeshifting 4
 
-The Lunar immediately regains (Shapeshifting + Essence) Endurance.
+The Lunar immediately regains (Shapeshifting + Essence) / 2 Endurance.
 
 ### Towering Giant Enhancement
 

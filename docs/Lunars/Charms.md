@@ -28,10 +28,10 @@ forms by only partially shifting their body.
 ### Life of the Hummingbird
 
 **Cost:** 5m  
-**Type:** Primary Action (Scene)  
+**Type:** Simple; Scene  
 **Mins:** Shapeshifting 1
 
-A form may be stolen by simply the taste of another’s blood, allowing
+A form may be stolen by simply the taste of an other’s blood, allowing
 the Lunar to use the form for One Scene. The scene does not have to be
 the same one in which the blood was taken, but cannot be more than 2
 days apart.
@@ -46,7 +46,7 @@ target.
 ### Changing Plumage Mastery
 
 **Cost:** 2m  
-**Type:** Secondary Action (Scene)  
+**Type:** Free Action; Scene  
 **Mins:** Shapeshifting 1
 
 The Lunar may alter their known forms into different patterns and
@@ -70,11 +70,11 @@ The Lunar is able to take the forms of Humans and other humanoid mortals
 
 ### Emerald Grasshopper Form
 
-**Cost:** --; **Mins:** Shapeshifting 3  
+**Cost:** --;  
 **Type:** Permanent  
-**Duration:** Permanent
+**Mins:** Shapeshifting 3
 
-The Size Boon of **Miniscule** becomes available to the Lunar, allowing
+The Size Boon of **Minuscule** becomes available to the Lunar, allowing
 them to express this boon and shapeshift into creatures this size.
 
 ### Towering Beast Form
@@ -109,7 +109,7 @@ Merit of Shapeshifting to those with significant ties to the character.
 
 You may grant Rank 3 to groups, which self-perpetuates without your
 influence, based on a method that you decide. The maximum number of
-people it can effect is limited to a City’s population.
+people it can effect is limited to a Village’s population.
 
 ### Constant Quicksilver Rearrangement
 
@@ -123,7 +123,7 @@ cost, and are considered Reflexive instead of Free Action.
 ### Insidious Lunar Transformation
 
 **Cost:** 8m, (3i)  
-**Type:** Simple (Scene)  
+**Type:** Simple; Scene  
 **Mins:** Shapeshifting 4
 
 By pouring their own blood (worth 2 Endurance) into a target, the Lunar
@@ -135,3 +135,15 @@ Impulse.
 
 If the target is unwilling, the Lunar must first succeed on a (Essence +
 Shapeshifting) roll vs the target’s Resolve.
+
+Craft
+-----
+
+### Clay-Wetting Practice
+
+**Cost:** 2m  
+**Type:** Simple Action; Scene  
+**Mins:** Craft 3; Shapeshifting 2
+
+You can change material as though you were shapeshifting it.
+&lt;&lt;TODO&gt;&gt;

@@ -716,6 +716,24 @@ in place of their own.
 At a cost of (2m), you may reflexively use your Move Action for the
 Round to move to defend another.
 
+### Dipping Swallow Defense
+
+**Cost:** 3m  
+**Type:** Reflexive  
+**Mins:** Melee 2
+
+Ignore any Disadvantages imposed on the Parry DV. (Targeting Evasion or
+Soak is not a penalty.)
+
+### One Weapon, Two Blows
+
+**Cost:** (2m) per Impulse  
+**Type:** Supplemental  
+**Mins:** Melee 2
+
+After a Decisive Attack, regain up to 2 + (Essence) Impulse spent on
+this attack, at a rate of 2m per Impulse regained.
+
 ### Blow Deflecting Stance
 
 **Cost:** --  
@@ -739,8 +757,80 @@ example, a Crowd (Scale 3) grants +3.
 
 Those hit by the attack are knocked back a range band.
 
-Navigation 
+
+<div class="greater_charm">Greater Charms</div>
+
+### Perfect Strike
+
+Cost: 4m  
+Type: Supplemental  
+Mins: Melee 4
+
+Add (Essence) dice to accuracy, and deal an additional (Essence) damage
+on a Decisive Strike.
+
+### Iron Raptor
+
+**Cost:** 4m  
+**Type:** Supplemental  
+**Mins:** Melee 4
+
+The Exalt hurls their weapon, controlling it is action before it is
+returned to their hand. This allows an Attack at up to Medium Range.
+
+### 
+
+### 
+
+###  
+
+Navigation
 ----------
+
+### Master Maintainer
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Navigation 1
+
+So long as the Exalt is able to spend moments attending to their mode of
+transportation, be it a vessel or beast of burden, no random or harmful
+incidents will occur based on ill-maintenance. This ranges from
+horseshoes falling apart, to ships springing leaks, to wheels falling
+off of wagons.
+
+Even the most ill-equipped and ram-shackled of ships will hold together
+with the Exalt at the helm. The Exalt will also always get a roll to
+discover if deliberate sabotage has occurred.
+
+### Living off the Land
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Navigation 1
+
+So long as the land is not completely barren or hostile to life (such as
+the Underworld and Malfeas,) the Exalt will always find enough food and
+water to survive for at least a Group of people—though there are no
+guarantees as to how palatable it is.
+
+In places that are questionable, such as the deepest of deserts,
+Shadowlands, etc., the Exalt gains (Essence) automatic successes on a
+roll to forage.
+
+### Friendship with Animals
+
+**Cost:** 3m  
+**Type:** Simple  
+**Mins:** Navigation 2
+
+So long as a mundane animal has no direct antagonism toward the Exalt,
+such as overwhelming hunger or protection of offspring, the Exalt may
+calm the animal. This will allow safe passage through predator
+territory, or docile approach to even the most skittish of herbivores.
+
+Against semi-sapient creatures, such as Fogsharks, the Exalt gains (3)
+dice in any such similar attempts.
 
 Performance 
 -----------

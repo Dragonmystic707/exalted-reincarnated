@@ -52,6 +52,15 @@ Motes, bringing the total to:
 A Solar *must* choose a Defining Intimacy as one of their three
 intimacies.
 
+### Anima Arsenal
+
+The Solar may form an armament out of their own Anima. This armament is
+equivalent of Artifact 2, including the bonus to stats. The armament is
+clearly magical.
+
+Projects may be performed to increase the Anima weapons to higher
+Artifact ratings.
+
 Castes
 ------
 
@@ -65,9 +74,6 @@ emotions, such as golems and zombies.
 **Burning Anima:**  
 Dawn Castes gain an additional 2 Impulse on Maneuvers in a Combat Scene.
 
-*Associated Abilities:* Archery, Awareness, Brawl, Physique, Melee,
-Leadership.
-
 ### Zenith
 
 Spending a Strife Point, the Zenith’s flaring anima becomes a weapon
@@ -77,9 +83,6 @@ Zenith immediately take 5 Damage. Any creature or being who dies in the
 bathing light of the Zenith cannot be raised as a zombie or hungry
 ghost.
 
-*Associated Abilities:* Integrity, Performance, Leadership, Physique,
-Navigation, Socialize
-
 ### Twilight
 
 The Twilight’s mind brims with possibilities unseen to others. Spending
@@ -87,8 +90,6 @@ a Strife Point, the Twilight predicts a sequence of events that they,
 and their companions, may take to bring about their desired result in a
 scene. The Storyteller must accept this prediction as fact when crafting
 the scene.
-
-*Associated Abilities*: Awareness, Craft, Lore, Politics, Sorcery
 
 ### Night
 
@@ -101,9 +102,6 @@ At Bonfire Level, they may instead curl their Anima inwards to obscure
 all discerning characteristics—the existence of an Exalt is undeniable,
 but no possible form of perception can reveal their identity.
 
-*Associated Abilities*: Athletics, Awareness, Deception, Navigation,
-Stealth, Thrown
-
 ### Eclipse
 
 The Eclipse is the ultimate diplomat, and can bring even hardened
@@ -115,9 +113,6 @@ attack each other during discussions.
 In addition, an Eclipse may spend a Strife Point and sanctify an Oath
 willingly made by Non-Player Characters. The NPC will not be able to
 break said oath.
-
-*Associated Abilities*: Deception, Integrity, Leadership, Lore,
-Politics, Socialize.
 
 Strife Expression
 -----------------

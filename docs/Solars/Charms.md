@@ -619,7 +619,7 @@ possible.
 **Mins:** Leadership 2
 
 Grant +2 to a target character’s Ability score (or +1 for a static
-Value). This lasts for a Turn.
+Value). This lasts for a Round.
 
 ### Underling-Promoting Touch
 
@@ -798,16 +798,7 @@ Melee
 
 Return a weapon to the Solar’s hand, so long as a path exists for the
 weapon to follow. This charm may also be used to banish or summon a
-weapon from Elsewhere.
-
-### Dipping Swallow Defense
-
-**Cost:** 3m  
-**Type:** Reflexive  
-**Mins:** Melee 2
-
-Ignore any Disadvantages imposed on the Parry DV. (Targeting Evasion or
-Soak is not a penalty.)
+weapon from Elsewhere as a Free Action.
 
 ### Solar Counterattack
 
@@ -822,7 +813,62 @@ not consume an Action.
 This charm may be activated more times in a Session by spending a Strife
 Point.
 
-###  
+### Edge of Morning
+
+**Cost:** 4m, 1i  
+**Type:** Supplemental  
+**Mins:** Melee 3
+
+The Solar’s weapon takes on a glorious apparition of the Solar’s anima,
+coalescing around the instrument of war. The Solar deals an additional
+(Essence) on a damage roll, while also gaining Soulfire which deals +3
+damage to Creatures of Darkness.
+
+### Sandstorm-Wind
+
+**Cost:** 3m, 1i  
+**Type:** Supplemental  
+**Mins:** Melee 3
+
+The Solar’s attack may attack at Short range, and may pass through any
+intervening mundane material between them and their target.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Invincible Fury of the Dawn
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Melee 4
+
+### When their anima is at Burning or higher level, the Solar may chain together attacks between opponents during a flurry. So long as each opponent is one Range Band away from each other, the Exalt can attack all of them.
+
+### Burning Mein
+
+**Cost:** (3m) per. Endurance  
+**Type:** Supplemental  
+**Mins:** Melee 5
+
+The Solar gains momentum as the battle mounts. So long as they can see
+the battle is not fruitless, they can keep moving forward.
+
+On damaging a foe that is not a Lesser Foe, regain Endurance at a rate
+of 3m per Endurance. This cannot heal more than the total amount of
+damage dealt during the attack.
+
+Navigation
+----------
+
+### Sometimes Horses Fly
+
+**Cost:** 3m  
+**Type:** Reflexive  
+**Mins:** Navigation 2
+
+Until their next Action, and as long as momentum is able to be
+maintained, the Solar’s mode of transportation is able to defy
+conventional movement. Horses can run across rushing rivers, ships
+barges across land, and wagons can sail across a ravine.
 
 Stealth
 -------
@@ -835,7 +881,7 @@ Stealth
 
 **Cost:** 4m  
 **Type:** Simple  
-**Mins:** Stealth 4.
+**Mins:** Stealth 4
 
 Take a Stealth Maneuver action vs. a Target’s (Wits + Awareness). On
 success, you disappear from their sight and become unseen and an invalid
