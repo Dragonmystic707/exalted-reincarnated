@@ -151,32 +151,6 @@ mechanical purposes, from fending off attacks to plowing a field.
 
 -   Cloth-working
 
-### Deception
-
-Deception is the art of trickery, manipulation, and bold-faced lying.
-Its masters are adept at getting people to do what they want without
-them even realizing an outside influence is even there. Deception is
-used to calculate **Guile**.
-
-#### Sample Specialties
-
--   Forgery
-
--   Sleight of Hand
-
--   Conceal evidence
-
--   Misdirection
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Everyone can Lie</p>
-<p>Deception is the natural ability for liars to gravitate towards, but it is not <em>required</em> for lying. Every person and every ability, has the ability to misdirect and lie. Deception is just the purest expression of this.</p></td>
-</tr>
-</tbody>
-</table>
-
 ### Integrity 
 
 Integrity is a measure of how tightly a character can keep to their
@@ -351,13 +325,37 @@ disguises and blending into crowds.
 
 -   Disguise
 
--   Crowds
-
 -   Hiding
 
 -   Pick-pocketing
 
 -   Shadowing
+
+### Subterfuge
+
+Subterfuge is the art of trickery and manipulation. Its masters are
+adept at getting people to do what they want without them even realizing
+an outside influence is even there. Subterfuge is used to calculate
+**Guile**.
+
+#### Sample Specialties
+
+-   Forgery
+
+-   Sleight of Hand
+
+-   Conceal evidence
+
+-   Misdirection
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Everyone can Lie</p>
+<p>Subterfuge employs a lot of deception and lies, but it is not the ability that determines if you can lie or not. Every person and every Ability has the opportunity for deceit, misdirection, and half-truths.</p></td>
+</tr>
+</tbody>
+</table>
 
 ### Thrown
 
@@ -381,7 +379,7 @@ Supernatural Abilities
 
 **Supernatural** **Abilities** are those that are beyond the reach of
 even the most talented mortal. No amount of training or skill can induct
-a mortal into an Supernatural Ability-only by special circumstances will
+a mortal into a Supernatural Ability-only by special circumstances will
 the domain of the Gods be opened to them-such as Exaltation. Even then,
 it is often a limited selection.
 
@@ -398,13 +396,11 @@ books.
 
 ### Sorcery
 
-Sorcery is the manipulation and
-
-**\[\[Hey it’s sorcery! \]\]**
+**&lt;&lt;TODO&gt;&gt;**
 
 ### Necromancy
 
-**\[\[and I’m Necromancy! \]\]**
+**&lt;&lt;TODO&gt;&gt;**
 
 Creating New Abilities
 ----------------------

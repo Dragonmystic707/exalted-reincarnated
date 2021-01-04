@@ -176,8 +176,6 @@ they continue to run.
 For every 3 motes spent, reduce incoming damage by 1 point, with no more
 than (Essence) damage reduced per single attack.
 
-###  
-
 Awareness
 ---------
 
@@ -304,9 +302,8 @@ Attack, knock the target back one range band.
 **Type:** Supplemental  
 **Mins**: Brawl 3
 
-On a successful Decisive Brawl Attack, or a Brawl Attack Maneuver that
-exceeds the target’s DV, destabilize their movements and footing causing
-them to be stunned and remove 4 Dice from the next action.
+On a successful Brawl Attack, destabilize their movements and footing
+causing them to be stunned and remove 4 Dice from the next action.
 
 <div class="greater_charm">Greater Charms </div>
 
@@ -315,12 +312,17 @@ Craft
 
 ### Workshop Without Bounds
 
-**Cost:** 2m  
-**Type:** Supplemental; Scene  
+**Cost: --**  
+**Type:** Permanent  
 **Mins:** Craft 1
 
-When working without the proper tools, reduce the Disadvantage by up to
-(4) dice.
+In the hands of the Exalt, a simple rock can become as strong and
+resilient as a blacksmith’s hammer, and a grand sword as nimble as a
+paring knife. The Exalt suffers no Disadvantages from improper or
+damaged tools.
+
+There is a limit to this charm for extremely specialized tools, such as
+delicate changes to the flow of essence lines in an Artifact.
 
 ### Durability-Enhancing Technique
 
@@ -350,7 +352,7 @@ to mimic the style of the original artist. They also may use (Insight +
 Craft), with a +2 dice advantage to study other objects to recognize it
 as the crafter’s work, and not a forgery.
 
-If this current object they are studying is in *fact* a forgery, the
+If this current object they are studying is in *fact* a forgery,
 difficulty to recognize this fact is lowered by 1.
 
 ### Deftly Applied Tools 
@@ -371,13 +373,11 @@ Craft) roll instead, gaining (Essence) immediate successes.
 **Mins:** Craft 3
 
 Projects to repair, alter, or destroy crafted materials such as Manses,
-Artifacts, and other such physical goods are now 1 scale easier. i.e.
-Minor repairs are -3 Scale, Major -2, and Monumental -1 against their
-base Project cost.
+Artifacts, and other such physical goods are now 1 scale lower. (i.e.
+Minor repairs now are at -3 to Scale, Major at -2, and Monumental at
+-1).
 
-### 
-
-###  Mark of the Maker
+### Mark of the Maker
 
 **Cost:** 3m  
 **Type:** Simple  
@@ -406,84 +406,6 @@ complications on the scene.
 **Permanent Effect:** On purchasing this charm, and at the start of each
 Story, the Exalt gains an additional +15 Res, which may only be used
 only for Craft Projects.
-
-### 
-
-Deception
----------
-
-### Mimicry of Form
-
-**Cost:** 3m  
-**Type:** Simple; Week  
-**Mins:** Deception 1
-
-After studying a mannerism of a target for a short time, such as
-handwriting, voice, or even walking pattern, the Exalt may replicate it
-as needed for a week, gaining (4) additional dice to do so.
-
-### Hidden Meaning
-
-**Cost:** 3m  
-**Type:** Supplemental  
-**Mins:** Deception 2
-
-The Exalt hides their true meaning in inflections, allusions, and other
-roundabout ways of speaking, writing, or other methods of communication.
-
-The intended contact will be the only one who can divine the true
-meaning of the conversation, but others may make a contested roll
-(Cunning + Awareness) vs. the Exalt’s (Cunning + Lore) to notice that
-there is a coded message.
-
-### False Pursuit
-
-**Cost:** 4m  
-**Type:** Simple; Scene  
-**Mins:** Deception 3
-
-On a successful (Charisma + Deception) roll against the Guile of a
-target, they become convinced that an ultimately benign or small point
-of the Scene holds great value to their current goal. For example, they
-may be convinced that the blades used murder are made of a special
-composition, which is a keystone to their case, despite the blades being
-only slightly out of normal make.
-
-### 
-
-<div class="greater_charm">Greater Charms</div>
-
-### Flashing Quill Atemi
-
-**Cost:** 4m  
-**Type:** Simple  
-**Mins:** Deception 4
-
-With just a short moment in possession of a written text, the Exalt may
-insert, expunge, or replace words as they see fit. No mundane means or
-mortal characters will be able decipher the difference between the
-altered content.
-
-An Exalt, God, or other creature of power must successfully contest the
-Guile of the forging Exalt to notice that the document has been altered
-at all—let alone what specifically has been altered.
-
-### Mind-Wiping Gaze
-
-**Cost:** 6m  
-**Type:** Reflexive; Scene  
-**Mins:** Deception 5
-
-The Exalt pierces the target with a gaze that penetrates the very soul,
-extinguishing the flame of memories.
-
-Interrupt a target taking a Social Influence action, or who is
-attempting to communicate in a way. On a successful Deception vs. Guile
-roll, the target loses their thoughts and memories regarding their
-action and immediately fails on their action. In addition, they cannot
-remember to pick the task up again until after the scene.
-
-The given target may only be affected by this once per scene.
 
 Integrity
 ---------
@@ -522,8 +444,6 @@ Wyld.
 Calls to pure emotion are easy to spot, and the Exalt has become trained
 to resist them. Against any Influence Intimacy rolls that employ
 emotion, raise the Exalt’s Resolve by +(Essence).
-
-### 
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -626,8 +546,7 @@ Lore
 
 Bypassing any language barriers, the Exalt can communicate a
 self-contained concept to the target. The concept may be moderately
-complicated, such as steps to follow, but will not grant any ability
-necessary to enact the concept.
+complicated, such as directions to a place.
 
 ### Concept-Forming Thought
 
@@ -757,7 +676,6 @@ example, a Crowd (Scale 3) grants +3.
 
 Those hit by the attack are knocked back a range band.
 
-
 <div class="greater_charm">Greater Charms</div>
 
 ### Perfect Strike
@@ -778,12 +696,6 @@ on a Decisive Strike.
 The Exalt hurls their weapon, controlling it is action before it is
 returned to their hand. This allows an Attack at up to Medium Range.
 
-### 
-
-### 
-
-###  
-
 Navigation
 ----------
 
@@ -793,15 +705,14 @@ Navigation
 **Type:** Permanent  
 **Mins:** Navigation 1
 
-So long as the Exalt is able to spend moments attending to their mode of
-transportation, be it a vessel or beast of burden, no random or harmful
-incidents will occur based on ill-maintenance. This ranges from
-horseshoes falling apart, to ships springing leaks, to wheels falling
-off of wagons.
+No accidents, such as horseshoes falling off, ships springing leaks, or
+wheels falling off of wagons will happen under the Exalt’s care, so long
+as the exalt is able to spend moments attending to their mode of
+transportation each day. Even the most shoddy of ships will hold
+together for a trip, or the sickliest of horses keep their breath.
 
-Even the most ill-equipped and ram-shackled of ships will hold together
-with the Exalt at the helm. The Exalt will also always get a roll to
-discover if deliberate sabotage has occurred.
+Deliberate sabotage may be uncovered with a roll during the Exalt’s
+maintenance.
 
 ### Living off the Land
 
@@ -809,14 +720,14 @@ discover if deliberate sabotage has occurred.
 **Type:** Permanent  
 **Mins:** Navigation 1
 
-So long as the land is not completely barren or hostile to life (such as
-the Underworld and Malfeas,) the Exalt will always find enough food and
-water to survive for at least a Group of people—though there are no
-guarantees as to how palatable it is.
+The Exalt will always find enough food and water to survive during their
+travels. They may guarantee provisions for at least a Group of people
+during their travels, so long as the land is not barren or hostile to
+life (such as the Underworld and Malfeas.) The sustenance is not
+guaranteed to be palatable.
 
-In places that are questionable, such as the deepest of deserts,
-Shadowlands, etc., the Exalt gains (Essence) automatic successes on a
-roll to forage.
+In places that are questionable, such as the deepest of deserts or
+Shadowlands, the Exalt may roll with no penalties.
 
 ### Friendship with Animals
 
@@ -824,16 +735,112 @@ roll to forage.
 **Type:** Simple  
 **Mins:** Navigation 2
 
-So long as a mundane animal has no direct antagonism toward the Exalt,
-such as overwhelming hunger or protection of offspring, the Exalt may
-calm the animal. This will allow safe passage through predator
+Animals may be calmed, so long as a mundane animal has no direct
+antagonism toward the Exalt, such as overwhelming hunger or protection
+of offspring. This will allow safe passage through a predator’s
 territory, or docile approach to even the most skittish of herbivores.
 
 Against semi-sapient creatures, such as Fogsharks, the Exalt gains (3)
-dice in any such similar attempts.
+dice to their rolls.
 
-Performance 
+### Terrain Conquering Path
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Navigation 2
+
+The rough terrain of the deepest of jungles and the maelstroms of oceans
+hold little sway over the Exalt. They may ignore such disadvantages on
+their Navigation rolls.
+
+### Unshakable Bloodhound Technique
+
+**Cost:** 5m  
+**Type:** Simple  
+**Mins:** Navigation 2
+
+With but the most minute signs, the Exalt may always track their quarry.
+In addition, they gain (3) dice if they have an item of significant link
+to their quarry.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Sometimes Horses Fly
+
+**Cost:** 2m  
+**Type:** Reflexive  
+**Mins:** Navigation 4
+
+For an Action, the Exalt’s mode of transportation is able to defy
+conventional movement. Horses can run across rushing rivers, ships
+barges across land, and wagons can sail across an empty canyon.
+
+### Traceless Passage
+
+**Cost:** 6m  
+**Type:** Simple  
+**Mins:** Navigation 5
+
+When purchasing this Charm, the Exalt chooses a favored terrain, such as
+city streets, jungle, desert wilderness, or river passages. The Exalt
+may disappear with up to a Crowd of followers into this terrain, leaving
+behind no trace or chance for pursuit.
+
+In any other terrain, this charm may be activated to disguise their
+tracks, increasing the difficulty of any pursuit by (Essence).
+
+Performance
 -----------
+
+### Soul-Firing Performance
+
+**Cost:** 2m  
+**Type:** Supplemental  
+**Mins:** Performance 1
+
+On attempts to Instill Emotion, counter the bonus Resolve gained from
+being in a Group.
+
+### Phantom Scenery
+
+**Cost:** 2m  
+**Type:** Supplemental; Scene  
+**Mins:** Performance 2
+
+The Exalt may conjure scenery, props, or other phantoms as extensions of
+their anima, showing up as distorted, shadowy figures.
+
+In typical application, such as on stage or during a performance, this
+magical flare does not arouse suspicion of the Exalt’s nature. In other
+circumstances, the Exalt must use contested (Cunning + Performance) vs.
+(Insight + Awareness) to disguise this as a mundane effect.
+
+### Irresistible Diversion
+
+**Cost:** 3m  
+**Type:** Supplemental; Scene  
+**Mins:** Performance 3
+
+The performer can command attention to themselves, making sure that they
+and only they are noticed by onlookers with a successful Performance
+roll vs. Resolve.
+
+Those entranced lose (Essence) successes on any awareness rolls while
+the performance is ongoing.
+
+### Dance of Flashing Swords
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Performance 3
+
+After the fact, the Exalt can explain away that a particularly egregious
+action—a fight, explosion, or similar altercation—as an artistic
+performance with a successful Performance roll vs. Guile.
+
+<div class="greater_charm">Greater Charms</div>
+
+###  
 
 Physique
 --------
@@ -842,8 +849,10 @@ Physique
 
 <div class="greater_charm">Greater Charms </div>
 
-Politics 
+Politics
 --------
+
+<div class="greater_charm">Greater Charms </div>
 
 Socialize
 ---------
@@ -859,8 +868,86 @@ specific reason against it, Mortals and beings with Essence lower than
 the Exalt’s will be friendly and cordial to them, even if they have just
 met.
 
-Stealth 
+Stealth
 -------
+
+<div class="greater_charm">Greater Charms </div>
+
+Subterfuge
+----------
+
+### Mimicry of Form
+
+**Cost:** 3m  
+**Type:** Simple; Week  
+**Mins:** Deception 1
+
+After studying a mannerism of a target for a short time, such as
+handwriting, voice, or even walking pattern, the Exalt may replicate it
+as needed for a week, gaining (4) additional dice to do so.
+
+### Hidden Meaning
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Deception 2
+
+The Exalt hides their true meaning in inflections, allusions, and other
+roundabout ways of speaking, writing, or other methods of communication.
+
+The intended contact will be the only one who can divine the true
+meaning of the conversation, but others may make a contested roll
+(Cunning + Awareness) vs. the Exalt’s (Cunning + Lore) to notice that
+there is a coded message.
+
+### False Pursuit
+
+**Cost:** 4m  
+**Type:** Simple; Scene  
+**Mins:** Deception 3
+
+On a successful (Charisma + Deception) roll against the Guile of a
+target, they become convinced that an ultimately benign or small point
+of the Scene holds great value to their current goal. For example, they
+may be convinced that the blades used murder are made of a special
+composition, which is a keystone to their case, despite the blades being
+only slightly out of normal make.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Flashing Quill Atemi
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Deception 4
+
+With just a short moment in possession of a written text, the Exalt may
+insert, expunge, or replace words as they see fit. No mundane means or
+mortal characters will be able decipher the difference between the
+altered content.
+
+An Exalt, God, or other creature of power must successfully contest the
+Guile of the forging Exalt to notice that the document has been altered
+at all—let alone what specifically has been altered.
+
+### Mind-Wiping Gaze
+
+**Cost:** 6m  
+**Type:** Reflexive; Scene  
+**Mins:** Deception 5
+
+The Exalt pierces the target with a gaze that penetrates the very soul,
+extinguishing the flame of memories.
+
+Interrupt a target taking a Social Influence action, or who is
+attempting to communicate in a way. On a successful Deception vs. Guile
+roll, the target loses their thoughts and memories regarding their
+action and immediately fails on their action. In addition, they cannot
+remember to pick the task up again until after the scene.
+
+The given target may only be affected by this once per scene.
+
+ 
 
 Thrown
 ------

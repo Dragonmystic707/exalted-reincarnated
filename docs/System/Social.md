@@ -116,12 +116,12 @@ the character’s strengths is perfectly valid!
 ### Groups
 
 Social actions against groups of people, rather than individuals, suffer
-from the lack of intimacy—in addition to the natural logistical issues.
-Any character in a group of a magnitude of “Crowd” or larger gains +2 to
-their Resolve.
+from the lack of intimacy, as well as logistics. Any social action taken
+against multiple characters with a magnitude of “Crowd” (50 people) or
+larger gains +2 to their Resolve and Guile.
 
-Crowds of magnitude “City” or larger cannot be addressed by a single
-roll.
+Crowds of magnitude “City” or larger cannot be addressed by a simple
+roll, and instead must be done through an Encounter.
 
 ### Perform Task
 

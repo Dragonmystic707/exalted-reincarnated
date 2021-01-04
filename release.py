@@ -102,7 +102,7 @@ def procces_dir(dir_dict, group_order):
         
         odt_list = [f for f in  os.listdir(temp_dir) if f.endswith('.docx')]
         # URL List for previous/next
-        # Oversize it in case we have missing chapters
+        # Oversize the array it in case we have missing chapters
         print("Converting", folder_name, "to Markdown...")
         url_list = [None] * 99
         for f0 in odt_list:
@@ -115,7 +115,7 @@ def procces_dir(dir_dict, group_order):
 
 
             # Export out the base markdown to the temporary files
-            bash_cmd = "pandoc \"" + path.join(temp_dir, f0) + "\" -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc" 
+            bash_cmd = "pandoc \"" + path.join(temp_dir, f0) + "\" -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc --toc-depth=4" 
             subprocess.Popen(bash_cmd).wait() 
 
             # Consume the table of Contents

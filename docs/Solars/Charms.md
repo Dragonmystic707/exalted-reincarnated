@@ -11,20 +11,6 @@ prev_title: Introduction
 Charms
 ======
 
-Global Charms
--------------
-
-### Inescapable Judgment
-
-**Cost:** 2m  
-**Type:** Supplemental  
-**Mins:** (Ranged Ability) 1
-
-With perfect control, the Solar lets loose a ranged attack that follows
-a perfect arc, angle, or even a series of ricochets to reach its target,
-diminishing the target’s Cover. Those in Full Cover only gain Partial
-Defense, while those in any less find their cover becoming meaningless.
-
 Archery
 -------
 
@@ -36,6 +22,17 @@ Archery
 
 Instead of ammunition, the Solar may use their very anima. Once struck,
 this dissolves, leaving no evidence behind.
+
+### Inescapable Judgment
+
+**Cost:** 2m  
+**Type:** Supplemental  
+**Mins:** Archery 1
+
+With perfect control, the Solar lets loose a ranged attack that follows
+a perfect arc, angle, or even a series of ricochets to reach its target,
+diminishing the target’s Cover. Those in Full Cover only gain Partial
+Defense, while those in any less find their cover becoming meaningless.
 
 ### Spirit Piercing Technique
 
@@ -76,6 +73,8 @@ Soulfire, launching a Flurry Attack that deals a +(2) damage each, up to
 The spike jumps from target to target like lightning, and may continue
 past the Solar’s typically range boundary so long as each target is
 within Short Range of the last.
+
+### 
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -213,8 +212,6 @@ leap effortlessly through the air.
 Once per Scene, the Exalt may reach a Position or Target they can
 observe, so long as a *possible* path exists. This may be repeated in
 the Scene by spending a Strife Point.
-
- 
 
 Awareness
 ---------
@@ -435,8 +432,6 @@ For (Essence) Weeks, that object, and anything inside of it, become
 resistant to the chaotic effects of the Wyld, gaining (Essence)
 difficulty to warp it.
 
-### 
-
 <div class="greater_charm">Greater Charms</div>
 
 ### Marvelous Machinery
@@ -452,83 +447,6 @@ as though it were an extension of their body.
 
 Hostile entities may attempt to wrest control from the object by
 performing a contested Craft Roll.
-
-Deception
----------
-
-### Spurious Ownership
-
-**Cost:** 4m  
-**Type:** Simple; Scene  
-**Mins:** Deception 1
-
-With the force of certainty and their unconsciously regal presence,
-whatever the Solar speaks claims ownership of is instinctively believed.
-
-With a successful Deception Roll above the target’s Guile, the target
-will believe that a claimed object, structure, or even specific idea
-belongs to the Solar for the remainder of the scene. This belief may
-remain unless directly challenged.
-
-If they have knowledge or direct evidence to the contrary, they instead
-gain a temporary Intimacy of doubt towards their own known evidence, but
-remain convinced of its true ownership.
-
-### Preying on Uncertainty Approach
-
-**Cost:** 3m  
-**Type:** Supplemental  
-**Mins:** Deception 2
-
-Through statements that deny questioning, the Solar denies the known
-reality of a target, and places the stated one in instead. An unexpected
-guard rotation was scheduled, an extra invitation was sent out, or the
-passing glimpse of a blank paperwork certainly contained the correct
-seals.
-
-Mundane mortals will not question this uncertainty, requiring no roll to
-succeed. Against other creatures, the Solar gains (Essence) dice on
-their Deception roll.
-
-<div class="greater_charm">Greater Charms</div>
-
-### Twisted Meaning
-
-**Cost:** 8m  
-**Type:** Simple; Scene  
-**Mins:** Deception 4
-
-With but a few well placed words, the Solar can turn the words of their
-enemies against themselves.
-
-On a successful Deception roll against a target’s Guile, the Solar
-chooses a particular intimacy, topic of discussion, or idea the target
-espouses, and then poisons it with the Solar’s own words.
-
-For the remainder of the scene anytime the target speaks, acts, or
-otherwise tries to communicate the poisoned concept, it will always be
-expressed or interpreted as the Solar dictated: such as true belief
-becoming mocking disdain.
-
-### Master Plan Meditation
-
-**Cost: --**  
-**Type:** Reflexive  
-**Mins:** Deception 5
-
-Once per story, the Player may declare their character predicted and
-accordingly planned for a certain event, and have somehow twisted it to
-their own benefit. Evidence provided turns out to be a planted fake;
-eyewitnesses have already been successfully bribed.
-
-This charm represents the Solar’s mastermind-level planning and
-cunning—essentially revealing hidden information to the Players
-themselves. As such, it can not actually change anything that has been
-firmly established, but it can complicate or muddy the veracity of those
-“facts.”
-
-This charm may be used additionally in a story by spending a Strife
-Point.
 
 Integrity
 ---------
@@ -830,8 +748,8 @@ damage to Creatures of Darkness.
 **Type:** Supplemental  
 **Mins:** Melee 3
 
-The Solar’s attack may attack at Short range, and may pass through any
-intervening mundane material between them and their target.
+The Solar’s attack may reach to Short range, passing through and
+destroying any intervening mundane material.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -859,16 +777,162 @@ damage dealt during the attack.
 Navigation
 ----------
 
-### Sometimes Horses Fly
+### Hardship-Surviving Spirit
+
+**Cost:** 4m  
+**Type:** Reflexive: Scene  
+**Mins:** Navigation 1
+
+Negate up to (4) dice to environmental disadvantages to Survival Rolls,
+and exposure to extreme climates and inclement weather can be ignored by
+the Solar.
+
+Environmental Damage is not affected by this charm.
+
+### Grizzled Cataphract’s Way
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Navigation 2
+
+The Solar always remains vigilant, and may keep watch, pilot ships, or
+guide horses through the night without penalties. This may be done up to
+3 consecutive nights in a row before the Solar requires sleep.
+
+The Solar may only regain up to ½ of their Personal Motes during these
+long nights.
+
+### Shipwreck-Surviving Stamina
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Navigation 2
+
+Once per Story, the Solar may escape certain doom caused by a shipwreck,
+crash, deliberate ramming, or other such vehicular catastrophe.
+
+This may be repeated in the Story by spending a Strife Point.
+
+### Weather-Anticipating Intuition
+
+**Cost:** 5m  
+**Type:** Simple; Week  
+**Mins:** Navigation 3
+
+### With a glance, the Solar can predict what the weather will be like for a week. The Player asks the Storyteller for the forecast, which will be true so long as there is no unnatural influence.
+
+### They may also recognize if the current weather has any unnatural influence, so long as they are not a new arrival to the area.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Phantom Rider’s Retreat
+
+**Cost:** 6m  
+**Type:** Simple; Constant  
+**Mins:** Navigation 4
+
+The Solar leads their party to safety. So long as their mode of
+transportation does not halt movement, their pursuers will be unable to
+catch them.
+
+The Solar cannot rest while the effects of this charm are active, nor
+regain motes.
+
+### A Will is a Way
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Navigation 5
+
+Even if the way forward seems to be impossible, the Solar will find a
+path to their destination. Once per Story, the Player declares that they
+and their companions will arrive at the specified place, no matter the
+obstruction, and the Storyteller must open a path for them to follow.
+
+This may be repeated in the Story by spending a Strife Point.
+
+Performance
+-----------
+
+### Mood-Inducing Music
 
 **Cost:** 3m  
 **Type:** Reflexive  
-**Mins:** Navigation 2
+**Mins:** Performance 2
 
-Until their next Action, and as long as momentum is able to be
-maintained, the Solar’s mode of transportation is able to defy
-conventional movement. Horses can run across rushing rivers, ships
-barges across land, and wagons can sail across a ravine.
+The Solar provides appropriate music, inflaming all emotions. Attempts
+by themselves or others to Influence an emotion are granted an
+additional (3) dice. Alternatively, they may grant +1 Resolve to resist
+an Influence to emotions.
+
+### Heart-Compelling Method
+
+**Cost:** 3m  
+**Type:** Simple  
+**Mins:** Performance 3
+
+On a successful (Charisma + Performance) vs. Resolve roll, the Solar may
+inspire a character to take an action, *any action*, on their greatest
+Influence or Emotion.
+
+With at least 3 Threshold Successes, the Solar can select a particular
+Influence or Emotion.
+
+### 
+
+<div class="greater_charm">Greater Charms</div>
+
+### Fury-Inciting Speech
+
+**Cost:** 5m  
+**Type:** Simple  
+**Mins:** Performance 4
+
+Once a mob has been formed with emotions of rage, fury, or likewise, the
+Solar can direct them as though they were an extension of their own
+morals.
+
+The Player directs the mob to outlet their anger. For every 3 successes
+on a (Charisma + Performance) roll, the Solar can direct to the mob to
+take a distinct action related to their anger, be it to burn a Guild
+Hall, capture a Magistrate, or storm the docks.
+
+### Respect-Commanding Attitude
+
+**Cost:** 5m  
+**Type:** Supplemental; Scene  
+**Mins:** Performance 4
+
+Once a Solar has begun a performance, those listening become enraptured.
+On a successful Performance vs. Resolve roll, those who watch cannot
+interrupt the Solar, nor take any action at all while the Performance is
+ongoing.
+
+This charm may not be activated during a Combat Scene.
+
+### Memory-Reweaving Discipline
+
+**Cost:** 7m  
+**Type:** Simple; Day.  
+**Mins:** Performance 4
+
+A story so compelling is spoken, that those who listen are convinced it
+is truth. Roll (Charisma + Performance). Those with a Resolve less than
+the roll become convinced of this new narrative, which lasts for at
+least a Day.
+
+The bonus Resolve from being in a Group does not apply for this charm,
+but the Storyteller may grant extra Resolve based on the outlandishness
+or improbability of the narrative spoken.
+
+Physique 
+--------
+
+Politics 
+--------
+
+Socialize 
+---------
 
 Stealth
 -------
@@ -889,3 +953,80 @@ Target by them until your next Action.
 
 Multiple targets may be chosen at the same time, but doing so causes a
 (-2) penalty on the Maneuver.
+
+Subterfuge
+----------
+
+### Spurious Ownership
+
+**Cost:** 4m  
+**Type:** Simple; Scene  
+**Mins:** Deception 1
+
+With the force of certainty and their unconsciously regal presence,
+whatever the Solar speaks claims ownership of is instinctively believed.
+
+With a successful Deception Roll above the target’s Guile, the target
+will believe that a claimed object, structure, or even specific idea
+belongs to the Solar for the remainder of the scene. This belief may
+remain unless directly challenged.
+
+If they have knowledge or direct evidence to the contrary, they instead
+gain a temporary Intimacy of doubt towards their own known evidence, but
+remain convinced of its true ownership.
+
+### Preying on Uncertainty Approach
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Deception 2
+
+Through statements that deny questioning, the Solar denies the known
+reality of a target, and places the stated one in instead. An unexpected
+guard rotation was scheduled, an extra invitation was sent out, or the
+passing glimpse of a blank paperwork certainly contained the correct
+seals.
+
+Mundane mortals will not question this uncertainty, requiring no roll to
+succeed. Against other creatures, the Solar gains (Essence) dice on
+their Deception roll.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Twisted Meaning
+
+**Cost:** 8m  
+**Type:** Simple; Scene  
+**Mins:** Deception 4
+
+With but a few well placed words, the Solar can turn the words of their
+enemies against themselves.
+
+On a successful Deception roll against a target’s Guile, the Solar
+chooses a particular intimacy, topic of discussion, or idea the target
+espouses, and then poisons it with the Solar’s own words.
+
+For the remainder of the scene anytime the target speaks, acts, or
+otherwise tries to communicate the poisoned concept, it will always be
+expressed or interpreted as the Solar dictated: such as true belief
+becoming mocking disdain.
+
+### Master Plan Meditation
+
+**Cost: --**  
+**Type:** Reflexive  
+**Mins:** Deception 5
+
+Once per story, the Player may declare their character predicted and
+accordingly planned for a certain event, and have somehow twisted it to
+their own benefit. Evidence provided turns out to be a planted fake;
+eyewitnesses have already been successfully bribed.
+
+This charm represents the Solar’s mastermind-level planning and
+cunning—essentially revealing hidden information to the Players
+themselves. As such, it can not actually change anything that has been
+firmly established, but it can complicate or muddy the veracity of those
+“facts.”
+
+This charm may be used additionally in a story by spending a Strife
+Point.

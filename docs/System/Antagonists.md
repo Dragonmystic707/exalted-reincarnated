@@ -23,7 +23,7 @@ Lesser Foes may be **Grouped** together. For each increase in
 **Magnitude**, they gain 5 Endurance and 2 to their Attack Pool.
 
 **Mortals** Have a lesser pool of Endurance:  
-10 + (Stamina + Athletics + Physique)
+5 + (Stamina + Athletics + Physique)
 
 <table>
 <tbody>

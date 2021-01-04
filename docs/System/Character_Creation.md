@@ -269,7 +269,7 @@ Steps
         (Essence)x2 + 15
 
     -   **Guile**  
-        (Composure + Deception)/2
+        (Composure + Subterfuge)/2
 
     -   **Resolve**  
         (Will + Integrity)/2
