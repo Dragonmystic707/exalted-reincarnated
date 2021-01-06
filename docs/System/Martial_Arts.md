@@ -59,7 +59,26 @@ for Attack Ability Specialties…
 -   Note how “Spears” is a Staff with a blade, that can also be thrown
     like a Javelin.
 
--   Throwing Disks (Chakram, shields)
+-   Throwing Disks (Chakram, shields)\]\]
+
+### Weapon Master
+
+Some Exalts may choose to forgo a Martial Arts Style altogether, instead
+turning their attention to perfecting their natural fighting style.
+
+They may choose **one** of the following:
+
+-   +1 Evasion
+
+-   +1 Soak
+
+-   +2 Accuracy
+
+-   +1 Base Damage
+
+The “Weapon Master” perk can only be purchased if the Exalt has not
+bought a specific Martial Art—it is in effect a proto-Martial Arts. Xp
+is refunded if a Martial Arts style is purchased.
 
 Snake Style
 -----------

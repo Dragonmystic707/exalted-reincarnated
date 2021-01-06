@@ -840,7 +840,23 @@ performance with a successful Performance roll vs. Guile.
 
 <div class="greater_charm">Greater Charms</div>
 
-###  
+### Shining Expression Style
+
+**Cost: 5**m  
+**Type:** Simple  
+**Mins:** Performance 4
+
+The Exalt embodies a specific Emotion, folding it perfectly into their
+performance. All who watch are struck with the raw power of that
+emotion, and cannot help but resonate.
+
+Any with a Resolve less than (Essence) will openly display their closest
+Intimacy to the emotion to all in the Scene. For the rest, the Exalt may
+discover the Intimacy with a (Insight + Performance) with + (Essence)
+extra dice, against the target’s Guile.
+
+The Exalt cannot direct the effects of this charm—any who observe their
+performance, even their own allies, will be struck by the effects.
 
 Physique
 --------

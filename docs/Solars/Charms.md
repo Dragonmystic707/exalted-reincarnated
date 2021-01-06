@@ -819,9 +819,9 @@ This may be repeated in the Story by spending a Strife Point.
 **Type:** Simple; Week  
 **Mins:** Navigation 3
 
-### With a glance, the Solar can predict what the weather will be like for a week. The Player asks the Storyteller for the forecast, which will be true so long as there is no unnatural influence.
+With a glance, the Solar can predict what the weather will be like for a week. The Player asks the Storyteller for the forecast, which will be true so long as there is no unnatural influence.
 
-### They may also recognize if the current weather has any unnatural influence, so long as they are not a new arrival to the area.
+They may also recognize if the current weather has any unnatural influence, so long as they are not a new arrival to the area.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -853,6 +853,20 @@ This may be repeated in the Story by spending a Strife Point.
 
 Performance
 -----------
+
+### Master Thespian Style
+
+**Cost:** 2m  
+**Type:** Simple; Scene  
+**Mins:** Performance 1
+
+So long as the Solar remains in character, they meld into the very role
+that they are portraying. So long as they do not perform any suspicious
+or unexpected movement, the populace will mostly believe their illusion.
+For those that don’t, gain +1 Guile.
+
+It is difficult to re-enter a role once broken-intentionally or
+otherwise, and must perform a Performance Roll with -2 dice.
 
 ### Mood-Inducing Music
 
