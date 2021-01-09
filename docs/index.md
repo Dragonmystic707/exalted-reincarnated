@@ -33,7 +33,7 @@ As well, I would like to thank the systems and their authors of [Anima Prime (Ch
 Tools
 -----
 
-<a href="/assets/downloads/Summary.pdf" download>Rules Summary (Cheat Sheet)</a>
+<a href="/assets/downloads/Summary.pdf" download>Rules Summary (Cheat Sheet)</a>  (Note: out of date. No Combat rules. Will update soon.)
 
 [**<u>Character Sheets</u>**](https://docs.google.com/spreadsheets/d/1jRyQCIH2EfPr_X8OzsWhJxdUE4AAg2E7K3Lh8oMEWuQ/edit?usp=sharing)
 
