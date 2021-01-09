@@ -206,10 +206,10 @@ Steps
 
     -   Choose 3 **Specialties,** each in a separate Favored Ability.
 
-6.  Choose a [**<u>Martial Arts Style</u>**](/System/Martial_Arts/#martial-arts).
-    Martial Arts dictates how your character interacts during combat,
-    ranging from animal styles to esoteric and strange supernatural
-    styles.
+6.  Choose a [**<u>Martial Arts Style</u>**](/System/Martial_Arts/#martial-arts),
+    which represents your character’s stance and approach to combat. If
+    no specific Martial Arts is desired, take the [Weapons
+    Master](/System/Martial_Arts/#weapons-master) Perk.
 
 7.  Gain 15 **Resources**, which may immediately be spent on Merits.  
       

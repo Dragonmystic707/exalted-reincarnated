@@ -667,14 +667,17 @@ cryptically.
 ### Harmonious Academic Methodology
 
 **Cost:** 6m  
-**Type:** Simple; Week  
+**Type:** Simple; Month  
 **Mins:** Lore 4
 
-Targeting a non-Player individual, organization, or other such group,
-the Solar may grant their knowledge and resources. The target(s) gain +2
-dice on a particular type of task that the Solar is designates.
+Targeting a non-Player individual, organization, or such group, the
+Solar may grant insight into their own knowledge and methodologies in a
+way that resonates in their minds. Choose one of the character’s
+Specialties, and the target’s tasks in that specialty will run smoother
+and be completed faster than otherwise. If they must roll, they gain +4
+dice, capped at 12 dice.
 
-This effect lasts for a week.
+Up to (Essence) blessings may be active at one time.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -784,8 +787,8 @@ Navigation
 **Mins:** Navigation 1
 
 Negate up to (4) dice to environmental disadvantages to Survival Rolls,
-and exposure to extreme climates and inclement weather can be ignored by
-the Solar.
+and casual exposure effects from extreme conditions such as frost or
+heat is ignored.
 
 Environmental Damage is not affected by this charm.
 
@@ -808,10 +811,11 @@ long nights.
 **Type:** Permanent  
 **Mins:** Navigation 2
 
-Once per Story, the Solar may escape certain doom caused by a shipwreck,
-crash, deliberate ramming, or other such vehicular catastrophe.
-
-This may be repeated in the Story by spending a Strife Point.
+Escape certain doom caused by a vehicular catastrophe such as an
+explosive crash, or violent capsize. The Solar, as well as up to
+(Essence) x2 chosen people (or people-sized cargo) will definitely
+emerge with no more than cosmetic damage. More can be guaranteed to
+escape with 2x the value of a Navigation roll.
 
 ### Weather-Anticipating Intuition
 
@@ -819,9 +823,12 @@ This may be repeated in the Story by spending a Strife Point.
 **Type:** Simple; Week  
 **Mins:** Navigation 3
 
-With a glance, the Solar can predict what the weather will be like for a week. The Player asks the Storyteller for the forecast, which will be true so long as there is no unnatural influence.
+With a glance, the Solar can predict what the weather will be like for a
+week. The Player asks the Storyteller for the forecast, which will be
+true so long as there is no unnatural influence.
 
-They may also recognize if the current weather has any unnatural influence, so long as they are not a new arrival to the area.
+They may also recognize if the current weather has any unnatural
+influence, so long as they are not a new arrival to the area.
 
 <div class="greater_charm">Greater Charms</div>
 

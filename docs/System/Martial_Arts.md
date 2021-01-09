@@ -61,7 +61,7 @@ for Attack Ability Specialties…
 
 -   Throwing Disks (Chakram, shields)\]\]
 
-### Weapon Master
+### Weapons Master
 
 Some Exalts may choose to forgo a Martial Arts Style altogether, instead
 turning their attention to perfecting their natural fighting style.
