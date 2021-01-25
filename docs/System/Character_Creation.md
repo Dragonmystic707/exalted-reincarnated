@@ -39,7 +39,7 @@ number representing greater proficiency.
 <p>Attribute Rating</p>
 </blockquote></td>
 <td><blockquote>
-<p>4</p>
+<p>6</p>
 </blockquote></td>
 <td><blockquote>
 <p>--</p>
@@ -165,7 +165,7 @@ Steps
 
 2.  Choose your character’s [**<u>Great
     Curse</u>**](/System/General_System/#the-great-curse), the character flaw which
-    your Exalt struggles with day in and day out. Often, your
+    your Exalt struggles with d5ay in and day out. Often, your
     character’s flaw will flare up, causing them to Botch their rolls,
     fail their actions, or otherwise veer them off of their intended
     course.  
@@ -204,12 +204,13 @@ Steps
     -   **6 dots** in *non-Favored* Abilities, with no single Ability
         raised higher than **3** during this phase.
 
-    -   Choose 3 **Specialties,** each in a separate Favored Ability.
+    -   Choose 3 **[Specialties](/System/Abilities/#specialties),** each in a separate
+        Favored Ability.
 
-6.  Choose a [**<u>Martial Arts Style</u>**](/System/Martial_Arts/#martial-arts),
-    which represents your character’s stance and approach to combat. If
-    no specific Martial Arts is desired, take the [Weapons
-    Master](/System/Martial_Arts/#weapons-master) Perk.
+6.  Choose a [**<u>Martial Arts Style</u>**](/System/Martial_Arts/#martial-arts) of a
+    Favored ability, which represents your character’s stance and
+    approach to combat. If no specific Martial Arts is desired, take the
+    [Weapons Master](/System/Martial_Arts/#weapons-master) Perk.
 
 7.  Gain 15 **Resources**, which may immediately be spent on Merits.  
       
@@ -220,7 +221,8 @@ Steps
     revolves around that Merit. See [Projects](/System/Projects/#projects) for more
     details.
 
-8.  Gain **3 Lesser Powers,** each in an Ability that is **Favored.**
+8.  Gain **3 Powers,** each in an Ability that is **Favored.** Greater
+    Powers cannot be purchased until Essence 3.
 
 <table>
 <tbody>
@@ -239,7 +241,7 @@ Steps
 </tbody>
 </table>
 
-1.  Spend **30 xp** as desired.
+1.  Spend **21 xp** as desired.
 
 2.  Specify any relevant **Equipment** the character carries, such as
     [Armor and
@@ -296,7 +298,7 @@ Steps
         This is described in more detail in
         [Weapons](/System/Combat/#armor-and-weapons).  
           
-        *Note:* Remember that Unarmed grants +2 Accuracy.
+        *Note:* Remember that Unarmed grants +1 Accuracy.
 
     -   **Base Damage**  
         (Weapon Mod) + Essence
@@ -308,9 +310,9 @@ Steps
 <tbody>
 <tr class="odd">
 <td><p><strong>XP Generation</strong></p>
-<p>If you prefer pure xp generation, character creation ends at 150xp with the following minimums:</p>
+<p>If you prefer pure xp generation, character creation is worth 175xp with the following minimums:</p>
 <ul>
-<li><p>Attributes: 68 xp</p></li>
+<li><p>Attributes: 102 xp</p></li>
 <li><p>Favored Abilities: 18xp</p></li>
 <li><p>Non-Favored Abilities: 18xp</p></li>
 <li><p>Lesser Powers: 12xp</p></li>
@@ -335,8 +337,8 @@ Steps
  Advancement
 -----------
 
-Essence increases automatically depending on how much xp has accumulated
-after Character Creation:
+Essence increases automatically depending on how much **total** xp has
+been gained.
 
 -   Essence 2: 25 xp
 
@@ -356,7 +358,7 @@ Player Characters in the same group should be kept at the same amount of
 experience points, so that no single character gets significantly ahead
 or behind others.
 
-For each session, each player should be given **Five XP** and **Two
+For each session, each player should be given **Three XP** and **Two
 RES**, in addition to any Extra XP or RES they may have earned.
 
 ### Extra XP

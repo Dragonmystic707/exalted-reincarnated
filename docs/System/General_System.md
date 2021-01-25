@@ -94,15 +94,6 @@ match or exceed for the action to be considered a success.
     across a chasm unassisted, or keeping a patient alive without a
     heart for hours at a time with their bare hands.
 
-### Threshold Successes
-
-Some rolls are not as much concerned with *whether* the character
-succeeds, but *by how much*. This is simply the difference between the
-total Number of Successes rolled, and the Difficulty.
-
-If a Player rolled Four (4) Successes on a Difficulty One (1) task, they
-would then have Three (3) Threshold Successes.
-
 ### Contested Actions
 
 Certain actions are contested between abilities of two or more
@@ -127,18 +118,35 @@ Push the Roll
 Exalts can push themselves past their mortal limits and achieve the
 impossible—but it often comes at a price.
 
-After the Player rolls and all effects finalized, the Player may choose
-to **Push their Roll** In exchange, they gain **+2 successes** to a
-roll, or **+1** **Defense,** at the expense of **Taking a Drawback**.
+In exchange for taking a **Drawback**, the Player may gain up to **+2
+Successes** or **+1 Defense** on any \[Att. + Abi.\] roll, succeeding at
+rolls they otherwise would be deficient in. (Or Exceeding at rolls they
+already would have succeeded at.)
 
-**Note:** Drawbacks cannot be taken for Luck Rolls, Limit Break, Join
-Battle or anything else that uses a 1d10 as its roll.
+If they are using their **Specialty**, they may gain up to **+4
+Successes** or **+2 Defense** on their roll.
+
+This may be used reflexively at any point during the roll, even after
+everything has been finalized.
+
+Botching
+--------
+
+If a character fails their action, they may choose to *worsen* their
+failure in a dramatic action, as represented by taking a **Drawback**.
+In exchange, they will gain a [**<u>Strife Point</u>**](/System/General_System/#strifes).
+
+If at all possible, the Player should try to include their **Great
+Curse** as reasoning for this Botch. Perhaps a prideful character could
+not help but reveal a secret in their boasting; a compassionate one
+unable to hide their disgust at conditions of the city when talking to
+an official.
 
 Drawbacks
 ---------
 
 A Drawback can be any sort of action that the Storyteller deems to be a
-proper **Price to Pay** for succeeding (or exceeding) their roll.
+proper **Price the Pay** for succeeding (or exceeding) their roll.
 
 The following are a list of Examples, but should not be treated as
 exhaustive or exclusive:
@@ -172,19 +180,6 @@ After this action, the scene becomes negative, if not mildly hostile,
 towards the character. Perhaps they offended a vital character with
 their action, or they accidentally gave a secret up to the Antagonist
 that they can use.
-
-Botching
---------
-
-If a character fails their action, they may choose to *worsen* their
-failure dramatically, as represented by taking a Drawback. In exchange,
-they will gain a [**<u>Strife Point</u>**](/System/General_System/#strifes).
-
-If at all possible, the Player should try to include their **Great
-Curse** as reasoning for this Botch. Perhaps a prideful character could
-not help but reveal a secret in their boasting; a compassionate one
-unable to hide their disgust at conditions of the city when talking to
-an official.
 
 Advantages and Disadvantages
 ----------------------------

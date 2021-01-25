@@ -68,21 +68,18 @@ starting rumors, researching tactics, beguiling tricks, intimidation.
 Taking any action to tackle a Key Issue directly is called a **Gather
 Influence** action.
 
-A Gathering Influence action operates just as any normal action--first
-the Storyteller must decide if the Action *is possible* in the given
-context, and then assigns the Difficulty of the roll.
+A Gathering Influence action starts as a normal \[Att. + Abi.\]
+roll—determine if the action is possible, assign a Difficulty, and allow
+the player to roll.
 
-If the roll is not appropriate, the Storyteller should inform the Player
-before they take up the action.)
+If the Player is successful on their roll, they then gain **Influence**
+equal to the original Difficulty of the task, and apply it to the
+appropriate Key Issue.
 
-What is different is that all Threshold Successes of the roll become
-converted into Influence—in addition to the normal outcome of the
-action. These Influence Points are then applied against the *specific*
-Key Issue being addressed.
+Changes to the Difficulty after it has been stated—either raising or
+lowering it, do not affect how much Influence is gathered.
 
-**Influence** = Successes - Difficulty
-
-> The Socialite of the group, a Solar Eclipse, moves to address the “Antagonist Sycophants” Key Issue by suppressing the Intimacy the Trade-Prince has of them. He performs a “Influence Intimacy” Social Action, rolling 5 Success against the Prince’s 3 Resolve. He gains 2 Influence Points against the Key Issue, as well as successfully lowering the Prince’s Intimacy.
+> The Socialite of the group, a Solar Eclipse, moves to address the “Antagonist Sycophants” Key Issue by suppressing the Intimacy the Trade-Prince has of them. He performs a “Influence Intimacy” Social Action, rolling 5 Success against the Prince’s 3 Resolve. He gains 3 Influence Points against the Key Issue, as well as successfully lowering the Prince’s Intimacy.
 
 Once enough Influence has been gathered against a Key Issue, it is
 considered *resolved*, and the Players are one step closer to their
@@ -100,6 +97,15 @@ contested Key Issue.
 -   Sweet-Talking
 
 -   Intimidation of Sycophants
+
+### Influence Modifiers
+
+The Influence gained from an action is linked to how Difficult that
+action is—the harder the action, the greater the reward.
+
+However, a Key Issue may be resistant or susceptible to certain
+Influence actions. In this case, grant an additional +2, or subtract 2
+from their Influence gained.
 
 <table>
 <tbody>
@@ -135,9 +141,9 @@ and then attempts to divine what the Key Issue behind them is.
 As well, it is perfectly possible for Players to gather Influence over a
 Key Issue they do not fully understand.
 
-A Player Intentionally “going in blind” is taking a risk--if their
+A Player Intentionally “going in blind” is taking a risk—if their
 assumption is wrong on the Issue, they do not gain any Influence Points
-for their roll, no matter how many Threshold Successes they roll.
+for their roll, no matter how many Successes they roll.
 
 > The Players have managed to completely avoid uncovering the nature of the Third Key Issue. So far, the Storyteller has dropped hints that the Trade Prince may know of their true nature in their conversations, and has even told them that intimidating a particular Sycophant (with deep ties to the Immaculate Order) could be applied to the hidden Key Issue, if they wanted. 
 > 
@@ -208,8 +214,7 @@ other—only a dedicated **Sabotage Influence** Action allows one side to
 disturb the other’s Influence.
 
 This action is nearly identical to a Gather Influence action, save that
-the Threshold Successes of the action are *taken away* from the opposing
-party’s influence over the Key Issue.
+the Influence is *taken away* from the opposing party’s Key Issue.
 
 The Character is not allowed to split the effect of Influence: it is
 either fully a Gathering Action or a Sabotage Action.

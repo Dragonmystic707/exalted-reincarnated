@@ -72,7 +72,7 @@ They may choose **one** of the following:
 
 -   +1 Soak
 
--   +2 Accuracy
+-   +1 Accuracy
 
 -   +1 Base Damage
 
@@ -94,7 +94,7 @@ slower than them. Masters can even deliver paralyzing poisonous Essence
 through their fingertips, or through specialized hollow hand needles.
 
 The Stylist gains **+1 Evasion**. Anytime they Strike a character who
-has not acted yet this round, they also gain **+2 Accuracy**.
+has not acted yet this round, they also gain **+1 Accuracy**.
 
 #### Hand Needles
 
@@ -257,7 +257,7 @@ Gale of the Siroccan Wastes
 **Armor** Unarmored
 
 Practitioners of the style gain +1 Evasion. As a Free Action, they may
-grant Impulse to their allies.
+transfer their own Impulse to an ally.
 
 Their movements across the battlefield are ones of grace and beauty,
 quickly followed by great and terrible blows.
@@ -377,7 +377,7 @@ The Octarine Angles of Impossibility style delves into the concepts of
 *nothing*, that which cannot exist in reality.
 
 The Stylist is able to space and compress it in a sheering manner around
-enemies, which is considered a **Ranged Light** **Weapon** (+4 Acc, +0
+enemies, which is considered a **Ranged Light** **Weapon** (+2 Acc, +0
 Dmg). This uses an Int + Lore Attack.
 
 The Stylist’s anima becomes fractured and twisted, as if seen through

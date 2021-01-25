@@ -788,7 +788,7 @@ Navigation
 
 Negate up to (4) dice to environmental disadvantages to Survival Rolls,
 and casual exposure effects from extreme conditions such as frost or
-heat is ignored.
+heat is ignored, regardless of outfit.
 
 Environmental Damage is not affected by this charm.
 

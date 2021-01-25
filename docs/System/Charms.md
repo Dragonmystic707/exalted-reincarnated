@@ -27,24 +27,16 @@ with the same perception advantage.
 Archery
 -------
 
-### Flashing Vengeance Draw 
-
-**Cost:** 3m, 1i  
-**Type:** Reflexive  
-**Mins:** Archery 1
-
-After the Initiative Order has been decided but before the first Action,
-the Archer may make an immediate Maneuver.
-
 ### There is No Wind
 
-**Cost:** 1m;  
+**Cost:** 2m;  
 **Type:** Supplemental  
 **Mins:** Archery or Thrown 1
 
-Reduce up to (3) dice of Disadvantages caused by non-visual conditions
-such as high winds, storms, sleet, and other similar Environmental
-Effects on Archery Attacks.
+The archer’s bolts fly true and strong. Ignore any Disadvantages caused
+by environmental effects that would push or alter the trajectory of the
+projectile, such as high winds, rains, or even shooting through a
+waterfall.
 
 ### Forceful Arrows 
 
@@ -60,12 +52,13 @@ their target by one Range Band.
 
 ### Hunter’s Swift Answer 
 
-**Cost:** 2m  
+**Cost:** 2m (+1m per)  
 **Type:** Reflexive  
 **Mins:** Archery 2
 
-After Successfully disengaging, the Archer fires a returning blow on
-their pursuer, causing them to lose 3 Impulse.
+After successfully disengaging from melee, the Archer fires a returning
+blow on their pursuer, causing them to lose 5 Impulse. If they are
+fleeing from multiple pursuers, they may pay +1m per additional target.
 
 ### Flying Anchor
 
@@ -95,7 +88,7 @@ The Exalt lets loose their weapon, knocking incoming projectiles out of
 the sky.
 
 Against any Ranged attack, you may define DV as (Dexterity + Archery)/2.
-This may be used to Defend Others who are within Medium Range.
+This may be used to Defend Others at range.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -486,7 +479,8 @@ row.
 **Mins:** Leadership 2
 
 The Exalt may take charge of a group of allied Lesser Foes, directing
-their action, and granting them +4 dice to do so.
+their action, and granting them +4 dice to follow through on that action
+(no more than 10 dice total).
 
 ### Organization of Command
 
@@ -861,9 +855,67 @@ performance, even their own allies, will be struck by the effects.
 Physique
 --------
 
-### 
+### Increasing Strength Exercise
 
-<div class="greater_charm">Greater Charms </div>
+**Cost:** 3m  
+**Type:** Simple; Scene  
+**Mins:** Physique 1
+
+The Exalt may lift, carry, haul, or otherwise exert such feats of
+strength far beyond their mortal limits. They may double their Strength
+score for such rolls.
+
+### Visage of Force
+
+**Cost:** 3m  
+**Type:** Reflexive  
+**Mins:** Physique 1
+
+All who gaze upon the Exalt can see that their threats are not empty. On
+attempts to intimidate, threaten, or otherwise coerce another through
+physical means, you may reroll and choose which result to take.
+
+### Whirlwind Armor-Donning Prana
+
+**Cost:** 1m  
+**Type:** Free  
+**Mins:** Physique 1
+
+Don or remove armor with supernatural speed. The Armor may be donned so
+long as it is within sight or in Elsewhere.
+
+### Toxin Acclimation 
+
+**Cost:** 3m  
+**Type:** Reflexive; Scene  
+**Mins:** Physique 3
+
+The Exalt resists any mundane toxin, poison, or psychotropic, and is
+granted +(3) dice to resist any supernatural version.
+
+As well, they do not suffer ill-effects from drink or other recreational
+substances.
+
+### Body-Mending Meditation
+
+**Cost:** 6m  
+**Type:** Simple; Day  
+**Mins:** Physique 3
+
+The Exalt speeds up their natural recovery, and may recover their full
+Endurance after a full night’s sleep, instead of a full day of rest.
+
+Otherwise, they regain (Essence) Endurance every 15 minutes.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Durability of Oak
+
+**Cost:** 3m  
+**Type:** Reflexive  
+**Mins:** Physique 4
+
+Reduce incoming damage by (Essence) points.
 
 Politics
 --------

@@ -31,21 +31,6 @@ This charade lasts as long as the Nocturnal as Motes committed, until
 the scene ends, or if the actual person/member of an organization the
 Nocturnal is confused for shows up.
 
-### Mind of the Mad Genius
-
-**Cost:** 5m  
-**Type:** Primary (Scene)  
-**Mins:** Luck 3
-
-A plan so daring, so implausible, so inefficient, and verging on madness
-comes to Nocturnal.
-
-The Player describes a plan so implausible, so dangerous, so inefficient
-that it seems madness to even embark upon it.
-
-And yet, should the proposed plan be carried through, the strategy will
-work.
-
 ### Sometimes Apples Fly
 
 **Cost:** 4m  
@@ -80,3 +65,22 @@ A thousand possibilities flash before the Nocturnal’s form, allowing
 them to predict an attack and move out of the way.
 
 Reduce damage from an incoming attack by (Essence).
+
+<div class="greater_charm">Greater Charm</div>
+
+### Mind of the Mad Genius
+
+**Cost:** 5m  
+**Type:** Primary (Scene)  
+**Mins:** Luck 4
+
+A plan so daring, so implausible, so inefficient, and verging on madness
+comes to Nocturnal.
+
+The Player describes a plan so implausible, so dangerous, so inefficient
+that it seems madness to even embark upon it.
+
+And yet, should the proposed plan be carried through, the strategy will
+work.
+
+Rolls taken to further this strategy get a reroll.

@@ -383,12 +383,14 @@ fails, the attack misses and you lose 2 Impulse.
 
 -   **Acc. Threshold Successes**: (Accuracy Roll) – (Target DV)
 
-On a success, take the Threshold Successes from the Accuracy Roll and
-*all* the Impulse they currently have to form a Damage Dice Pool. The
-number of successes from this Damage Pool, plus any Base Damage the
-Exalt has, is how much Endurance the target loses.
+On a success, take the Impulse on the character to form a Damage Dice
+Pool. The number of successes from this Damage Pool, plus any Base
+Damage the Exalt has, is how much Endurance the target loses.
 
--   **Damage Pool:** (Impulse + Acc. Threshold Successes)
+The character is required to use *all* of their Impulse on a Decisive
+attack
+
+-   **Damage Pool:** (Impulse gathered)
 
 -   **Damage Dealt:** (Damage Roll) + Base Damage
 
@@ -677,6 +679,15 @@ them. Once a character’s Endurance Pool has been exhausted, either
 through pain, disheartening, or whatever means are employed, the
 character is considered out of the battle.
 
+### Regaining Endurance
+
+A full day of rest—without dangerous interruption—will allow an Exalt to
+regain their Endurance.
+
+However, an Exalt’s life is dangerous, and they may not have the luxury
+of a full day’s rest. In this case, they regain (Essence) Endurance
+every hour since the last combat scene.
+
 ### Defeat
 
 Characters who are knocked out of battle are typically not dead—they are
@@ -834,7 +845,7 @@ roll—whether it be focused more on Dexterity or Strength.
 <p>Strength</p>
 </blockquote></td>
 <td><blockquote>
-<p>+2</p>
+<p>+1</p>
 </blockquote></td>
 <td><blockquote>
 <p>+0</p>
@@ -848,7 +859,7 @@ roll—whether it be focused more on Dexterity or Strength.
 <p>Dexterity</p>
 </blockquote></td>
 <td><blockquote>
-<p>+4</p>
+<p>+2</p>
 </blockquote></td>
 <td><blockquote>
 <p>+0</p>
@@ -863,7 +874,7 @@ roll—whether it be focused more on Dexterity or Strength.
 <p>Strength</p>
 </blockquote></td>
 <td><blockquote>
-<p>+2</p>
+<p>+1</p>
 </blockquote></td>
 <td><blockquote>
 <p>+1</p>
@@ -912,7 +923,7 @@ Artifacts combat equipment can get one of the following:
 
 -   +1 Soak or Evasion (no more than +2 total)
 
--   +2 Accuracy (no more than +4 total)
+-   +1 Accuracy
 
 -   +1 Damage.
 

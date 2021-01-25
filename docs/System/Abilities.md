@@ -23,7 +23,7 @@ learn, improve, and perform upon. Characters may always roll with a
 **Natural** **Ability.**
 
 **Supernatural Abilities** are those that only may be accessed by
-dealing with the supernatural aspects of the world. Sorcery, Necromancy,
+dealing with the supernatural aspects of the world. Sorcery,
 Shapeshifting, and control of Fire are all examples.
 
 Characters must be somehow inducted into a Supernatural Ability to
@@ -40,9 +40,10 @@ generally so small it does not affect the dice roll.
 However, there are a small number of smaller skills that the Exalt
 *excels* at. These are called *Specialties.*
 
-When Rolling in an Ability Specialty, roll with an additional +1 die.
-
-Specialties do **not** affect Static Values.
+In addition to further developing a character’s role and backstory,
+Specialties allow a character greater range when **Pushing the Roll**.
+Instead of granting up to +2 Successes/+1 Defense on an unsuccessful
+roll, they may gain up to +4 Successes/+2 Defense.
 
 Natural Abilities
 -----------------
@@ -195,7 +196,7 @@ example, could both be an (Int + Melee) and (Int + Lore) roll.
 <tbody>
 <tr class="odd">
 <td><p><strong>The Non-Omniscient Scholar<br />
-</strong>Having a high Lore does not confer <em>absolute truths</em> upon a character-rather it represents being well-versed in what is known--and often as much as what is unknown.</p>
+</strong>Having a high Lore does not confer <em>absolute truths</em> upon a character-rather it represents being well-versed in what is known—and often as much as what is unknown.</p>
 <p>It is a fact that the Immaculate Order claims that Solars and Lunars are Anathema. It is a fact that many other societies claim. High lore will allow knowledge that these two facts exist, but not which one of them are right.</p>
 <p>Storytellers should keep a character’s background (and specialty) in mind when revealing information to players--phrasing information through such natural biases.</p></td>
 </tr>
@@ -263,7 +264,7 @@ knows how to incite that crowd into a frenzied riot should they desire.
 Physique is the measure of fortitude and well-being, strength and
 hardiness: the ability to shrug off attacks, poisons, and any
 debilitation of the body. As well, it is used for tests of endurance,
-and for feats of Strength. Physique is used to calculate **Soak**, as
+and for feats of strength. Physique is used to calculate **Soak**, as
 well as **Endurance**.
 
 #### Sample Specialties
@@ -352,7 +353,9 @@ an outside influence is even there. Subterfuge is used to calculate
 <tbody>
 <tr class="odd">
 <td><p>Everyone can Lie</p>
-<p>Subterfuge employs a lot of deception and lies, but it is not the ability that determines if you can lie or not. Every person and every Ability has the opportunity for deceit, misdirection, and half-truths.</p></td>
+<p>Subterfuge relies heavily on deception and lies, but the ability is not <em>required</em> for a character to lie.</p>
+<p>The strength and</p>
+<p>Any ability has the capacity to contain lies—whether it be Socialize or Archery, and should use the ability</p></td>
 </tr>
 </tbody>
 </table>
@@ -391,38 +394,82 @@ A minimum of Rating One is required to perform any Supernatural Ability,
 and it cannot be learned without a specific Merit or Exaltation.
 
 Since Supernatural Abilities are so closely tied with an Exaltation,
-Gods, or Creature of Power, they will be detailed in their respective
+Gods, or Creature of Power, most will be detailed in their respective
 books.
 
 ### Sorcery
 
-**&lt;&lt;TODO&gt;&gt;**
+Sorcery is the method of twisting, changing, and exploiting the rules of
+reality to the practitioner’s favor. The methods of doing so are arcane,
+often requiring long, drawn-out rituals to perform correctly.
 
-### Necromancy
+Sorcery encompasses many thing, but focuses primarily on Environmental
+changes, summoning of demons, and control over the spirits of the world.
 
-**&lt;&lt;TODO&gt;&gt;**
+All Exalted, and even some mortals, have the potential to learn Sorcery,
+however they must first be inducted into the arts by a teacher or guide.
 
-Creating New Abilities
-----------------------
+#### Sample Specialties
+
+-   Demonology
+
+-   Spirit
+
+-   Environmental
+
+-   Enhancement
+
+Custom Abilities
+----------------
 
 The provided Abilities are not considered comprehensive or exclusive
 list-simply a selection that is expected to be most useful in the
-*Exalted* setting. New Abilities may be made as needed or desired. For
-example, a modern setting would ask for the abilities *Firearms* and
-*Drive.*
+*Exalted* setting. Creating abilities and charms custom to specific
+characters or settings is not only allowed, but it is encouraged!
 
-Abilities do not need to be exclusive from each other, nor do their
-descending Charms. It is perfectly acceptable to have two abilities that
-overlap.
+### Creating New Abilities
 
-If the custom Ability is close to an existing one, and charms could
-reasonably be used for one Ability or the Other, the Storyteller should
-allow one purchase of the charm to be used for both abilities. For
-example: if a character decides they want to create an “Architecture”
-ability in the similar vein to the “Craft” ability, they could
-reasonably purchase craft charms once and use them both for Architecture
-and Craft.
+There are a few guidelines that must be followed when creating a new
+ability:
 
-### Example: Drive
+-   An ability must be well-defined. If a couple of words do not
+    communicate what the ability is *about*, and what it encompasses,
+    then the theme needs to be refined some more.
 
-\[\[An example on how to create a *Broad* Ability\]\]
+-   It cannot be too broad. The provided abilities in the book should be
+    the upper-limit on how broad of a theme an ability should be.
+
+-   It cannot fully encompass another ability. There will often be
+    overlap between abilities, which is allowed, but the custom ability
+    should not simply be an ability and something else.
+
+-   Custom Abilities do not have specialties.
+
+When creating charms for a custom ability, using and altering existing
+charms is perfectly acceptable.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Shared Charms</p>
+<p>When making a new ability that has the same design space as an other ability, many of the charms will be exactly the same. A character may use such purchased charm in both abilities, (so long as they meet the minimum ability requirement.) They do not need to purchase the charm twice.</p></td>
+</tr>
+</tbody>
+</table>
+
+#### Example Custom Abilities
+
+-   **Investigation**. A highly-tuned procedure for noticing, deducing,
+    and piecing together aspects of a scene after the fact. Would pull
+    largely from Awareness, Lore, and perhaps Integrity.
+
+-   **Drive**. Useful for a modern setting. Involves the natural
+    handling of high-speed craft, ranging from finding ways around a
+    complicated city to performing daring maneuvers to shake off
+    pursuers. Pulls heavily from Navigation.
+
+-   **Firearms**. Useful for a modern setting. In standard Exalted
+    setting, firearms are the exception, a rare bauble and interest to
+    be found. But in a modern setting, this would supplant the Archery
+    ability as the primary ranged ability. Many of the charms would be
+    similar.
