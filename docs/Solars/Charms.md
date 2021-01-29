@@ -660,9 +660,10 @@ Only one such forced Exhaustion may be on a target per Scene.
 **Mins:** Lore 3
 
 Roll (Insight + Lore) against a target’s Guile. On a success, learn
-insight on the nature of a creature. Much like “Read Intentions,” the
-Player asks a question that the Storyteller must answer truthfully, if
-cryptically.
+insight on the nature of a creature, such as its typical attack
+patterns, to migration patterns. Following the same rules as “Read
+Intentions,” the Player asks a specific question that the Storyteller
+must answer truthfully.
 
 ### Harmonious Academic Methodology
 
@@ -786,11 +787,9 @@ Navigation
 **Type:** Reflexive: Scene  
 **Mins:** Navigation 1
 
-Negate up to (4) dice to environmental disadvantages to Survival Rolls,
-and casual exposure effects from extreme conditions such as frost or
-heat is ignored, regardless of outfit.
-
-Environmental Damage is not affected by this charm.
+The extremes of heat and cold do not bother the Solar. They remove up to
+4 dice of disadvantage caused by extreme temperatures. As well, they are
+not bothered by the weather, regardless of outfit.
 
 ### Grizzled Cataphract’s Way
 
@@ -946,11 +945,115 @@ The bonus Resolve from being in a Group does not apply for this charm,
 but the Storyteller may grant extra Resolve based on the outlandishness
 or improbability of the narrative spoken.
 
-Physique 
+Physique
 --------
 
-Politics 
+### Tireless Burden
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Physique 1
+
+Through sheer force of will, the Solar may keep their body healthy,
+hale, and moving past its natural limits. They may go without sleep for
+an entire week at no consequences (except perhaps to their mood.)
+
+After a week of no sleep, the Solar gains an Intimacy of “Desire to
+sleep,” and must sleep normally for at least three consecutive nights to
+remove this temporary Intimacy.
+
+### Diamond-Body Mastery
+
+**Cost:** 3m  
+**Type:** Reflexive  
+**Mins:** Physique 2
+
+The Solar’s body becomes resistant to the world around them. Ignore any
+environmental damage that deals 2 End/Turn or less. This includes any
+moderate incidental scenery damage, such as crashing through glass
+windows or falling five stories.
+
+### Armored Scout’s Invigoration
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Physique 3
+
+Armor becomes like a second skin to the Solar. Reduce the Evasion
+penalty by 1, to a minimum of 0.
+
+### Stubborn Boar Stance
+
+**Cost:** 2m  
+**Type:** Reflexive  
+**Mins:** Physique 3
+
+The Solar stands as an indomitable barrier against all who would stand
+against them. Gain +(Essence) against any effects to knockback, pull,
+restrain, or otherwise physically alters the Exalt’s movement.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Immunity to Everything Technique
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Physique 4
+
+Once a Solar has been exposed to a toxin, poison, or illness—and
+survived—they never need worry about suffering ill effects from it
+again.
+
+Politics
 --------
+
+### Deft Official’s Way
+
+**Cost:** 5m  
+**Type:** Simple; Scene  
+**Mins:** Politics 1
+
+After observing a group or organization in motion, the Solar may easily
+pick out who would be receptive to a certain activity, such as
+socializing, intimidation, or bribery.
+
+Semantic Argument Technique
+---------------------------
+
+**Cost:** 5m  
+**Type:** Simple; Scene  
+**Mins:** Politics 3
+
+The Solars are known as Lawmaker, and such knowledge is intrinsic to
+their very nature. During arguments involving law, procedure, or other
+methodology, they gain +2 dice.
+
+Once per Story the Solar may Introduce a Fact by revealing an arcane or
+forgotten law for free. They may repeat this in a Story by spending
+Strife Points as normal.
+
+<div class="greater_charm">Greater Charms</div>
+
+Taboo-Inflicting Diatribe
+-------------------------
+
+**Cost:** 10m  
+**Type:** Simple;  
+**Mins:** Politics 4
+
+The Solar may dictate a specific, simple law or ideal into an
+organization that they are occupy a role of high leadership or respected
+association. “Do not steal from company coffers” or “express perfect
+candor with clients” are examples of such laws. (“Do not steal” would be
+too generic.)
+
+This law becomes sacrosanct to the organization, and shortly a core
+ideal. While there will certainly be individuals in the organization who
+break this law, they become exceedingly rare.
+
+This charm may uphold up to (Essence) different Laws. Stopping the charm
+does not necessarily remove the core tenet, if it has found root in the
+organization.
 
 Socialize 
 ---------

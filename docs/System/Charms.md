@@ -456,8 +456,8 @@ if present, even if that leader is acting through a proxy. If they are
 not present, the Exalt recognizes this fact.
 
 This charm immediately succeeds against any mundane group interaction,
-but will require a Leadership vs. Guile roll on other groups and
-leaders, such as Exalts.
+but otherwise requires a successful roll of Leadership vs. the leader’s
+Guile.
 
 ### Command-Breaking Stance
 
@@ -881,8 +881,8 @@ physical means, you may reroll and choose which result to take.
 **Type:** Free  
 **Mins:** Physique 1
 
-Don or remove armor with supernatural speed. The Armor may be donned so
-long as it is within sight or in Elsewhere.
+Don or remove armor with supernatural speed. The Armor may be instantly
+donned so long as it is within sight, or has been banished to Elsewhere.
 
 ### Toxin Acclimation 
 
@@ -893,21 +893,24 @@ long as it is within sight or in Elsewhere.
 The Exalt resists any mundane toxin, poison, or psychotropic, and is
 granted +(3) dice to resist any supernatural version.
 
-As well, they do not suffer ill-effects from drink or other recreational
-substances.
+As well, they do not suffer ill-effects from mundane drink or other
+mundane recreational substances.
+
+### 
+
+<div class="greater_charm">Greater Charms</div>
 
 ### Body-Mending Meditation
 
 **Cost:** 6m  
 **Type:** Simple; Day  
-**Mins:** Physique 3
+**Mins:** Physique 4
 
 The Exalt speeds up their natural recovery, and may recover their full
-Endurance after a full night’s sleep, instead of a full day of rest.
+Endurance after a full night’s sleep.
 
-Otherwise, they regain (Essence) Endurance every 15 minutes.
-
-<div class="greater_charm">Greater Charms</div>
+When unable to rest properly, they regain (Essence) Endurance every 15
+minutes.
 
 ### Durability of Oak
 
@@ -915,12 +918,72 @@ Otherwise, they regain (Essence) Endurance every 15 minutes.
 **Type:** Reflexive  
 **Mins:** Physique 4
 
-Reduce incoming damage by (Essence) points.
+The Exalt can withstand nearly any blow thrown at them. Against a
+Decisive Strike, reduce incoming damage by (Essence).
 
 Politics
 --------
 
-<div class="greater_charm">Greater Charms </div>
+Hat and Scroll Technique
+------------------------
+
+**Cost:** 4m  
+**Type:** Simple; Scene  
+**Mins:** Politics 1
+
+The Exalt takes on the appearance of a haggard and busy individual of an
+organization, quickly integrating themselves and a small group of
+followers into the hustle and bustle. So long as none in the group call
+attention to themselves, their presences is accepted and not questioned.
+
+Grease the Wheels
+-----------------
+
+**Cost:** 5m  
+**Type:** Simple; Month  
+**Mins:** Politics 2
+
+Cutting efficiently through red tape and other impediments, the Exalt
+may speed the machinations of an organization. They will double their
+speed on a particular task for one month.
+
+Alternatively, the Exalt may jam up the origination with some well
+placed words, slowing down a task by ½ of its original pace.
+
+Unknowable Visage
+-----------------
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Politics 3
+
+Through vast experience, the deft Politician knows exactly how to disarm
+and dismiss probing questions. They may define Guile as (Int +
+Politics)/2.
+
+As well, they cannot be subject to “Read Intentions” in response from
+taking a Politics action.
+
+<div class="greater_charm">Greater Charms</div>
+
+Foul Air of Argument Technique
+------------------------------
+
+**Cost:** 8m  
+**Type:** Simple; (Essence) Weeks  
+**Mins:** Politics 4
+
+The Exalt knows that a few well placed words are all it takes to crash
+the trust of an organization. Exploit the weaknesses of a regional
+organization, or a local charter. For the next (Essence) weeks, that
+organization becomes mired in in-fighting, red-tape, and
+miscommunication. All overt actions cease in the organization, trapped
+on the course it was already headed on.
+
+Only one target may be so influenced at a time, and the same target
+cannot be affected more than once a Season.
+
+Prematurely repairing the damage done by this charm is a 5 Res Project.
 
 Socialize
 ---------
@@ -935,6 +998,21 @@ The charms of the Exalt are hard to resist. So long as there is no
 specific reason against it, Mortals and beings with Essence lower than
 the Exalt’s will be friendly and cordial to them, even if they have just
 met.
+
+Irresistible Salesman Spirit
+----------------------------
+
+**Cost:** 4m  
+**Type:** Simple; Day  
+**Mins:** Socialize 3
+
+On a successful Socialize roll, instill a near-obsession level of
+fascination, idea, or desire for a product in the target—so long as it
+does not conflict with an existing Intimacy.
+
+For a day, the target(s) gain an Intimacy towards the specified product,
+and will attempt to pursue it, potentially leaving their posts or other
+aspects of their life temporarily behind.
 
 Stealth
 -------

@@ -181,13 +181,13 @@ players will suddenly have to focus on the dice, reinterpret the dice as
 actual numbers again, and then potentially undo their memorization.
 
 **Only use a Dice Trick if it is necessary**. A sparing number of these
-effects here and there--perhaps restricted by a conditional--is fine.
-But if too many of them appear, it will slow down play considerably!
+effects here and there—perhaps restricted by a conditional—is fine. But
+if too many of them appear, it will slow down play considerably!
 
 Judging Costs
 -------------
 
--   Lesser Charms should have mins from 1-3 (maybe 4)
+-   Charms should have mins from 1-3 (maybe 4)
 
 -   Greater Charms should have Mins from 3-4 (maybe 5)
 

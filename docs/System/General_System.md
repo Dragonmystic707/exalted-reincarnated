@@ -425,27 +425,43 @@ The stress and wear of an Exalt’s life will build and press upon them,
 eventually driving them to a breaking point. This is represented by
 **Limit Points**.
 
-Ranging from 0-10, **Limit Points** represent how strained the Exalt
-is—how much wear and tear their psyche and soul is under.
+Ranging from 0-10, Limit Points represent how strained the Exalt is—how
+much wear and tear their psyche and soul is under.
 
-If the character reaches **10 Limit**, or if they fail on their **Limit
-Trigger**, the character will enter into a **Limit Break.**
+If the character reaches 10 Limit, or if they fail on their Limit
+Trigger, the character will enter into a Limit Break.
 
 ### Gaining Limit
 
-A character gains limit by:
+A character gains Limit by either purposefully choosing it as a
+Drawback, or whenever their deeply-held beliefs or Intimacies are
+plausibly in threat.
 
--   Choosing it as a Drawback.
+An Intimacy being plausibly threatened is a loose term ultimately up to
+the interpretation of the Player, but there are a few guidelines,
+depending on the type of Intimacy:
 
--   Acting against one of their Intimacies, or other deeply-held
-    beliefs.
+-   Purposefully acting against it.
 
-“Acting against an Intimacy” can range from directly suppressing
-Intimacies in order to proceed with the “greater good”, to being tricked
-and swindled into taking action against your Intimacies, such as through
-Social Influence. Ultimately, the decision of whether or not the
-Character has “acted against their Intimacy” is a personal one, and
-should be at the discretion of the Player.
+-   Being tricked, and realizing the harm that has been caused.
+
+-   The target being significantly hurt.
+
+-   Being forced to question core aspects of the Intimacy.
+
+A character does not gain more than 1 Limit per scene from their
+Intimacies being in danger. Limit gained from Drawbacks does not count
+for this restriction.
+
+> A Dragonblooded Monk, through a complicated turn of events, is forced to work alongside Anathema. Being a true believer of the Immaculate Order, they would gain limit:
+
+-   > On the choice to work with the Anathema.
+
+-   > Whenever their compatriots does something that is “evil.”
+
+-   > On finding evidence that the Immaculate Order and the concept of Anathema is not as clear cut as previously believed.
+> 
+> It’s important to note that the Monk would not have to gain limit every single day, but rather on every “event” that happens aggravating their Intimacy.
 
 <table>
 <tbody>
@@ -467,6 +483,15 @@ A compassionate character might balk whenever they see a wanton,
 senseless act of cruelty upon another—such as a slave being whipped.
 Another might be the sense of failure and dejection when a plan spirals
 out of control.
+
+A Limit Trigger is deeply tied to a character’s Intimacy being
+threatened—often the character will gain Limit at the same time. But the
+Limit Trigger is a *specified*, written aspect of the character, planned
+before time, and deeply tied to the character—even more-so than their
+normal Intimacies.
+
+If a character has a Defining Intimacy, it is almost certainly an aspect
+of that.
 
 When this event occurs (and the character has at least 2 Limit,) the
 Player must roll a 1d10. If the die roll matches or exceeds their

@@ -193,6 +193,9 @@ question to the Storyteller about the target, ranging from: “Who are
 they,” “What are they here (in the scene) for?” “Where are they going?”
 “Do they intend me harm?”
 
+For every extra +3 successes rolled, the Player may ask another
+question.
+
 The Storyteller is obligated to respond *truthfully* to the chosen
 question, though it may be cryptic.
 
