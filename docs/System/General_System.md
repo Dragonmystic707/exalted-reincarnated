@@ -112,6 +112,38 @@ Ability +/- Modifiers\]
 > 
 > Since this is a NPC, and there are no dice-affecting powers active, the storyteller simply takes the average: (Wits + Awareness)/2. Should the thief match or surpass that number, they successfully sneak past. Should they not, the guard discovers them.
 
+### Retrying Rolls
+
+Once a roll has been decided, a Player cannot simply try the action
+again—it is assumed that the character has already approached the issue
+from multiple different angles before truly failing. For example, their
+failed barter included multiple tiers of money that they were willing to
+part with.
+
+Only through powers like a Charm, or by a dramatic change of the scene
+is a re-roll allowed—for example, the marketplace erupting in a great
+conflict, convincing the merchant that they need to sell and leave as
+quickly as possible.
+
+### Recurring Rolls
+
+The Exalted will suffer—and inflict—many sorts of ailments and statuses
+ranging from toxins and diseases to more esoteric effects such as curses
+and mental Influence.
+
+The onset of the status is handled as normal—if resisting a toxin, it
+would simply be a (Stamina + Physique) roll against the Difficulty of
+the Toxin. On a success, they simply would not be poisoned.
+
+On failing, they are now subject to the status effect, and now must
+either wait for the status to run its course, or take *active*,
+*considered* effort to try and cure themselves. Each time they take such
+an action, they are allowed to roll to resist again and potentially
+remove the effect. Each attempt must be some different methodology.
+
+Any mundane statuses, even at their worst, will naturally be purged from
+an Exalt if they are given a full day of rest.
+
 Push the Roll
 -------------
 

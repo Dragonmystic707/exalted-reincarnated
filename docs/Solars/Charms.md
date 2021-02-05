@@ -30,9 +30,9 @@ this dissolves, leaving no evidence behind.
 **Mins:** Archery 1
 
 With perfect control, the Solar lets loose a ranged attack that follows
-a perfect arc, angle, or even a series of ricochets to reach its target,
-diminishing the target’s Cover. Those in Full Cover only gain Partial
-Defense, while those in any less find their cover becoming meaningless.
+a perfect arc, threading the needle through even the smallest of
+openings. Those in Full Cover only gain Partial Defense, while those in
+any less find their cover becoming meaningless.
 
 ### Spirit Piercing Technique
 
@@ -58,8 +58,6 @@ The Exalt strikes with unerring accuracy and lethality, finding the
 smallest chink of armor and exploiting it. The Archery action targets
 Evasion, instead of DV.
 
-**Upgrade**: At Essence 4, this charm deals an extra +2 damage.
-
 ### Solar Spike
 
 **Cost:** 5m, 2i  
@@ -80,7 +78,7 @@ within Short Range of the last.
 
 ### The Mark of Judgment
 
-**Cost:** 8m, 3i  
+**Cost:** 8m, 2i  
 **Type:** Simple; Scene  
 **Mins**: Archery 4
 
@@ -95,7 +93,7 @@ nor automatic success.
 
 ### Whispered Prayers of Retribution
 
-**Cost:** 5m, 3i  
+**Cost:** 5m, 2i  
 **Type:** Supplemental  
 **Mins**: Archery 5
 
@@ -114,7 +112,7 @@ their anima and emotion.
 
 ### Searing Sunfire Interdiction
 
-**Cost:** 10m, 4i  
+**Cost:** 10m, 3i  
 **Type:** Simple  
 **Mins**: Archery 5
 
@@ -500,21 +498,6 @@ activities. For the remainder of the week, the group will consider any
 Influence against the chosen Intimacy to be Unacceptable Influence.
 
 Only one Intimacy may be reinforced at a time through this method.
-
-### Righteous Lion Defense
-
-**Cost: --**  
-**Type:** Permanent  
-**Mins:** Integrity 5
-
-The Exalt becomes one with their own Intimacies, and instinctively knows
-when people are attempting to lead the Solar to take action against
-them, no matter how sweet their words or naive their intention may be.
-
-Additionally, if the Solar ever finds themselves in an impossible
-situation where they would have to betray one of their Intimacies, they
-may spend a Strife Point, and they will find a new, seemingly impossible
-path that they will be able to successfully pursue.
 
 Leadership
 ----------
@@ -933,7 +916,7 @@ This charm may not be activated during a Combat Scene.
 ### Memory-Reweaving Discipline
 
 **Cost:** 7m  
-**Type:** Simple; Day.  
+**Type:** Simple; Day  
 **Mins:** Performance 4
 
 A story so compelling is spoken, that those who listen are convinced it
@@ -1017,6 +1000,21 @@ After observing a group or organization in motion, the Solar may easily
 pick out who would be receptive to a certain activity, such as
 socializing, intimidation, or bribery.
 
+Woe Capturing Web
+-----------------
+
+**Cost:** --  
+**Type:** Permanent  
+**Mins:** Politics 2
+
+The Solar may monitor up to (Essence) different political circles,
+organizations, or groups. They will be become immediately aware of any
+large-scale actions to disrupt, curse, or otherwise hinder the group in
+their main goal. They will understand the basic nature of the disruption
+and epicenter, but no more than that.
+
+The choice of selected targets may be altered between Stories.
+
 Semantic Argument Technique
 ---------------------------
 
@@ -1037,8 +1035,8 @@ Strife Points as normal.
 Taboo-Inflicting Diatribe
 -------------------------
 
-**Cost:** 10m  
-**Type:** Simple;  
+**Cost:** 8m  
+**Type:** Simple  
 **Mins:** Politics 4
 
 The Solar may dictate a specific, simple law or ideal into an
@@ -1055,13 +1053,150 @@ This charm may uphold up to (Essence) different Laws. Stopping the charm
 does not necessarily remove the core tenet, if it has found root in the
 organization.
 
-Socialize 
+Soul-Snaring Contract
+---------------------
+
+**Cost:** 10m  
+**Type:** Simple  
+**Mins:** Politics 5
+
+Using byzantine words, endless caveats, and simple persuasive will, the
+Solar can manage to bind a target to a completely unfair contract,
+ranging from selling sand to desert dwellers, to letting a man walk free
+for a promise of a bond.
+
+So long as the Solar upholds their (meager) end of the bargain, the
+target will remain under the contract for at least a Month.
+
+Any target with (Essence) less than the Solar’s does not get to resist
+this effect. Against others, the Solar must successfully convince the
+target to sign the contract, which is a “Perform Serious Task” action.
+
+Socialize
 ---------
+
+### Mastery of Small Manners
+
+**Cost:** 5m  
+**Type:** Reflexive; Scene  
+**Mins:** Socialize 1
+
+The Solar may quickly understand and emulate local mannerisms and
+customs, eliminating any negative penalties suffered to social
+interactions solely from being an outsider.
+
+### Night Passes Over
+
+**Cost:** 2m  
+**Type:** Reflexive  
+**Mins:** Socialize 1
+
+Reflexively ignore all penalties to Guile caused by fatigue, surprise,
+or an influenced Emotion.
+
+### Taboo Crossing Method
+
+**Cost:** 4m  
+**Type:** Reflexive  
+**Mins:** Socialize 2
+
+While distasteful, certain words must be spoken—or at least that is what
+the Solar’s presence dictates. They do not suffer blow-back from merely
+mentioning or discussing a topic no matter how taboo the topic may be.
+
+### Wise Counsel
+
+**Cost:** 4m  
+**Type:** Simple; Day  
+**Mins:** Socialize 3
+
+Advise up to (Essence) characters on a specific Socialize action, such
+as specific social etiquette, methodologies to charm, or ways to speak
+around a subject successfully. For the remainder of the day, the target
+characters may use the Solar’s Socialize score in place of their own
+whenever performing that action.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Wise-Eyed Courtier Method
+
+**Cost:** 8m  
+**Type:** Simple  
+**Mins:** Socialize 4
+
+On entering the room, the Lawgiver may make a Read Intentions action
+against all in the room. Roll one (Insight + Awareness) roll. Any in the
+room with a Guile less than the roll is subject to their intentions
+being read.
+
+The Storyteller should surmise many of the attitudes and postures of the
+characters in the room, but allow the Player to ask a question of one or
+two important characters.
+
+### Asp Bites its Tail
+
+**Cost:** 8m  
+**Type:** Reflexive  
+**Mins:** Socialize 5
+
+Disparaging the Lawgiver, their name, or their Intimacies is foolish at
+best. Whenever the Solar witnesses such an event, they may speak subtle
+words to all those who listen and making the accuser seem the fool.
+
+Roll (Cunning + Socialize) with (Essence) extra dice. If there are more
+successes than the aggressor’s roll, the result of the intended action
+turns upon the aggressor instead. If they were trying to incriminate the
+Solar, they instead become incriminated.
+
+This Charm automatically succeeds against targets with an Essence lower
+than the Solar’s.
+
+###  
 
 Stealth
 -------
 
-### 
+### Statue Spirit Stillness
+
+**Cost:** 2m  
+**Type:** Reflexive  
+**Mins:** Stealth 1
+
+The Solar may remain as completely stationary as long as necessary. They
+show no outward signs of movement, not even breathing.
+
+### Flawlessly Impenetrable Disguise
+
+**Cost:** 5m  
+**Type:** Simple; Day  
+**Mins:** Stealth 3
+
+Through clever trickery, the Solar manages to craft a disguise that
+appears to break physical limitations, such as appearing shorter,
+gaining extreme mutations such as functional extra pairs of arms, or
+gain a voice that could not come from their body.
+
+While impressive and fooling to all inspection—even detailed—it is still
+just well-crafted trickery.
+
+### Guardian Fog Approach
+
+**Cost:** 5m  
+**Type:** Simple; Scene  
+**Mins:** Stealth 3
+
+Touch up to (Essence) companions, sharing your attempts at Stealth with
+them.
+
+### Sound and Scent Banishing Attitude
+
+**Cost:** 4m  
+**Type:** Reflexive; Scene  
+**Mins:** Stealth 3
+
+The Solar focuses their attempts at stealth onto a specific, non-visual
+sense, completely eliminating it from the equation. Their footsteps may
+become silent, or their scent hidden from tracking dogs.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -1078,6 +1213,21 @@ Target by them until your next Action.
 Multiple targets may be chosen at the same time, but doing so causes a
 (-2) penalty on the Maneuver.
 
+### Perfect Mirror
+
+**Cost:** 10m  
+**Type:** Simple; Week  
+**Mins:** Stealth 5
+
+Choose a target that the Solar has studied for at least a day, and then
+become a perfect replica. All mannerisms and characteristics of the
+target are replicated, and a surface level of knowledge and abilities
+the target knows—enough to fool all but the most intimate of
+acquaintances.
+
+Even supernatural effects—such as a Anima flare, is emulated with
+Essence-based illusions.
+
 Subterfuge
 ----------
 
@@ -1085,7 +1235,7 @@ Subterfuge
 
 **Cost:** 4m  
 **Type:** Simple; Scene  
-**Mins:** Deception 1
+**Mins:** Subterfuge 1
 
 With the force of certainty and their unconsciously regal presence,
 whatever the Solar speaks claims ownership of is instinctively believed.
@@ -1103,7 +1253,7 @@ remain convinced of its true ownership.
 
 **Cost:** 3m  
 **Type:** Supplemental  
-**Mins:** Deception 2
+**Mins:** Subterfuge 2
 
 Through statements that deny questioning, the Solar denies the known
 reality of a target, and places the stated one in instead. An unexpected
@@ -1121,7 +1271,7 @@ their Deception roll.
 
 **Cost:** 8m  
 **Type:** Simple; Scene  
-**Mins:** Deception 4
+**Mins:** Subterfuge 4
 
 With but a few well placed words, the Solar can turn the words of their
 enemies against themselves.
@@ -1139,7 +1289,7 @@ becoming mocking disdain.
 
 **Cost: --**  
 **Type:** Reflexive  
-**Mins:** Deception 5
+**Mins:** Subterfuge 5
 
 Once per story, the Player may declare their character predicted and
 accordingly planned for a certain event, and have somehow twisted it to
@@ -1154,3 +1304,89 @@ firmly established, but it can complicate or muddy the veracity of those
 
 This charm may be used additionally in a story by spending a Strife
 Point.
+
+### Venomous Rumors Technique
+
+**Cost:** 10m  
+**Type:** Simple; Day  
+**Mins:** Subterfuge 5
+
+With a firm, knowing word, invent a lie about a topic, person, or group,
+rolling (Cunning + Subterfuge). The lie is then set free among the
+populous, and any with a Guile less than the number of Successes
+automatically believes this rumor and spreads it to those they know.
+
+This vicious rumor will quickly spread to an entire city, where it will
+remain in the public’s consciousness for at least a day, often longer.
+
+Thrown
+------
+
+### Flying Steel Ruse
+
+**Cost:** 2m  
+**Type:** Supplemental  
+**Mins:** Thrown 2
+
+With a Thrown Maneuver greater than the target’s Resolve, distract the
+target causing them to lose 3 Impulse.
+
+### Mist on Water
+
+**Cost:** 2m  
+**Type:** Supplemental  
+**Mins:** Thrown 3
+
+On a Thrown attack or Maneuver greater than the target’s DV, silence the
+target for a round.
+
+### Observer-Deceiving Attack
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Thrown 3
+
+Through misdirection and potential ricochets, conceal that the Solar was
+the origin of a Thrown Attack. Characters must exceed a (Wits +
+Awareness) roll against the number of successes of the attack.
+
+### Falling Icicle Strike
+
+**Cost:** 6m  
+**Type:** Supplemental  
+**Mins:** Thrown 4
+
+During a successful Ambush round against the targets, the Solar strikes
+with a killing flow of Essence. During the ambush action, Impulse gained
+from a Maneuver and damage done with a Decisive Attack is doubled.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Cutting Circle of Destruction
+
+**Cost:** 5m  
+**Type:** Supplemental  
+**Mins:** Thrown 4
+
+The Solar’s weapon careens through the air, striking target after
+target.
+
+The Solar may target up to (Essence) enemies with their Maneuver,
+causing each of them to be a target of a Stunt Effect
+
+### Fiery Solar Chakram
+
+**Cost:** 6m  
+**Type:** Supplemental  
+**Mins:** Thrown 5
+
+Gathering anima into a burning and crackling aura, their weapon is
+infused with Soulfire and is hurled at their enemy.
+
+On a Decisive Attack, Gain (+Essence) successes on both the Accuracy and
+damage rolls. If the target is a Creature of Darkness, deal an
+additional (+Essence) damage.
+
+This charm inflames the anima to at least Burning.
+
+### 

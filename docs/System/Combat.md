@@ -299,7 +299,7 @@ must exceed the difficulty of the action with the roll to take effect.
 <p>Based on Scenery</p>
 </blockquote></td>
 <td><blockquote>
-<p>Creates Environmental hazards on the field.</p>
+<p>Creates Environmental hazards on the field for 3 Rounds.</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -344,6 +344,7 @@ character’s action. By their very nature, *Stunt Effects cannot be
 repeated over and over—*they would cease to be a Stunt.
 
 The Stunt Effects should be treated as examples, not an exhausted list.
+The one restriction is that a Stunt Effect **cannot deal damage.**
 
 > *The Night Caste crashes through the window, barrelling into the Ogre, forcing it to stumble back from the blow.*
 > 

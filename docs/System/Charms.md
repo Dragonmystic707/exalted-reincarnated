@@ -22,8 +22,6 @@ see further, while an Air Dragonblood would create a focal lens out of
 the air—but they both would spend the same number of motes and end up
 with the same perception advantage.
 
-  
-
 Archery
 -------
 
@@ -389,16 +387,19 @@ the moment, seeing it in the handiwork of their creation.
 **Type:** Simple  
 **Mins:** Craft 4
 
-On activation of this charm, the Exalt may immediately finish a Craft
-Project they have in the works. They may go up to 20 Res in debt to do
-so.
+On activation of this charm, the Exalt may immediately create a Craft
+Project prototype, such as an Artifact, for the task at hand. The
+Obstruction roll(s) are immediately resolved to represent flaws, quirks,
+or other oddities that develop from forcing a prototype into use so
+quickly and without testing. The prototype will always be able to
+perform the desired task, regardless of the rolls.
 
-The Obstruction roll immediately activates, and may provide additional
-complications on the scene.
+The Player may choose to go into Resource debt (up to 20 Res, 1
+Keystone) to activate this charm.
 
-**Permanent Effect:** On purchasing this charm, and at the start of each
-Story, the Exalt gains an additional +15 Res, which may only be used
-only for Craft Projects.
+**Permanent Effect:** On purchasing this charm, and again at the start
+of each Story, the Exalt gains an additional +15 Res, which may only be
+used only for Craft Projects.
 
 Integrity
 ---------
@@ -440,7 +441,20 @@ emotion, raise the Exalt’s Resolve by +(Essence).
 
 <div class="greater_charm">Greater Charms</div>
 
-###  
+### Righteous Lion Defense
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Integrity 5
+
+The Exalt becomes one with their own Intimacies, and instinctively knows
+when people are attempting to lead the Exalt to take action against
+them, no matter how sweet their words or naive their intention may be.
+
+Additionally, if the Exalt ever finds themselves in an impossible
+situation where they would have to betray one of their Intimacies, they
+may spend a Strife Point, and they will find a new, seemingly impossible
+path that they will be able to successfully pursue.
 
 Leadership
 ----------
@@ -936,8 +950,8 @@ organization, quickly integrating themselves and a small group of
 followers into the hustle and bustle. So long as none in the group call
 attention to themselves, their presences is accepted and not questioned.
 
-Grease the Wheels
------------------
+Speed the Wheels
+----------------
 
 **Cost:** 5m  
 **Type:** Simple; Month  
@@ -961,8 +975,24 @@ Through vast experience, the deft Politician knows exactly how to disarm
 and dismiss probing questions. They may define Guile as (Int +
 Politics)/2.
 
-As well, they cannot be subject to “Read Intentions” in response from
-taking a Politics action.
+As well, their political actions always keep opponents guessing. If an
+opponent attempts to “Read Intentions” after performing a Political
+action, gain +(Essence) to their Guile.
+
+Testing the Waters
+------------------
+
+**Cost:** 3m  
+**Type:** Simple  
+**Mins:** Politics 3
+
+Studying the actions of those in a court, the Exalt may quickly predict
+what future Political action the subject will embark on, ranging from
+how they will vote, to whom they will speak with next.
+
+Perform a Politics vs. Guile roll. On a success, the Player may perform
+a “Read Intentions” act on the subject to ask a question regarding their
+target’s current *intended* political action.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -985,6 +1015,24 @@ cannot be affected more than once a Season.
 
 Prematurely repairing the damage done by this charm is a 5 Res Project.
 
+Infinitely-Efficient Registrar
+------------------------------
+
+**Cost:** 10m  
+**Type:** Simple  
+**Mins:** Politics 5
+
+Immediately push a friendly and cooperative organization to finish a
+task of monumental proportions. What normally takes months to complete
+takes but hours.
+
+This charm may be used to force a Politics Project to immediately
+complete. The Obstruction roll(s) of the Project are immediately
+resolved and interpreted in this light.
+
+The Player may go into resource debt (up to 20 Res, 1 Keystone) if using
+this on a Project.
+
 Socialize
 ---------
 
@@ -998,6 +1046,39 @@ The charms of the Exalt are hard to resist. So long as there is no
 specific reason against it, Mortals and beings with Essence lower than
 the Exalt’s will be friendly and cordial to them, even if they have just
 met.
+
+### Dauntless Assayer Method
+
+**Cost:** 3m  
+**Type:** Reflexive  
+**Mins:** Socialize 2
+
+The Exalt, on failing a Read Intentions roll, may try their roll again.
+The Player must describe a small action that allows for a new roll, from
+spilling a drink, readjusting their observing position, or simply
+clearing their mind.
+
+### Easily-Discarded Presence
+
+**Cost:** 2m  
+**Type:** Reflexive; Scene  
+**Mins:** Socialize 2
+
+It is easy to make people believe what they want to see. On activating
+this charm, the Exalt specifies a false Intimacy or intent, which is
+seen as truth to any who fails a “Read Intention” action against the
+Exalt.
+
+### Discretionary Gesture
+
+**Cost:** 3m  
+**Type:** Reflexive  
+**Mins:** Socialize 2
+
+A chain is only as strong as its weakest link—a fact known by any in the
+socialite circles. Through subtle (and not-so subtle) means, the Exalt
+can interrupt an interrogation of one of their compatriots, using the
+Exalt’s Guile in place of their own.
 
 Irresistible Salesman Spirit
 ----------------------------
@@ -1014,10 +1095,122 @@ For a day, the target(s) gain an Intimacy towards the specified product,
 and will attempt to pursue it, potentially leaving their posts or other
 aspects of their life temporarily behind.
 
+<div class="greater_charm">Greater Charms</div>
+
+### Heart-Eclipsing Shroud
+
+**Cost:** 6m  
+**Type:** Simple; Scene  
+**Mins:** Socialize 4
+
+The Exalt takes on a perfected persona, with its own intimacies,
+deeply-held beliefs, intentions, and past. Any attempts to Read
+Intentions, or otherwise divine the Exalt’s personality will return the
+Persona’s, instead of the Exalt’s.
+
+However, the Exalt must reinforce this persona through their actions
+during the scene—including being influenced by their false Intimacies.
+If they do not, or if their crafted history is revealed to be a sham,
+the persona falls apart and a new one cannot be entered into during the
+Scene.
+
+Crafting a new Persona is an extended action, taking a few hours to
+perform.
+
+### Effective Counterargument
+
+**Cost:** 6m  
+**Type:** Reflexive  
+**Mins:** Socialize 5
+
+Once per scene, the Exalt may interrupt an other’s action to cajole,
+sway, or otherwise persuade a target, rolling their own Socialize roll
+with +(Essence) extra dice.
+
+So long as the Exalt’s roll is greater than the opponent’s, the target
+and those with similar mindset will gain a negative Intimacy towards the
+original argument.
+
 Stealth
 -------
 
-<div class="greater_charm">Greater Charms </div>
+### Blurred Form Style
+
+**Cost:** 2m  
+**Type:** Reflexive  
+**Mins:** Stealth 1
+
+The Exalt may sink into hiding, even in the middle of an open field. The
+suffer no penalties from a lack of cover or items to hide behind.
+
+### Lightning-Hand Sleight
+
+**Cost:** 3m  
+**Type:** Reflexive  
+**Mins:** Stealth 2
+
+The Exalt is unseen in their movements, and may reach out and swap,
+change, or tamper with anything that is within reach without anyone
+noticing, so long as the alteration is smaller than the hand.
+
+So long as the item is not directly used, this alteration will not be
+noticed for at least (Essence) hours.
+
+### Magpie’s Invisible Talon
+
+**Cost:** 3m  
+**Type:** Supplemental  
+**Mins:** Stealth 2
+
+Extending their Essence, the Exalt is able to manipulate objects at a
+distance of up to (Essence) meters away.
+
+### Easily-Overlooked Presence
+
+**Cost:** 3m  
+**Type:** Reflexive  
+**Mins:** Stealth 2
+
+The Exalt easily blends into a crowd, becoming impossible to pick out
+from a sea of faces. So long as the Exalt takes no distinct or overt
+action and stays with the same crowd of people, they cannot be found by
+anything except for systematic checking of each individual.
+
+### Lock-Opening Touch
+
+**Cost:** 5m  
+**Type:** Reflexive  
+**Mins:** Stealth 3
+
+Gain +(Essence) automatic successes on any attempts to open a lock,
+knot, gate, or other contraption used to bar people’s way.
+
+<div class="greater_charm">Greater Charms</div>
+
+### Shadow Victor’s Repose
+
+**Cost:** 6m  
+**Type:** Reflexive  
+**Mins:** Stealth 4
+
+After landing a successful Decisive Attack, the Exalt disappears into
+the shadows, becoming hidden from all sight. All opponents must roll
+(Wits + Awareness) vs the Exalt’s (Cunning + Stealth), or else loose
+track of the Exalt’s position.
+
+### Shadow-Crossing Leap
+
+**Cost:** 6m  
+**Type:** Reflexive  
+**Mins:** Stealth 5
+
+The Exalt may cross a threshold without disturbing anything between the
+two locations. They need not set a foot down, nor do they trip any
+wires, disturb dust, or even alter the air with their passing. Doors and
+windows remain shut, as though they had not passed through them.
+
+Only solid walls without any opening may halt their passage from one
+location to the next.
 
 Subterfuge
 ----------
@@ -1026,7 +1219,7 @@ Subterfuge
 
 **Cost:** 3m  
 **Type:** Simple; Week  
-**Mins:** Deception 1
+**Mins:** Subterfuge 1
 
 After studying a mannerism of a target for a short time, such as
 handwriting, voice, or even walking pattern, the Exalt may replicate it
@@ -1036,7 +1229,7 @@ as needed for a week, gaining (4) additional dice to do so.
 
 **Cost:** 3m  
 **Type:** Supplemental  
-**Mins:** Deception 2
+**Mins:** Subterfuge 2
 
 The Exalt hides their true meaning in inflections, allusions, and other
 roundabout ways of speaking, writing, or other methods of communication.
@@ -1050,7 +1243,7 @@ there is a coded message.
 
 **Cost:** 4m  
 **Type:** Simple; Scene  
-**Mins:** Deception 3
+**Mins:** Subterfuge 3
 
 On a successful (Charisma + Deception) roll against the Guile of a
 target, they become convinced that an ultimately benign or small point
@@ -1065,7 +1258,7 @@ only slightly out of normal make.
 
 **Cost:** 4m  
 **Type:** Simple  
-**Mins:** Deception 4
+**Mins:** Subterfuge 4
 
 With just a short moment in possession of a written text, the Exalt may
 insert, expunge, or replace words as they see fit. No mundane means or
@@ -1080,7 +1273,7 @@ at all—let alone what specifically has been altered.
 
 **Cost:** 6m  
 **Type:** Reflexive; Scene  
-**Mins:** Deception 5
+**Mins:** Subterfuge 5
 
 The Exalt pierces the target with a gaze that penetrates the very soul,
 extinguishing the flame of memories.
@@ -1098,4 +1291,54 @@ The given target may only be affected by this once per scene.
 Thrown
 ------
 
+### Flashing Draw Mastery
+
+**Cost:** 3m  
+**Type:** Free (Supplemental)  
+**Mins:** Thrown 1
+
+Pull all weapons thrown by the Exalt back to themselves, so long as a
+possible path still exists. This charm may be used Supplemental to an
+attack to perform a thrown attack from an unexpected angle.
+
+### Angle-Tracing Edge
+
+**Cost:** 2m  
+**Type:** Supplemental  
+**Mins:** Thrown 1
+
+With perfect control, the Exalt lets loose a Thrown Attack that performs
+a perfect set of ricochets to reach its target, diminishing the target’s
+Cover. Those in Full Cover only gain Partial Defense, while those in any
+less find their cover becoming meaningless.
+
+### Cascade of Cutting Terror
+
+**Cost:** 5m  
+**Type:** Supplemental  
+**Mins:** Thrown 2
+
+When making a Flurry Decisive attack, add +1 Damage per target. Groups
+grant +1 per Size scale.
+
+### Fan of Blades
+
+**Cost:** 5m  
+**Type:** Supplemental  
+**Mins:** Thrown 3
+
+The Exalt spreads out a hundred blades, ensuring that at least one will
+hit. They may target Soak instead of DV on their Thrown attack.
+
 ### 
+
+<div class="greater_charm">Greater Charms</div>
+
+### Joint-Wounding Attack
+
+**Cost:** 4m  
+**Type:** Supplemental  
+**Mins:** Thrown 4
+
+On a successful Decisive Attack that deals at least 3 points of damage,
+disable a limb of the target for 3 rounds, or inflict a Physical Wound.
