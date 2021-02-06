@@ -5,7 +5,7 @@ title: Charms
 group_order: 3
 order: 3
 prev_url: Character_Creation
-prev_title: Character_Creation
+prev_title: Character Creation
 ---
 
 Charms

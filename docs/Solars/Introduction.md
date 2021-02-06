@@ -5,7 +5,7 @@ title: Introduction
 group_order: 3
 order: 1
 next_url: Character_Creation
-next_title: Character_Creation
+next_title: Character Creation
 ---
 
 Heroes of Mankind
