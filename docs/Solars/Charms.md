@@ -3,9 +3,9 @@ layout: page
 base_url: Solars
 title: Charms
 group_order: 3
-order: 2
-prev_url: Introduction
-prev_title: Introduction
+order: 3
+prev_url: Character_Creation
+prev_title: Character_Creation
 ---
 
 Charms

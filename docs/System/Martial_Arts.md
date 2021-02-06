@@ -233,8 +233,9 @@ Damage by +2.
 
 After delivering a successful Decisive attack that deals at least 3
 points of damage after all calculations have finished, the Stylists may
-inflict a Wound on the Physical Attributes. This can often take the form
-of a broken bone.
+inflict a Wound on the Physical Attributes, or disable one of the
+target’s limbs. Healing this damage after a combat is often a long and
+arduous process, often requires bones to be set.
 
 ### Angry Predator Frenzy
 

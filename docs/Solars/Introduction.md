@@ -4,161 +4,90 @@ base_url: Solars
 title: Introduction
 group_order: 3
 order: 1
-next_url: Charms
-next_title: Charms
+next_url: Character_Creation
+next_title: Character_Creation
 ---
 
-Introduction
-============
+Heroes of Mankind
+=================
 
-Solars are the paragons of man. They turn the power of the Sun inward,
-focusing and enhancing their abilities to peak power.
+Gifted power from the greatest of Gods, Solars are the paragons of
+mankind, representing humanity at its greatest. They are natural-born
+leaders, scholars, generals, and the architects of society. Yet they are
+also its cruel tyrants, forcing others to follow in their grand
+plan—regardless of their desires.
 
-Solars resonate with artifacts made of **Orichalcum**, and may purchase
-Evocations of those artifacts as though it was a Favored Power.
+Whatever a Solar sets their mind to, it will be done, and it will be
+done in the most exemplar way possible.
 
-Character Creation
-------------------
-
-### Supernal
-
-Solars gain a **Supernal** Ability, in addition to choosing Five (5)
-Favored Abilities. A Supernal Ability can be chosen from any Natural
-Abilities, as well as Sorcery.
-
-A Supernal Ability is considered to be a Favored Ability for all aspects
-of the game, such as for xp cost calculations. In addition, a Solar may
-buy **Greater Charms and Martial Arts Techniques** that use their
-Supernal Ability, even at Essence 1.
-
-In the case of **Supernal Sorcery**, the Solar may be inducted into each
-circle as though they were +2 Essence. They may enter into Sapphire
-Circle at Essence 1, and Adamant Circle at Essence 3, gaining access to
-their respective spells.
-
-### Focused Anima Banner
-
-\[\[Solars get extra bonuses while their anima banner is flaring\]\]
-
-### Expanded Mote Pool
-
-Solars gain an expanded Peripheral Mote pool: (Essence) + 5 additional
-Motes, bringing the total to:
-
-**Peripheral** (Essence) x3 + 20
-
-### Defining Intimacy
-
-A Solar *must* choose a Defining Intimacy as one of their three
-intimacies.
-
-### Anima Arsenal
-
-The Solar may form an armament out of their own Anima. This armament is
-equivalent of Artifact 2, including the bonus to stats. The armament is
-clearly magical.
-
-Projects may be performed to increase the Anima weapons to higher
-Artifact ratings.
-
-Castes
-------
-
-### Dawn
-
-Spending a Strife Point, the Dawn immediately instills an emotion of
-Fear, Awe, Intimidation, or similar emotion into up to (Essence)
-targets. This may affect targets that normally do not feel said
-emotions, such as golems and zombies.
-
-**Burning Anima:**  
-Dawn Castes gain an additional 2 Impulse on Maneuvers in a Combat Scene.
-
-### Zenith
-
-Spending a Strife Point, the Zenith’s flaring anima becomes a weapon
-against all those that shirk from the Sun’s Gaze for the entire Scene.
-All Creatures of Darkness who end their action within Close Range of the
-Zenith immediately take 5 Damage. Any creature or being who dies in the
-bathing light of the Zenith cannot be raised as a zombie or hungry
-ghost.
-
-### Twilight
-
-The Twilight’s mind brims with possibilities unseen to others. Spending
-a Strife Point, the Twilight predicts a sequence of events that they,
-and their companions, may take to bring about their desired result in a
-scene. The Storyteller must accept this prediction as fact when crafting
-the scene.
-
-### Night
-
-The Night caste excels at secrecy and subtlety. By Spending a Strife
-Point the Night may choose at any time during the Scene to conceal or
-reveal their Anima Banner, up to Burning Level.
-
-**Burning Anima:**  
-At Bonfire Level, they may instead curl their Anima inwards to obscure
-all discerning characteristics—the existence of an Exalt is undeniable,
-but no possible form of perception can reveal their identity.
-
-### Eclipse
-
-The Eclipse is the ultimate diplomat, and can bring even hardened
-enemies to the table. Once per Story and by spending a Strife Point, the
-Eclipse caste may force an armistice between two (or more) parties. For
-the next scene, all involved are forced to meet peacefully, and cannot
-attack each other during discussions.
-
-In addition, an Eclipse may spend a Strife Point and sanctify an Oath
-willingly made by Non-Player Characters. The NPC will not be able to
-break said oath.
-
-Strife Expression
------------------
-
-### Solar Excellency
-
-The Solar chooses a Favored or Supernal Ability and then **doubles**
-their permanent value for the remainder of the Scene. This effect also
-carries over into any derived **Static Values.**
-
-Who Becomes a Solar?
---------------------
+Exaltation
+----------
 
 The Unconquered Sun grants his blessing to those who have an incredible
-drive, a force of personality that would change their world, regardless
-of the Sun’s power. Often they already have.
+drive, a force of personality that would change their world no matter
+what power they have.
 
-The Sun does not judge the “righteousness” of the prospect’s drive or
-personality, simply that they will use it. His blessing shines equally
-on Just Rulers as it does Tyrants.
+Every exaltation is different, but the blessing of the Sun will often
+come during a seminal moment of the mortal’s life, after they have
+accomplished some great achievement that is theirs and theirs alone. The
+moment is more often than not extremely obvious, as a great bonfire of
+anima erupts, bathing the mortal in golden light.
 
-Great Curse
------------
+The Unconquered Sun occasionally chooses to speak to his Chosen in their
+moment of exaltation, giving them ancient wisdom and guidance. More
+often than not, though, he simply communicates through a feeling of pure
+emotion, ensuring that the Solar knows they were chosen for a reason.
 
-Solars are often plagued and defined by their **Ego.** Caretakers of
-great power, they will see the problems and ills of the world only in
-relationship to themselves.
-
-Creatures of Darkness
+Solars as Antagonists
 ---------------------
 
-Solars have powers that are harmful to *Creatures of Darkness*. These
-are any Spirits, demons, or other supernatural creatures whose bodies
-and nature recoil at the sight of the sun. It is not some sort of
-judgment of how good and moral the creature is, rather just a statement
-of what powers sustain them.
+The same qualities that make a Solar a natural Hero will also produce
+some of the greatest villains. Simply to stand in the way of Solar’s
+progress—even unintentionally—is enough to earn their ire.
 
-Creatures of Darkness are any denizens of the **Underworld**, such as
-ghosts, specters, and zombies. The Exaltations **Abyssals** and
-**Liminals** also fall under this category.
+They will never will think of themselves as being in the wrong. To them,
+they are always the hero—no matter what drastic actions they take or
+people they hurt along the way.
 
-Demons that descend from the shadowy **Ebon Dragon** are also considered
-to be Creatures of Darkness.
+ Great Curse
+-----------
 
-Soulfire
---------
+Solars are often plagued and defined by their **Ego** and **Control.**
+Caretakers of great power, they will see the problems and ills of the
+world only in relationship to themselves. Great injustices that have
+been generational problems will become their personal responsibility,
+and a judgment on their mind until it has been solved.
 
-\[\[Describe SoulFire/Sunfire here, and how it damages Creatures of
-Darkness and why. Also decide if it’s called Soulfire or Sunfire\]\]
+The following are a few examples of Solar Great Curses:
+
+### All-Consuming Grief
+
+The horrors of the world become too much to bear, and the Solar shuts
+down, weeping tears at the great injustices. They may turn to purifying
+rituals in an attempt to heal the soul of the world, or even themselves.
+
+### Contempt of the Virtuous
+
+The world may be beyond saving, but those around the Solar must be
+unfaltering in their purity. No slight against purity, no matter how
+small, should be upheld. If lectures and kindness will not work, then
+other methods of reprimands might.
+
+### Crushing Doubt
+
+The burden of the world is too much for the Solar to take, and they
+become filled with self-doubt and depression. The simplest of tasks
+becomes unbearable, the smallest of responsibilities just a chance to
+fail yet again.
+
+### Deliberate Cruelty
+
+The world is a broken place, why fight it any longer? The Solar snaps at
+those closest to them, speaking words of biting retort that pierce
+hearts with unerring accuracy and painful depths.
+
+### Heart of Flint
+
+Caring for others is too much of a hassle, and too much pain. The Solar
+becomes a machine of pure logic, following a path devoid of empathy and
+feeling.
