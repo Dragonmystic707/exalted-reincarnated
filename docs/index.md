@@ -4,6 +4,10 @@ title: Home
 order: 1
 ---
 
+**Note: I'm halting development of Exalted Reincarnated. I am proud of what it is and what has been developed, but it is an endless amount of work and I wish to regain my free time.**
+
+
+
 Exalted Reincaranated is a fan-made, top-to-bottom mechanics rewrite of the [**Exalted System**](http://theonyxpath.com/category/worlds/exalted/) by Onyx Path Publishing. 
 While the setting is fascinating, compelling, and contains great thematics, the mechanics supporting the setting are overcomplicated, and ultimately fall short of delivering on its thematics.
 
@@ -27,7 +31,6 @@ For a more in-depth breakdown, see [About](/about).
 
 As well, I would like to thank the systems and their authors of [Anima Prime (Christian Griffen)](http://animaprimerpg.com/) and [Godbound (Sine Nomine Publishing)](https://sine-nomine-publishing.myshopify.com/), as they have both been a great help when puzzling out mechanics.
 
-[<u>Development Discord Channel</u>](https://discord.gg/JxmYUSD)
 
 
 Tools
@@ -36,25 +39,3 @@ Tools
 <a href="/assets/downloads/Summary.pdf" download>Rules Summary (Cheat Sheet)</a>  (Note: out of date. No Combat rules. Will update soon.)
 
 [**<u>Character Sheets</u>**](https://docs.google.com/spreadsheets/d/1jRyQCIH2EfPr_X8OzsWhJxdUE4AAg2E7K3Lh8oMEWuQ/edit?usp=sharing)
-
- Updates and Current Goals
---------------------------
-
-[<u>Changelog History</u>](/changelog)
-
-
-### 2020-12-12
-
-- Reworked Combat subsystem.
-- Improved Website.
-- Improved Workflow/automated release.
-
-### Working On:
-
-- Writing Solar and Universal Charms
-
-### Future Goals:
-
-- Martial Arts
-- Sorcery Spells
-- Antagonists
