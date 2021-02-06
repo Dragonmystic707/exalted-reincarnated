@@ -290,8 +290,8 @@ to create powerful effects upon the world, called Charms.
 
 A character’s Essence Rating is a measure of how in tune the character
 is with the flows of energy through and surrounding them. Much like an
-Attribute, it ranges between One and Five for Exalts. (Mortals have a
-Rating of Zero.)
+Attribute, it ranges between 1 and 5 for Exalts. Mortals have a Rating
+of 0.
 
 The Rating of Essence cannot be directly trained. Instead, it only
 increases in rating as the character gains xp.
@@ -317,13 +317,13 @@ their Peripheral Mote Pool.
 -   **Personal Motes** are intrinsic to the character. Expenditure of
     these motes are subtle and do not agitate their anima banner.
 
-    -   Refreshed after a full night’s rest.
+    -   This pool is refreshed after a full night’s rest.
 
 -   **Peripheral Motes** are the character’s ability to manipulate the
     world immediately surrounding them, channeling it to their will.
     Using these motes will **expose their anima banner**.
 
-    -   Refreshed at the beginning of a new Scene.
+    -   This pool is refreshed at the beginning of a new Scene.
 
 #### Antagonistic Locations
 
@@ -499,7 +499,7 @@ for this restriction.
 <tbody>
 <tr class="odd">
 <td><p><strong>The Calming Effect of Time</strong></p>
-<p>Typically, Limit <em>only</em> resets after a Limit Break. However, long spans of rest, meditation, and peace may ease the Exalt down from their stressed life.</p>
+<p>Limit resets after a Limit Break, which is the main . However, long spans of rest, meditation, and peace may ease the Exalt down from their stressed life.</p>
 <p>So long as the time breaks are particularly restful, the Exalt may lose 1 Limit per week.</p></td>
 </tr>
 </tbody>

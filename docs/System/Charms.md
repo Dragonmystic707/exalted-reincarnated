@@ -538,8 +538,9 @@ Inconvenient tasks when asked without the need of a roll.
 **Type:** Permanent  
 **Mins:** Leadership 5
 
-You may now perform Projects to grant the Rank 4 [Endowment](endowment)
-Merit to those with significant ties to the character.
+You may now perform Projects to grant the Rank 4
+[Endowment](/System/Merits/#supernatural-merits) Merit to those with significant ties
+to the character.
 
 Rank 3 may now be granted to mortals without restriction.
 
@@ -909,8 +910,6 @@ granted +(3) dice to resist any supernatural version.
 
 As well, they do not suffer ill-effects from mundane drink or other
 mundane recreational substances.
-
-### 
 
 <div class="greater_charm">Greater Charms</div>
 

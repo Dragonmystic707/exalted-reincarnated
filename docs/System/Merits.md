@@ -391,17 +391,6 @@ Dexterous Limb(s)**
 **Environmental Adaptation (+2)**: **Underwater  
 Environmental Restriction (-2): Underwater**
 
-Supernatural Ability(N/A)
--------------------------
-
-\[\[Grants the ability to purchase a specific Supernatural Ability (such
-as Sorcery). Typically used for mortals. It’s how you do Thaumaturgist.
-
-You have to convince a God (or other creature of power) to give you this
-ability. It’s not something you can do in a Project—hence (N/A)
-
-Exalted characters cannot start with this Merit. \]\]
-
 Mutation (X)
 ------------
 
