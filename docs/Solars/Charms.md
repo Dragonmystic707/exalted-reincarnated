@@ -72,8 +72,6 @@ The spike jumps from target to target like lightning, and may continue
 past the Solar’s typically range boundary so long as each target is
 within Short Range of the last.
 
-### 
-
 <div class="greater_charm">Greater Charms</div>
 
 ### The Mark of Judgment
@@ -746,7 +744,10 @@ destroying any intervening mundane material.
 **Type:** Permanent  
 **Mins:** Melee 4
 
-### When their anima is at Burning or higher level, the Solar may chain together attacks between opponents during a flurry. So long as each opponent is one Range Band away from each other, the Exalt can attack all of them.
+When their anima is at Burning or higher level, the Solar may chain
+together attacks between opponents during a flurry. So long as each
+opponent is one Range Band away from each other, the Exalt can attack
+all of them.
 
 ### Burning Mein
 
@@ -881,8 +882,6 @@ Influence or Emotion.
 With at least 3 Threshold Successes, the Solar can select a particular
 Influence or Emotion.
 
-### 
-
 <div class="greater_charm">Greater Charms</div>
 
 ### Fury-Inciting Speech
@@ -1000,8 +999,7 @@ After observing a group or organization in motion, the Solar may easily
 pick out who would be receptive to a certain activity, such as
 socializing, intimidation, or bribery.
 
-Woe Capturing Web
------------------
+### Woe Capturing Web
 
 **Cost:** --  
 **Type:** Permanent  
@@ -1015,8 +1013,7 @@ and epicenter, but no more than that.
 
 The choice of selected targets may be altered between Stories.
 
-Semantic Argument Technique
----------------------------
+### Semantic Argument Technique
 
 **Cost:** 5m  
 **Type:** Simple; Scene  
@@ -1032,8 +1029,7 @@ Strife Points as normal.
 
 <div class="greater_charm">Greater Charms</div>
 
-Taboo-Inflicting Diatribe
--------------------------
+### Taboo-Inflicting Diatribe
 
 **Cost:** 8m  
 **Type:** Simple  
@@ -1053,8 +1049,7 @@ This charm may uphold up to (Essence) different Laws. Stopping the charm
 does not necessarily remove the core tenet, if it has found root in the
 organization.
 
-Soul-Snaring Contract
----------------------
+### Soul-Snaring Contract
 
 **Cost:** 10m  
 **Type:** Simple  
@@ -1150,8 +1145,6 @@ Solar, they instead become incriminated.
 
 This Charm automatically succeeds against targets with an Essence lower
 than the Solar’s.
-
-###  
 
 Stealth
 -------
@@ -1388,5 +1381,3 @@ damage rolls. If the target is a Creature of Darkness, deal an
 additional (+Essence) damage.
 
 This charm inflames the anima to at least Burning.
-
-### 

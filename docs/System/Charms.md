@@ -938,8 +938,7 @@ Decisive Strike, reduce incoming damage by (Essence).
 Politics
 --------
 
-Hat and Scroll Technique
-------------------------
+### Hat and Scroll Technique
 
 **Cost:** 4m  
 **Type:** Simple; Scene  
@@ -950,8 +949,7 @@ organization, quickly integrating themselves and a small group of
 followers into the hustle and bustle. So long as none in the group call
 attention to themselves, their presences is accepted and not questioned.
 
-Speed the Wheels
-----------------
+### Speed the Wheels
 
 **Cost:** 5m  
 **Type:** Simple; Month  
@@ -964,8 +962,7 @@ speed on a particular task for one month.
 Alternatively, the Exalt may jam up the origination with some well
 placed words, slowing down a task by ½ of its original pace.
 
-Unknowable Visage
------------------
+### Unknowable Visage
 
 **Cost: --**  
 **Type:** Permanent  
@@ -979,8 +976,7 @@ As well, their political actions always keep opponents guessing. If an
 opponent attempts to “Read Intentions” after performing a Political
 action, gain +(Essence) to their Guile.
 
-Testing the Waters
-------------------
+### Testing the Waters
 
 **Cost:** 3m  
 **Type:** Simple  
@@ -996,8 +992,7 @@ target’s current *intended* political action.
 
 <div class="greater_charm">Greater Charms</div>
 
-Foul Air of Argument Technique
-------------------------------
+### Foul Air of Argument Technique
 
 **Cost:** 8m  
 **Type:** Simple; (Essence) Weeks  
@@ -1015,8 +1010,7 @@ cannot be affected more than once a Season.
 
 Prematurely repairing the damage done by this charm is a 5 Res Project.
 
-Infinitely-Efficient Registrar
-------------------------------
+### Infinitely-Efficient Registrar
 
 **Cost:** 10m  
 **Type:** Simple  
@@ -1080,8 +1074,7 @@ socialite circles. Through subtle (and not-so subtle) means, the Exalt
 can interrupt an interrogation of one of their compatriots, using the
 Exalt’s Guile in place of their own.
 
-Irresistible Salesman Spirit
-----------------------------
+### Irresistible Salesman Spirit
 
 **Cost:** 4m  
 **Type:** Simple; Day  
@@ -1329,8 +1322,6 @@ grant +1 per Size scale.
 
 The Exalt spreads out a hundred blades, ensuring that at least one will
 hit. They may target Soak instead of DV on their Thrown attack.
-
-### 
 
 <div class="greater_charm">Greater Charms</div>
 
