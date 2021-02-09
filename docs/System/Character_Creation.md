@@ -384,8 +384,8 @@ Each individual **Keystone** *must* be intentionally sought out by the
 player, and requires anywhere from a Scene to a full Story to acquire.
 
 Each source of Resource should be added together when combined. For
-example, by having access to the wealth and income of an entire city
-(20) for a Season (50) would result in 70 RES.
+example, by having access to the wealth and income of an entire City
+(20) for a Month (10) would result in 30 RES.
 
 <table>
 <tbody>
@@ -459,7 +459,7 @@ example, by having access to the wealth and income of an entire city
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>50</p>
+<p>40</p>
 </blockquote></td>
 <td><blockquote>
 <p>Prefecture</p>
@@ -470,12 +470,6 @@ example, by having access to the wealth and income of an entire city
 <td><blockquote>
 <p>Year</p>
 </blockquote></td>
-</tr>
-<tr class="even">
-<td>75</td>
-<td>Province</td>
-<td>Nation</td>
-<td>Decade</td>
 </tr>
 </tbody>
 </table>
