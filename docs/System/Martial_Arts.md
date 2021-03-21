@@ -335,35 +335,6 @@ they lose 2 Impulse, which you gain.
 
 ###  
 
-Crane Style
------------
-
-**Ability** Presence  
-**Weapons** Unarmed, War Fan, Hook Sword  
-**Armor** Unarmored
-
-Crane stylists cannot attack, and may only counterattack in certain
-circumstances.
-
-Base damage, during a counterattack is only (Essence/2).
-
-Silver-Voiced Nightingale Style
--------------------------------
-
-**Ability** Performance  
-**Weapons** Unarmed  
-**Armor** Unarmored
-
-Stylists produce Kaias, musical attacks formed out of song and musical
-instruments. Kaias are considered light ranged weapons. (+1 Accuracy, +
-0 Damage, N/A Parry)
-
-Accuracy Limit is (Charisma + Performance) + (Weapon Modifier)
-
-Base damage is (Charisma+Essence)/2 + (Weapon Modifier)
-
- 
-
 Octarine Angles of Impossibility
 --------------------------------
 
@@ -386,9 +357,9 @@ broken glass.
 
 ### Angular Time Displacement
 
-**Cost:** 2m; **Mins:** Lore 2, Sorcery 1  
+**Cost:** 2m  
 **Type:** Supplemental (Move)  
-**Duration:** Instant
+**Mins:** Lore 2, Sorcery 1
 
 The Stylist folds Space and Time of their destination and their current
 position into a singular point, allowing them to cross the distance in a
@@ -400,9 +371,9 @@ across chasms.
 
 ### Book of No Words
 
-**Cost:** 2m; **Mins:** Lore 2, Sorcery 1  
-**Type:** Primary  
-**Duration:** Instant
+**Cost:** 2m  
+**Type:** Simple  
+**Mins:** Lore 3, Sorcery 2
 
 The Stylist speaks the language of Nothing, articulating its emptiness
 with perfect articulation, yet devoid of any meaning.
@@ -412,12 +383,12 @@ enemy characters that can hear the Stylist within Short Range.
 
 ### Door to Nowhere
 
-**Cost:** 4m, 2i; **Mins:** Lore 4, Sorcery 3  
-**Type:** Primary  
-**Duration:** Variable
+**Cost:** 4m, 2i  
+**Type:** Simple  
+**Mins:** Lore 4, Sorcery 3
 
 The Door to Nowhere may be opened, forcing those it touches into a state
-of non-existence--though this cannot last as *nothing*, having no
+of non-existence—though this cannot last as *nothing*, having no
 properties, cannot contain *something*.
 
 The Stylist makes a (Wits + Sorcery) roll against the target’s
@@ -434,8 +405,38 @@ the attack to avoid it for the remainder of the scene.
 
 <div class="greater_charm">Greater Techniques</div>
 
-Magma Kraken
-------------
+### Gaze of the Blind God
 
-The Sorcerer summons the great kraken of the Deeps to attack their foes,
-using its blazing fire tendrils for their combat Prowess.
+**Cost:** 6m  
+**Type:** Reflexive; Scene  
+**Mins:** Lore 4, Sorcery 4
+
+The Stylist strikes at the very essence of their target, filling their
+vision and senses with overwhelming terror.
+
+On a successful ranged (Wits + Sorcery) vs. Resolve roll, the target
+will only see a terrifying visage when gazing on the Stylist—regardless
+of anima banner.
+
+In addition, the Stylist gains +1 defense on any attack from the target.
+
+### Lost City Labyrinth
+
+**Cost:** 10m  
+**Type:** Simple; Scene  
+**Mins:** Lore 5, Sorcery 4
+
+The Anima Banner of the Stylist flares, arcing upwards and then envelops
+a sphere of up to (Essence x20) yards in radius. The space in the sphere
+starts becomes more and more twisted and broken each round as the lost
+city that never was erupts into reality.
+
+Those trying to exit this sphere must make a (Dexterity + Athletics)
+check vs the Stylist’s anima, or else be returned on the opposite side
+of the sphere.
+
+Space and distance becomes a broken thing in this sphere, marginally
+under the Stylist’s control. Once per Round, the Stylist may Reflexively
+warp the space around those moving or performing a ranged attack,
+forcing the target to make a (Dexterity + Athletics) check vs. the
+Stylist’s Essence level, or else find their action wasted.

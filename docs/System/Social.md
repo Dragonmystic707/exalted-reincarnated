@@ -134,7 +134,7 @@ categorized into three tiers:
     There is at most mild danger, opposition, or time devoted to this
     task. At most the task will take a few hours—maybe a day.
 
--   **Serious Task  
+-   **Serious Task** **  
     **(+1 Resolve)  
     Must leverage an Intimacy to attempt.  
       
@@ -142,7 +142,7 @@ categorized into three tiers:
     from physical to social. The task may take days to weeks to
     complete.
 
--   **Life-Changing** **Task  
+-   **Life-Changing** **Task** **  
     **(+2 Resolve)  
     Must leverage a Defining Intimacy to attempt.  
       
@@ -182,7 +182,7 @@ are not known.
 
 ### Read Intentions
 
-**(Insight + Ability) vs. Guile  
+**(Insight + Ability) vs. Guile** **  
 **Reading Intentions is a **Reflexive** Action.
 
 When a character desires to understand another, they may attempt to read

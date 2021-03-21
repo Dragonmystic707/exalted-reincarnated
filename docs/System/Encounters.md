@@ -32,8 +32,7 @@ Key Issues
 
 Once the stated Goal of the Encounter has been established, the
 Storyteller should come up with 2-4 **Key Issues** that will need to be
-overcome to accomplish this goal, and how much **Influence** is required
-to overcome the Key Issues.
+overcome to accomplish this goal, and how difficult each Key Issue is.
 
 Key Issues range the gamut from personal ideology to political
 entanglements to logistics. So long as it is something that prevents the

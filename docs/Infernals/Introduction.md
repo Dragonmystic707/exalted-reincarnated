@@ -47,8 +47,6 @@ goods cause the Infernal to roll **one additional complication roll**.
 Supernatural Abilities
 ----------------------
 
-### 
-
 ### Malfeas
 
 \[\[Focuses on the concepts of **Raw Power,** **Domination**\]\]

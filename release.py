@@ -115,7 +115,7 @@ def procces_dir(dir_dict, group_order):
 
 
             # Export out the base markdown to the temporary files
-            bash_cmd = "pandoc \"" + path.join(temp_dir, f0) + "\" -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc --toc-depth=4" 
+            bash_cmd = "pandoc \"" + path.join(temp_dir, f0) + "\" -f docx -t gfm -o " + path.join(temp_dir, file_name + ".md") + " -s --strip-comments --toc --toc-depth=6" 
             subprocess.Popen(bash_cmd).wait() 
 
             # Consume the table of Contents

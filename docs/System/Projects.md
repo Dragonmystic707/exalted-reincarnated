@@ -429,8 +429,6 @@ first resolve those and *then* apply this multiplier.
 -   Opposed by powerful forces, such as the Deep Wyld, Gods, or a
     High-Level Exalted.
 
-### 
-
 Example Projects:
 
 -   Arming Militia
