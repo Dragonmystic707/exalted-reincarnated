@@ -228,7 +228,7 @@ must exceed the difficulty of the action with the roll to take effect.
 <tbody>
 <tr class="odd">
 <td><blockquote>
-<p><strong>Maneuver Stunt Effects</strong></p>
+<p><strong>Example Maneuver Stunt Effects</strong></p>
 </blockquote></td>
 <td></td>
 <td></td>
@@ -277,7 +277,7 @@ must exceed the difficulty of the action with the roll to take effect.
 <p>Resolve</p>
 </blockquote></td>
 <td><blockquote>
-<p>The target loses 3 Impulse.</p>
+<p>The target loses 2 Impulse.</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -361,10 +361,6 @@ The one restriction is that a Stunt Effect **cannot deal damage.**
 </tbody>
 </table>
 
-### Charms and Stunt Maneuvers
-
-There are Charms
-
 Decisive Strike
 ---------------
 
@@ -381,8 +377,6 @@ fails, the attack misses and you lose 2 Impulse.
 -   **Accuracy Pool:** (Attribute + Ability + Weapon Mod)
 
 -   **Hit:** (Accuracy Roll) &gt;= Target DV.
-
--   **Acc. Threshold Successes**: (Accuracy Roll) – (Target DV)
 
 On a success, take the Impulse on the character to form a Damage Dice
 Pool. The number of successes from this Damage Pool, plus any Base

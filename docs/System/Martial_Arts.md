@@ -418,7 +418,8 @@ On a successful ranged (Wits + Sorcery) vs. Resolve roll, the target
 will only see a terrifying visage when gazing on the Stylist—regardless
 of anima banner.
 
-In addition, the Stylist gains +1 defense on any attack from the target.
+In addition, the Stylist gains Partial Defense (+2) on any attack from
+the target.
 
 ### Lost City Labyrinth
 
