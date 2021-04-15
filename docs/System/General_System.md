@@ -150,10 +150,9 @@ Push the Roll
 Exalts can push themselves past their mortal limits and achieve the
 impossible—but it often comes at a price.
 
-In exchange for taking a **Drawback**, the Player may gain up to **+2
-Successes** or **+1 Defense** on any \[Att. + Abi.\] roll, succeeding at
-rolls they otherwise would be deficient in. (Or Exceeding at rolls they
-already would have succeeded at.)
+In exchange for taking **1 Point of Limit**, the Player may gain up to
+**+2 Successes** or **+1 Defense** on any roll, succeeding or exceeding
+their roll.
 
 If they are using their **Specialty**, they may gain up to **+4
 Successes** or **+2 Defense** on their roll.
@@ -165,53 +164,19 @@ Botching
 --------
 
 If a character fails their action, they may choose to *worsen* their
-failure in a dramatic action, as represented by taking a **Drawback**.
-In exchange, they will gain a [**<u>Strife Point</u>**](/System/General_System/#strifes).
+failure in a dramatic action. In exchange, they will gain a [**<u>Strife
+Point</u>**](/System/General_System/#strifes).
+
+After this action, the scene becomes negative, if not mildly hostile,
+towards the character. Perhaps they offended a vital character with
+their action, or they accidentally gave a secret up to the Antagonist
+that they can use.
 
 If at all possible, the Player should try to include their **Great
 Curse** as reasoning for this Botch. Perhaps a prideful character could
 not help but reveal a secret in their boasting; a compassionate one
 unable to hide their disgust at conditions of the city when talking to
 an official.
-
-Drawbacks
----------
-
-A Drawback can be any sort of action that the Storyteller deems to be a
-proper **Price the Pay** for succeeding (or exceeding) their roll.
-
-The following are a list of Examples, but should not be treated as
-exhaustive or exclusive:
-
-### Gain Limit
-
-*Immediately Limit Break at 10.*
-
-The character gains 1 point of [<u>Limit</u>](/System/General_System/#limit), representing the
-spiritual stress required to do the task.
-
-### Wound/Exhaustion
-
-*Cannot take more than (-5) total Wounds/Exhaustions at a time.*
-
-The strain from pushing beyond their natural constraints causes the
-character to become injured or exhausted.
-
-For the remainder of the scene, and then until the character can take an
-uninterrupted, restful night’s sleep, the character suffers (-1) dice to
-any roll made with the Attribute Category (Physical, Social, or Mental)
-they used on this roll.
-
-This does not affect Static Values such as Resolve.
-
-### The Scene Turns Sour
-
-*This Drawback may only be taken once per scene.*
-
-After this action, the scene becomes negative, if not mildly hostile,
-towards the character. Perhaps they offended a vital character with
-their action, or they accidentally gave a secret up to the Antagonist
-that they can use.
 
 Advantages and Disadvantages
 ----------------------------
@@ -469,6 +434,9 @@ A character gains Limit by either purposefully choosing it as a
 Drawback, or whenever their deeply-held beliefs or Intimacies are
 plausibly in threat.
 
+Whenever a character gains limit, they also must make a roll as though
+they had encountered their Limit Trigger.
+
 An Intimacy being plausibly threatened is a loose term ultimately up to
 the interpretation of the Player, but there are a few guidelines,
 depending on the type of Intimacy:
@@ -482,8 +450,8 @@ depending on the type of Intimacy:
 -   Being forced to question core aspects of the Intimacy.
 
 A character does not gain more than 1 Limit per scene from their
-Intimacies being in danger. Limit gained from Drawbacks does not count
-for this restriction.
+Intimacies being in danger. Limit gained from Pushing the Roll does not
+count for this restriction.
 
 > A Dragonblooded Monk, through a complicated turn of events, is forced to work alongside Anathema. Being a true believer of the Immaculate Order, they would gain limit:
 

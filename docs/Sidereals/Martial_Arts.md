@@ -2,7 +2,7 @@
 layout: page
 base_url: Sidereals
 title: Martial Arts
-group_order: 5
+group_order: 6
 order: 3
 prev_url: Charms
 prev_title: Charms

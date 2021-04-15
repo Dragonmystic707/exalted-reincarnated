@@ -31,6 +31,13 @@ lunars = {
     }
 }
 
+dragonblooded = {
+    "folder": "Dragonblooded",
+    "base_url": "Dragonblooded",
+    "header": {
+    }
+}
+
 sidereals = {
     "folder": "Sidereals",
     "base_url": "Sidereals",
@@ -53,7 +60,7 @@ nocturnals = {
 }
 
 
-src_list = [ core, solars, lunars, sidereals, infernals, nocturnals]
+src_list = [ core, solars, lunars, dragonblooded, sidereals, infernals, nocturnals]
 
 # Define some local paths (may need to change this later)
 script_dir = os.path.dirname(__file__)

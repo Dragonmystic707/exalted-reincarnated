@@ -165,7 +165,7 @@ Steps
 
 2.  Choose your character’s [**<u>Great
     Curse</u>**](/System/General_System/#the-great-curse), the character flaw which
-    your Exalt struggles with d5ay in and day out. Often, your
+    your Exalt struggles with day in and day out. Often, your
     character’s flaw will flare up, causing them to Botch their rolls,
     fail their actions, or otherwise veer them off of their intended
     course.  
@@ -181,8 +181,8 @@ Steps
     Attributes**. No single Attribute may be higher than 5.  
       
     *Suggested Method:*  
-    Assign each category (Mental, Social, Mental) to be your character’s
-    Primary, Secondary, or Tertiary set. Then add:
+    Assign each category (Pysical, Social, Mental) to be your
+    character’s Primary, Secondary, or Tertiary set. Then add:
 
     1.  **9 Dots** to Primary.
 

@@ -2,7 +2,7 @@
 layout: page
 base_url: Nocturnals
 title: Introduction
-group_order: 7
+group_order: 8
 order: 1
 next_url: Charms
 next_title: Charms
