@@ -1,6 +1,7 @@
 (function(document) {
   const content = document.querySelector('.page');
   var activeSidebarItem = document.querySelector('.sidebar-nav-chapter-item > a.active');
+   
 
   scrollnav.init(content, {
     insertTarget: activeSidebarItem,
@@ -19,6 +20,7 @@
   }
   /* Temporarily disable the transition duration */
   
+
 
   for (i = 0; i < coll.length; i++) {
     checkHeight(coll[i].nextElementSibling, coll[i].classList.contains("active"));

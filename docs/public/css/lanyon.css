@@ -252,6 +252,11 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* Smartphones ----------- */
+@media only screen and (max-width: 760px) {
+  .sidebar-toggle { display: none; }
+}
+
 @media print {
   .sidebar-toggle {
     display: none;
