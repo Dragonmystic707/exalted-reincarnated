@@ -1,5 +1,4 @@
 (function(document) {
-  swipeFunc.init();
   const content = document.querySelector('.page');
   var activeSidebarItem = document.querySelector('.sidebar-nav-chapter-item > a.active');
    
