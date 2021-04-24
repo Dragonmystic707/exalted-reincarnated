@@ -11,8 +11,7 @@
 
   /* Set the navbar to collapsed by default on mobile */
   if(isMobile) {
-    var checkbox = document.querySelector("sidebar-checkbox");
-    checkbox.checked = false;
+    //
   }
 
   scrollnav.init(content, {
