@@ -35,4 +35,5 @@ var swipeFunc = {
 		document.addEventListener('touchend', swipeFunc.touchHandler, false);
 	}
 };
+
 swipeFunc.init();
