@@ -1,5 +1,8 @@
 ### Overall Notes
 
+# Look at Skulldiggers rpg by Gnome
+- how it handles three different types of groups.
+
 ## Should I rethink Attribute + ability?
 On the surface, Attribute + ability seems fun--an endless way to combine things together. But really, there are only a few combinations that people use, and a few that just get completely ignored.
 
