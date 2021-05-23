@@ -13,8 +13,36 @@ next_title: Attributes
 General System
 ==============
 
-Action Rolls
-------------
+Storyteller Timelines
+---------------------
+
+Rather than count the exact minutes and hours of effects, Exalted relies
+on a more cinematic sense of time.
+
+-   **Round**  
+    Enough time for all characters present in the scene to perform at
+    least one set of Actions.
+
+-   **Scene**  
+    Long enough to set out and accomplish a single, dedicated task.
+    Combat from start to finish would be a scene, as would characters
+    searching for clues in an old abandoned monastery. This typically
+    spans minutes to hours.
+
+-   **Session**  
+    A single sitting of when Players begin and end roleplaying, spanning
+    an entire night.
+
+-   **Story**  
+    Several sessions that form a full narrative arch: from establishing
+    a threat to reaching the resolution.
+
+-   **Chronicle**  
+    A complete game, encompassing all the stories relevant to a set of
+    characters.
+
+Actions
+-------
 
 When a character encounters a situation where their success is
 uncertain, the Storyteller should call for an Action Roll to determine
@@ -22,13 +50,10 @@ the outcome.
 
 The Storyteller will ask for a combination of an Attribute and Ability
 that is appropriate for the situation, and then determine an appropriate
-Difficulty for the roll.
-
-The Player will then roll a number of Ten-Sided Dice (d10’s) equal to
-the combined rating of the selected Attribute and Ability—this combined
-number is called the Dice Pool.
-
-This will be referred to as \[Att+Abi\] xd10’s.
+Difficulty for the roll. The Player will then roll a number of Ten-Sided
+Dice (d10’s) equal to the combined rating of the selected Attribute and
+Ability—this combined number is called the Dice Pool. This will be
+referred to as \[Att+Abi\] xd10’s.
 
 Some powers and actions will call out specific Attribute + Ability
 combinations, such as \[Wits + Awareness\], but others may simply
@@ -39,7 +64,7 @@ simply allow the non-specified part to be determined by the Storyteller.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Only roll if the Result is unknown</strong></p>
+<td><p><strong>Only Roll if the Result is Unknown</strong></p>
 <p>If the outcome of an action is already known beforehand (either as a failure or a success), there is no need for a roll—simply declare what happens and continue on with the story.</p></td>
 </tr>
 </tbody>
@@ -73,13 +98,14 @@ on the roll.
 **Difficulty** of the roll—the number of successes that the roll must
 match or exceed for the action to be considered a success.
 
--   **Difficulty 1 (Easy)**- This task is expected to be passed by a
-    skilled mortal, but there is still a reasonable risk of failing.
+-   **Difficulty 1 (Easy)  
+    **This task is expected to be passed by a skilled mortal, but there
+    is still a reasonable risk of failing.
 
 -   **Difficulty 3 (Typical)**- This task is challenging to a mere
-    mortal, but a hero is expected to pass it. Picking a lock, calming
-    an irate guardsman, or basic first aid would fall under this
-    category.
+    mortal, but an Exalted Hero is more than likely going to pass it.
+    Picking a lock, calming an irate guardsman, or basic first aid would
+    fall under this category.
 
 -   **Difficulty 5** **(Difficult)**- Tasks which are daunting fall in
     this category—climbing a sheer cliff in winds, charming a staunch
@@ -94,6 +120,35 @@ match or exceed for the action to be considered a success.
     across a chasm unassisted, or keeping a patient alive without a
     heart for hours at a time with their bare hands.
 
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Failing Forward</strong></p>
+<p>In a high-powered setting such as Exalted, properly handling it is important, and is in a way more difficult than a success, as it puts the burden of keeping the story moving on you, the Storyteller. Remember: you are not there to <em>punish</em> the players for daring to take an action, only to provide boundaries and restrictions.<br />
+<br />
+There are a few general paths to take:</p>
+<p>1. A simple failure—the character don’t do the action, the story continues. Typically you pick this path when the players already know of different paths they may take. Sometimes letting your players step back and reanalyze their approach is</p>
+<p>2. Only an important part fails—the character does squeak by on what they intended, but at a great cost. They open the doors, but only enough for one person to slip by or by causing a great commotion. Choose this path if halting the action would kill all momentum of the session.</p>
+<p>3. “No, but...”—If players have heavily invested in an action, and it just doesn’t work out, don’t give them <em>nothing</em>. Sure, they failed at the task they were intending, but another pathway opens. Maybe they failed to convince the Queen of their plight, but the Prince overheard and wishes to speak to them. Be judicious of choosing this option, as overuse may make your game feel consequence-free.</p></td>
+</tr>
+</tbody>
+</table>
+
+Action types
+------------
+
+Most rolls are simple: the Player dictates what they are intending to
+do, and the Storyteller tells them which (Attribute + Ability) to roll,
+and how much the difficulty will be. While this is overwhelmingly the
+most common dice setup, there are a few alternate rolls that can be
+called for.
+
+### Assisting
+
+A player may assist another character, granting them +2 dice. The
+receiving character may only accept one Assist per roll. The act of
+Assisting typically consumes the character’s action.
+
 ### Contested Actions
 
 Certain actions are contested between abilities of two or more
@@ -104,13 +159,16 @@ and compare who got the highest number of Successes.
 
 #### Taking the Average
 
-The Storyteller should take the average number of successes for
-non-player characters as ½ their Dice pool, which is their \[Att +
-Ability +/- Modifiers\]
+To speed things along, the Storyteller is encouraged to take the
+*average* number, rounded down, of the NPC’s dice pool. If they have 4-5
+dice, simply state that they get got 2 successes and move on.
+
+The exception to this guidance are important characters, such as rivals
+or foes of great challenge.
 
 > There are two characters in the scene: a guard and a thief. The guard is keeping watch, and the thief is attempting to sneak past them. The dice pool for the player-controlled thief would be Dexterity + Stealth.
 > 
-> Since this is a NPC, and there are no dice-affecting powers active, the storyteller simply takes the average: (Wits + Awareness)/2. Should the thief match or surpass that number, they successfully sneak past. Should they not, the guard discovers them.
+> Since this is a NPC, and there are no dice-affecting powers active, the storyteller simply takes the average: (Wits + Awareness)/2, which turns out to be 3. Should the thief match or surpass that difficulty, they successfully sneak past.
 
 ### Retrying Rolls
 
@@ -144,51 +202,33 @@ remove the effect. Each attempt must be some different methodology.
 Any mundane statuses, even at their worst, will naturally be purged from
 an Exalt if they are given a full day of rest.
 
-Push the Roll
--------------
+Excellencies
+------------
 
-Exalts can push themselves past their mortal limits and achieve the
-impossible—but it often comes at a price.
+Exalts, however, aren’t restricted to simply *accepting* the roll that
+is given to them. When they need to, they may activate their
+Exalt-specific Excellency to push their roll further than they thought
+they could.
 
-In exchange for taking **1 Point of Limit**, the Player may gain up to
-**+2 Successes** or **+1 Defense** on any roll, succeeding or exceeding
-their roll.
+For example, a Solar will be able to add their Ability Ranks as a number
+of Successes to their roll, turning what is a certain failure into a
+success.
 
-If they are using their **Specialty**, they may gain up to **+4
-Successes** or **+2 Defense** on their roll.
-
-This may be used reflexively at any point during the roll, even after
-everything has been finalized.
-
-Botching
---------
-
-If a character fails their action, they may choose to *worsen* their
-failure in a dramatic action. In exchange, they will gain a [**<u>Strife
-Point</u>**](/System/General_System/#strifes).
-
-After this action, the scene becomes negative, if not mildly hostile,
-towards the character. Perhaps they offended a vital character with
-their action, or they accidentally gave a secret up to the Antagonist
-that they can use.
-
-If at all possible, the Player should try to include their **Great
-Curse** as reasoning for this Botch. Perhaps a prideful character could
-not help but reveal a secret in their boasting; a compassionate one
-unable to hide their disgust at conditions of the city when talking to
-an official.
+However, this does not come without a cost. The character is straining
+themselves beyond their mortal bonds, and so will gain a point of
+[Limit](/System/General_System/#limit), as well as inflame their [Anima Banner](/System/General_System/#anima-banner)
+one step above the natural level for the remainder of the Scene—e.g. the
+first use of the scene will set the anima banner to the *Glowing* step.
 
 Advantages and Disadvantages
 ----------------------------
 
 The difficulty of an action can be modified by various conditions,
-whether it be environmental, helpful, or antagonistic. As generic term,
-these are called **Dice Modifiers**, but will more often is designated
-specifically as either an **Advantage** or as a **Disadvantage,**
-depending on if it helps the character or impedes them.
+whether it be environmental, helpful, or antagonistic. These should be
+provided by the Storyteller as deemed appropriate.
 
-By default, Advantages and disadvantages are written in terms of
-**dice** available for the character to roll: (+2, -2 dice). Since this
+By default, Advantages and Disadvantages are written in terms of
+**dice** available for the character to roll: (+2/-2 dice). Since this
 is the default, the “dice” moniker is often dropped—if a power ever
 simply says “+2”, it means to dice.
 
@@ -203,17 +243,65 @@ Modifiers can be granted from any source, such as any powers, the
 environment, or even the mental condition of the character taking the
 action.
 
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p><strong>Advantage/Disadvantage</strong></p>
+</blockquote></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p><strong>Dice</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p><strong>Difficulty</strong></p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>Minor</td>
+<td><blockquote>
+<p>±2</p>
+</blockquote></td>
+<td><blockquote>
+<p>±1</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Moderate</p>
+</blockquote></td>
+<td>±4</td>
+<td>±2</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Major</p>
+</blockquote></td>
+<td><blockquote>
+<p>±6</p>
+</blockquote></td>
+<td><blockquote>
+<p>±3</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
 Any **Modifier** should be something significant to the scene—something
 that would perturb even an Exalt. A light rain, while thematic, would
-not count as a disadvantage. Only when there are levels of pummeling
-rain (-2), or even a raging Typhoon (-4).
+not count as a disadvantage—simply scenery and aesthetic. Only when
+there are levels of pummeling rain (-2), or even a raging Typhoon (-4).
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Natural Modifiers and Difficulty</strong></p>
-<p>Difficulty, in its most basic sense, is a measure of “Base difficulty + all Disadvantages”. This can often be forgotten when choosing a Difficulty for a task, or when countering specific modifiers.</p>
-<p>If a player removes the “visual impairment” modifier from a Difficulty 7 task, it is up to the Storyteller to decide how much of the Difficulty for the task was a result of “visual impairment”, and how much is simply the base difficulty of the task.</p></td>
+<td><p>Natural Modifiers and Difficulty</p>
+<p>Remember that Difficulty has its own inbuilt assumptions—many difficulties are set because they are a particular “base” level of challenge with a specific disadvantage: e.g. picking a difficult lock (3) vs. picking a difficult lock while blindfolded in a hurricane (9).</p>
+<p>If a character uses a charm or power to dismiss part of that difficulty—e.g. removing all impairments caused by weather—it is the same as granting them an equivalent Advantage!</p></td>
 </tr>
 </tbody>
 </table>
@@ -223,40 +311,32 @@ Stunting
 
 The setting of *Exalted* encourages wild, ambitious, and perhaps
 dangerous actions of the characters. When a player describes their
-character doing a “cool” action, the Storyteller should reward them.
+character doing their action in a fun and creative way, the Storyteller
+should reward them. If the action described is reasonable and adds to
+the Scene, the Storyteller should simply let the Player dictate what
+happens without a roll—if a (non-clumsy) character swings from a
+chandelier in order to drop down on top of an enemy, don’t slow that
+down with an Athletics roll.
 
-When a player performs a stunt, they get **+2 Dice** for their action,
-and are given more lenience on what actions they are able to perform.
+If a roll is still required, the Storyteller should grant +2 Dice (or +1
+to a Defense) for the action being performed—a reward and encouragement
+to others to engage with the setting and scenery. That said, Stunts
+should be kept short and sweet to keep the momentum of the game moving
+forward.
 
-The guiding philosophy of stunts is the “Rule of Cool.” If the stated
-action is “cool” and enhances an existing action, it should both be
-allowed and encouraged—even if it is not technically allowed.
-
-There are limits to Stunting. A Player cannot dictate the actions or
-emotions of characters, for example, and the Storyteller reserves the
-right to reject or alter the stated effects of the stunt as needed.
-
-### Assisting
-
-A player may assist another character, granting them +2 dice. The
-receiving character may only accept one Assist per roll.
-
-The Receiving Player may both accept an Assist, as well as stunt their
-own action.
-
-Assisting is considered a Simple Action.
+Stunts should operate off of the “Rule of Cool,” and may bend the rules
+a bit, both of reality and the game—such as falling great distances to
+land perfectly in a pose.
 
 Essence
 -------
 
 Essence is the fundamental energy that flows through the world, all
-creatures, and mortals. Exalts are able to guide their own Essence flows
-to create powerful effects upon the world, called Charms.
-
-A character’s Essence Rating is a measure of how in tune the character
-is with the flows of energy through and surrounding them. Much like an
-Attribute, it ranges between 1 and 5 for Exalts. Mortals have a Rating
-of 0.
+creatures, and mortals—an energy that Exalts are naturally able to wield
+to their advantage. A character’s Essence Rating is a measure of how in
+tune the character is with the flows of energy through and surrounding
+them. Much like an Attribute, it ranges between 1 and 5 for Exalts.
+Mortals have a Rating of 0.
 
 The Rating of Essence cannot be directly trained. Instead, it only
 increases in rating as the character gains xp.
@@ -264,10 +344,10 @@ increases in rating as the character gains xp.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>The Uniqueness of Player Characters</strong></p>
+<td><p>The Uniqueness of Player Characters</p>
 <p>Player Characters are unusual in the sheer speed and heights they can reach with Essence. The constant stress and challenge of adventure accelerates the gain of Essence far beyond what is normal in the world of Exalted.</p>
 <p>Non-Player Characters do not follow the same rapid gain of Essence that Player Characters do, and are often constrained and capped, limiting what Essence Rating they can reach based on their circumstances.</p>
-<p>Dragonblooded, for example, would find it takes a lifetime to even reach Essence 3—only the eldest of their kind would have access to Major Charms.</p></td>
+<p>Dragonblooded, for example, would find it takes a lifetime to even reach Essence 3—only the eldest of their kind would have access to Greater Charms.</p></td>
 </tr>
 </tbody>
 </table>
@@ -280,106 +360,65 @@ Personal Mote pool, and once that is exhausted they will drain from
 their Peripheral Mote Pool.
 
 -   **Personal Motes** are intrinsic to the character. Expenditure of
-    these motes are subtle and do not agitate their anima banner.
-
-    -   This pool is refreshed after a full night’s rest.
+    these motes are subtle and do not agitate their anima banner. This
+    pool replenishes at a rate of 1 mote per hour of rest, or fully
+    after a full night’s rest.
 
 -   **Peripheral Motes** are the character’s ability to manipulate the
     world immediately surrounding them, channeling it to their will.
-    Using these motes will **expose their anima banner**.
-
-    -   This pool is refreshed at the beginning of a new Scene.
-
-#### Antagonistic Locations
-
-There are certain locations that are either devoid of Essence, such as
-the **Underworld**, or are filled with antagonistic Essence that cannot
-be easily drawn inward, like **The Wyld**.
-
-In these locations, all characters will suffer a Penalty to their
-Peripheral Mote pool, lowering their capacity.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Example Locations</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Mote <strong>Pool</strong></p>
-</blockquote></td>
-<td><blockquote>
-<p>Underworld</p>
-</blockquote></td>
-<td><blockquote>
-<p>Wyld</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td>-5</td>
-<td>Shadowlands</td>
-<td>Bordermarches</td>
-</tr>
-<tr class="even">
-<td>-10</td>
-<td>Underworld</td>
-<td>Wyld</td>
-</tr>
-<tr class="odd">
-<td>-15</td>
-<td>The Labyrinth</td>
-<td>Deep Wyld</td>
-</tr>
-<tr class="even">
-<td>-20</td>
-<td>Void</td>
-<td>Expanse of Madness</td>
-</tr>
-</tbody>
-</table>
+    Using these motes will *expose their anima banner*. This pool is
+    completely refreshed at the *beginning of a new Scene.*
 
 Anima Banner
 ------------
 
 Exalts are brimming with energy, their souls suffused with the crackling
-energy.
-
-Whenever a character uses **Peripheral Motes**, this energy crackles to
-life, and their very soul starts to show to the world in the form of the
-**Anima Banner**—a display of light that starts as a soft glow and
-eventually escalates to a towering bonfire of personal iconography and
+energy. Whenever they wish, they may choose to inflame this energy,
+crackling their soul outward in various levels from a soft glow around
+their body to a full towering bonfire of personal iconography and
 symbols deeply personal to the character.
 
-As the Peripheral Pool is depleted, the Anima banner will automatically
-and reflexively ignite.
+Whenever they *intentionally* flare their Anima, they may also quickly
+retreat it back into their soul. (Both showing and recalling the anima
+is considered a Reflexive Action.
 
--   **(0m) Dim** The natural state of the anima. It is invisible to all
-    natural senses, but may be seen by those that can peek into the
-    Spirit Realm.
+However, when a character uses Peripheral Motes, the Anima Banner will
+*uncontrollably* start to spill out, and the Exalt cannot do anything
+but wait for time to pass before they can recall it back into their
+soul.
 
--   **(1-5m) Glowing** A thin outline of the anima appears around the
-    character, with the respective Caste Mark appearing on their brow.
-    Characters may still disguise and hide their anima through mundane
-    means, such as clothes.
+### Anima Steps
 
--   **(6-10m) Burning** Essence burns and sheds from the Exalts body,
-    much like the burning of a fire. Hiding the anima at this level is
-    impossible through mundane means.
+The anima gradually increases as the peripheral mote pool is depleted,
+but there are specific notable steps along the way:
 
--   **(11m+) Bonfire** A grand display of solidified Essence wraps
-    around the body, shining its personal iconography to all of those in
-    the scene.
+-   **(10) Dim**  
+    This is considered the **default** or **natural** state of the
+    anima. It is invisible to all natural senses, but may be seen by
+    those that can peek into the Spirit Realm.
 
-Anima Flare takes 15 minutes to naturally abate and decrease in rating,
-so long that no action inflames them again. Often, this means that the
-Burning and Bonfire Levels will be active for an entire scene.
+-   **(5) Glowing  
+    **A thin outline of the anima appears around the character, with the
+    respective Caste Mark appearing on their brow. Characters standing
+    face to face will most likely notice it, but may not be able to make
+    out the exact iconography.
 
-Exalts may choose to intentionally increase their anima to any desired
-level by spending One Mote (as a Reflexive Action). This lasts until the
-Exalt chooses to dismiss it where it immediately dissipates, unlike the
-natural Anima Flare.
+\(3\) Burning  
+Essence burns and sheds from the Exalts body, much like the burning of a
+fire. The Caste Mark is unmistakable to any close-by.
+
+-   **(1) Bonfire  
+    **A grand display of solidified Essence wraps around the body,
+    shining its personal iconography to all of those in the scene.
+
+Once the first peripheral mote is spent, those looking at the Exalt will
+be able to notice the anima banner—the Difficulty equal to how many
+motes are left in the peripheral pool. Those standing face-to-face or
+directly engaged with the Exalt should have an advantage to notice the
+spiritual flame.
+
+The Anima Flare should dissipate by the start of a new Scene, or at a
+rate of 15 minutes per Step.
 
 The Great Curse
 ---------------
@@ -425,14 +464,16 @@ eventually driving them to a breaking point. This is represented by
 Ranging from 0-10, Limit Points represent how strained the Exalt is—how
 much wear and tear their psyche and soul is under.
 
-If the character reaches 10 Limit, or if they fail on their Limit
-Trigger, the character will enter into a Limit Break.
+If the character reaches 10 Limit, or if they fail their Limit Check,
+the character will enter into a Limit Break.
 
 ### Gaining Limit
 
-A character gains Limit by either purposefully choosing it as a
-Drawback, or whenever their deeply-held beliefs or Intimacies are
-plausibly in threat.
+A character gains Limit by either pushing their character with their
+Excellency, or by encountering an event which the Player has written as
+particularly aggravating to their flaw.
+
+&lt;&lt;TODO&gt;&gt;
 
 Whenever a character gains limit, they also must make a roll as though
 they had encountered their Limit Trigger.
@@ -636,7 +677,7 @@ the difficulty.”
 Strife may be gained through two ways: **Botches** and **Scene
 Complications**.
 
-[<u>Botches</u>](/System/General_System/#botching) are Player-driven choices to drive their
+[<u>Botches</u>](botching) are Player-driven choices to drive their
 character’s failure into a *magnificent* failure—a low so that they may
 later rise to even greater heights.
 
@@ -724,52 +765,6 @@ rot within seconds, and we iron rust within a blink of an eye.
 Items stored in Elsewhere of a dead Exalt will eventually reassert
 themselves into reality—often by finding themselves in nearby containers
 that may not have existed until needed for this precise purpose.
-
-Storyteller Timelines
----------------------
-
-Rather than count the exact minutes and hours of effects, Exalted rely
-on a more cinematic approach. A charm’s duration may be declared as a
-*Scene*, for example.
-
-<table>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><strong>Description</strong></td>
-</tr>
-<tr class="even">
-<td><strong>Round</strong></td>
-<td><blockquote>
-<p>How long it takes for all characters to each perform a set of Actions, typically in Combat or an Encounter.</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><strong>Scene</strong></td>
-<td><blockquote>
-<p>Long enough to set out and accomplish a single, dedicated task. Combat from start to finish would be a scene, as would characters searching for clues in an old abandoned monastery. This typically spans minutes to hours.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><strong>Session</strong></td>
-<td><blockquote>
-<p>A single sitting of when Players begin and end roleplaying, spanning an entire night.</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><strong>Story</strong></td>
-<td><blockquote>
-<p>Several sessions that form a full narrative arch: from establishing a threat to reaching the resolution.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><strong>Chronicle</strong></td>
-<td><blockquote>
-<p>A complete game, encompassing all the stories relevant to a set of characters.</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
 
 Magnitudes
 ----------

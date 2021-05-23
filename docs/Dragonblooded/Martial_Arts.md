@@ -54,8 +54,8 @@ When receiving an attack, or defending another, they may reduce the
 damage dealt to them by up to (Essence), at a cost of 2m per health.
 
 This damage is redistributed into the ground below the stylist,
-cracking, tearing, and rippling through the earth or flooring,
-potentially shattering and breaking the ground.
+cracking, tearing, and rippling through the earth or
+flooring—potentially shattering it.
 
 ### Lesser Technique 3
 

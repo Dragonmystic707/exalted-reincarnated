@@ -62,6 +62,8 @@ nocturnals = {
 
 src_list = [ core, solars, lunars, dragonblooded, sidereals, infernals, nocturnals]
 
+power_categories = r"(?:Lesser|Greater|Capstone)"
+
 # Define some local paths (may need to change this later)
 script_dir = os.path.dirname(__file__)
 src_dir = path.join(script_dir, "src")
@@ -189,21 +191,20 @@ def procces_dir(dir_dict, group_order):
                 link_str = r"\(#[^#\n]*\)"
                 data = re.sub(link_str, replace_link, data)
               
-                # Replace any Header 10 (Greater Charms) with the class
-                # Github cannot process anything above Header 6
-                header_str = r"##########\s*(.*)"
-                header_replace = r"""<div class="greater_charm">\1</div>"""
-                data = re.sub(header_str, header_replace, data)
+                # Find and replace the categories list
+                src_str = r"^\s*("+power_categories+".*)$"
+                repl_str = r"""<div class="power_category">\1</div>"""
+                data = re.sub(src_str, repl_str, data)
 
-                # Replace any Header 9 (Examples) with the "indent" figure
-                header_str = r"#########\s(.*)"
-                header_replace = r"""> \1"""
-                data = re.sub(header_str, header_replace, data)
+                # # Replace any Header 9 (Examples) with the "indent" figure
+                # header_str = r"#########\s(.*)"
+                # header_replace = r"""> \1"""
+                # data = re.sub(header_str, header_replace, data)
 
-                # Make sure any blank spaces between example paragraphs get that indentation too
-                header_str = r"(> .*\n)\n(> .*)"
-                header_replace = r"""\1> \n\2"""
-                data = re.sub(header_str, header_replace, data)
+                # # Make sure any blank spaces between example paragraphs get that indentation too
+                # header_str = r"(> .*\n)\n(> .*)"
+                # header_replace = r"""\1> \n\2"""
+                # data = re.sub(header_str, header_replace, data)
 
                 with open(path.join(new_dir, file_name + ".md"), "w", encoding="utf8") as w:
                     w.write(header + data) 

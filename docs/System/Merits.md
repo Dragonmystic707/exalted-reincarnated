@@ -16,9 +16,9 @@ Merits
 A Merit is any sort of benefit or background that may help the
 character, outside of their normal internal powers would grant.
 
-Merits are often intimately tied to a character’s story--they have
-wealth because they were born into it--and typically may only be gained
-or upgraded during character creation, or through the Projects system
+Merits are often intimately tied to a character’s story—they have wealth
+because they were born into it—and typically may only be gained or
+upgraded during character creation, or through the Projects system
 during campaign.
 
 Almost all Merits are location or context-dependent, and so are often
@@ -30,14 +30,43 @@ Forests.”
 
 Multiple merits of different locations and types can be purchased.
 
+### Using Merits
+
+Most of the time a Merit is just a statement of fact about your
+character, and should simply shape the story with its
+presence--Followers will do what you say, wealth backs a bribe attempt
+with truth, and an ally will generally be helpful if they can be. A good
+rule of thumb is that if the difficulty of the action is less than the
+rating of the merit, it simply just happens.
+
+On the rare cases when the outcome is uncertain, an appropriate
+\[Attribute + (Ability or Merit rating)\] may be asked for. For example,
+you may raise a glorious ancient artifact to prove your worth to a crowd
+with \[Composure + Artifact rating\], attempt to convince an ally to do
+a dangerous task for you with \[Charisma + Ally\], or know a piece of
+obscure Lunar history with \[Intelligence + Fact: Silver Pact Member\]
+
+#### Exhausting Merits
+
+At the storyteller's discretion, a Merit can be exhausted for a period
+of time after a large, impactful use of the merit, and be unable to be
+used except in limited ways. For example, after a character with Wealth
+(4) manages to bribe the Prince of a city into their pocket, the
+Storyteller declares that this is a serious use of their Wealth merit,
+and that all significant expenditure of their wealth is now tied up into
+this one action and must recover.
+
+The Storyteller designates the length of time the merit is exhausted,
+though this cannot last longer than a single story.
+
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>Merit Protection</strong></p>
 <p>Merits cannot be removed or canceled <em>permanently</em> by the Storyteller without the Player’s permission, and should be considered under the complete ownership of the Player. For example, an Ally should not suddenly turn face and become an antagonist without both the Player agreeing to such a turn of events.</p>
-<p>Temporary restrictions to merits--such as an Ally being unable to help--is explicitly allowed. However, the Storyteller should always be judicious about such decisions.</p>
+<p>Temporary restrictions to merits—such as an Ally being unable to help in this situation, even if the merit isn’t exhausted—is explicitly allowed. However, the Storyteller should always be judicious about such decisions.</p>
 <p>If a Player chooses to lose or downgrade their bought Merits through story means, they are awarded back whatever resources they used to buy or upgrade the Merit.</p>
-<p>The Storyteller may decide to award temporary Merits that are under the full control and whim of the Storyteller--such as a platoon of soldiers as a Command. If appropriate to the story, the Player may purchase control of said Merit at full cost of either xp or Project Points, with Storyteller permission.</p></td>
+<p>The Storyteller may decide to award temporary Merits that are under the full control and whim of the Storyteller—such as a platoon of soldiers as a Command. If appropriate to the story, the Player may purchase control of said Merit at full cost of either xp or Project Points, with Storyteller permission.</p></td>
 </tr>
 </tbody>
 </table>
@@ -62,10 +91,39 @@ Couple addendum to that:
 
 &lt;&lt;/TODO&gt;&gt;
 
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Merit Count</strong></p>
+<p>There is no enforced limit on the number of a Merits a character can have. However, this shouldn’t be used as an excuse to hoard a laundry-list of low-rank merits.</p>
+<p>The rule of thumb is that you should start consolidating merits at 10, and should not have any more than 15 individual merits. (Excluding Facts and Languages)</p></td>
+</tr>
+</tbody>
+</table>
+
+### 
+
+General Merits
+--------------
+
+### Facts
+
+**(3)**
+
+Facts are simple, undeniable statements about the character that may
+help them in their adventures. They are the most free-form of all the
+merits, and encompass anything from a description of a character’s
+origin to markers of accomplishments.
+
+Facts are typically chosen during character creation, awarded at the end
+of a Story, or to mark completion of a significant world Project.
+
 Natural Merits
 --------------
 
-### Backing(1-5)
+### Backing
+
+**(1-5)**
 
 The Character is an official in an organization. Their rating represents
 how much organizational power the character has.
@@ -166,10 +224,21 @@ Evocations.
 ### Language (1)
 
 Each purchase of this merit represents a new language the Player
-Character has learned. All characters are assumed to start with their
-Local Tongue and Tradespeak, the common language.
+Character has learned to speak, read, and write in.
+
+**Note**: All Characters start with 2 Languages, typically their Local
+Tongue, and the trade Language Riverspeak.
 
 **Example Languages**
+
+-   **Local Tongue:** This marks the character as having the exact
+    speech patterns and mannerisms as locals.
+
+-   **Directional Language**: While not a true language in itself, a
+    Directional Language is a collection of general speech patterns and
+    dialects that would fit as “close enough” with the local tongue of
+    anybody living in the respective Cardinal Directions (Air, Water,
+    Fire, Wood) to communicate most thing.
 
 -   **High Realm**: While using the same words and structure as Low
     Realm, formal and rigorous selection of certain words have marked
@@ -181,17 +250,14 @@ Local Tongue and Tradespeak, the common language.
     blended and simplified.
 
 -   **Old Realm**: An ancient language which High Realm is based off of,
-    which is the formal language of ancient texts. Most Gods still use
-    Old Realm to communicate with Mortals, and have not bothered to
-    learn the new languages.
+    though no longer shares all but the base similarities. Is the formal
+    text of Ancient texts and documents from the First Age, and is still
+    the most commonly-used mortal language used by the Gods.
 
--   **Directional Language**: While not a true language in itself, a
-    Directional Language is a collection of general speech patterns and
-    dialects that would fit as “close enough” with anybody living in the
-    respective Cardinal Directions (Air, Water, Fire, Wood). This
-
--   **Local Tongue**: This marks the character as having the exact
-    speech patterns and mannerisms as locals.
+-   **Riverspeak:** An artificial, crafted language made by the Guild to
+    facilitate basic trade, and heavily promoted as the common language
+    of Creation. While functional, it does not lend itself well to
+    communicating complex topics.
 
 ### Master Stylist (3)
 
@@ -234,7 +300,7 @@ granted to them, they are refunded the merit costs.
 At Essence 3, Exalts may take a Project to grant Rank 3 to mortals with
 significant ties to them, such as Allies or Wards.
 
-###  
+  
 
 Mutations
 ---------

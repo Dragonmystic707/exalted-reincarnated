@@ -19,7 +19,7 @@ Awareness
 ### Sense-Riding Technique
 
 **Cost:** 3m  
-**Type:** On Turn; Scene  
+**Type:** Free; Scene  
 **Mins:** Awareness 2, (Element) 1
 
 Choose an element, associated with a sense. Three purchases of this
@@ -40,9 +40,10 @@ Awareness roll to resolve and understand the tremor.
 The walls listen, and at your touch they speak.
 
 You perceive the past, as experienced by the stone or earth around you.
-Voices and movement can be felt of a specific scene are replayed, though
-an Earth roll is needed to resolve understanding. Dice penalties should
-be applied for anything that has happened longer than a year ago.
+Voices and movement can be felt of a specific scene are replayed for the
+next few moments. An Earth roll is needed to resolve understanding. Dice
+penalties should be applied for anything that has happened longer than a
+year ago.
 
 Earth
 -----
@@ -53,8 +54,35 @@ Earth
 **Type:** Reflexive  
 **Mins:** Earth 2, Integrity 2
 
-When another is targeted with a social action, you may allow the target
-to use one of your Intimacy to resist the action.
+Your emotions and decisions are a bedrock, stabilizing not only
+yourself, but those around you.
+
+When another is threatened by a Social Action, you may grant use of your
+Intimacies to them, allowing them to be used defensively.
+
+### Elemental Bolt Attack
+
+**Cost:** 2m  
+**Type:** Simple  
+**Mins:** (Element) 2
+
+You may make a ranged elemental attack, treating it as a Medium Ranged
+weapon.
+
+Earth grants the ability to either restrain or push a character away
+with force, at your choice, so long as this attack exceeds their Soak.
+
+### Tremors
+
+**Cost:** 4m  
+**Type:** Simple  
+**Mins:** Earth 3
+
+Create an environmental earthquake, of at most two range bands in
+diameter, for 3 Rounds.
+
+To cross this area, characters must make an Althetics check vs. 3, even
+if they do not contact the ground. If they fail, they take 3 damage.
 
 <div class="greater_charm">Greater Charms</div>
 
@@ -74,3 +102,26 @@ them in their tracks. They may be forced to sleep, mired in muck, or
 have the fires of heaven raining down on them—yet their body will still
 continue its movements. Their body will even continue moving through
 death, holding on their Soul until the scene ends.
+
+### Falsehood Unearthing Attitude
+
+**Cost:** 6m  
+**Type:** Simple  
+**Mins:** Earth 4
+
+You understand the bedrock upon which people stand on—and when that rock
+shakes and fails underneath them.
+
+Make an Earth Roll. Should it succeed the target’s Resolve, you become
+aware of an intimacy, secret, or concept that the target would be
+willing to betray their own typical morals for.
+
+### Impossible Strength
+
+**Cost: --**  
+**Type:** Permanent  
+**Mins:** Earth 4
+
+So long as you are in contact with natural stone (which exceeds your
+body mass at least 2x), you may heave, heft, throw, tow, or otherwise
+perform Feats of Strength at 10x your normal capacity.

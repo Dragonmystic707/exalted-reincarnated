@@ -958,7 +958,7 @@ Cutting efficiently through red tape and other impediments, the Exalt
 may speed the machinations of an organization. They will double their
 speed on a particular task for one month.
 
-Alternatively, the Exalt may jam up the orginization with some well
+Alternatively, the Exalt may jam up the organization with some well
 placed words, slowing down a task by ½ of its original pace.
 
 ### Unknowable Visage
