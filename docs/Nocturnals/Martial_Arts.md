@@ -71,7 +71,7 @@ their shadow self, the Stylist strikes at their befuddled and confused
 target, granting +(Essence) dice to their attack. As well, the attack
 will target Soak.
 
-<div class="greater_charm">Greater Techniques</div>
+##########  Greater Techniques
 
 ### Vanishing Act
 

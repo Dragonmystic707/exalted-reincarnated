@@ -3,7 +3,7 @@ layout: page
 base_url: System
 title: Encounters
 group_order: 2
-order: 7
+order: 6
 prev_url: Social
 prev_title: Social
 next_url: Combat
@@ -18,135 +18,107 @@ to the high-drama of a courtroom, an Exalt’s life will be filled with
 scenes of great importance where the fate of the world hinges on
 well-spoken speeches or careful deliberation.
 
+In such moments, one or more Scenes should be dedicated to it. This
+Encounter system is a *framework* intended to help Storytellers craft
+dramatic scenes, and thus should be treated as guidelines rather than
+firm rules.
+
 Goal
 ----
 
-An Encounter starts with a **Goal** for the scene: what the Players
-intend the outcome of the scene to be. If there is no clearly defined
-goal, or that goal is unreachable, an Encounter should not start.
+You have to first decide what the Goal of the scene *is*. What is it the
+Players ultimately want? Sometimes it may be obvious from the context,
+but many other times you may need to ask them what their ultimate goal
+is. This is the first hurdle in starting an Encounter.
 
-> On the southern shores of the Inland Sea party decides that they will need a full caravan to traverse the Burning Sands.. There is a local Trade-Prince whom they think they can convince to finance and supply them this caravan.
+It is fine if the goal *changes* during the course of the Encounter.
 
-Key Issues
-----------
-
-Once the stated Goal of the Encounter has been established, the
-Storyteller should come up with 2-4 **Key Issues** that will need to be
-overcome to accomplish this goal, and how difficult each Key Issue is.
-
-Key Issues range the gamut from personal ideology to political
-entanglements to logistics. So long as it is something that prevents the
-party from moving forward, and is (relatively) self-contained, it may be
-a valid Key Issue.
-
-Once the Storyteller has come up with the Key Issues, they will need to
-tell the Players the *number* of Issues at play. The *nature* of the
-Issue may be revealed at their discretion.
-
-#### Influence Requirement
-
--   Simple 5 Influence
-
--   Average 10 Influence
-
--   Complicated 15 Influence
-
-> The Storyteller decides there are 3 Key Issues preventing the Trade-Prince from funding the caravan:
-> 
-> 1. Needing a return on investment. (Simple). Understandably, the Trade-Prince will need to be convinced it is worth his while to dedicate so many resources to this goal. This Key Issue can be easily guessed, so is revealed on Encounter start.
-
-> 2. Antagonistic Sycophants (Simple). The Trade-Prince has surrounded himself with sycophants, who deeply despise any perceived change to their position. The Party must silence their influence.
-> 
-> 3. Fear of the Immaculate Order (Average) (Hidden). Through the party’s past actions, the Trade-Prince has secretly caught on that they are Anathema. He does not personally care, but he will need a way to make sure that the Immaculate Order will not find out about this deal—or at least be convinced of this fact.
-
-### Gathering Influence
-
-There are a thousand ways to approach the scene and its Key Issues:
-starting rumors, researching tactics, beguiling tricks, intimidation.
-
-Taking any action to tackle a Key Issue directly is called a **Gather
-Influence** action.
-
-A Gathering Influence action starts as a normal \[Att. + Abi.\]
-roll—determine if the action is possible, assign a Difficulty, and allow
-the player to roll.
-
-If the Player is successful on their roll, they then gain **Influence**
-equal to the original Difficulty of the task, and apply it to the
-appropriate Key Issue.
-
-Changes to the Difficulty after it has been stated—either raising or
-lowering it, do not affect how much Influence is gathered.
-
-> The Socialite of the group, a Solar Eclipse, moves to address the “Antagonist Sycophants” Key Issue by suppressing the Intimacy the Trade-Prince has of them. He performs a “Influence Intimacy” Social Action, rolling 5 Success against the Prince’s 3 Resolve. He gains 3 Influence Points against the Key Issue, as well as successfully lowering the Prince’s Intimacy.
-
-Once enough Influence has been gathered against a Key Issue, it is
-considered *resolved*, and the Players are one step closer to their
-Goal.
-
-Overflow Influence is allowed, and can help secure the safety of a
-contested Key Issue.
-
-#### Examples
-
--   Impassioned speech
-
--   Delving into research
-
--   Sweet-Talking
-
--   Intimidation of Sycophants
-
-### Influence Modifiers
-
-The Influence gained from an action is linked to how Difficult that
-action is—the harder the action, the greater the reward.
-
-However, a Key Issue may be resistant or susceptible to certain
-Influence actions. In this case, grant an additional +2, or subtract 2
-from their Influence gained.
+On the southern shores of the Inland Sea party decides that they will
+need a full caravan to traverse the Burning Sands. There is a local
+Trade-Prince whom they think they can convince to finance and supply
+them this caravan.
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>Not Everything is a Gathering Influence Action</p>
-<p>There are plenty of actions that are helpful, useful, and actionable in the scene—but they aren’t Gathering Influence Actions. For example: Discovering Intimacies.</p>
-<p>The general rule of thumb for rulings is “Does this directly, singularly address the Key Issue.” If not, it is not a Gathering Influence Action.</p></td>
+<td><p>Simple Goals</p>
+<p>It’s perfectly fine to have simple, assumed goals. Not everything needs to have a complex or structured goal; sometimes a primal need is all a goal has to be. “Survive” is quite a popular one.</p></td>
 </tr>
 </tbody>
 </table>
 
-#### Exhausting Supply
+Key Issues
+----------
 
-The Storyteller may choose to “exhaust” a source of influence, meaning
-that further Gathering Influence Rolls cannot be done on this source.
-After all, there is only so much you can intimidate bystanders to do in
-one Scene.
+Once a goal has been established, identify and breakdown what stops the
+Players from reaching their goals. (2-3 are suggested, and never more
+than 5). Each of these obstacles are **Key Issues** that need to be
+overcome before the goal can be reached.
 
-This limitation should be clearly expressed to the Players so that they
-may take this factor into account—either by changing their approach, or
-finding new sources of Influence for the scene.
+Key Issues can truly be anything—personal or political entanglements,
+terrain difficulties, or even logistics issues. So long as it fits the
+theme of the scene, and is a solid, self-contained idea, it can be a Key
+Issue.
 
-### Hidden Key Issues
+Once the Key Issues have been identified, decide how many successful,
+distinct, *actions* must be made to overcome the Key Issue. This is an
+abstracted representation not of difficulty (that is determined by
+individual rolls), but of *complexity*.
 
-The Storyteller should try to give hints and paths toward discovering
-the nature of Hidden Issues.
+|                          |             |
+|--------------------------|-------------|
+| **Key Issue Complexity** |             |
+|                          | **Actions** |
+| Simple                   | 1           |
+| Average                  | 3           |
+| Difficult                | 5           |
+| Complex                  | 7           |
 
-Players, in turn, may use an action similar to “Probe Intimacy” to
-divine the nature of the Hidden Issue, with the same rules and
-effects—the Player summarizes a list of actions, events, or behaviors,
-and then attempts to divine what the Key Issue behind them is.
+Visualizing progress is important in an encounter—and it is recommended
+you keep your players in the loop that they are working towards their
+Key Issue! Having a set of tokens to remove, or something as simple as
+check-boxes to fill does wonders!
 
-As well, it is perfectly possible for Players to gather Influence over a
-Key Issue they do not fully understand.
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Large Groups</p>
+<p>If you have 5 or more players, increase the required actions of any non-Simple Complexity by +2.</p></td>
+</tr>
+</tbody>
+</table>
 
-A Player Intentionally “going in blind” is taking a risk—if their
-assumption is wrong on the Issue, they do not gain any Influence Points
-for their roll, no matter how many Successes they roll.
+### Generating Key Issues
 
-> The Players have managed to completely avoid uncovering the nature of the Third Key Issue. So far, the Storyteller has dropped hints that the Trade Prince may know of their true nature in their conversations, and has even told them that intimidating a particular Sycophant (with deep ties to the Immaculate Order) could be applied to the hidden Key Issue, if they wanted. 
-> 
-> One Player now decides to use the “Probe for Key Issue,” trying to divine the relationship between the Sycophant and the Trade Prince. They succeed on their roll, and the Storyteller responds by noting that the Trade Prince “Fears what that man represents,” and notes that the man has signs of the Immaculate Order woven into his clothes.
+It can help to visualize distinct challenges relating to the key issue,
+such as: “Number of people to convince over to my side,” or “stages of
+stealth to overcome.” However, always remember that you are setting up a
+*challenge* for players to overcome, not the method for which they must
+go through, and this abstracted count of actions should allow that
+flexibility!
+
+It is entirely possible for you to expect your players to talk to
+individual bystanders, to inspire each one of them to raise moral of the
+village, yet your Players instead craft a monument of glory—and that is
+perfectly fine and encouraged! So long as each action has a narrative
+weight, even if unexpected, it should be allowed!
+
+The Storyteller decides there are 3 Key Issues preventing the
+Trade-Prince from funding the caravan:
+
+1\. Monetary concerns: he needing a return on investment. (Simple).
+Understandably, the Trade-Prince will need to be convinced it is worth
+his while to dedicate so many resources to this goal.
+
+2\. Antagonistic Sycophants (*Average*). The Trade-Prince has surrounded
+himself with sycophants, who deeply despise any perceived change to
+their position. The Party must silence their influence.
+
+3\. Fear of the Immaculate Order Retribution (*Difficult*) (Hidden).
+Through the party’s past actions, the Trade-Prince has secretly caught
+on that they are Anathema. He does not personally care, but he will need
+a way to make sure that the Immaculate Order will not find out about
+this deal—or at least be convinced of this fact.
 
 ### Altering/Adding Goals
 
@@ -155,10 +127,10 @@ ultimate goal—perhaps they have decided to push further, or have found
 an alternate goal they prefer.
 
 In both cases, the Storyteller should add an additional Key Issue to
-encapsulate this difference. They may decide to drop an existing Key
-Issue if the altered goal no longer applies.
+encapsulate this difference. They may decide to drop a separate existing
+Key Issue if the altered goal no longer applies.
 
-Flow
+ Flow
 ----
 
 An Encounter is not like a Combat Scene—the timing is fluid, and actions
@@ -166,22 +138,58 @@ do not follow a set order, depending primarily on the natural flow of
 the narrative.
 
 However, a “Round” is still defined: each character has one and only one
-Full Action (Primary + Secondary) in a round.
+Full Action (Simple Action + Supplementary) in a round.
 
 The Storyteller should make sure that all Players know they have the
 *option* to act each Round.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Balancing Antagonist Actions<br />
-</strong>The Storyteller is allowed to increase the number of actions Antagonists can take per Round, if necessary. (The number of Player Characters is large, the number of Antagonists small, etc.)</p>
-<p>The Rule of Thumb is that the number of Antagonist Actions should be around 1 for every 2 Player Character Actions.</p></td>
-</tr>
-</tbody>
-</table>
+Playing Consequences
+--------------------
 
-Antagonist Goals
+The main tool you have as a Storyteller to interrupt and challenge the
+Player characters is to introduce consequences and *choices* for
+actions; a successful roll means the Player Characters got what they
+wanted, but that doesn’t mean that everything turns out positive. If
+they used Intimidation to cower townsfolk into submission, the townsfolk
+will naturally be terrified and less friendly to the group. (Represented
+as a negative minor intimacy: -2 dice/+1 Resolve)
+
+However, care should be taken with Consequences: they should never feel
+like a *punishment*. Your job is to keep your Players on their toes, not
+to discourage them from taking unique and interesting ways to solve a
+problem. This is a situation where a little bit goes a long way: only
+introduce a mechanically-effecting consequence when it truly matters to
+change the scene.
+
+Introducing Complications
+-------------------------
+
+Complications are anything introduced into the Scene by the Storyteller
+that will distract, inhibit, or otherwise challenge the Player
+Characters in their pursuit of their goals.
+
+Complications can change, alter, or otherwise shed different light on
+the Key Issues, and may even block certain methods of attaining their
+goals. Perhaps a landslide occurs, burying the way to a quarter of the
+city; or there is a patrol of guards cycling through the way; or even
+perhaps something a simple as the chiming of the bells, denoting that a
+new hour has arrived.
+
+Complications should show up fairly regularly—there should be at least
+one per Encounter. However, they should always make sense and be
+telegraphed to players beforehand. If the source of a Complication is a
+character, say a primary antagonist or a group of guards, this is quite
+easy—players will expect them to take an action every “Round” or so.
+
+However, when it is something more abstract, such as the passage of
+time, you should signify it with something, be it the description of a
+clock’s hand ticking down, or the more abstract notion of displaying a
+counter filled up after actions performed. Suspense in a scene is not
+necessarily surprise: if you give your Players just enough information
+that there is *something* going to happen, when their Characters do not,
+it is far more satisfying and impactful when it actually does.
+
+ Antagonist Goals
 ----------------
 
 Antagonists are operating on their own goal during the scene, and have
@@ -195,40 +203,70 @@ same” Key Issue.
 However, antagonists having the same Key Issue is not a
 *requirement*—they may be working on a separate Goal for the scene, and
 they have tangential or completely unrelated Key Issues. Typically,
-these start out as Hidden to the Party.
+these start out as hidden to the Party.
 
 <table>
 <tbody>
 <tr class="odd">
-<td><strong>Abstract Antagonists<br />
-</strong>It is easy to recognize an antagonist when it is an individual. However, Antagonists can be anything—from mobs of people to an avalanche to Time itself closing off a Key Issue.</td>
+<td><p><strong>Abstract Antagonists</strong></p>
+<p>It is easy to recognize an antagonist when it is an individual. However, Antagonists can be anything—from mobs of people to an avalanche to <em>Time itself</em> closing off a Key Issue.</p></td>
 </tr>
 </tbody>
 </table>
 
-### Sabotaging Influence
+### Sabotaging Progress
 
-The Antagonist and Party’s Influence tracks are independent of each
-other—only a dedicated **Sabotage Influence** Action allows one side to
-disturb the other’s Influence.
+The Antagonist and Party’s Progress tracks are independent of each
+other, and can be thought of more as a “race” rather than anything.
+However, just like in a race, participants can *sabotage* the other’s
+progress.
 
-This action is nearly identical to a Gather Influence action, save that
-the Influence is *taken away* from the opposing party’s Key Issue.
-
-The Character is not allowed to split the effect of Influence: it is
-either fully a Gathering Action or a Sabotage Action.
-
-### Key Issue Control
-
-Once one side or another has reached the Influence Requirement of a Key
-Issue, they have *control* over the issue.
+When taking an action, a Player can apply one of their actions to
+removing the progress of an antagonist by one action. Or, they may
+attempt to wrest control over a completed Key Issue piece by piece—the
+latter of which often requires one action greater than
 
 Control may be taken away if a different side gains more Influence than
 the previous owner, either by decreasing it through sabotage or
-reinforcing their own claim..
+reinforcing their own claim.
 
-If a side manages to keep control over a Key Issue for a full Round, it
-becomes *locked* and can no longer be challenged.
+In order to wrest control over a completed Key Issue, you must take 1
+*additional* action more than what would be normally required. So for an
+Average (3) complexity issue, you would have to make a total of (4)
+actions.
+
+Characters on the Defense
+-------------------------
+
+Convincing important characters, particularly Player Characters, is a
+single Key Issue with a complexity equal to their Resolve + intimacy
+bonuses, rather than a simple roll.
+
+This can be anything from forcing the character to see their point on an
+important fact, charming them, lying to them, or even instilling a
+particular Intimacy.
+
+A successful application does not *force* the character to do
+anything—this isn’t unnatural influence, simply convincing speech. But
+they should take this new idea as part of their decision process. As
+well, after the idea impacts their life negatively once, they may
+reconsider and reject it.
+
+As always, Players reserve the right to declare something as
+Unacceptable influence, if they believe it violates their character or
+ideas. Typically they should reference one of their Intimacies,
+backstory, or Facts when doing so.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>It’s Hard to Convince Player Characters</strong></p>
+<p>Ultimately, it’s up to the Player whether or not their character is convinced by something. As a Storyteller, you have control over all aspects of the world, and how difficult each action is; the one thing that you don’t have control over is what Player Characters think and do—you should only suggest it to the Player, not force it upon them. Even powerful effects, such as “Theft of Memory,” should be used with caution.</p>
+<p>Ultimately, this is a story about the <em>Player Characters</em> and their actions, not about Non-Playable characters and your world!</p>
+<p>Social-focused Antagonists should be primarily represented by their actions and charm against other NPC’s. While they should not shy away from trying to charm the Player Characters, don’t expect them to succeed!</p></td>
+</tr>
+</tbody>
+</table>
 
 Encounter End
 -------------
@@ -237,7 +275,7 @@ The Encounter ends the same Round that all Key Issues become
 *controlled*—though they do not need to be under control all by the same
 *side.*
 
-If a Goal’s Key Issues are completely controlled by one side--they will
+If a Goal’s Key Issues are completely controlled by one side, they will
 achieve their Goal.
 
 A Goal with split Key Issue control will find they have a *partial*
@@ -248,12 +286,71 @@ When weighing a Partial Victory, the Storyteller should lean heavily
 into the uncontrolled Key Issues—why will this bring trouble to them?
 Perhaps they get what they want, but only at a certain cost?
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Final Argument<br />
-</strong>Typically, the Encounter is wrapped up with a <em>Final Argument</em>, where a chosen Player Character summarizes what has happened in the Encounter, rolling it together and pointedly delivering as a capstone.</p>
-<p>This Final Argument cannot change the result of the Key Issues, but a well-delivered Final Argument can transition to the next course of action.</p></td>
-</tr>
-</tbody>
-</table>
+### Final Argument
+
+Typically, the Encounter is wrapped up with a *Final Argument*, where a
+chosen Player or Storyteller summarizes what has happened in the
+Encounter, rolling it together and pointedly delivering as a capstone.
+This can take the form of a grand in character speech, addressing the
+crowds.
+
+Preferably, Encounters do not end with a roll. The work has been put in
+already, there is no *need* for one.
+
+But in the cases when a roll feels In those cases, this final roll
+carries no risk of failure with it: after all, all of the ground work
+has been laid for the outcome already. Rather, it is a measure of *how*
+successful the characters will be in their endeavor. A failure would
+just represent not being able to push their success further—or at worst,
+a request to do something in return.
+
+**Example Encounter Scenes:  
+&lt;&lt;**Todo, format this nicely&gt;&gt;
+
+One of the party members went full Iconic anima Banner inside a
+Realm-controlled outpost, and now they must escape.
+
+Goal: Escape.
+
+Key Issues: Hunted by the Immaculate Monks. City is winding and full of
+defenses. Need to obscure their tracks to prevent being followed.
+
+Key Complication: Time will tick down. Every other round, introduce a
+complication into the scene, and after a set number of rounds they will
+have a confrontation with the Wyld hunt.
+
+|                                |     |
+|--------------------------------|-----|
+| **Key Issues Idea Generation** |     |
+| &lt;todo&gt;                   |     |
+|                                |     |
+|                                |     |
+|                                |     |
+|                                |     |
+|                                |     |
+|                                |     |
+|                                |     |
+
+|                                  |     |
+|----------------------------------|-----|
+| **Consequences Idea Generation** |     |
+| &lt;todo&gt;                     |     |
+|                                  |     |
+|                                  |     |
+|                                  |     |
+|                                  |     |
+|                                  |     |
+|                                  |     |
+|                                  |     |
+
+|                                   |     |
+|-----------------------------------|-----|
+| **Complications Idea Generation** |     |
+| &lt;todo&gt;                      |     |
+|                                   |     |
+|                                   |     |
+|                                   |     |
+|                                   |     |
+|                                   |     |
+|                                   |     |
+|                                   |     |

@@ -72,7 +72,7 @@ The spike jumps from target to target like lightning, and may continue
 past the Solar’s typically range boundary so long as each target is
 within Short Range of the last.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### The Mark of Judgment
 
@@ -176,7 +176,7 @@ target become Stunned.
 The Solar is as swift as the shadows they cast, and may Increase their
 Evasion against an attack by (Essence).
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Sunlight’s Advance
 
@@ -268,7 +268,7 @@ Ask a specific question, and make an Awareness Roll against the target’s
 Guile. If successful, the target *must* answer and speak the truth to
 that particular question.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Unsurpassed Senses Discipline
 
@@ -357,7 +357,7 @@ example, a Crowd (Scale 3) grants +3.
 
 Those hit by the attack lose 3 Impulse.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Cancel the Apocalypse
 
@@ -428,7 +428,7 @@ For (Essence) Weeks, that object, and anything inside of it, become
 resistant to the chaotic effects of the Wyld, gaining (Essence)
 difficulty to warp it.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Marvelous Machinery
 
@@ -471,7 +471,7 @@ targets, and one of the Solar’s Intimacies. So long as the target is
 acting in accordance with the Intimacy, they may use the Resolve of the
 Solar instead of their own.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Eminent Paragon Approach
 
@@ -549,7 +549,7 @@ new target.
 Supplement a social action against a Creature of Darkness with an
 additional +3 dice.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Majestic Radiant Presence
 
@@ -661,7 +661,7 @@ dice, capped at 12 dice.
 
 Up to (Essence) blessings may be active at one time.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Inspection of Flaw
 
@@ -736,7 +736,7 @@ damage to Creatures of Darkness.
 The Solar’s attack may reach to Short range, passing through and
 destroying any intervening mundane material.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Invincible Fury of the Dawn
 
@@ -813,7 +813,7 @@ true so long as there is no unnatural influence.
 They may also recognize if the current weather has any unnatural
 influence, so long as they are not a new arrival to the area.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Phantom Rider’s Retreat
 
@@ -882,7 +882,7 @@ Influence or Emotion.
 With at least 3 Threshold Successes, the Solar can select a particular
 Influence or Emotion.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Fury-Inciting Speech
 
@@ -974,7 +974,7 @@ The Solar stands as an indomitable barrier against all who would stand
 against them. Gain +(Essence) against any effects to knockback, pull,
 restrain, or otherwise physically alters the Exalt’s movement.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Immunity to Everything Technique
 
@@ -1027,7 +1027,7 @@ Once per Story the Solar may Introduce a Fact by revealing an arcane or
 forgotten law for free. They may repeat this in a Story by spending
 Strife Points as normal.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Taboo-Inflicting Diatribe
 
@@ -1111,7 +1111,7 @@ around a subject successfully. For the remainder of the day, the target
 characters may use the Solar’s Socialize score in place of their own
 whenever performing that action.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Wise-Eyed Courtier Method
 
@@ -1191,7 +1191,7 @@ The Solar focuses their attempts at stealth onto a specific, non-visual
 sense, completely eliminating it from the equation. Their footsteps may
 become silent, or their scent hidden from tracking dogs.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Sunlight Bleeding Away
 
@@ -1258,7 +1258,7 @@ Mundane mortals will not question this uncertainty, requiring no roll to
 succeed. Against other creatures, the Solar gains (Essence) dice on
 their Deception roll.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Twisted Meaning
 
@@ -1353,7 +1353,7 @@ During a successful Ambush round against the targets, the Solar strikes
 with a killing flow of Essence. During the ambush action, Impulse gained
 from a Maneuver and damage done with a Decisive Attack is doubled.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Cutting Circle of Destruction
 

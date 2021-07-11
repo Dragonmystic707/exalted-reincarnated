@@ -6,40 +6,12 @@ group_order: 2
 order: 3
 prev_url: Character_Creation
 prev_title: Character Creation
-next_url: Attributes
-next_title: Attributes
+next_url: Attributes_and_Abilities
+next_title: Attributes and Abilities
 ---
 
 General System
 ==============
-
-Storyteller Timelines
----------------------
-
-Rather than count the exact minutes and hours of effects, Exalted relies
-on a more cinematic sense of time.
-
--   **Round**  
-    Enough time for all characters present in the scene to perform at
-    least one set of Actions.
-
--   **Scene**  
-    Long enough to set out and accomplish a single, dedicated task.
-    Combat from start to finish would be a scene, as would characters
-    searching for clues in an old abandoned monastery. This typically
-    spans minutes to hours.
-
--   **Session**  
-    A single sitting of when Players begin and end roleplaying, spanning
-    an entire night.
-
--   **Story**  
-    Several sessions that form a full narrative arch: from establishing
-    a threat to reaching the resolution.
-
--   **Chronicle**  
-    A complete game, encompassing all the stories relevant to a set of
-    characters.
 
 Actions
 -------
@@ -89,14 +61,15 @@ roll had instead been:
 
 **1, 4, 4, 7, 8, 10**
 
-7 and 8 would be counted once, and 10 counted twice, making 4 successes
-on the roll.
+7 and 8 would be counted once, and 10 counted twice, making a total of 4
+successes on the roll.
 
 ### Difficulty
 
 *Before a roll is performed*, the Storyteller should determine the
 **Difficulty** of the roll—the number of successes that the roll must
-match or exceed for the action to be considered a success.
+match or exceed for the action to be considered a success. Here is a
+guiding scale for choosing difficulties:
 
 -   **Difficulty 1 (Easy)  
     **This task is expected to be passed by a skilled mortal, but there
@@ -124,17 +97,17 @@ match or exceed for the action to be considered a success.
 <tbody>
 <tr class="odd">
 <td><p><strong>Failing Forward</strong></p>
-<p>In a high-powered setting such as Exalted, properly handling it is important, and is in a way more difficult than a success, as it puts the burden of keeping the story moving on you, the Storyteller. Remember: you are not there to <em>punish</em> the players for daring to take an action, only to provide boundaries and restrictions.<br />
+<p>In a high-powered setting such as Exalted, properly handling it is important, and is in a way more difficult than a success, as it puts the burden of keeping the story moving on you, the Storyteller. Remember: you are not there to punish the players for daring to take an action, only to provide boundaries, restrictions, and consequences.<br />
 <br />
 There are a few general paths to take:</p>
-<p>1. A simple failure—the character don’t do the action, the story continues. Typically you pick this path when the players already know of different paths they may take. Sometimes letting your players step back and reanalyze their approach is</p>
-<p>2. Only an important part fails—the character does squeak by on what they intended, but at a great cost. They open the doors, but only enough for one person to slip by or by causing a great commotion. Choose this path if halting the action would kill all momentum of the session.</p>
-<p>3. “No, but...”—If players have heavily invested in an action, and it just doesn’t work out, don’t give them <em>nothing</em>. Sure, they failed at the task they were intending, but another pathway opens. Maybe they failed to convince the Queen of their plight, but the Prince overheard and wishes to speak to them. Be judicious of choosing this option, as overuse may make your game feel consequence-free.</p></td>
+<p>1. <em>A simple failure</em>—the character don’t do the action, the story continues. Typically you pick this path when the players already know of different paths they may take. Sometimes letting your players step back and reanalyze their approach is</p>
+<p>2. <em>An important part fails, but not all of it</em>—the character does squeak by on what they intended, but at a great cost. They open the doors, but only enough for one person to slip by or by causing a great commotion. Choose this path if halting the action would kill all momentum of the session.</p>
+<p>3. <em>“No, but...”</em>—If players have heavily invested in an action, and it just doesn’t work out because of bad luck, don’t give them <em>nothing</em>. Sure, they failed at the task they were intending, but another pathway opens. Maybe they failed to convince the Queen of their plight, but the Prince overheard and wishes to speak to them. Be judicious of choosing this option, as overuse may make your game feel consequence-free.</p></td>
 </tr>
 </tbody>
 </table>
 
-Action types
+ Action types
 ------------
 
 Most rolls are simple: the Player dictates what they are intending to
@@ -166,17 +139,17 @@ dice, simply state that they get got 2 successes and move on.
 The exception to this guidance are important characters, such as rivals
 or foes of great challenge.
 
-> There are two characters in the scene: a guard and a thief. The guard is keeping watch, and the thief is attempting to sneak past them. The dice pool for the player-controlled thief would be Dexterity + Stealth.
-> 
-> Since this is a NPC, and there are no dice-affecting powers active, the storyteller simply takes the average: (Wits + Awareness)/2, which turns out to be 3. Should the thief match or surpass that difficulty, they successfully sneak past.
+######### There are two characters in the scene: a guard and a thief. The guard is keeping watch, and the thief is attempting to sneak past them. The dice pool for the player-controlled thief would be Dexterity + Stealth.
+
+######### Since this is a NPC, and there are no dice-affecting powers active, the storyteller simply takes the average: (Wits + Awareness)/2, which turns out to be 3. Should the thief match or surpass that difficulty, they successfully sneak past.
 
 ### Retrying Rolls
 
 Once a roll has been decided, a Player cannot simply try the action
 again—it is assumed that the character has already approached the issue
-from multiple different angles before truly failing. For example, their
-failed barter included multiple tiers of money that they were willing to
-part with.
+from multiple different angles before truly failing in the roll. For
+example, their failed barter included multiple tiers of money that they
+were willing to part with.
 
 Only through powers like a Charm, or by a dramatic change of the scene
 is a re-roll allowed—for example, the marketplace erupting in a great
@@ -202,30 +175,12 @@ remove the effect. Each attempt must be some different methodology.
 Any mundane statuses, even at their worst, will naturally be purged from
 an Exalt if they are given a full day of rest.
 
-Excellencies
-------------
-
-Exalts, however, aren’t restricted to simply *accepting* the roll that
-is given to them. When they need to, they may activate their
-Exalt-specific Excellency to push their roll further than they thought
-they could.
-
-For example, a Solar will be able to add their Ability Ranks as a number
-of Successes to their roll, turning what is a certain failure into a
-success.
-
-However, this does not come without a cost. The character is straining
-themselves beyond their mortal bonds, and so will gain a point of
-[Limit](/System/General_System/#limit), as well as inflame their [Anima Banner](/System/General_System/#anima-banner)
-one step above the natural level for the remainder of the Scene—e.g. the
-first use of the scene will set the anima banner to the *Glowing* step.
-
 Advantages and Disadvantages
 ----------------------------
 
 The difficulty of an action can be modified by various conditions,
 whether it be environmental, helpful, or antagonistic. These should be
-provided by the Storyteller as deemed appropriate.
+provided by the Storyteller as deemed appropriate to the narrative.
 
 By default, Advantages and Disadvantages are written in terms of
 **dice** available for the character to roll: (+2/-2 dice). Since this
@@ -233,9 +188,9 @@ is the default, the “dice” moniker is often dropped—if a power ever
 simply says “+2”, it means to dice.
 
 Whenever a Modifier affects a static value, such as Resolve or
-Difficulty, you should **take the average**, rounding up. +2 dice is +1
-to Resolve, for example. Some powers will directly reference Static
-Value or Difficulty modifiers, instead of dice.
+Difficulty, you should **take the average**, rounding up. +1 or +2 dice
+is +1 to Resolve, for example. Some powers will directly reference
+Static Value or Difficulty modifiers, instead of dice.
 
 ### Assigning Modifiers
 
@@ -292,19 +247,40 @@ action.
 </table>
 
 Any **Modifier** should be something significant to the scene—something
-that would perturb even an Exalt. A light rain, while thematic, would
-not count as a disadvantage—simply scenery and aesthetic. Only when
-there are levels of pummeling rain (-2), or even a raging Typhoon (-4).
+that would perturb even an Exalt, and you should not concern yourself
+with keeping track of anything and everything that *could* be a
+modifier. Light rain, while thematic and aesthetic, would not be enough
+to affect the athletics skill of the Exalt.
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p>Natural Modifiers and Difficulty</p>
-<p>Remember that Difficulty has its own inbuilt assumptions—many difficulties are set because they are a particular “base” level of challenge with a specific disadvantage: e.g. picking a difficult lock (3) vs. picking a difficult lock while blindfolded in a hurricane (9).</p>
-<p>If a character uses a charm or power to dismiss part of that difficulty—e.g. removing all impairments caused by weather—it is the same as granting them an equivalent Advantage!</p></td>
+<p>Remember that Difficulty has its own inbuilt assumptions—many difficulties are set because they are a particular “base” level of challenge with a specific disadvantage: picking a difficult lock (3) vs. picking a difficult lock while blindfolded in a hurricane (9).</p>
+<p>If a character uses a charm or power to dismiss part of that difficulty—removing all impairments caused by weather— it is the same as granting them an equivalent Advantage!</p></td>
 </tr>
 </tbody>
 </table>
+
+ Excellencies
+------------
+
+Exalts aren’t restricted to simply *accepting* the roll that is given to
+them. When they need to, they may activate their Exalt-specific
+Excellency to push their roll further than they thought they could, both
+before they perform the roll, or after the roll (and all power effects)
+have been finalized.
+
+For example, a Solar will be able to add their Ability Ranks as a number
+of Successes to their roll, turning what is a certain failure into a
+success.
+
+However, this does not come without a cost. The character is straining
+themselves beyond their mortal bonds, and so will gain a point of
+[Limit](/System/General_System/#limit), as well as inflame their [Anima Banner](/System/General_System/#anima-banner),
+causing it to raise a level for the remainder of the Scene. The first
+use of the scene will set the anima banner to *Glowing*, while the
+second would set it to *Burning*.
 
 Stunting
 --------
@@ -314,9 +290,9 @@ dangerous actions of the characters. When a player describes their
 character doing their action in a fun and creative way, the Storyteller
 should reward them. If the action described is reasonable and adds to
 the Scene, the Storyteller should simply let the Player dictate what
-happens without a roll—if a (non-clumsy) character swings from a
-chandelier in order to drop down on top of an enemy, don’t slow that
-down with an Athletics roll.
+happens without a roll—if a character swings from a chandelier in order
+to drop down on top of an enemy, don’t slow that down with an Athletics
+roll.
 
 If a roll is still required, the Storyteller should grant +2 Dice (or +1
 to a Defense) for the action being performed—a reward and encouragement
@@ -327,6 +303,80 @@ forward.
 Stunts should operate off of the “Rule of Cool,” and may bend the rules
 a bit, both of reality and the game—such as falling great distances to
 land perfectly in a pose.
+
+Strife
+------
+
+The world of Creation will push even the mighty Exalted to the brink,
+and in those moments of desperation, forcing them to delve into reserves
+they did not know they had—and can rarely replicate when needed. This
+moment is called a **Strife**.
+
+Strife is a powerful tool for Player Characters to change the world
+around them. By expending the Strife, the character can either:
+
+-   Reset any limited-use Power.
+
+-   Use a Lesser or Greater Power they have not purchased. (They do not
+    need to meet the prerequisites, save that they must be *able* to
+    purchase it. A Solar cannot use a Lunar-specific Charm, for
+    example.)
+
+-   Invent a Charm-like Effect. The Player should feel free to dictate
+    how they use their powers in a custom-tailored way for the
+    situation, though this does require Storyteller approval to make
+    sure it doesn’t *directly* solve the problem of the scene.
+
+### Gaining Strife
+
+The Storyteller should award players Strife for roleplay: scenes where
+they go in depth of their characters, encounter drawbacks, suffer
+consequences, or simply “wow” the other Players with their descriptions
+and engagement.
+
+The Storyteller is encouraged to not be stingy with Strife—it should be
+a resource gained and spent multiple times during a Session.
+
+Multiple charges of Strife cannot be saved.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>The Emergency Bribe</p>
+<p>Sometimes things just don’t go your way in the story—the players unexpectedly defeat and capture your recurring villain, stopping him from escaping when he was supposed to monologue and return later.</p>
+<p>In a game as high-powered as Exalted, it happens to the best of us. You should try to play along with it as best as possible, but if you’ve really written yourself into a corner, you can bribe your Players with a Strife to let them go along with your plan. Try to only use this option in an emergency.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Strife Guidelines
+
+When using a Strife, the action should simply happen without a roll. So
+long as a character *should* be able to do something, and it is *cool*
+for them to do so, it *does.* In this way, it can be thought of as a
+more powerful Stunt.
+
+There are a few guiding restrictions to keep in mind with Strifes, which
+should
+
+-   Other character’s actions cannot be dictated: only those under
+    control of the Player’s.
+
+-   The Action cannot *directly* solve the scene; it can only assist and
+    guide it.
+
+-   The Action should flow naturally from the character—a Solar cannot
+    suddenly shapeshift, for example.
+
+**Example**
+
+######### The Archer turns from the Dragonblood threatening her and focusing her essence into a point on their arrow. With a sharp hiss of air, she lets it loose into the nearest mountain, watching as the arrow explodes in an impressive show of Anima. The mountain rumbles as the snow dislodges, causing the newly-fallen snow to groan, rumble, and then start cascading into a deadly avalanche which rushes into the passage, sealing it and cutting off the dynasts reinforcements.
+
+“I’m going to use my archery to cause an avalanche”. This example
+accomplishes two dramatic things: it changes the environment, but
+ultimately it is about stopping the Antagonist’s time constraint on
+their battle. It assists the Player and their scene, but does not solve
+the pressing issue—the fight with the Dragonblooded.
 
 Essence
 -------
@@ -340,17 +390,6 @@ Mortals have a Rating of 0.
 
 The Rating of Essence cannot be directly trained. Instead, it only
 increases in rating as the character gains xp.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>The Uniqueness of Player Characters</p>
-<p>Player Characters are unusual in the sheer speed and heights they can reach with Essence. The constant stress and challenge of adventure accelerates the gain of Essence far beyond what is normal in the world of Exalted.</p>
-<p>Non-Player Characters do not follow the same rapid gain of Essence that Player Characters do, and are often constrained and capped, limiting what Essence Rating they can reach based on their circumstances.</p>
-<p>Dragonblooded, for example, would find it takes a lifetime to even reach Essence 3—only the eldest of their kind would have access to Greater Charms.</p></td>
-</tr>
-</tbody>
-</table>
 
 ### Motes
 
@@ -387,7 +426,21 @@ However, when a character uses Peripheral Motes, the Anima Banner will
 but wait for time to pass before they can recall it back into their
 soul.
 
-### Anima Steps
+Once the first Peripheral Mote is spent, those in the scene are *able*
+to notice the character’s anima banner—otherwise only those abilities to
+peer into a person’s soul would be able to do so.
+
+The Difficulty for *general onlookers* in the Scene to notice the Anima
+Banner is equal to how many Peripheral Motes are remaining. However,
+characters who are *face-to-face,* or otherwise directly engaged with
+the Exalt, typically do not have to roll to notice the anima Banner once
+it reaches the Glowing stage, or are granted a Moderate (+4) Advantage
+to do so.
+
+The Anima Flare should dissipate by the start of a new Scene, or at a
+rate of 15 minutes per Step.
+
+###  Anima Steps
 
 The anima gradually increases as the peripheral mote pool is depleted,
 but there are specific notable steps along the way:
@@ -403,22 +456,15 @@ but there are specific notable steps along the way:
     face to face will most likely notice it, but may not be able to make
     out the exact iconography.
 
-\(3\) Burning  
-Essence burns and sheds from the Exalts body, much like the burning of a
-fire. The Caste Mark is unmistakable to any close-by.
+-   **(3) Burning**  
+    Essence burns and sheds from the Exalts body, much like the burning
+    of a fire. The Caste Mark is unmistakable to any close-by.
 
 -   **(1) Bonfire  
     **A grand display of solidified Essence wraps around the body,
     shining its personal iconography to all of those in the scene.
 
-Once the first peripheral mote is spent, those looking at the Exalt will
-be able to notice the anima banner—the Difficulty equal to how many
-motes are left in the peripheral pool. Those standing face-to-face or
-directly engaged with the Exalt should have an advantage to notice the
-spiritual flame.
-
-The Anima Flare should dissipate by the start of a new Scene, or at a
-rate of 15 minutes per Step.
+ 
 
 The Great Curse
 ---------------
@@ -437,9 +483,9 @@ character’s well meaning in spite of their better nature.
 Each individual Exaltation book details their Great Curse, but it is
 important to know that these are all *suggestions*. So long as a
 character has a flaw that affects their decision, it is an acceptable
-Great Curse.
-
-For Example:
+Great Curse. Custom descriptions should always include three aspects:
+what the flaw exposes in the character, what triggers the flaw, and what
+the character will (most likely) do when they enter a Limit Break.
 
 -   **Solars** suffer from their own Ego. They are those that tirelessly
     seek greatness and perfection, and may find others or even
@@ -455,92 +501,58 @@ For Example:
     their name and relations; their lost vitality; a loss of emotion and
     feeling.
 
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Fine Tuning Limit Gain</strong></p>
+<p>Each campaign will be different, and certain limit events will occur more or less often in the story you are portraying. Often this can be spotted before the game begins, but not always.</p>
+<p>If you find yourself gaining too much or too little Limit as the sessions happen (the goal is an average of 1 per Session), feel free to fine tune and adjust the scope of the Limit Event.</p></td>
+</tr>
+</tbody>
+</table>
+
 ### Limit
 
 The stress and wear of an Exalt’s life will build and press upon them,
 eventually driving them to a breaking point. This is represented by
-**Limit Points**.
+Limit Points.
 
-Ranging from 0-10, Limit Points represent how strained the Exalt is—how
-much wear and tear their psyche and soul is under.
+A Character gains 1 limit point by either encountering the triggering
+event they have detailed (no more than once per scene), or by activating
+their Excellency.
 
-If the character reaches 10 Limit, or if they fail their Limit Check,
-the character will enter into a Limit Break.
+Limit Points represent how strained the Exalt is—how much wear and tear
+their psyche and soul is under. The character starts at 0, not being
+stressed, and can raise up to 10, a level of duress which they cannot
+stand anymore, at which point they will be forced Limit Break.
 
-### Gaining Limit
+#### Breaking Early
 
-A character gains Limit by either pushing their character with their
-Excellency, or by encountering an event which the Player has written as
-particularly aggravating to their flaw.
+When a character is particularly stressed, such as by being defeated,
+having their goals turned against them, their Intimacies being credibly
+threatened, or any other event the Player deems “anguishing,” they may
+see if the character Limit Breaks early.
 
-&lt;&lt;TODO&gt;&gt;
+Roll a 1d10. If the result is equal to or higher than their current
+Limit, the character keeps it together. While they might be perturbed,
+hurt, otherwise emotionally compromised, they retain full faculty of
+their mind and actions. However, if they roll under their limit, they
+prematurely snap.
 
-Whenever a character gains limit, they also must make a roll as though
-they had encountered their Limit Trigger.
-
-An Intimacy being plausibly threatened is a loose term ultimately up to
-the interpretation of the Player, but there are a few guidelines,
-depending on the type of Intimacy:
-
--   Purposefully acting against it.
-
--   Being tricked, and realizing the harm that has been caused.
-
--   The target being significantly hurt.
-
--   Being forced to question core aspects of the Intimacy.
-
-A character does not gain more than 1 Limit per scene from their
-Intimacies being in danger. Limit gained from Pushing the Roll does not
-count for this restriction.
-
-> A Dragonblooded Monk, through a complicated turn of events, is forced to work alongside Anathema. Being a true believer of the Immaculate Order, they would gain limit:
-
--   > On the choice to work with the Anathema.
-
--   > Whenever their compatriots does something that is “evil.”
-
--   > On finding evidence that the Immaculate Order and the concept of Anathema is not as clear cut as previously believed.
-> 
-> It’s important to note that the Monk would not have to gain limit every single day, but rather on every “event” that happens aggravating their Intimacy.
+The Player, knowing their character better than any at the table, may
+forgo the roll altogether and simply decide their character snaps.
+Remember, this should highlight the character’s flaws, and how it can
+impact and impede the character’s own goals!
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>The Calming Effect of Time</strong></p>
-<p>Limit resets after a Limit Break, which is the main . However, long spans of rest, meditation, and peace may ease the Exalt down from their stressed life.</p>
+<p>Limit resets after a Limit Break, which is the main. However, long spans of rest, meditation, and peace may ease the Exalt down from their stressed life.</p>
 <p>So long as the time breaks are particularly restful, the Exalt may lose 1 Limit per week.</p></td>
 </tr>
 </tbody>
 </table>
-
-### Limit Triggers
-
-When detailing out their Great Curse, the Player will also need to
-decide what sort of events will **inflame** their Great Curse. This is
-called the **Limit Trigger.**
-
-A compassionate character might balk whenever they see a wanton,
-senseless act of cruelty upon another—such as a slave being whipped.
-Another might be the sense of failure and dejection when a plan spirals
-out of control.
-
-A Limit Trigger is deeply tied to a character’s Intimacy being
-threatened—often the character will gain Limit at the same time. But the
-Limit Trigger is a *specified*, written aspect of the character, planned
-before time, and deeply tied to the character—even more-so than their
-normal Intimacies.
-
-If a character has a Defining Intimacy, it is almost certainly an aspect
-of that.
-
-When this event occurs (and the character has at least 2 Limit,) the
-Player must roll a 1d10. If the die roll matches or exceeds their
-current Limit, the Character is able to control their emotions for the
-remainder of the scene.
-
-However, if the roll is **under** the current Limit, the Character
-enters a **Limit Break**.
 
 ### Limit Break
 
@@ -559,212 +571,48 @@ character out of their actions prematurely.
 
 At the end of a Limit Break, reset Limit to 0.
 
+During a Limit Break, the character does not gain any limit—even from
+activating their Excellencies. This effectively grants them free use of
+the Excellency for the entire scene, though it will still raise their
+anima level.
+
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>Ticking Time Bomb</strong></p>
-<p>There will be occasions when a character enters Limit Break, but turning it into a Limit Break Scene just doesn’t fit—it occurred during a lighthearted scene, or when the Exalt is in the middle of nowhere on their own, or the scene was just wrapping up.</p>
+<p>There will be occasions when a character enters Limit Break, but turning it into a Limit Break Scene just doesn’t fit—it occurred during an otherwise lighthearted scene, or when the Exalt is in the middle of nowhere on their own, or the scene was just wrapping up.</p>
 <p>If this occurs, with both the Storyteller and Player in agreement, the Character can postpone the Limit Break to a more appropriate scene—just don’t wait <em>too</em> long.</p></td>
 </tr>
 </tbody>
 </table>
 
-Strifes
--------
+ Storyteller Timelines
+---------------------
 
-The world of Creation will push even the mighty Exalted to the brink,
-and in those moments of desperation, forcing them to delve into reserves
-they did not know they had. This moment is called a **Strife**.
+Rather than count the exact minutes and hours of effects, Exalted relies
+on a more cinematic sense of time.
 
-Players are restricted to keeping no more than **5 Strife Points** at a
-time. If Strife is gained above this limit, it must immediately be spent
-in the Scene or be lost.
+-   **Round**  
+    Enough time for all characters present in the scene to perform at
+    least one set of Actions.
 
-### Using Strife
+-   **Scene**  
+    Long enough to set out and accomplish a single, dedicated task.
+    Combat from start to finish would be a scene, as would characters
+    searching for clues in an old abandoned monastery. This typically
+    spans minutes to hours.
 
-#### Strife Expression
+-   **Session**  
+    A single sitting of when Players begin and end roleplaying, spanning
+    an entire night.
 
-Each Exalt and their Caste, has a unique **Expression** that can boost
-their Dice rolls.
+-   **Story**  
+    Several sessions that form a full narrative arch: from establishing
+    a threat to reaching the resolution.
 
-For example, Solars may double a favored dice, while Sidereals
-manipulate what the Target Number of a roll will be.
-
-Each Exalt’s particular Strife Expression is detailed in their
-respective book.
-
-#### Introduce a Fact
-
-The Player is allowed to introduce a Fact about the setting, detailing
-something that is (and always has been) true in the world of Creation.
-
-This Fact must be internally consistent with what has already been shown
-to be true about the world. As well, the Storyteller has a right to veto
-this introduced Fact (in which the Strife Point is returned), but is
-encouraged to try to make the new Fact work.
-
-The Fact should be related to the Player’s character in some way,
-drawing from their Favored Abilities, Specialties, backstory, or Merits
-in some way. Introducing the Fact that there is ancient order of
-warriors known to be in the general area would make sense for a Player
-whose character is a swordsman, but not one whose character is a
-sorcerer, for example.
-
-#### *Charm-like Effect*
-
-In addition to their Exalt and Caste Strife Expressions, all players may
-use a strife point to create a charm-like effect, which will turn the
-scene in their favor. Inspiration can be drawn from any existing
-non-Greater charm, or it can be custom tailored for the situation.
-
-When using a Strife, the action should simply happen without a roll. So
-long as a character *should* be able to do something, and it is *cool*
-for them to do so, it *does.* In this way, it can be thought of as a
-more powerful Stunt.
-
-The only exception being if it *directly* targets an Exalt-level
-antagonist, in which case a contested roll may be used.
-
-### Strife Limitations
-
-There are a few guiding restrictions to keep in mind with Strifes,
-similar to a Stunt:
-
--   Other character’s actions cannot be dictated: only those under
-    control of the Player’s.
-
--   The Action cannot *directly* solve the scene; it can only assist and
-    guide it.
-
--   The Action should flow naturally from the character—a Solar cannot
-    suddenly shapeshift, for example.
-
-##### Example 1
-
-> The Archer turns from the Dragonblood threatening her and focusing her essence into a point on their arrow. With a sharp hiss of air, she lets it loose into the nearest mountain, watching as the arrow explodes in an impressive show of Anima. The mountain rumbles as the snow dislodges, causing the newly-fallen snow to groan, rumble, and then start cascading into a deadly avalanche which rushes into the passage, sealing it and cutting off the dynasts reinforcements.
-
-“I’m going to use my archery to cause an avalanche”. This example
-accomplishes two dramatic things: it changes the environment, but
-ultimately it is about stopping the Antagonist’s time constraint on
-their battle. It assists the Player and their scene, but does not solve
-the pressing issue—the fight with the Dragonblooded.
-
-##### Example 2
-
-> The Sorcerer looks apprehensive at his map. The desert has become inhospitable to their travels, and the rations for their mortal followers slim—if a solution isn’t found, they will arrive exhausted, or be forced to take a detour through the Guild’s controlled areas. His brown furrows, then suddenly shoots up: “Turn the caravan west, I see a Dragonline I can tap for water!”
-
-“He’s going to use Sorcery to pull up water from the ground.” In this
-situation, the problem being addressed is exhaustion or avoiding a bad
-decision—preventing a negative.
-
-##### Example 3
-
-> The Crafter analyzes the complex door in front of them, which is blocking their way, the code shifting and twisting before their eyes. “I can simply craft a new key to the puzzle. Hold on for a moment.”
-
-“The door is locked? I can just open it with crafting.” Is **bad**
-because the main objective of this scene is to get past the door
-blocking their path. In a different scene where the door was not the
-main obstacle, this *might* be acceptable. Instead, an alteration can be
-suggested:
-
->  The Crafter analyzes the shifting patterns of the door, then with a swift kick, lodges one of the panels shut, stopping the patterns from constantly moving. “There, that should be easier to read now.”
-
-“The puzzle glyphs are moving? I’m going to jam them down so it lowers
-the difficulty.”
-
-### Gaining Strife
-
-Strife may be gained through two ways: **Botches** and **Scene
-Complications**.
-
-[<u>Botches</u>](botching) are Player-driven choices to drive their
-character’s failure into a *magnificent* failure—a low so that they may
-later rise to even greater heights.
-
-#### Complications
-
-A **Complication** is a tool for the Storyteller to inject danger,
-twists, and story momentum into the Story—*without Player Characters
-being able to meaningfully react.* (The Characters will almost certainly
-react, but the outcome is a forgone conclusion.)
-
-In other words, while Players can spend Strife to Turn the Scene in
-their *favor*, Storytellers can give Strife to Turn the Scene *against*
-the Players—not simply describe challenges or consequences of actions.
-
-The Storyteller gifts a Strife Point to all Players who are affected by
-this event—and this single Strife Point guarantees the *outcome* of the
-event in the Scene, no matter how many attempts are made.
-
-**Examples:**
-
--   An Antagonist group escapes after their defeat in a fight, slipping
-    the bonds or escaping pursuit.
-
--   The Caves the Party is in start rumbling, warning of an imminent
-    collapse in but two short Rounds.
-
--   A source of information shoots down interrogation techniques,
-    refusing to divulge important details.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Rejecting Strife</p>
-<p>Players, by accepting the Strife, are giving up their ability to change the course of the event.</p>
-<p>They have the option of refusing to take the Strife Point, defying the Storyteller’s influence. (This must be an all-or-nothing decision between all Players receiving the Strife—all must reject, or else all must accept.)</p>
-<p>If this happens, the Storyteller must let the Player Characters challenge the event in a fair manner.</p>
-<p>The Storyteller should also take care not to <em>abuse</em> the Complication mechanic to the point where it becomes frustrating—if they find that Players are constantly rejecting Strife, or grumbling and accepting, make sure to talk with the Players to see if the direction of the game is what everyone agrees with.</p></td>
-</tr>
-</tbody>
-</table>
-
-The main source of Strife is gained by players choosing to **Botch**
-their rolls.
-
-Another source is being gifted a point by the Storyteller in exchange
-for letting certain events unfold as described—in spite of Player
-actions. For example, after a combat scene with a recurring antagonist,
-the Storyteller would grant a Strife point to allow the antagonist to
-escape without a (successful) pursuit, so they can lick their wounds and
-try again.
-
-Elsewhere and Equipment
------------------------
-
-The mechanisms of reality are flawed. Items, particularly those not paid
-attention to, have a tendency to reappear and move to alternate
-locations. Mortals will often attribute this forgetfulness, or not
-recognize the incongruity at all, when in reality it is the tireless
-motions of the Loom taking shortcuts.
-
-Exalts, long ago, learned how to quietly and easily exploit this—simply
-though sleight of hand, they can store their physical items in places
-and not feel the weight nor brunt of the equipment. It is not unusual
-for an Exalt to suddenly pull out a large daiklaive from little more
-than a handbag’s opening.
-
-Depositing or retrieving equipment from Elsewhere takes an entire
-Action.
-
-Sidereals have labeled this flaw as “Elsewhere,” since the items are
-neither *here* nor *there*, but simply somewhere…else. Certainly it is
-something that needs to be fixed. Eventually. Preferably by someone
-else.
-
-Elsewhere is not all-powerful. The Exalt must reasonably be able to
-carry the items in the first place, and it must not be something that
-has a particularly close and important tie to reality. For example:
-living creatures cannot be kept in Elsewhere, as their mind and soul has
-far too great of self-awareness to be forgotten by reality.
-
-As well, while time does not affect items *inside* of Elsewhere, the
-moment it is pulled out reality will quickly reassert itself. Food would
-rot within seconds, and we iron rust within a blink of an eye.
-
-Items stored in Elsewhere of a dead Exalt will eventually reassert
-themselves into reality—often by finding themselves in nearby containers
-that may not have existed until needed for this precise purpose.
+-   **Chronicle**  
+    A complete game, encompassing all the stories relevant to a set of
+    characters.
 
 Magnitudes
 ----------
@@ -1045,3 +893,40 @@ Those magnitude definitions are as follows:
 </tr>
 </tbody>
 </table>
+
+Elsewhere and Equipment
+-----------------------
+
+The mechanisms of reality are flawed. Items, particularly those not paid
+attention to, have a tendency to reappear and move to alternate
+locations. Mortals will often attribute this forgetfulness, or not
+recognize the incongruity at all, when in reality it is the tireless
+motions of the Loom taking shortcuts.
+
+Exalts, long ago, learned how to quietly and easily exploit this—simply
+though sleight of hand, they can store their physical items in places
+and not feel the weight nor brunt of the equipment. It is not unusual
+for an Exalt to suddenly pull out a large daiklaive from little more
+than a handbag’s opening.
+
+Depositing or retrieving equipment from Elsewhere takes an entire
+Action.
+
+Sidereals have labeled this flaw as “Elsewhere,” since the items are
+neither *here* nor *there*, but simply somewhere…else. Certainly it is
+something that needs to be fixed. Eventually. Preferably by someone
+else.
+
+Elsewhere is not all-powerful. The Exalt must reasonably be able to
+carry the items in the first place, and it must not be something that
+has a particularly close and important tie to reality. For example:
+living creatures cannot be kept in Elsewhere, as their mind and soul has
+far too great of self-awareness to be forgotten by reality.
+
+As well, while time does not affect items *inside* of Elsewhere, the
+moment it is pulled out reality will quickly reassert itself. Food would
+rot within seconds, and we iron rust within a blink of an eye.
+
+Items stored in Elsewhere of a dead Exalt will eventually reassert
+themselves into reality—often by finding themselves in nearby containers
+that may not have existed until needed for this precise purpose.

@@ -67,7 +67,7 @@ flooring—potentially shattering it.
 
 ### 
 
-<div class="greater_charm">Greater Techniques</div>
+##########  Greater Techniques
 
 ### Falling Rockslide Onslaught
 

@@ -23,7 +23,7 @@ Crafting Your Character
 1.  Choose a name for your character. Often on the moment of Exaltation,
     the character takes a new name or title befitting their past deeds.
 
-2.  Choose your **Exaltation** and associated **Caste.** noting down any
+2.  Choose your **Exaltation** and associated **Caste,** noting down any
     special abilities granted.  
       
     Your Exaltation will influence everything about your character, from
@@ -33,7 +33,7 @@ Crafting Your Character
     simple sentences that describes your relation or devotions to
     certain ideals, people, or places. They should be aspects that are
     fundamental to your character—what shapes and drives them to do what
-    they do.  
+    they do. Intimacies are used to resist certain Social Influence.  
       
     Your Intimacies should answer the questions:
 
@@ -68,12 +68,12 @@ Crafting Your Character
 
     Describing a Great Curse should answer these questions:  
       
-    **What is the flaw?  
+    **How is the character flawed?  
     **How does the Curse describe your character? Are they overly
     compassionate, taking on the worlds ills onto themselves at their
     own detriment? Are they a braggart, who cannot help but show off?  
       
-    **What aggravates it?  
+    **What aggravates the flaw?  
     **What is something that you can encounter in the world that will
     cause the Great Curse to rear its ugly head? Is it the sight of
     those in power mistreating those that they are supposed to
@@ -90,21 +90,51 @@ Crafting Your Character
     they shut themselves off from the world? Do they take action,
     ignoring any potential consequences
 
-6.  Distribute **26** dots into [Attributes](/System/Attributes/#attributes). Each must be
+6.  Distribute 1**6** dots into [Attributes](/System/Attributes_and_Abilities/#attributes). Each must be
     at least 1, and no more than 5.  
-      
-    *Suggested Method:*  
-    Set all Attributes to 1.  
-    Assign each category (Pysical, Social, Mental) to be your
-    character’s Primary, Secondary, or Tertiary set. Then add:
+    *Suggested:  
+    \[4,3,3,3,2,1\]*
 
-    -   **9 Dots** to Primary.
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p><strong>Experience Costs</strong></p>
+</blockquote></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Attribute</td>
+<td>6</td>
+<td><strong>Powers</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Ability (Standard)</td>
+<td>3</td>
+<td>Lesser</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>Ability (Favored)</td>
+<td>2</td>
+<td>Greater<br />
+<em>(Requires Essence 3)</em></td>
+<td>6</td>
+</tr>
+<tr class="odd">
+<td>Extra Specialty</td>
+<td>3</td>
+<td>Capstone<br />
+<em>(Requires Essence 5)</em></td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
 
-    -   **5 Dots** to Secondary.
-
-    -   **3 Dots** to Tertiary.
-
-7.  [**Abilities**](/System/Abilities/#abilities)
+1.  [**Abilities**](/System/Attributes_and_Abilities/#abilities)
 
     -   Mark the Favored Ability granted from your Exaltation/Caste, and
         record Supernatural Abilities granted you have access to.
@@ -120,25 +150,27 @@ Crafting Your Character
         character. None can be higher than 3 at character creation.  
         *Suggested:* \[3,2,2,1,1\]
 
-    -   Choose a [***<u>Specialty</u>***](/System/Abilities/#specialties) for each Trained
-        Ability with at least 1 dot. Specializations are focused
-        applications of an Ability, such as “Close Combat: Swords” or
-        “Lore: Realm History”. If a character must work outside their
-        specialty—in this case “Close Combat: Unarmed”, they suffer a -2
-        dice penalty to their roll.  
+    -   Choose a Specialty for each Trained Ability that has at least 1
+        dot. Specializations are focused applications of an Ability,
+        such as “Close Combat: Swords” or “Lore: Realm History”. If a
+        character must work outside their specialty, they suffer a -2
+        dice penalty to their ability (minimum 0.)  
           
         Example specialties are listed with each Trained ability, but
         you may come up with any description you prefer, so long as it
         is not too broad as to be practically all-encompassing.
 
-8.  Gain **3 Favored Lesser Powers.**  
+2.  Gain **3 Lesser Powers.**  
     You may take Powers from the list of Universal Charms, your Exalt’s
     Charms, Martial Arts Techniques, Spells from Sorcery, and/or
     Evocations from an Artifact.  
+      
     Greater Powers require Essence 3, and Capstone Powers require
     Essence 5.
 
-9.  Detail out the [Armor and Weapons](/System/Combat/#armor-and-weapons) your
+3.  Spend **15 xp** as desired, keeping whatever remains unspent.
+
+4.  Detail out the [Armor and Weapons](/System/Combat/#armor-and-weapons) your
     character uses. Any other mundane equipment the character has need
     not be written down—so long as it is a reasonable thing for your
     character to carry, it may be used.
@@ -354,77 +386,6 @@ Crafting Your Character
 </tbody>
 </table>
 
-1.  Lastly, spend **15 xp** as desired, keeping whatever remains
-    unspent.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><strong>Experience Costs</strong></p>
-</blockquote></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Standard</strong></td>
-<td><strong>Favored</strong></td>
-</tr>
-<tr class="odd">
-<td>Ability Rating</td>
-<td>3</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>Lesser Power</td>
-<td>6</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>Greater Power<br />
-<em>(Requires Essence 3)</em></td>
-<td>8</td>
-<td>7</td>
-</tr>
-<tr class="even">
-<td>Capstone Power<br />
-<em>(Requires Essence 5)</em></td>
-<td>10</td>
-<td>9</td>
-</tr>
-<tr class="odd">
-<td>Attribute Rating</td>
-<td>6</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Extra Specialty</td>
-<td>3</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr class="odd">
-<td><ol start="12" type="1">
-<li><p><strong>XP Generation</strong></p></li>
-</ol>
-<p>If you prefer pure xp generation, character creation is worth 246xp, 44Res. (Completely blank, everything starting at 0) with the following minimums:</p>
-<ul>
-<li><p>Attributes: 156 xp</p></li>
-<li><p>Favored Abilities: 36xp</p></li>
-<li><p>Non-Favored Abilities: 27xp</p></li>
-<li><p>Favored Lesser Powers: 12xp</p></li>
-<li><p>2x Facts: 20 Res.</p></li>
-<li><p>2x Languages: 4 Res.</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
  Finishing Touches
 -----------------
 
@@ -445,8 +406,8 @@ will be completed automatically.
     your mighty charms and spells. You start with your mote pools
     completely filled. There are two values:
 
-    -   **Personal Motes**: Set to 12.  
-        *(Essence)x2 + 10*  
+    -   **Personal Motes**: Set to 7.  
+        *(Essence)x2 + 5*  
         The first mote pool to be drawn from, but only replenishes
         Daily.
 
@@ -464,66 +425,69 @@ will be completed automatically.
 </tbody>
 </table>
 
-1.  **Guile  
-    ***(Composure + Subterfuge)/2  
-    *Used to conceal your intentions, motivations, and Intimacies from
-    other in social situations.
-
-2.  **Resolve  
-    ***(Willpower + Integrity)/2  
-    *Used to defend against anything that would sway your mind and
-    actions, from deceptively sweet words to mind-altering Spells.
-
-3.  **Health**  
-    5 + *(Essence)x3 + (Stamina)x2 + (Physique)*  
+1.  **Health**  
+    *7 + (Essence)x3 + (Endurance)*  
     In a combat scene, represents how long you may remain in the fight
     before collapsing from fatigue.
 
-4.  **Evasion**  
-    *(Dexterity + Athletics)/2* *+ (Armor Modifier)*  
-    Allows you to dodge and avoid incoming attacks. Often the best
-    defense is to not be hit in the first place. Does nothing against
-    certain attacks, such as room-filling explosions.
-
-5.  **Soak**  
-    *(Stamina + Physique)/2* *+ (Armor Modifier)*  
-    Being hit is inevitable, and the best defense is to mitigate,
-    deflect, or otherwise absorb the damage. Does nothing against
-    certain attacks, such as piercing attacks.
-
-6.  **Defense Value (DV)**  
-    *Greater of Evasion or Soak*  
-    For many cases, either Evasion or Soak works well enough, and so
-    calls for the generic value of DV.
-
-7.  **Accuracy**  
+2.  **Accuracy**  
     *(Weapon Att. + Weapon Ability)/2 + (Weapon Acc)*  
     The Attribute and Ability you use to calculate accuracy is dependent
     on your weapon. For example, a Heavy Maul will require Strength and
     Close Combat, while a Light Bow would require Dexterity and Ranged
     Combat. See [Weapons](/System/Combat/#armor-and-weapons).
 
-8.  **Base Damage  
+3.  **Base Damage  
     ***(Weapon Damage) + (Essence)*  
     With every attack, there is a minimum, or base amount of damage that
     is dealt, as determined by the weapon you used in the attack and
     your essence level.
 
+The following are Static Values: Attribute + Ability defense
+combinations that are commonly used.
+
+1.  **Guile  
+    ***(Insight + Socialize or Subterfuge)/2*  
+    A measure of a character’s social Defense, their ability to conceal
+    their own intentions, motivations and methodologies.
+
+2.  **Resolve  
+    ***(Wits + Integrity)/2  
+    *Used to defend against anything that would sway your mind and
+    actions, from deceptively sweet words to mind-altering Spells.
+
+3.  **Evasion**  
+    *(Essence + Athletics)/2* *+ (Armor Modifier)*  
+    Allows you to dodge and avoid incoming attacks. Often the best
+    defense is to not be hit in the first place. Does nothing against
+    certain attacks, such as room-filling explosions.
+
+4.  **Soak**  
+    *(Essence + Physique)/2* *+ (Armor Modifier)*  
+    Being hit is inevitable, and the best defense is to mitigate,
+    deflect, or otherwise absorb the damage. Does nothing against
+    certain attacks, such as piercing attacks.
+
+5.  **Defense Value (DV)**  
+    *Greater of Evasion or Soak*  
+    For many cases, either Evasion or Soak works well enough, and so
+    calls for the generic value of DV.
+
 Advancement
 -----------
 
 Essence increases automatically depending on how much **total** xp has
-been gained.
+been gained, (+25xp) for each level.
 
-|             |                |
-|-------------|----------------|
-| **Essence** | **Experience** |
-| 1           | 0              |
-| 2           | 25             |
-| 3           | 50             |
-| 4           | 75             |
-| 5           | 100            |
-| 6 (+)       | 150 (+50)      |
+|             |              |
+|-------------|--------------|
+| **Essence** | **Total XP** |
+| 1           | 0            |
+| 2           | 25           |
+| 3           | 50           |
+| 4           | 75           |
+| 5           | 100          |
+| 6 (+)       | 0            |
 
 Each Essence Rank provides:
 
@@ -543,14 +507,18 @@ RES**, in addition to any Extra XP or RES they may have earned.
 <table>
 <tbody>
 <tr class="odd">
-<td><ol start="22" type="1">
-<li><p><strong>Essence 6+</strong></p></li>
-</ol>
+<td><p><strong>Essence 6+</strong></p>
 <p>Once an Exalt reaches Essence 6, they start to transcend mortal boundaries. They may push their Attributes and Abilities past rating 5, up to their current Essence Level.</p>
 <p>Each Essence Level past 6 requires 50 xp.</p></td>
 </tr>
 </tbody>
 </table>
+
+Starting Experienced
+--------------------
+
+&lt;&lt;TODO. Just writeup what levels you expect people to be at. Stop
+procrastinating this, it’s not hard. &gt;&gt;
 
 ### Extra XP
 
@@ -566,9 +534,9 @@ bring that about. Examples include:
 -   A character falling to their Great Curse, which changes the course
     of the story in a non-insignificant manner.
 
-1.  
+### 
 
-### Gaining Resources
+###  Gaining Resources
 
 Resources should be sought out and rewarded, based on the Player’s
 actions in the story—it represents riches to favors to manpower
@@ -667,3 +635,23 @@ example, by having access to the wealth and income of an entire City
 </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>The Uniqueness of Player Characters</p>
+<p>Player Characters are unusual in just how quickly they progress, and are not bound by their Exaltations limits. This is <em>unusual</em> and not representative of the world at large.</p>
+<p>For example, it often takes decades or even a millennia to reach Essence 5, a marker that may be reached within a year for your Player Characters.</p>
+<p>As well, non-Player Characters are far more restricted by their Exaltation: the vast majority of Dragonbloods are at Essence 2 or lower, for example.</p>
+<p>This is ignored for the sake of fun, and making sure each Player at the table are at the same level.</p>
+<p>If you truly wish to exaggerate the difference between Exaltations for Player Characters (this is not recommended for new Players), use the following:</p>
+<ul>
+<li><p>Dragonbloods, and Liminals advance at +25xp until Essence 3, +50xp until Essence 5, then +100xp after Essence 5.</p></li>
+<li><p>Most other Exalts start at Essence 2, with an extra 10 xp to spend at character creation. They advance every +25xp until Essence 5, then at +50xp.</p></li>
+<li><p>Solars, Abyssals, and Infernals start at Essence 3, with an extra 15 xp to spend at character creation. They advance every +20xp until Essence 5, then +40xp.</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+### 

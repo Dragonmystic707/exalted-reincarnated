@@ -3,7 +3,7 @@ layout: page
 base_url: System
 title: Spells
 group_order: 2
-order: 13
+order: 12
 prev_url: Sorcery_and_Necromancy
 prev_title: Sorcery and Necromancy
 next_url: Martial_Arts

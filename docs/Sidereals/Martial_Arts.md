@@ -74,7 +74,7 @@ into thin air. However, if they end their action without firm footing,
 their next Round’s Move Action will be consumed by them slowly drifting
 to the ground.
 
-<div class="greater_charm">Greater Techniques</div>
+##########  Greater Techniques
 
 ### Wellspring of Compassion
 
@@ -161,7 +161,7 @@ On an attack that deals at least 1 point of damage, the target
 immediately loses either 5 Peripheral Motes or 2 Impulse (Practitioner’s
 choice).
 
-<div class="greater_charm">Greater Techniques</div>
+##########  Greater Techniques
 
 ### Rain of Unseen Threads
 

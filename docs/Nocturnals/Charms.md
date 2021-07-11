@@ -66,7 +66,7 @@ them to predict an attack and move out of the way.
 
 Reduce damage from an incoming attack by (Essence).
 
-<div class="greater_charm">Greater Charm</div>
+##########  Greater Charm
 
 ### Mind of the Mad Genius
 

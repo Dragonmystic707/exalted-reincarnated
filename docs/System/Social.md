@@ -3,9 +3,9 @@ layout: page
 base_url: System
 title: Social
 group_order: 2
-order: 6
-prev_url: Abilities
-prev_title: Abilities
+order: 5
+prev_url: Attributes_and_Abilities
+prev_title: Attributes and Abilities
 next_url: Encounters
 next_title: Encounters
 ---
@@ -20,7 +20,7 @@ All characters have various ideals, desires, and loved ones. An Intimacy
 is a representation of their core being, who the person is—for better or
 for worse.
 
-An *Intimacy* is a step above a person’s natural likes and dislikes—it
+An *Intimacy* is a step above a person’s natural likes and dislikes: it
 is some aspect that defines them in some way.
 
 Intimacies should be specific and close to your character’s definition
@@ -35,52 +35,52 @@ resistance to any social influence that runs contrary to that Intimacy
 (+2 Resolve).
 
 However, those same Intimacies may be used to pull the character into
-increasingly difficult tasks. (+2 Dice).
+increasingly difficult tasks. (+4 Dice).
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p><strong>Assumed Intimacies</strong></p>
 <p>There are common intimacies to all mortal kinds that don’t need to be explicitly written down, such as the Desire for Safety and Health, and the Fear of Death.</p>
-<p>The list of Intimacies written for a character should only be written down if they are notable in their strength.</p></td>
+<p>The list of Intimacies written for a character should only be written down if they are notable in their strength—or in the absence.</p></td>
 </tr>
 </tbody>
 </table>
+
+### Minor Intimacies
+
+Minor, or *temporary* Intimacies are those present for just a short
+time, often in response to something that has occurred in the
+scene—ranging from something as large as great threat to the city
+appearing, or from something more subtle as Social Influence to incite
+an emotion.
+
+Minor Intimacies are transitory—and not quite as strong as deeply held
+beliefs, conferring (+2 Dice/+1 Resolve). However, their effects can
+still be quite strong on a large scale, and have resulted in societal
+upheaval and market panics.
 
 ### Unacceptable Influence
 
 There are certain actions and requests that a character will refuse to
 do, regardless of how convincing, persuasive, or manipulative an Exalt
-is, **they will not do it.**
-
-Unacceptable Influence protects those actions that the character
-considered antithetical to their very nature, such as betraying loyal
-causes, violating self preservation, or harming those dearly loved.
+is, they will not do it. Unacceptable Influence protects those actions
+that the character considered antithetical to their very nature, such as
+betraying loyal causes, violating self preservation, or harming those
+dearly loved.
 
 Players, as they know their characters much better than the Storyteller,
 reserve the sole right to declare if Influence is *Unacceptable*—though
 they should justify it to the rest of the group.
-
-### Defining Intimacy
-
-Some characters have an Intimacy so central to their character, that it
-is considered their **Defining Intimacy**.
-
-Characters cannot be made to work *against* their Defining Intimacy—it
-is Unacceptable Influence.
-
-However, they are much more susceptible to its influence. Any valid
-attempt to leverage the **Defining Intimacy** will have a bonus to do
-their task. (+4 Dice)
-
-A character may have only **1** Defining Intimacy. Most characters do
-not have a Defining Intimacy at all.
 
 ### Changing Intimacies
 
 At the completion of every **Story,** both the Players and the
 Storyteller should reevaluate their respective characters and readjust
 Intimacies as appropriate to reflect what has happened in the Story.
+
+They may gain, or lose Intimacies as they see fit, though they should
+have at least three and at most five.
 
 <table>
 <tbody>
@@ -96,24 +96,8 @@ Intimacies as appropriate to reflect what has happened in the Story.
 </tbody>
 </table>
 
-Social Actions
---------------
-
-Social actions are dependent on how they are approached. Using an
-inappropriate action for a desired outcome will not work (no roll
-required) or at least have severe penalties applied.
-
-For example, no matter how well you roll, you cannot threaten someone
-into gaining a positive intimacy towards you.
-
-While the **Social Category** Attributes are the majority fit for Social
-Actions, they are not exclusive.
-
-For example, Intimidation may be done with (Strength + Physique), or
-bamboozle with (Wits + Deception). Finding creative interpretations of
-the character’s strengths is perfectly valid!
-
-### Groups
+Groups
+------
 
 Social actions against groups of people, rather than individuals, suffer
 from the lack of intimacy, as well as logistics. Any social action taken
@@ -123,28 +107,43 @@ larger gains +2 to their Resolve and Guile.
 Crowds of magnitude “City” or larger cannot be addressed by a simple
 roll, and instead must be done through an Encounter.
 
+ Social Actions
+--------------
+
+Social actions are dependent on how they are approached. Using an
+inappropriate action for a desired outcome will not work (no roll
+required) or at least have severe penalties applied.
+
+For example, no matter how well you roll, you cannot threaten someone
+into gaining a positive intimacy towards you.
+
 ### Perform Task
 
 **(Roll) vs. Resolve**
 
-The character attempts to get another to perform a task, and are
-categorized into three tiers:
+The character attempts to get another to perform a task on their behalf.
+
+**Note:** Serious and Life-Changing Tasks will often require a full
+Scene to occur before the roll may be performed—you can’t simply walk in
+and change a person’s life! The rolls provided are for use for minor
+characters and unimportant scenes. For more dramatic scenes, see
+[Encounters](/System/Encounters/#encounters).
 
 -   **Inconvenient task**  
     There is at most mild danger, opposition, or time devoted to this
     task. At most the task will take a few hours—maybe a day.
 
--   **Serious Task** **  
-    **(+1 Resolve)  
-    Must leverage an Intimacy to attempt.  
+-   **Serious Task  
+    **(+2 Resolve)  
+    Must leverage a Minor Intimacy to attempt.  
       
     There may be lasting repercussions to performing the task, ranging
     from physical to social. The task may take days to weeks to
     complete.
 
--   **Life-Changing** **Task** **  
-    **(+2 Resolve)  
-    Must leverage a Defining Intimacy to attempt.  
+-   **Life-Changing** **Task  
+    **(+4 Resolve)  
+    Must leverage a Full Intimacy to attempt.  
       
     Their lives may be permanently altered by the task, running even the
     risk of death. Even embarking on the task will have serious
@@ -155,13 +154,10 @@ categorized into three tiers:
 **(Roll) vs. Resolve**
 
 The character leverages an *existing* Intimacy to either suppress a
-different Intimacy, install a New Intimacy, or raise an existing
-Intimacy into a Defining Intimacy.
+different Intimacy to Minor status, or instill a new Minor Intimacy.
 
 Intimacy changes made this way are temporary, eventually fading away
 after a day without reinforcement.
-
-This action cannot decrease a permanent **Defining** **Intimacy**.
 
 #### Emotion
 

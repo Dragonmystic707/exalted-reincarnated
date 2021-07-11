@@ -3,11 +3,11 @@ layout: page
 base_url: System
 title: Martial Arts
 group_order: 2
-order: 14
+order: 13
 prev_url: Spells
 prev_title: Spells
-next_url: Merits
-next_title: Merits
+next_url: Creating_Powers
+next_title: Creating Powers
 ---
 
 Martial Arts
@@ -137,7 +137,7 @@ Wound.
 On Hit, the Stylist disrupts the momentum and motions of their target,
 instantly reducing the target’s Initiative by 2.
 
-<div class="greater_charm">Greater Techniques</div>
+##########  Greater Techniques
 
 ### Countless Coils Evasion
 
@@ -223,7 +223,7 @@ Against a stunned, paralyzed, or otherwise forcefully stationary target,
 the Stylist may make frenzied, brutal strikes, increasing their Base
 Damage by +2.
 
-<div class="greater_charm">Greater Techniques</div>
+##########  Greater Techniques
 
 ### Bone-Shattering Bite
 
@@ -319,7 +319,7 @@ before their opponent can catch up.
 Attacks made with Melee may be done at Short Range, while attacks made
 with Thrown may be done at Close at no penalty.
 
-<div class="greater_charm">Greater Technique</div>
+##########  Greater Technique
 
 ### Blade Dance
 
@@ -403,7 +403,7 @@ fully protected as well.
 The Target gains a resistance to this effect, gaining +2 Evasion against
 the attack to avoid it for the remainder of the scene.
 
-<div class="greater_charm">Greater Techniques</div>
+##########  Greater Techniques
 
 ### Gaze of the Blind God
 

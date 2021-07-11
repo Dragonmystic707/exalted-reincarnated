@@ -4,8 +4,8 @@ base_url: System
 title: Merits
 group_order: 2
 order: 15
-prev_url: Martial_Arts
-prev_title: Martial Arts
+prev_url: Creating_Powers
+prev_title: Creating Powers
 next_url: Antagonists
 next_title: Antagonists
 ---

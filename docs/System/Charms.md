@@ -3,9 +3,7 @@ layout: page
 base_url: System
 title: Charms
 group_order: 2
-order: 11
-prev_url: Powers
-prev_title: Powers
+order: 10
 next_url: Sorcery_and_Necromancy
 next_title: Sorcery and Necromancy
 ---
@@ -88,7 +86,7 @@ the sky.
 Against any Ranged attack, you may define DV as (Dexterity + Archery)/2.
 This may be used to Defend Others at range.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Accuracy Without Distance
 
@@ -146,7 +144,7 @@ In combat, the character can Dash without Impulse cost or DV penalty.
 
 Adds (3) to the Initiative Score.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Feather Foot Style
 
@@ -226,7 +224,7 @@ Round.
 Re-roll an Awareness Roll, taking the preferred result. This cannot be
 performed on the same action multiple times.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Sense-Destroying Method
 
@@ -296,7 +294,7 @@ Attack, knock the target back one range band.
 On a successful Brawl Attack, destabilize their movements and footing
 causing them to be stunned and remove 4 Dice from the next action.
 
-<div class="greater_charm">Greater Charms </div>
+##########  Greater Charms 
 
 Craft
 -----
@@ -379,7 +377,7 @@ and other such information while studying a Crafted object. Often, you
 are able to glance into the very emotions of the original craftsman at
 the moment, seeing it in the handiwork of their creation.
 
-<div class="greater_charm">Greater Charms</div>
+########## Greater Charms
 
 ### Timely Prototype
 
@@ -439,7 +437,7 @@ Calls to pure emotion are easy to spot, and the Exalt has become trained
 to resist them. Against any Influence Intimacy rolls that employ
 emotion, raise the Exalt’s Resolve by +(Essence).
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Righteous Lion Defense
 
@@ -506,7 +504,7 @@ The Exalt may command across large groups with great ease. When
 commanding a Group to Perform a Task, the Exalt may counter the bonus
 Resolve gained from being in a Group.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Fury Inciting Speech
 
@@ -603,7 +601,7 @@ significant connection to the Exalt, such as an Ally or a Ward.
 Whenever the Exalt gains xp, the targeted character will keep pace,
 staying at around ½ of the total xp the Exalt has.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Absence of Thought
 
@@ -685,7 +683,7 @@ example, a Crowd (Scale 3) grants +3.
 
 Those hit by the attack are knocked back a range band.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Perfect Strike
 
@@ -772,7 +770,7 @@ With but the most minute signs, the Exalt may always track their quarry.
 In addition, they gain (3) dice if they have an item of significant link
 to their quarry.
 
-<div class="greater_charm">Greater Charms</div>
+########## Greater Charms
 
 ### Sometimes Horses Fly
 
@@ -847,7 +845,7 @@ After the fact, the Exalt can explain away that a particularly egregious
 action—a fight, explosion, or similar altercation—as an artistic
 performance with a successful Performance roll vs. Guile.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Shining Expression Style
 
@@ -911,7 +909,7 @@ granted +(3) dice to resist any supernatural version.
 As well, they do not suffer ill-effects from mundane drink or other
 mundane recreational substances.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Body-Mending Meditation
 
@@ -989,7 +987,7 @@ Perform a Politics vs. Guile roll. On a success, the Player may perform
 a “Read Intentions” act on the subject to ask a question regarding their
 target’s current *intended* political action.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Foul Air of Argument Technique
 
@@ -1087,7 +1085,7 @@ For a day, the target(s) gain an Intimacy towards the specified product,
 and will attempt to pursue it, potentially leaving their posts or other
 aspects of their life temporarily behind.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Heart-Eclipsing Shroud
 
@@ -1177,7 +1175,7 @@ anything except for systematic checking of each individual.
 Gain +(Essence) automatic successes on any attempts to open a lock,
 knot, gate, or other contraption used to bar people’s way.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Shadow Victor’s Repose
 
@@ -1244,7 +1242,7 @@ may be convinced that the blades used murder are made of a special
 composition, which is a keystone to their case, despite the blades being
 only slightly out of normal make.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Flashing Quill Atemi
 
@@ -1322,7 +1320,7 @@ grant +1 per Size scale.
 The Exalt spreads out a hundred blades, ensuring that at least one will
 hit. They may target Soak instead of DV on their Thrown attack.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Joint-Wounding Attack
 

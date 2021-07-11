@@ -29,7 +29,7 @@ For Earth, so long as you keep contact with the ground, you may feel any
 movement up to (Essence) miles away, though must make an associated
 Awareness roll to resolve and understand the tremor.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Echoes Caught in Stone
 
@@ -84,7 +84,7 @@ diameter, for 3 Rounds.
 To cross this area, characters must make an Althetics check vs. 3, even
 if they do not contact the ground. If they fail, they take 3 damage.
 
-<div class="greater_charm">Greater Charms</div>
+##########  Greater Charms
 
 ### Wound-Denying DragonFaith
 

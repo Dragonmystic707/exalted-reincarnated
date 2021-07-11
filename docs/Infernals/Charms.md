@@ -80,7 +80,7 @@ Intimacy as best they can—if they are one who reveres the Immaculate
 Order, they might rationalize that their new hate for the Order is
 specifically about its high devotion cost in their lives, for example.
 
-<div class="greater_charm">Greater Charms</div>
+########## Greater Charms
 
 ### The Curse of Truth
 

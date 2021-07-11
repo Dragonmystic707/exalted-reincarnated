@@ -96,7 +96,7 @@ The Lunar is able to take the forms of Spirits, Demons, Elementals and
 other such mythical creatures, so long as the target has an Essence
 Rating Equal to or less than the Lunar’s.
 
-<div class="greater_charm">Greater Charms</div>
+########## Greater Charms
 
 ### Gift of the Moon
 

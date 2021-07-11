@@ -3,11 +3,9 @@ layout: page
 base_url: System
 title: Projects
 group_order: 2
-order: 9
+order: 8
 prev_url: Combat
 prev_title: Combat
-next_url: Powers
-next_title: Powers
 ---
 
 Projects

@@ -3,7 +3,7 @@ layout: page
 base_url: System
 title: Sorcery and Necromancy
 group_order: 2
-order: 12
+order: 11
 prev_url: Charms
 prev_title: Charms
 next_url: Spells
@@ -135,8 +135,8 @@ All Spells, once unraveled, have a chance of their discarded magics
 being cast aside in wild effects. A single **Challenge Roll** should be
 performed for the unraveling to see if a side-effect occurs.
 
-Initiation
-----------
+Initiations
+-----------
 
 While all Exalts *can* become Sorcerers, it does not come naturally to
 them. They must first be **Initiated** into the mysteries of the world
@@ -158,6 +158,14 @@ Sorcery requires Essence 5, in almost all cases.
 Each Circle Initiation grants a (N/A) Merit that allows the Sorcerer to
 learn the respective Circle of Spells, along with another effect that
 has been derived from their source of Power.
+
+(Mortals – Initiation (1)--thaumaturgy)
+
+(1<sup>s t</sup>Level – Initiation (3))
+
+(2<sup>nd</sup> – Initiation (4))
+
+(3<sup>rd</sup> – Initiation (5))
 
 ### **I**nitiation Tasks
 

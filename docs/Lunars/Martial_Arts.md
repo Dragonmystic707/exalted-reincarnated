@@ -68,7 +68,7 @@ hear or see them. On success, all who hear them lose 3 Impulse.
 With raging claws, and teeth, the Lunar shreds their target apart,
 dealing (Essence) additional Damage.
 
-<div class="greater_charm">Greater Techniques</div>
+##########  Greater Techniques
 
 ### Halting the Scarlet Flow
 
