@@ -18,9 +18,8 @@ through it will invariably find themselves in armed conflict, weilding
 their great weapons and powers of destruction.
 
 Combat in Exalted focuses on the rythmn of battle, with characters
-constantly testing each other, looking for openings, and strategizing
-through Maneuvers, until they have built up enough Impulse to strike
-with a Decisive Blow.
+constantly testing each other, looking for openings, and strategizing,
+and then delivering decisive strikes to fell their foes.
 
 <table>
 <tbody>
@@ -33,10 +32,10 @@ with a Decisive Blow.
 </tbody>
 </table>
 
-Combat Values
--------------
+Combat Overview
+---------------
 
-### Damage Dice
+### Power
 
 Impulse is a measure of the current *tactical advantage* the character
 has. The higher the value, the greater the control they have over the

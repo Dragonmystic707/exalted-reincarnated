@@ -116,12 +116,6 @@ and how much the difficulty will be. While this is overwhelmingly the
 most common dice setup, there are a few alternate rolls that can be
 called for.
 
-### Assisting
-
-A player may assist another character, granting them +2 dice. The
-receiving character may only accept one Assist per roll. The act of
-Assisting typically consumes the character’s action.
-
 ### Contested Actions
 
 Certain actions are contested between abilities of two or more
@@ -158,11 +152,11 @@ quickly as possible.
 
 ### Recurring Rolls
 
-The Exalted will suffer—and inflict—many sorts of ailments and statuses
+The Exalted will suffer and inflict many sorts of ailments and statuses
 ranging from toxins and diseases to more esoteric effects such as curses
 and mental Influence.
 
-The onset of the status is handled as normal—if resisting a toxin, it
+The onset of the status is handled as normal: if resisting a toxin, it
 would simply be a (Stamina + Physique) roll against the Difficulty of
 the Toxin. On a success, they simply would not be poisoned.
 
@@ -174,6 +168,16 @@ remove the effect. Each attempt must be some different methodology.
 
 Any mundane statuses, even at their worst, will naturally be purged from
 an Exalt if they are given a full day of rest.
+
+### Teamwork
+
+When a Player performs a successful action with the sole intent of
+helping another character, they grant their target character +2 dice.
+Alternatively, the Player may grant Peripheral Motes equal to the number
+of successes rolled to target character.
+
+A target cannot gain more than +2 dice on an action from teamwork,
+though it explicitly stacks with other Advantages, such as Stunting.
 
 Advantages and Disadvantages
 ----------------------------
@@ -262,7 +266,7 @@ to affect the athletics skill of the Exalt.
 </tbody>
 </table>
 
- Excellencies
+Excellencies
 ------------
 
 Exalts aren’t restricted to simply *accepting* the roll that is given to
@@ -294,17 +298,24 @@ happens without a roll—if a character swings from a chandelier in order
 to drop down on top of an enemy, don’t slow that down with an Athletics
 roll.
 
-If a roll is still required, the Storyteller should grant +2 Dice (or +1
-to a Defense) for the action being performed—a reward and encouragement
-to others to engage with the setting and scenery. That said, Stunts
-should be kept short and sweet to keep the momentum of the game moving
-forward.
+The Storyteller should grant the Player a Stunt as a reward and
+encouragement to others to engage with the setting and scenery. That
+said, Stunts should be kept short and sweet to keep the momentum of the
+game moving forward.
 
 Stunts should operate off of the “Rule of Cool,” and may bend the rules
 a bit, both of reality and the game—such as falling great distances to
 land perfectly in a pose.
 
-Strife
+### Spending Stunts
+
+The Player may immediately use their Stunt on their action, gaining
+either +2 dice or +1 defense.
+
+Alternatively, they may choose to store it for later use. However,
+Players may only store one Stunt point at a time.
+
+ Strife
 ------
 
 The world of Creation will push even the mighty Exalted to the brink,
@@ -313,9 +324,12 @@ they did not know they had—and can rarely replicate when needed. This
 moment is called a **Strife**.
 
 Strife is a powerful tool for Player Characters to change the world
-around them. By expending the Strife, the character can either:
+around them.
 
--   Reset any limited-use Power.
+By spending **8 motes** and performing or expending a Stunt, the Player
+may:
+
+-   Reuse any limited-use Power.
 
 -   Use a Lesser or Greater Power they have not purchased. (They do not
     need to meet the prerequisites, save that they must be *able* to
@@ -326,28 +340,6 @@ around them. By expending the Strife, the character can either:
     how they use their powers in a custom-tailored way for the
     situation, though this does require Storyteller approval to make
     sure it doesn’t *directly* solve the problem of the scene.
-
-### Gaining Strife
-
-The Storyteller should award players Strife for roleplay: scenes where
-they go in depth of their characters, encounter drawbacks, suffer
-consequences, or simply “wow” the other Players with their descriptions
-and engagement.
-
-The Storyteller is encouraged to not be stingy with Strife—it should be
-a resource gained and spent multiple times during a Session.
-
-Multiple charges of Strife cannot be saved.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>The Emergency Bribe</p>
-<p>Sometimes things just don’t go your way in the story—the players unexpectedly defeat and capture your recurring villain, stopping him from escaping when he was supposed to monologue and return later.</p>
-<p>In a game as high-powered as Exalted, it happens to the best of us. You should try to play along with it as best as possible, but if you’ve really written yourself into a corner, you can bribe your Players with a Strife to let them go along with your plan. Try to only use this option in an emergency.</p></td>
-</tr>
-</tbody>
-</table>
 
 ### Strife Guidelines
 
@@ -385,18 +377,44 @@ Essence is the fundamental energy that flows through the world, all
 creatures, and mortals—an energy that Exalts are naturally able to wield
 to their advantage. A character’s Essence Rating is a measure of how in
 tune the character is with the flows of energy through and surrounding
-them. Much like an Attribute, it ranges between 1 and 5 for Exalts.
-Mortals have a Rating of 0.
+them.
 
-The Rating of Essence cannot be directly trained. Instead, it only
-increases in rating as the character gains xp.
+Essence expenditure is measured in *Motes,* of which there are two
+types:
 
-### Motes
+### Personal Motes
 
-Essence expenditure is measured in *Motes*. When activating a Power that
-requires motes of Essence the exalt will **first** drain from their
-Personal Mote pool, and once that is exhausted they will drain from
-their Peripheral Mote Pool.
+Characters start with a Personal Mote Pool of 10, expanding it as they
+gain Essence level. Personal Motes are depleted to fuel their Powers and
+actions.
+
+These motes represent the character’s internal, innate power: something
+they always carry with them. They are slower to regenerate than
+Peripheral Motes, but persist scene to scene.
+
+Personal Motes are only regained when the character is performing
+restful activities, such as sleeping, playing games, or otherwise
+participating in relatively stress-free activities.
+
+The entire Personal Mote pool will be regained after a full night of
+rest. If a full uninterrupted night is not possible, the Exalt gains 1
+mote back per uninterrupted hour.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Is it rest if I…</strong></p>
+<p>Typically: No. If an activity has any dual purpose or gains advantage (aside from the passage of time), it is not considered rest.</p>
+<p>A character may play a game to relax, but using a game to strategize a battle plan is not. Talking jovially (or in commiseration) with fellows is relaxing, while trying to convince friends to join in a plan is not.</p>
+<p>That said, the Storyteller should not be overly strict when telling the Players to regain their Mote pool—a night is a night, only count hours when it truly matters.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Peripheral Motes
+
+Peripheral Motes, as opposed to Personal, *are not retained* between
+scene, and so character start at 0.
 
 -   **Personal Motes** are intrinsic to the character. Expenditure of
     these motes are subtle and do not agitate their anima banner. This
@@ -419,16 +437,12 @@ symbols deeply personal to the character.
 
 Whenever they *intentionally* flare their Anima, they may also quickly
 retreat it back into their soul. (Both showing and recalling the anima
-is considered a Reflexive Action.
+is instantaneous.)
 
-However, when a character uses Peripheral Motes, the Anima Banner will
-*uncontrollably* start to spill out, and the Exalt cannot do anything
-but wait for time to pass before they can recall it back into their
-soul.
-
-Once the first Peripheral Mote is spent, those in the scene are *able*
-to notice the character’s anima banner—otherwise only those abilities to
-peer into a person’s soul would be able to do so.
+However, when a character uses **5 motes** or more on an action, the
+Anima Banner will *uncontrollably* start to spill out, and the Exalt
+cannot do anything but wait for time to pass before they can recall it
+back into their soul.
 
 The Difficulty for *general onlookers* in the Scene to notice the Anima
 Banner is equal to how many Peripheral Motes are remaining. However,
@@ -437,30 +451,30 @@ the Exalt, typically do not have to roll to notice the anima Banner once
 it reaches the Glowing stage, or are granted a Moderate (+4) Advantage
 to do so.
 
-The Anima Flare should dissipate by the start of a new Scene, or at a
-rate of 15 minutes per Step.
+The Anima Flare should dissipate by the start of a new Scene, or roughly
+after an hour has passed.
 
 ###  Anima Steps
 
 The anima gradually increases as the peripheral mote pool is depleted,
 but there are specific notable steps along the way:
 
--   **(10) Dim**  
+-   **Dim**  
     This is considered the **default** or **natural** state of the
     anima. It is invisible to all natural senses, but may be seen by
     those that can peek into the Spirit Realm.
 
--   **(5) Glowing  
+-   **Glowing  
     **A thin outline of the anima appears around the character, with the
     respective Caste Mark appearing on their brow. Characters standing
     face to face will most likely notice it, but may not be able to make
     out the exact iconography.
 
--   **(3) Burning**  
+-   **Burning**  
     Essence burns and sheds from the Exalts body, much like the burning
     of a fire. The Caste Mark is unmistakable to any close-by.
 
--   **(1) Bonfire  
+-   **Bonfire  
     **A grand display of solidified Essence wraps around the body,
     shining its personal iconography to all of those in the scene.
 
