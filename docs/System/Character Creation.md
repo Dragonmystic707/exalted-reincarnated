@@ -3,7 +3,7 @@ layout: page
 base_url: System
 title: Character Creation
 group_order: 1
-order: 01
+order: 3
 prev_url: Introduction
 prev_title: Introduction
 next_url: The-Exalted

@@ -3,7 +3,7 @@ layout: page
 base_url: Universal_Charms
 title: Charms
 group_order: 0
-order: 02
+order: 4
 ---
 
 Charms are the natural expression of a character’s essence, a specific
@@ -145,9 +145,7 @@ have?”
 
     These typically cost 3-6 anima.
 
- 
-
-Archery
+ Archery
 -------
 
 ### Arrow Storm Technique
