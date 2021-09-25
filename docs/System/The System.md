@@ -1,0 +1,958 @@
+---
+layout: page
+base_url: System
+title: The System
+group_order: 3
+order: 01
+prev_url: The-Exalted
+prev_title: The Exalted
+next_url: Encounters
+next_title: Encounters
+---
+
+<span class="smallcaps">Part 3</span>
+
+Structure
+---------
+
+The system of Exalted Reincarnated consists of the base Narrative
+System, Character Abilities, and three important subsystems: Encounters,
+Combat, and Projects.
+
+### Narrative System
+
+The **Base Narrative System** covers the base interactions of the game,
+and will most likely span the majority of time spent. It consists of
+Action Rolls, Character Powers, as well as detailing out certain
+specific circumstances that might come up, such as group rolls.
+
+For the most part, the Base Narrative System is intended to provide
+tools to quickly resolve what happens in response to roleplay with a
+simple roll—something to verify that the characters can actually do what
+they say they are doing.
+
+These are all intended to be tools—something you can pick up and put
+down as needed. Do not feel bound to use them if they are not needed.
+
+### Encounters
+
+The **Encounter** subsystem is a framework that the Storyteller can use
+to provide twists, turns, and satisfying motion for dramatic scenes,
+ranging from courtrooms to mental mazes to the intricate dance of social
+maneuvering.
+
+The Encounter subsystem is the lightest of the systems, intended to be
+flexible enough to handle a myriad of possibilities while still
+retaining structure and predictability.
+
+### Combat
+
+While a conflict could be determined by a simple opposed roll, it is
+rarely satisfying to do so. The **Combat** subsystem is provided for
+scenes where violence must be performed in glorious battle.
+
+It is the most mechanically involved of the subsystems, in order to give
+Players the satisfaction of performing shifting tactics and powerful
+maneuvers that only the Exalted are capable of performing—while not
+getting bogged down in endless minutia.
+
+### Projects
+
+Sometimes there are great stretches of times that pass by, that are not
+directly played. Yet the Exalted are constantly busy, creatures of
+action and motion even if there is not a direct outward change.
+
+The **Project** subsystem details how to handle timeskips, background
+tasks, and how the Exalt changes the world around them when the world
+isn’t directly falling apart.
+
+ Core Mechanics
+--------------
+
+### Action Rolls
+
+Whenever an Exalt attempts something that is dangerous, uncertain, or
+momentous, the Player at the table will perform an *Action Roll* to
+check that the action can be performed.
+
+Exalted uses a *dice pool* system, where the Player gathers a number of
+d10’s (ten-sided dice) equal to their character’s relevant Attribute and
+Ability scores. For example, if the character was attempting to scale a
+cliff, they would gather a combination of their *Attribute: Strength
+(4)* and *Ability: Athletics (2)* dice together into their Dice Pool.
+(6, in this case).
+
+Then, with their full Dice Pool, they roll. For each die face that is
+showing the target number: **(7)** or higher, they gain one success on
+the action. If the number of successes is higher than the difficulty of
+the action, the character succeeds.
+
+For example, examine the results of six rolled dice:
+
+**{1, 3, 4, 7, 9, 9}**
+
+This would count as 3 successes, as follows:
+
+**{0, 0, 0, 1, 1, 1}**
+
+If the difficulty of the action was **3** or less, the character would
+succeed on their action. The values of 1, 3, and 4 are not, and do not
+affect the roll in any way.
+
+If a die face shows up as the value **(10)**, the die generates not one
+(1), but *two (2)* successes, allowing for critical successes beyond the
+character’s normal limit.
+
+If the roll had instead been:
+
+**{1, 3, 4, 7, 9, 10}**
+
+This would count as (4) successes:
+
+**{0, 0, 0, 1, 1, 2}**
+
+### When to call for a roll
+
+An Action Roll should only be called for by the Storyteller when the
+result of a character’s action is *uncertain*. Don’t call for a roll if
+a task is either guaranteed to succeed or to fail—one of easiest traps
+to fall into as a Storyteller is to call for a roll expecting it to
+succeed or not, and then scrambling to adapt because the dice did
+something unexpected.
+
+### Retrying Rolls
+
+Once a roll has been decided, a Player cannot simply try the action
+again—it is assumed that the character has already approached the issue
+from multiple different angles before truly failing in the roll. For
+example, their failed barter included multiple tiers of money that they
+were willing to part with.
+
+Only through powers like a Charm, or by a dramatic change of the scene
+is a re-roll allowed—for example, the marketplace erupting in a great
+conflict, convincing the merchant that they need to sell and leave as
+quickly as possible.
+
+### Determining Difficulty
+
+*Before a roll is performed*, the Storyteller should determine the
+**Difficulty** of the roll—the number of successes that the roll must
+match or exceed for the action to be considered a success. Here is a
+guiding scale for choosing difficulties:
+
+-   **Difficulty 1 (Normal)  
+    **This task is challenging to a mere mortal, but an Exalted Hero is
+    more than likely going to pass it: though there is still a
+    reasonable risk of failing. Picking a lock, calming an irate
+    guardsman, or basic first aid would fall under this category.
+
+-   **Difficulty 3 (Typical)**- A mortal will find this to be a
+    difficult or challenging task, but an Exalt will most likely be able
+    to pass it with some effort.
+
+-   **Difficulty 5** **(Difficult)**- Tasks which are daunting fall in
+    this category—climbing a sheer cliff in winds, charming a staunch
+    Dynast with sweet words, or avoiding the bite of a venomous beast.
+
+-   **Difficulty 7 (Challenging)**- Tasks which should be
+    near-impossible for any mortal. Such as noticing things in pitch
+    darkness, or landing on a precise spot hundreds of feet below.
+
+-   **Difficulty 9 (Impossible)**- Tasks a mortal could not possibly do,
+    no matter the circumstances. Running straight up a building, leaping
+    across a chasm unassisted, or keeping a patient alive without a
+    heart for hours at a time with their bare hands.
+
+### What to Roll?
+
+A roll should be called *in response* to Player actions, and as a way to
+*represent* what is happening in the action—this is a role-playing game
+after all!
+
+The Attribute and Ability should be chosen based on what most represents
+the action the Player’s character is described as doing.
+
+For example, if a character was charming a crowd through song, it would
+be *Charisma* and *Performance*.
+
+A character’s Attribute represents the character’s general skills and
+method, whether it is primarily a *Physical, Social,* or *Mental*
+action, and if they are performing the action that action through
+*Force,* or *Finesse*. The six Attributes are:
+
+-   **Strength** (Physical Force)
+
+-   **Dexterity** (Physical Finesse)
+
+-   **Charisma** (Social Force)
+
+-   **Insight** (Social Finesse)
+
+-   **Intelligence** (Mental Force)
+
+-   **Wits** (Mental Finesse)
+
+Abilities are *specific* skills relevant to the situation, such as
+*Lore* for knowledge of history, or *Craft* for the creation of material
+goods. A full description and list of Abilities may be found in the
+[Attributes and Abilities](attributes-and-abilities) chapter.
+
+It is also perfectly acceptable to offer a selection of multiple
+different Abilities that might match the action, with the Player having
+the choice between them.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Failing Forward</strong></p>
+<p>In a high-powered setting such as Exalted, properly handling failure is incredibly important. You, as the Storyteller, are there to make sure that the story keeps moving forward, even if the Players are unable to do so.</p>
+<p>It is often helpful to see a failed roll as an opportunity for you to move the plot in a way that the Player characters wouldn’t want, rather than simply not succeeding.</p>
+<p>When a Player Character fails on an action, there are a few general paths that you may choose to employ:</p>
+<p>1. <em>A simple failure</em>—the character don’t do the action, the story continues. Typically you pick this path when the players already know of different paths they may take. Sometimes letting your players step back and reanalyze their approach is a decent option. You should not pick this option if it would bring the momentum of the scene to a crashing halt.</p>
+<p>2. <em>A bargained success—</em>the character manages to squeeze through a victory, but at a great cost. They opened the doors like the wanted, but they alerted everyone to their actions. You, as the Storyteller, are allowed to take a hard action against the player characters when this happens. Remember: you are not there to punish the players, but to set up great adversity and challenges!</p>
+<p>3. <em>“No, but...”</em>—If players have heavily invested in an action, and it just doesn’t work out because of bad luck, don’t give them <em>nothing</em>. Sure, they failed at the task they were intending, but another pathway opens. Maybe they failed to convince the Queen of their plight, but the Prince overheard and wishes to speak to them. Be judicious of choosing this option, as overuse may make your game feel consequence-free.</p></td>
+</tr>
+</tbody>
+</table>
+
+ Advantages and Disadvantages
+----------------------------
+
+The difficulty of an action can be modified by various conditions,
+whether it be environmental, helpful, or antagonistic. These should be
+provided by the Storyteller as deemed appropriate to the narrative.
+
+By default, Advantages and Disadvantages are written in terms of
+**dice** available for the character to roll: (+2/-2 dice). Since this
+is the default, the “dice” moniker is often dropped—if a power ever
+simply says “+2”, it means to dice.
+
+Whenever a Modifier affects a static value, such as Resolve or
+Difficulty, you should **take the average**, rounding up. +1 or +2 dice
+is +1 to Resolve, for example. Some powers will directly reference
+Static Value or Difficulty modifiers, instead of dice.
+
+### Assigning Modifiers
+
+Modifiers can be granted from any source, such as any powers, the
+environment, or even the mental condition of the character taking the
+action.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p><strong>Advantage/Disadvantage</strong></p>
+</blockquote></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p><strong>Dice</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p><strong>Difficulty</strong></p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>Minor</td>
+<td><blockquote>
+<p>±1</p>
+</blockquote></td>
+<td><blockquote>
+<p>±0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Moderate</p>
+</blockquote></td>
+<td>±2</td>
+<td>±1</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Major</p>
+</blockquote></td>
+<td><blockquote>
+<p>±4</p>
+</blockquote></td>
+<td><blockquote>
+<p>±2</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+Any **Modifier** should be something significant to the scene—something
+that would perturb even an Exalt, and you should not concern yourself
+with keeping track of anything and everything that *could* be a
+modifier. Light rain, while thematic and aesthetic, would not be enough
+to affect the athletics skill of the Exalt.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Natural Modifiers and Difficulty</p>
+<p>Remember that Difficulty has its own inbuilt assumptions—many difficulties are set because they are a particular “base” level of challenge with a specific disadvantage: picking a difficult lock (3) vs. picking a difficult lock while blindfolded in a hurricane (9).</p>
+<p>If a character uses a charm or power to dismiss part of that difficulty—removing all impairments caused by weather— it is the same as granting them an equivalent Advantage!</p></td>
+</tr>
+</tbody>
+</table>
+
+ Stunting
+--------
+
+The setting of Exalted encourages wild, ambitious, and perhaps dangerous
+actions of the characters. When a player describes their character doing
+their action in a fun and creative way, the Storyteller should reward
+them by letting the action proceed! If a character swings from a
+chandelier in order to drop down on top of an enemy, let them do so!
+
+Stunts should operate off of the “Rule of Cool,” and may bend the rules
+a bit, both of reality and the game—such as falling great distances to
+land perfectly in a pose with no damage. Nobody need concern themselves
+with the useless physics of such a maneuver.
+
+If the Stunt is particularly impressive consider rewarding the Player
+with [2 Anima](/System/The Exalted/#anima).
+
+Stunts also do not need to be tied to specific actions. If, as a
+Storyteller, you find a scene or particular interaction to be moving,
+reward the players with Anima.
+
+ Strife
+------
+
+The world of Creation will push even the mighty Exalted to the brink,
+and in those moments of desperation, forcing them to delve into reserves
+they did not know they had—and can rarely replicate when needed. This
+moment is called a **Strife**.
+
+Strife is a powerful tool for Player Characters to change the world
+around them.
+
+By spending **3 Anima** and performing a Stunt, the Player may:
+
+-   Reuse any limited-use Power.
+
+-   Use a Power they have not purchased, but would otherwise qualify
+    for. (i.e. At Essence 1, you may choose any Lesser Charm of your
+    Exalt. At Essence 3, any Lesser or Greater, etc.)
+
+    -   If the Power you choose has a mote cost higher than **3**, you
+        must instead pay the difference in motes.  
+        (e.g. if a chosen charm costs 4 motes, using that charm as a
+        Strife requires 3 anima, 1 mote.)
+
+-   Invent a Charm-like Effect. The Player should feel free to dictate
+    how they use their powers in a custom-tailored way for the
+    situation, though this does require Storyteller approval to make
+    sure it doesn’t *directly* solve the problem of the scene.
+
+### Strife Guidelines
+
+When using a Strife, the action should simply happen without a roll. So
+long as a character *should* be able to do something, and it is *cool*
+for them to do so, it *does.* In this way, it can be thought of as a
+more powerful Stunt.
+
+There are a few guiding restrictions to keep in mind with Strifes, which
+should
+
+-   Other character’s actions cannot be dictated: only those under
+    control of the Player’s.
+
+-   The Action cannot *directly* solve the scene; it can only assist and
+    guide it.
+
+-   The Action should flow naturally from the character—a Solar cannot
+    suddenly shapeshift, for example.
+
+**Example**
+
+######### The Archer turns from the Dragonblood threatening her and focusing her essence into a point on their arrow. With a sharp hiss of air, she lets it loose into the nearest mountain, watching as the arrow explodes in an impressive show of Anima. The mountain rumbles as the snow dislodges, causing the newly-fallen snow to groan, rumble, and then start cascading into a deadly avalanche which rushes into the passage, sealing it and cutting off the dynasts reinforcements.
+
+“I’m going to use my archery to cause an avalanche”. it changes the
+environment, stopping any reinforcements—removing the time limit on the
+challenge, but not destroying their enemy. It assists the Player and
+their scene greatly, but does not solve it.
+
+Special Actions 
+---------------
+
+Most rolls are simple: the Player dictates what they are intending to
+do, and the Storyteller tells them which (Attribute + Ability) to roll
+and how much the difficulty will be.
+
+However, there are a few specific situations that have special rules:
+
+### Teamwork
+
+Whenever a character uses their action to assist another, they may grant
+a Moderate Advantage to another (+2 dice/+1 Difficulty) without the need
+to roll.
+
+If two people teamwork the same target, they may bump it up to a Major
+Advantage (+4 dice/+2 Diff.), but no more than that is allowed.
+
+### Contested Actions
+
+Certain actions are contested between abilities of two or more
+characters, rather than a simple difficulty.
+
+In this case, all characters simply roll their appropriate Dice Pool,
+and compare who got the highest number of Successes.
+
+#### Taking the Average
+
+To speed things along, the Storyteller is encouraged to take the
+*average* number, rounded down, of the NPC’s dice pool. If they have 4-5
+dice, simply state that they get got 2 successes and move on.
+
+The exception to this guidance are important characters, such as rivals
+or foes of great challenge.
+
+######### There are two characters in the scene: a guard and a thief. The guard is keeping watch, and the thief is attempting to sneak past them. The dice pool for the player-controlled thief would be Dexterity + Stealth.
+
+######### Since this is a NPC, and there are no dice-affecting powers active, the storyteller simply takes the average: (Wits + Awareness)/2, which turns out to be 3. Should the thief match or surpass that difficulty, they successfully sneak past.
+
+### Group Rolls
+
+If a *group* of people must all succeed on the *same* action—such as
+sneaking—those character who exceed the difficulty may donate any extra
+successes to their less fortunate group mates at a rate of *2 successes
+given* per *1 successes received.* This is a special form of automatic
+Teamwork.
+
+So, if a group trying to succeed at a difficulty 3 check rolls 7, 3, and
+1, the Player that rolled 7 would be able to give up their 4 extra
+successes to give the last Player 2 successes.
+
+###  Recall Fact
+
+You have two options when determining Facts about the world:
+
+1.  Ask the Storyteller a question.
+
+<!-- -->
+
+1.  Introduce a fact that your character “knows” about the world. This
+    must not contradict the established setting in your game. (The
+    Storyteller may veto a fact.)
+
+Once you have stated your goal, the Storyteller determines the
+difficulty of remembering that fact, which you roll against as normal.
+If successful, the Storyteller must answer the question truthfully, or
+note the introduced fact as part of reality.
+
+Typically, this roll is (Intelligence + Lore), but it need not be. You
+may use any Ability to know things related to that ability—such as using
+*Archery* to recall facts of a famous archer. Lore simply is the Ability
+that has no restrictions on use.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>The Non-Omniscient Scholar</strong></p>
+<p>You are able to recall <em>facts</em>, not <em>truths</em>. “I want to know if Solars are actually Anathema” is not an appropriate use for Lore, but “Have Solars always been depicted as Anathema?” would be.</p>
+<p>As well, facts known by a character are going to be <em>highly biased</em> depending on their backstory. As a Storyteller, don’t be afraid to give out advantages/disadvantages! A Dynastic monk will have <em>very different</em> sources of information than, say a Sidereal.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Read Intentions/Intimacy
+
+Reading Intentions is a **Reflexive** Action.
+
+When a character desires to understand another, they may attempt to read
+the Intentions based on their actions, though this must be in *response*
+to their target’s actions—you can’t simply read intentions of a
+character who is doing nothing!
+
+On a successful roll against a difficulty set by the Storyteller, as
+dictated by the target’s social grace, the Player may ask a question to
+the Storyteller about the target and the *character’s action*, ranging
+from: “Who are they,” “What are they here (in the scene) for?” “Where
+are they going?” “Do they intend me harm?”
+
+The Storyteller is obligated to respond *truthfully* to the chosen
+question, though it may be cryptic.
+
+All Players may attempt the roll, but only the highest-roll gets to ask
+the question.
+
+###  Influence Intimacy
+
+You may grant or *suppress* Intimacies in targets. Intimacy changes made
+this way are temporary, fading away after a couple of hours without
+reinforcement.
+
+#### Emotion
+
+Instead of a particular Intimacy, the character may choose to suppress
+or inflame an *emotion*. This may have unpredictable effects. This may
+be useful when targeting a disparate crowd, or if specific intimacies
+are not known.
+
+Emotions are always treated as a Moderate Modifier, and so only gain
++/-1 Resolve, compared to a full Intimacy.
+
+### Perform Task
+
+The character attempts to get another to perform a task on their behalf.
+
+**Note:** Serious and Life-Changing Tasks will often require a full
+Scene to occur before the roll may be performed—you can’t simply walk in
+and change a person’s life! The rolls provided are for use for minor
+characters and unimportant scenes. For more dramatic scenes, see
+[Encounters](/System/The System/#encounters). (If the final roll involves a “Perform Task”
+ask, the resolve bonus is not applied—the act of performing the
+encounter wears down the Resolve over the course of the scene.
+
+-   **Inconvenient task**  
+    There is at most mild danger, opposition, or time devoted to this
+    task. At most the task will take a few hours—maybe a day.
+
+-   **Serious Task  
+    ***(+2 Resolve) Must Leverage an Emotion or Intimacy to attempt.*
+
+    There may be lasting repercussions to performing the task, ranging
+    from physical to social. The task may take days to weeks to
+    complete.
+
+-   **Life-Changing** **Task  
+    ***(+4 Resolve) Must leverage an Intimacy to attempt.*
+
+    Their lives may be permanently altered by the task, running even the
+    risk of death. Even embarking on the task will have serious
+    consequences.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Players on the Defensive</p>
+<p>The Player Characters are the main characters of the story, not NPCs.</p>
+<p>When on the defensive from Social Actions, the Player still controls how the character acts in response to the roll, not the Storyteller. This is especially relevant for the “Perform Task” Action—the Player is free to interpret how and when they perform this task—they may be convinced that they need to help another character, but it will not override their free-will to do so.</p></td>
+</tr>
+</tbody>
+</table>
+
+**<span class="smallcaps">Social Interactions</span>**
+------------------------------------------------------
+
+Social actions are dependent on how they are approached. Using an
+inappropriate action for a desired outcome will not work (no roll
+required) or at least have severe penalties applied.
+
+For example, no matter how well you roll, you cannot threaten someone
+into gaining a positive intimacy towards you.
+
+### Intimacies
+
+All characters have various ideals, desires, and loved ones. An Intimacy
+is a representation of their core being, who the person is—for better or
+for worse.
+
+An *Intimacy* is a step above a person’s natural likes and dislikes: it
+is some aspect that defines them in some way.
+
+Intimacies should be specific and close to your character’s definition
+and goals:
+
+-   “Hatred of the Realm’s Slavery Trade”
+
+-   “Trust that inner enlightenment will bring about external good”
+
+Intimacies are both a boon and a bane to characters—they have a
+resistance to any social influence that runs contrary to that Intimacy.
+However, those same Intimacies may be used to pull the character into
+increasingly difficult tasks.
+
+Whenever a character is confronted with something that *tugs* at their
+intimacy—such as a convincing argument that the proposed action will
+help them protect their family, they take a (-2) Resolve. However, if it
+runs *counter* to their Intimacy, such as their deep-held believe to not
+harm others, they gain (+2) Resolve.
+
+Multiple Intimacies can be in play at the same time.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Assumed Intimacies</strong></p>
+<p>There are common intimacies to all mortal kinds that don’t need to be explicitly written down, such as the Desire for Safety and Health, and the Fear of Death.</p>
+<p>The list of Intimacies written for a character should only be written down if they are notable in their strength—or in the absence.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Temporary Intimacies
+
+Minor, or *temporary* Intimacies are those present for just a short
+time, often in response to something that has occurred in the
+scene—ranging from something as large as great threat to the city
+appearing, or from something more subtle as Social Influence to incite
+an emotion.
+
+Minor Intimacies are transitory—and not quite as strong as deeply held
+beliefs, conferring (+/-1 Resolve). However, their effects can still be
+quite strong on a large scale, and have resulted in societal upheaval
+and market panics.
+
+### Unacceptable Influence
+
+There are certain actions and requests that a character will refuse to
+do, regardless of how convincing, persuasive, or manipulative an Exalt
+is, they will not do it. Unacceptable Influence protects those actions
+that the character considered antithetical to their very nature, such as
+betraying loyal causes, violating self preservation, or harming those
+dearly loved.
+
+Players, as they know their characters much better than the Storyteller,
+reserve the sole right to declare if Influence is *Unacceptable*—though
+they should justify it to the rest of the group.
+
+### Changing Intimacies
+
+At the completion of every **Story,** both the Players and the
+Storyteller should reevaluate their respective characters and readjust
+Intimacies as appropriate to reflect what has happened in the Story.
+
+They may gain, or lose Intimacies as they see fit, though they should
+have at least three and at most five.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Respect Your Group</strong></p>
+<p>Throughout history people have committed horrific acts against each other—acts which still continue to this day. You may desire to show it as a proper challenge to overcome, to the levels that a character will sink to—even so called heroes. That said:</p>
+<p><strong>No Person should ever feel uncomfortable at the table.<br />
+</strong></p>
+<p>At the end of the day, this is a game that you and your friends are playing in modern times. Showcasing horrors of the past and the casual atrocities people have done to each other is a decision <em>you</em> are making right now.</p>
+<p>Any Player (including the Storyteller) should be allowed to raise their concerns about scenes, direction of story, or other such aspects of the game, and their concern should be respected without question. Move the theme aside and don’t bring it up again.</p>
+<p>A good tool to <em>minimize</em> these concerns is to have a “Session 0”, where all Players discuss what themes they expect out of a game, and what to avoid. However, this should not be seen as a substitute for listening to your Players at the moment. Often, they will not know what bothered them until it comes up.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Groups
+
+Social actions against groups of people, rather than individuals, suffer
+from the lack of intimacy, as well as logistics. Any social action taken
+against multiple characters with a magnitude of “Crowd” (50 people) or
+larger gains +2 to their Resolve.
+
+Crowds of magnitude “City” or larger cannot be addressed by a simple
+roll, and instead must be done through an Encounter.
+
+ Storyteller Timelines
+---------------------
+
+Rather than count the exact minutes and hours of effects, Exalted relies
+on a more cinematic sense of time.
+
+-   **Round**  
+    Enough time for all characters present in the scene to perform at
+    least one set of Actions.
+
+-   **Scene**  
+    Long enough to set out and accomplish a single, dedicated task.
+    Combat from start to finish would be a scene, as would characters
+    searching for clues in an old abandoned monastery. This typically
+    spans minutes to hours.
+
+-   **Session**  
+    A single sitting of when Players begin and end roleplaying, spanning
+    an entire night.
+
+-   **Story**  
+    Several sessions that form a full narrative arch: from establishing
+    a threat to reaching the resolution.
+
+-   **Chronicle**  
+    A complete game, encompassing all the stories relevant to a set of
+    characters.
+
+Magnitudes
+----------
+
+*Exalted* is styled in more of a cinematic, broad-sweeping style game
+rather than a precise simulation war-game. Instead of detailing out
+every person, time frame, or area, it will instead deal with measures of
+*magnitude.*
+
+Some Powers will declare an increase (or decrease) in a *magnitude*.
+Those magnitude definitions are as follows:
+
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p><strong>Group Magnitudes</strong></p>
+</blockquote></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Scale</td>
+<td>Minimum Population</td>
+<td>Common Name</td>
+<td>Military Designations</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>Individual</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>10</p>
+</blockquote></td>
+<td><blockquote>
+<p>Party/Group</p>
+</blockquote></td>
+<td><blockquote>
+<p>Squad</p>
+</blockquote></td>
+<td><blockquote>
+<p>Fang</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>50</p>
+</blockquote></td>
+<td><blockquote>
+<p>Crowd</p>
+</blockquote></td>
+<td><blockquote>
+<p>Troop</p>
+</blockquote></td>
+<td><blockquote>
+<p>Scale</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>100</p>
+</blockquote></td>
+<td><blockquote>
+<p>Hamlet</p>
+</blockquote></td>
+<td><blockquote>
+<p>Company</p>
+</blockquote></td>
+<td><blockquote>
+<p>Talon</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>500</p>
+</blockquote></td>
+<td><blockquote>
+<p>Village</p>
+</blockquote></td>
+<td><blockquote>
+<p>Battalion</p>
+</blockquote></td>
+<td><blockquote>
+<p>Wing</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>1,000</p>
+</blockquote></td>
+<td><blockquote>
+<p>Town</p>
+</blockquote></td>
+<td><blockquote>
+<p>Regiment</p>
+</blockquote></td>
+<td><blockquote>
+<p>Dragon</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>6</p>
+</blockquote></td>
+<td><blockquote>
+<p>10,000</p>
+</blockquote></td>
+<td><blockquote>
+<p>City</p>
+</blockquote></td>
+<td><blockquote>
+<p>Army</p>
+</blockquote></td>
+<td><blockquote>
+<p>Legion</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>7</p>
+</blockquote></td>
+<td><blockquote>
+<p>100,000</p>
+</blockquote></td>
+<td><blockquote>
+<p>Prefecture</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+<td><blockquote>
+<p>1,000,000</p>
+</blockquote></td>
+<td><blockquote>
+<p>Province</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
+<td><blockquote>
+<p>-</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Time Magnitudes</p>
+</blockquote></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Scale</td>
+<td>Name</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+<td><blockquote>
+<p>Second (Instant)</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>Minute (Moment)</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>Hour</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>Day</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>Week</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>Month</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>6</p>
+</blockquote></td>
+<td><blockquote>
+<p>Season</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>7</p>
+</blockquote></td>
+<td><blockquote>
+<p>Year</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+<td><blockquote>
+<p>Decade</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>9</p>
+</blockquote></td>
+<td><blockquote>
+<p>Century</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+

@@ -2,143 +2,132 @@
 layout: page
 base_url: System
 title: Combat
-group_order: 2
-order: 7
+group_order: 5
+order: 01
 prev_url: Encounters
 prev_title: Encounters
 next_url: Projects
 next_title: Projects
 ---
 
-Combat
-======
-
 The Time of Tumult is one of great conflict, and the Exalted that live
 through it will invariably find themselves in armed conflict, weilding
 their great weapons and powers of destruction.
-
-Combat in Exalted focuses on the rythmn of battle, with characters
-constantly testing each other, looking for openings, and strategizing,
-and then delivering decisive strikes to fell their foes.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Combat, Subtlety, and the Reveal of Exalted Nature</p>
-<p>Combat Scenes allows greater latitude in what a character can do before their Exalted nature is revealed to the world; the chaos and confusion caused by the scene will often cover for the actions of all combatants.</p>
-<p>Generally speaking, only something as extreme as a Burning Anima level, or something overtly magical such as shapeshifting might get people to wonder if the combatants are Exalts.</p>
-<p>Setup your expectation with players before a scene starts: if something is likely to tip their hand, warn them. Don’t unexpectedly punish your players for being awesome.</p></td>
-</tr>
-</tbody>
-</table>
-
-Combat Overview
----------------
-
-### Power
-
-Impulse is a measure of the current *tactical advantage* the character
-has. The higher the value, the greater the control they have over the
-battlefield. Impulse is:
-
--   *Gained* through Maneuvers—actions that turn the battlefield in the
-    character’s favor.
-
--   *Spent* on Decisive Actions—actions that deal great strikes of force
-    upon their enemies.
-
-Being that it is gained and spent exclusively during a combat scene,
-physical tokens (such as coins or poker chips) are suggested to keep
-track of Impulse.
-
-### 
 
 The Combat Round
 ----------------
 
 Combat is split into distinct Rounds, where each character has a chance
-to take one and only one Action, such as Attacking, using a Charm, or a
-Maneuver. Any powers that take up a full action are denoted as
-**Simple** Powers.
+to take one Action, such as Attacking, using a Charm, or any other
+maneuver that they might wish to perform. Any powers that take up a full
+action are denoted as **Simple** Powers.
 
-In addition to their simple Action, characters can Move and perform
-other minor actions. These are called **Free Actions**, and as many Free
-Actions may be performed on their turn at no consequence. The only
-limitation is that each Free Action must be unique—you cannot take *two*
-Move actions, for example, just one. (Without a Power, that is.)
+On their turn, a character is able to perform two actions, though only
+one can be a **Strike** by default. (e.g. a single **Maneuver** and
+**Strike,** or **two Maneuvers**.) The Actions may be performed in any
+order the Player desires.
 
-Free Actions can be taken in an order—before or after the main Action of
-the turn.
+There are some charms or powers that may grant a bonus action. **There
+is a hard limit of 3 total actions per turn**, no combination of Powers
+or effects can exceed that limit. Supplemental Powers that grant a
+maneuver’s *effects* through do not count to that limit. (e.g. If a
+Charm that supplements a successful Strike with *knockback*.)
 
-### Turn Order
-
-Turn order is determined by the Initiative Roll:
-
-**Initiative**: 1d10 + (Initiative)
-
-The characters then proceed from highest to lowest, then restarting the
-round once all characters have gone.
-
-If there is a tie of Initiative between a Player Character and a
-Non-Player Character, the Player gets to choose who goes first. If there
-is a tie between Player Characters, simply flip a coin.
-
-Each combatant starts with a number of Impulse equal to their Initiative
-score.
-
-**Starting Impulse:** (Initiative)
-
-All combatants are assumed to start combat ready: their weapons are
-drawn, they have fallen into their Martial Arts, etc.
+If a character were to have a Charm that grants another Movement action
+and a Charm that allows another Strike action, they would have to choose
+whether or not to take an action such as: “Move, Move, Strike” or
+“Strike, Move, Strike”, but “Move, Strike, Move, Strike” would break the
+action limit.
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>Balancing Large Groups</p>
-<p>Player Characters only get One Action per round. But Non-Player Characters are not beholden to this rule. The Storyteller may choose to let a NPC have up to 3 actions per Round—if they are particularly powerful and dangerous foes.</p>
-<p>The Rule of Thumb is to have antagonists acting no less than 1/3 of the Player actions.</p></td>
+<td><p>Combined Actions</p>
+<p>Often, the actions of a character will be against a single target. While, mechanically, these are two different actions, they do not need to be described as such. For example, if a character performs a Brawl Strike and then Holds a foe, it can easily be described as “I lash forward, grappling them down, hitting them onto the floor.” Each aspect would still require the roll to see if it was successful, but they are handled by the same description.</p>
+<p>If there is a Stunt, apply the benefits to both rolls.</p></td>
 </tr>
 </tbody>
 </table>
 
-### Ambush Round
+### Turn Order
 
-If characters are ambushed—not expecting combat in the least, they must
-suffer through an Ambush Round.
+The Storyteller starts combat by selecting the first side and character
+to act. Often, this will depend on the context leading up to the scene,
+such as one side ambushing the other. However, if it is ever unclear,
+simply perform a relevant Action Roll, with the character that rolls
+highest going first. Any ties should be determined by another roll. (If
+it continues to be a tie, simply flip a coin.)
 
-Ambushed characters:
+If there is a roll, by default it will be (Wits + Awareness) to
+represent a character’s reaction to changing environments. However, it
+*need not be*. Any sort of contested roll can be used—if racing towards
+the battlefield, it would be (Dexterity + Athletics), for example. Or
+perhaps (Insight + Socialize) to realize that a negotiation has turned
+sour.
 
--   Start with **0 Impulse**,
+Once the starting character has been determined, they may take their
+action, and then pass the action to another on their side. This
+continues until all members of a side have performed an action, at which
+point it switches to a character on other side, chosen by the last
+character to go.
 
--   May only act *after* all other characters have acted, regardless of
-    their Turn Order. Once the Ambush Round ends, normal turn order
-    resumes.
-
-Ambushes are premeditated affairs--requiring setup, planning, and
-coordination between the party. Players cannot suddenly go into combat
-if things are not going their way and declare it an Ambush.
-
-To prevent being ambushed, Player Characters get a Reflexive (Wits +
-Awareness) roll against the skill of those setting up the ambush.
-Typically this would be a contested roll against (Wits + Stealth).
+Once all characters on both sides have performed their actions, the
+round starts over with the original starting character.
 
 ### Holding Action
 
 Any character may Hold their Action, or wait to act based on something
-that happens in the battlefield. To do so, the must spend **2 Impulse**
-and describe what it is they are waiting for: they cannot arbitrarily
-wait. When the specified event happens, they get a chance to act
-*before* or *after* the event, at their discretion. Any action may be
-held, be it a Maneuver, Decisive, or even Free Action.
+that happens in the battlefield. To do so, the must describe what it is
+they are waiting for: they cannot *arbitrarily wait.* When the specified
+event happens, they get a chance to act *before* or *after* the event,
+at their discretion.
 
-If the event does not happen in the Round, the character regains their
-spent 2 Impulse, but does not get a chance to act this Round.
+However, if the event does not occur during the round, their action is
+forfeited.
 
-### Change Initiative
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Optional: Alternate Turn Orders</p>
+<p>Everyone has their favorite way determining turn order, and they all have their benefits. Ultimately, while necessary to have one, the exact system of turn orders is not important.</p>
+<p>Here are a few alternates:</p>
+<p>1. <strong>Static</strong>: At the beginning of combat, all characters roll (1d10) and add (Athletics). Each round, characters go from highest number to lowest.</p>
+<p>2. <strong>Alternating Team:</strong> The side with the highest total number of successes among all characters goes first. Each round, the team nominates which character will act for their turn.</p>
+<p>3. <strong>Focus</strong>: There is no turn order, rather the turn jumps from character to character at the Storyteller’s discretion. (This is best used for small groups.)</p></td>
+</tr>
+</tbody>
+</table>
 
-As a Free Action, change your Turn Order. Either spend 1 Impulse per +1
-Initiative gained, or drop down any number for free. This takes effect
-at the start of the next Round.
+Zones
+-----
+
+The battlefield is split into distinct areas—inside the inn, weaving
+through the trees, or across the rooftops. These areas are called
+**Zones**, and characters can freely move inside, interact with, or
+importantly: attack any and all within the same zone. The character is
+constantly moving in the Zone, performing acrobatics, flipping off the
+walls, rushing from point to point—they do not simply hole up in a
+single spot waiting to be hit..
+
+Zones should be split up logically based on the terrain, though if the
+Storyteller may choose to chop up a zone into smaller categories if they
+feel they are too large (i.e. a north and south side of a long path.)
+
+There is no set size for a zone—they can be as large or small as needed.
+
+### Move
+
+Take an action to relocate between Zones. By default, this does not
+require a roll. However, if there are situations such as rough terrain,
+environmental effects, or if another character is restraining or
+otherwise blockading a path, a roll will be called for.
+
+### Attacking between Zones
+
+Ranged weapons, such as bows, have the option to attack cross zone lines
+as though they were in the same zone. However, zone boundaries often are
+marked by some sort of barrier, such as walls, which *would still*
+impede an attack.
 
  Maneuvers
 ---------
@@ -148,51 +137,48 @@ the scene—be it to test the stance of their enemies, analyze the
 battlefield for strategic advantage, or to intimidate your foes through
 physical prowess.
 
+Simple Charms, Powers, and other effects that do not deal damage are
+considered to be a Maneuver.
+
 The Player describes any action that would grant them tactical
-advantage, and then rolls the \[Att + Abi\] dice pool. The Number of
-Successes rolled is then gained as Impulse.
+advantage, and then rolls the appropriate \[Att + Abi\] dice pool if one
+is called for.
 
 Remember, Exalted follows the dynamic and cinematic model—heroes should
 be leaping across narrow banisters, dancing steel in testing feints, and
 channelling their inner might during combat. Nearly any action, if
-described well enough, can grant Impulse.
+described well enough, can grant a bonus to combat.
 
-### Attack Maneuvers
-
-Maneuvers also include a type of Attacks—but ones that are focused more
-on putting your foe on edge, rather than dealing a killing blow. These
-Manuever Attacks that hit (a roll above the DV), would only deal
-superficial harm to the player: a cut on a cheek to dishearten and
-surprise, a blow to the chest to knock back down.
-
-Attack Maneuvers do not deal direct damage to any normal foe on the
-battlefield.
-
-### Attacking Lesser Foes
-
-However, Attack Maneuvers *can* directly harm [Lesser
-Foes](/System/Combat/#lesser-foes). Damage is the number of Successes from the
-Maneuver, minus the DV of the Lesser Foe(s) targetted. The Player still
-receives full Impulse from the Maneuver.
-
--   **Lesser Foe Damage:** (Maneuver Roll) - DV
-
-### Maneuver Effects
-
-By spending **1 Mote**, the
-
-Stunts in a combat Maneuver not only grant +2 dice, they let the Player
-choose an effect their Maneuver has on the battlefield (in addition to
-gaining Impulse.)
-
-These Stunt Maneuvers must make sense in the context of the action, and
-must exceed the difficulty of the action with the roll to take effect.
+The one hard and fast rule of a Maneuver is that it **cannot deal
+damage—**that is a Strike. Knocking back a character through a wall,
+shattering the wall is a Maneuver. Knocking back a character into a
+wall, shattering their bones, is a Strike. (Knocking them back into the
+wall, breaking it *and* shattering their bones would be a Combined
+Manuever Strike, taking 2 Actions).
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>Moteless Maneuver Effects</p>
-<p>There are some Charms that have the same effects as Maneuver Stunts. If a character chooses the same stunt effect as a charm, the effect can be doubled—whether it be in magnitude of the effect, duration, or other methodology.</p></td>
+<td><p>On Hit</p>
+<p>Many combat powers will call for something to happen “on hit”. If not specifically calling out a Strike, this can also include Maneuvers that target the specified Difficulty involving physical contact between the two characters/their weapons. For example, knocking back a character with a kick.(or specified difficulty, such as Block and Evasion).</p>
+<p>If there is no specified Difficulty, use Defense.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Build Power
+
+The Action “Build Power” is considered a Maneuver in combat. Typically
+it will focus on gaining the tactical edge over the scene—studying
+movements of the foes, centering yourself, or making feinting moves.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>What can’t I do?</p>
+<p>Maneuvers are simply normal actions taken in combat, and so follow the same rule: “Does this make sense?” There are few hard limits imposed, rather relying on the judgement of the Storyteller and fellow players for the tone of the setting.</p>
+<p>Can you knock back an enemy on a wave of sound by performing an epic ballad on your essence guitar? (Charismsa + Performance) Whether or not this is something you want in your game is your choice.</p>
+<p>During combat, Physical Attributes and Martial Abilities can do the most, rarely needing an explanation or stunt to justify their actions.</p></td>
 </tr>
 </tbody>
 </table>
@@ -200,460 +186,256 @@ must exceed the difficulty of the action with the roll to take effect.
 <table>
 <tbody>
 <tr class="odd">
-<td><blockquote>
-<p><strong>Example Maneuver Effects (1m)</strong></p>
-</blockquote></td>
+<td><strong>Sample Maneuver Effects</strong></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>Name</p>
-</blockquote></td>
-<td><blockquote>
-<p>Difficulty</p>
-</blockquote></td>
-<td><blockquote>
-<p>Description</p>
-</blockquote></td>
+<td>Name</td>
+<td>Difficulty</td>
+<td>Description</td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>Knockback /</p>
-</blockquote>
-<p>Pull /</p>
-<blockquote>
-<p>Hold</p>
-</blockquote></td>
-<td><blockquote>
-<p>DV</p>
-</blockquote></td>
-<td><blockquote>
-<p>Moves the target one range band, or force the target to stay in their current location.</p>
-</blockquote></td>
+<td><p>Knockback /</p>
+<p>Pull /</p></td>
+<td>Block</td>
+<td>Moves the target up to one Zone.</td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>Keep Pace</p>
-</blockquote></td>
-<td><blockquote>
-<p>Evasion</p>
-</blockquote></td>
-<td><blockquote>
-<p>When the target takes a Move Action <em>away</em> from you, reflexively move one range band toward them. This does not consume a Move Action.</p>
-</blockquote></td>
+<td><p>Hold/</p>
+<p>Grapple/</p>
+<p>Restrain</p></td>
+<td>Evasion</td>
+<td>Note the number of Successes rolled. The target must make a roll against that number as a difficulty, or else be unable to move.<br />
+This lasts until your next action.</td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>Distract /</p>
-<p>Intimidate / Stun</p>
-</blockquote></td>
-<td><blockquote>
-<p>Resolve</p>
-</blockquote></td>
-<td>Instead of gaining Damage dice, the target loses ½ of what you would have gained.</td>
+<td><p>Keep Pace/</p>
+<p>Reactionary Move</p></td>
+<td>Evasion</td>
+<td>When the target takes a Move Action, reflexively move one Zone. This does not cost an action.<br />
+This lasts until your next action.</td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>Stun</p>
-</blockquote></td>
-<td><blockquote>
-<p>Soak</p>
-</blockquote></td>
-<td><blockquote>
-<p>The target loses 2 dice from their next action.</p>
-</blockquote></td>
+<td><p>Distract /</p>
+<p>Intimidate / Stun</p></td>
+<td>Resolve</td>
+<td>You apply a Minor disadvantage on another character. If you exceed their Resolve by +3, this becomes a Moderate Disadvantage.</td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>Smash Scenery</p>
-</blockquote></td>
-<td><blockquote>
-<p>Based on Scenery</p>
-</blockquote></td>
-<td><blockquote>
-<p>Change the scenery, such as by collapsing a pillar.</p>
-</blockquote></td>
+<td>Recover</td>
+<td>(3 / 5)</td>
+<td>Reduce all Disadvantages by (1 / 2) levels. (e.g. for 3, remove Minor Disadvantages and turn Moderate into Minor.)</td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>Seek Cover/</p>
-<p>Destroy Cover</p>
-</blockquote></td>
-<td><blockquote>
-<p>Based on Scenery</p>
-</blockquote></td>
-<td><blockquote>
-<p>Attempt to find Cover, or eliminate Cover of a target.</p>
-</blockquote></td>
+<td>Smash Scenery</td>
+<td>Based on Scenery</td>
+<td>Change the scenery, such as by collapsing a pillar.</td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>Defend Other</p>
-</blockquote></td>
-<td><blockquote>
-<p>(None)</p>
-</blockquote></td>
-<td><blockquote>
-<p>Protect a character within Short Range for a Round. They may use your DV instead of their own</p>
-</blockquote></td>
+<td><p>Seek Cover/</p>
+<p>Destroy Cover</p></td>
+<td>Based on Scenery</td>
+<td>Attempt to find cover, granting yourself Minor/Moderate Defense Advantage.<br />
+You may also destroy other’s cover Advantage.</td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>Disarm</p>
-</blockquote></td>
-<td><blockquote>
-<p>Soak</p>
-</blockquote></td>
-<td><blockquote>
-<p>Knock a weapon out of a hand, which cannot be reclaimed for a Round.</p>
-</blockquote></td>
+<td>Defend Other</td>
+<td>(None)</td>
+<td>Select a character in the same Zone as you. Attacks that target them must exceed your Block or their Defense, whichever is higher. They must remain in the same Zone.</td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>Attack Lesser</p>
-<p>Foe</p>
-</blockquote></td>
-<td><blockquote>
-<p>DV</p>
-</blockquote></td>
-<td><blockquote>
-<p>The Lesser foe loses (Damage Dice gained) – DV health.</p>
-</blockquote></td>
+<td>Disarm</td>
+<td>Block</td>
+<td>Knock a weapon out of a hand, which cannot be reclaimed for a Round.</td>
+</tr>
+<tr class="even">
+<td>Expose/target Weakness</td>
+<td>(3)</td>
+<td><p>The next attack against an opponent is either their Block or Evasion, instead of their Defense.</p>
+<p>You may explicitly choose to gift this to another character to their advantage.</p></td>
 </tr>
 </tbody>
 </table>
 
-As a reminder: Stunts are special, interesting descriptions of a
-character’s action. By their very nature, *Stunt Effects cannot be
-repeated over and over—*they would cease to be a Stunt.
+Strike
+------
 
-The Stunt Effects should be treated as examples, not an exhausted list.
-The one restriction is that a Stunt Effect **cannot deal damage.**
+If you truly wish to kill your opponent, you may do so by striking at
+them with a dangerous attack.
 
-######### *The Night Caste crashes through the window, barrelling into the Ogre, forcing it to stumble back from the blow.*
+First, roll the (Attribute + Ability) roll of the attack adding dice
+from Accuracy bonus gained from your weapon or charms. If the roll
+exceeds the Defense (or targeted value) of the enemy, you successfully
+Strike them.
 
-######### Here, the Player is stunting a \[Dexterity + Athletics\] Maneuver with a Knockback effect. They have 10 dice, (+2 from the stunt), and roll 5 Successes. 
+Without the use of a Power or stunt, Striking is restricted to the
+Physical Attributes (Strength, Dexterity) and the Martial Abilities,
+typically Archery, Brawl, Melee, or Thrown.
 
-######### They immediately gain 5 Impulse for their Maneuver, regardless. Then, (since this is a Knockback), they compare their 5 Successes against the Ogre’s DV (4). The Ogre is knocked back as desired.
+### Damage
+
+**Base Damage**, by default, is the highest of (Strength, Dexterity, or
+Essence Level), as a character can pierce the defenses of their opponent
+through brute force, precision strikes, or sheer force of will if the
+other two do not apply.
+
+The selection of Martial Arts may change or alter what source of damage
+can be used—a light weapon may require Dexterity, or a heavy weapon
+Strength. A more obscure style may wield Charisma as the damaging
+attribute.
+
+However, no matter the source, or restriction, **Essence** remains the
+minimum for Base Damage.
+
+The target’s health lost is the Base Damage, adding any bonus from
+weapons or powers, and then subtracting any defensive bonuses. The
+damage a character *takes* can be reduced all the way to 0—though this
+is still considered a hit.
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>Charms, Stunts and Maneuvers</p>
-<p>There are some Charms that have the same effects as Maneuver Stunts. If a character chooses the same stunt effect as a charm, the effect can be doubled—whether it be in magnitude of the effect, duration, or other methodology.</p></td>
+<td><p>Strike Order Resolution.</p>
+<p>A Strike consists of two parts—the Accuracy roll, and the Damage resolution. Each time, the order favors the defender over the attacker.</p>
+<p>Supplemental Powers that enhance damage <strong>do not</strong> need to be declared until after the Accuracy roll is determined—if the attack misses, <strong>don’t waste motes on a failed attack.</strong></p>
+<p>Use the flow of the table to determine your order, primarily. <em>What is important is fun, not fiddly timing rules.</em> This is just here to resolve disagreements.</p>
+<ol type="1">
+<li><p>Attacker rolls their Accuracy, with all Accuracy-boosting Powers.</p></li>
+</ol>
+<ol start="33" type="1">
+<li><p>Defender responds with their Static Value and any defense-boosting Powers.</p></li>
+<li><p>The <strong>Player(s)</strong> may decide to activate their Excellency—either offensively or Defensively.</p></li>
+<li><p>If the Attack exceeds the final defense value, it hits.</p></li>
+<li><p>The Attacker declares any supplemental Damage boosting Powers.</p></li>
+<li><p>The Defender decalres any supplemental Damage reducing Powers.</p></li>
+<li><p>The final damage is calculated, then Health is removed.</p></li>
+</ol></td>
 </tr>
 </tbody>
 </table>
 
-Decisive Strike
----------------
-
-Once the character has gained enough Impulse, they may expend it in a
-Decisive Strike, aimed at knocking their enemy off the battlefield.
-
-You must have a minimum of 2 Impulse available to perform a Decisive
-Strike, which cannot be spent on Powers or other effects until after the
-Accuracy Roll.
-
-Roll the **Accuracy** dice pool against the target’s DV. If the roll
-fails, the attack misses and you lose 2 Impulse.
-
--   **Accuracy Pool:** (Attribute + Ability + Weapon Mod)
-
--   **Hit:** (Accuracy Roll) &gt;= Target DV.
-
-On a success, take the Impulse on the character to form a Damage Dice
-Pool. The number of successes from this Damage Pool, plus any Base
-Damage the Exalt has, is how much Endurance the target loses.
-
-The character is required to use *all* of their Impulse on a Decisive
-attack
-
--   **Damage Pool:** (Impulse gathered)
-
--   **Damage Dealt:** (Damage Roll) + Base Damage
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Dice Adders and Damage Pool</p>
-<p>Unless a Power or mechanic specifically states otherwise, they do not adjust or change a Damage Pool.</p>
-<p>Drawbacks <em>may explicitly</em> be taken on a Damage Roll.</p></td>
-</tr>
-</tbody>
-</table>
-
-### Flurry Strikes
-
-The Player may target multiple characters with their decisive strike. To
-do so, simply make an Accuracy Roll against the target with the
-*highest* applicable defense.
-
-Once damage has been calculated, it is spread out among all the targets
-at the Player’s discretion. e.g. If 5 damage is rolled, they can decide
-to place 1 on one target and 4 on another.
-
-Positioning
------------
-
-### Range Bands
-
-Characters are constantly in motion during combat, running down
-alleyways and leaping off tree limbs. Rather than rely on absolute
-positioning, Exalted works off of *relative* positioning between
-characters, represented through 4 normal Range Bands. These Range Bands
-are traversed by taking a Move Action.
-
--   **Melee/Close**  
-    Within arm’s reach, and where close combat abilities such as Melee
-    (its namesake) and Brawl reside. Characters within Melee range are
-    currently engaged in battle, and must take the special Move Action
-    called **Disengage** to leave.
-
--   **Short**  
-    Within a few yards of each other--a distance able to be crossed
-    within a quick sprint.
-
--   **Medium**  
-    Far enough that conversations would have to be shouted, and where
-    archers and other ranged combat is naturally limited.
-
--   **Long**  
-    Across an entire field, far enough away that visual, rather than
-    verbal, signals would have to be used.
-
-There is one additional Range Band that does not act normally:
-**Extreme**. It cannot be reached by any normal means and simply
-represents anything “outside of the battlefield.”
-
-Anything in the Extreme Range band cannot be directly interacted with
-during combat without specific Powers. Any reinforcements to the scene
-will spend one Round in the Extreme Range Band before moving into the
-conflict.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Maneuvers and Free Actions</p>
-<p>Free Actions (namely Movement) can be incorporated into a Maneuver. Vaulting across the battlefield to get closer to the target is a perfectly valid Maneuver.</p>
-<p>In these cases the Free Action is <em>combined</em> with the Maneuver, and still follows the same restrictions—namely that another Free Action of the same type cannot be made on the turn.</p></td>
-</tr>
-</tbody>
-</table>
-
-### Attack Ranges
-
-**Close Range** action, such as those made with Melee or Brawl, may only
-be made while in Melee/Close Range.
-
-**Ranged** Decisive Strikes, namely those made with Archery and Thrown,
-may be made against all targets at Short or Medium range.
-
-Ranged Strikes *may* be made against targets within Melee range, but
-suffer (-2) successes to their Accuracy roll—as though the target had
-Partial Cover.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Range and Maneuvers</p>
-<p>By definition, Maneuver and their Stunts are dependent on judgment calls from the Storyteller.</p>
-<p>Range only matters on Maneuvers that have contact between combatants—a character slamming into another is considered a Melee Attack, while dropping a chandelier on another would be considered a Ranged Attack.</p>
-<p>Maneuvers that don’t have contact—such as analyzing the battlefield—don’t care about Range and can be performed regardless of distance. There may be other restrictions though: Intimidating an opponent by hurling insults can only work if the opponent can <em>hear</em> said insults, for example.</p></td>
-</tr>
-</tbody>
-</table>
-
-Movement
---------
-
-The following are all considered to be sub-types of the Move Action:
-Move, Dash, and Disengage. If one is taken during a Round, only that one
-may be taken. (i.e. no Dashing and then Moving in the same Round).
-
-All Move-type actions are Free Actions.
-
-### Move
-
-Move one Range Band closer or further away from a target. You may not
-Move while in Melee Range of an enemy—instead you must take a Disengage
-Action.
-
-### Dash
-
-A Dash cannot be made engaged in Melee Combat. Spend 2 Impulse, and
-suffer -1 DV for a round to cross 2 Range Bands instead of 1.
-
-Dash Movements cannot be taken two Rounds in a row.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Movement and Common Sense</strong></p>
-<p>Movement towards or away from one character may affect the distance between others, and should be changed according to common sense. If a character is in a group and you move towards them, you also move closer to all characters in the group.</p></td>
-</tr>
-</tbody>
-</table>
-
-### Disengage
-
-In order to move away from Melee Range of an enemy combatant, the
-character must Disengage. Spend 2 Impulse to attempt to move back to
-Short Range.
-
-Combatants currently in Melee Range may attempt to halt Disengagement.
-Those that roll (Dex + Athletics) above your Evasion remain in Melee
-Range—immediately joining you in your new position.
-
-If an opponent that was successfully disengaged from tries to close into
-Melee Range on the next round, reflexively move back to Short Range from
-them. (This reflexive action does not count as a Move action.)
-
-Situational Defenses
---------------------
-
-There are two levels of Situational Defenses:
-
--   **Partial –** Provides +2 DV. This represents significant, but not
-    impenetrable protection from attackers. Such as hiding behind
-    pillars, standing in uneven terrain, or being surrounded by gale
-    winds.
-
--   **Full** – Cannot be attacked while the defense is active. They are
-    standing behind a full wall, across a giant chasm, or have become
-    Immaterial.
-
-Full Situational Defenses must be countered before the character can be
-attacked. Some times it may be a simple mundane action, such as bursting
-in the room behind the wall. But often certain charms, stunts or powers
-will be required to counter or decrease the Defense by a level: Full to
-Partial, or Partial to None.
-
-### Cover
-
-Cover is one of the most widely available Situational Defenses, as it
-can be gained simply by ducking into the terrain of the scene.
-
-Cover is considered **Partial** when at least half a character’s body is
-blocked by a material that can withstand weapon blows--such as a
-chest-high wall of broken stone rubble.
-
-Cover is considered **Full** when the character’s entire body is
-blocked, such as behind a wall.
-
-Typically, cover works both ways: a character in Full Defense from
-attacks is also blocked from attacking others for the same reason.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Alternate Rules:<br />
-Battlemaps and Absolute Positioning</p>
-<p>Sometimes a particular battle, or even the Player Group will prefer the tactical feel of minatures on a battlemap. This is perfectly fine, and it is simple enough to convert to Absolute Positioning with the following changes:</p>
-<ul>
-<li><p>A typical battlemap will use hexagonal spaces (hexes), each representing 5 meters.</p></li>
-<li><p>Characters have a <strong>Speed</strong> value: 3 + (Dex+Athletics)/2</p>
-<ul>
-<li><p>A character can Move <strong>Speed</strong> Hexes (Speed x5 meters)</p></li>
-<li><p>Dash is Speed x2 hexes (Speed x10 meters)</p></li>
-</ul></li>
-<li><p>A character <em>may</em> move away from Melee/Close Range without Disengaging, but only at Half Speed.</p></li>
-<li><p>A character that successfully contests a disengage action reflexively moves <em>halfway</em> towards the new location.</p></li>
-<li><p>References to “Range Band” as a generic distance is 5 Hexes (25 meters)</p></li>
-</ul>
-<p>The definition for Specific Range bands are:</p>
-<ul>
-<li><p><strong>Melee/Close:</strong> 0-1 hex (0-5 m.)</p></li>
-<li><p><strong>Short:</strong> 2-5 hex (6-25 m.)</p></li>
-<li><p><strong>Medium:</strong> 6-15 hex (26-75 m.)</p></li>
-<li><p><strong>Long:</strong> 61-30 hex (76-150 m.)</p></li>
-<li><p><strong>Extreme:</strong> 31+ hex (151+ m.)</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-Lesser Foes
------------
-
-Lesser Foes are those that are below the power level of the main players
-on the field.
-
-Instead of attacking or defending, they will do special maneuvers to
-slow down or harass combatants, *or* they will do Maneuvers to grant
-their Greater Foe Ally Impulse.
-
-Lesser Foes tend to group up into packs. “Individual targets” for this
-purpose of Charms, Flurries, etc. refer to the group size magnitude, not
-individuals numbers.
-
-&lt;&lt;TODO&gt;&gt;
-
-Endurance
----------
-
-Endurance is a value measuring how much fight a character has left in
-them. Once a character’s Endurance Pool has been exhausted, either
-through pain, disheartening, or whatever means are employed, the
-character is considered out of the battle.
-
-### Regaining Endurance
-
-A full day of rest—without dangerous interruption—will allow an Exalt to
-regain their Endurance.
-
-However, an Exalt’s life is dangerous, and they may not have the luxury
-of a full day’s rest. In this case, they regain (Essence) Endurance
-every hour since the last combat scene.
-
-### Defeat
+Defeat
+------
 
 Characters who are knocked out of battle are typically not dead—they are
-simply at the mercy of the opposing characters.
+simply at the mercy of the opposing characters. Though, the Storyteller
+should rightfully note the effects of various types of damages used,
+such as slashing or piercing, and indicate that minor characters may
+perish without active action.
 
-Non-recurring antagonistic characters’ fates should be left to the
-players. Depending on the narrative type of damage (slashing, stabbing,
-etc.) these minor characters may perish without aid.
+Characters rarely fight to the death—or even to the point of being
+knocked. Surrender, escape, or other options will become the pressing
+concern of any NPC who gets at or below **5 Health.** They gain an
+Intimacy of “survival” at this point.
 
-#### Player Character Defeat
+Player characters who are defeated gain **1 Limit** from the
+humiliation, regardless of if they are in mortal danger or not.
 
-Any character that falls during battle gains **1 Limit**. Death is only
-at the choice of the Player, but if the entire party falls the
-Storyteller may impose a grand Complication onto their story.
+### <span class="smallcaps">Healing and Recovery</span>
 
-#### Death and Dying
+Health lost in combat is regained much in the same way motes are:
+through rest and relaxation. **15 Points** of Health are regained after
+a full night’s rest, or **2 points** per hour if it is interrupted.
 
-The death of any central characters to the story should be pivotal and
-moving to the story. Player Characters will only die on defeat if it is
-something the Player wishes for their character.
+### Death and Dying
 
 A dramatic moment of death is a perfect send-off and ending for one of
-the members of the Exalted.
+the members of the Exalted. However, not all defeats are a dramatic
+moment—sometime it is not time for a character to depart from the story.
 
-#### Recurring Antagonist Defeat
+The Player is the sole arbiter of the their character’s fate. If it is
+not the time for their character’s story to end, that death becomes
+cheated. Somehow, the defy the monumental odds, crawling days through
+pain and anguish that none other have suffered for help.
 
-If they are intended to be a recurring antagonist, they should always
-manage to get away, though suffering a major blow to their own
-plans—they will often be forced to retreat and lick their wounds.
+But cheating death comes at a cost. The character will be invariably
+changed from their experience. There will be scars of their
+encounter—whether it is physical, mental, or social. The Player should
+work with the Storyteller to come up with a consequence from the
+implausible survival.
 
-If you force a retreat on these Antagonists, you must bribe your players
-each with a [**<u>Strife Point</u>**](strifes) as compensation.
+Suggestions are:
 
-Remember, though, that recurring antagonists can only be used so many
-times—eventually you will have to move to the Final Confrontation, where
-the fate of these antagonists should be placed into the Players’ hands.
+-   A dramatic change in Intimacies—such as the addition of (fear)
+    related to the event.
 
- Armor and Weapons
------------------
+-   A loss of an appropriate merit, such as an Ally who sacrificed
+    themselves to save the character.
 
-All combat equipment in Exalted is divided into four categories Light,
-Medium, Heavy, and of course Unarmed/No Armor.
+-   Physical reminders of the lost battles, such as scars.
+
+-   Recurring nightmares, where the character is forced to relive the
+    moment of their escaped death.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Antagonist Defeat</p>
+<p>There will be times when an antagonist—intended to be recurring—is defeated, or otherwise dramatically halted.</p>
+<p>These Characters, like Player Characters, have the ability to escape certain defeat if it best suits the plot. However, they should <em>also</em> suffer the same consequences for doing so.</p>
+<p>Escaping death should never be cheap, and should not be done too many times. Let your Players have victories.</p></td>
+</tr>
+</tbody>
+</table>
+
+The Environment
+---------------
+
+The Environment itself can be a “character” involved in combat, as a way
+to simulate things ranging from earthquakes to the turning of the night,
+to things such as the advancement of a firestorm raging through a city.
+
+The Environment is generally impervious to any attacks thrown at it (You
+may throw water at a fire to repel its advances, but typically not
+pierce it with arrows), and does not have a mind of its own to
+coordinate.
+
+If an Environmental “attack” is all encompassing in a Zone and
+predictable, such as rumbling earth, a landslide, falling a great
+distance, or a burning flame, there is *no need* to make an Attack roll.
+It is assumed to hit and deal damage.
+
+|                          |     |
+|--------------------------|-----|
+| **Environmental Damage** |     |
+| Light                    | 3   |
+| Medium                   | 5   |
+| Heavy                    | 7   |
+| Oppressive               | 9   |
+
+Minor Characters
+----------------
+
+Minor Characters, especially those that cannot alone damage their foes
+will naturally fall into **Groups**.
+
+Groups act as a single character, but gain the following bonus based on
+their **Group Magnitude:**
+
+-   Add 5 Health for every Magnitude Scale increment.
+
+-   Add 1 Damage, 1 Accuracy, and +1 Dice on an action for every
+    Magnitude Scale increment
+
+Equipment
+---------
 
 ### Armor
 
-The Category of Armor provides modifiers to the Soak or Evasion defenses
-(and ultimately to DV).
+Wearing armor is a tradeoff in Exalted – you gain additional Block or
+Evasion, and thus have a higher total Defense, but at the cost of
+revealing a potential weakness to be exploited later on.
+
+-   **Light** armors are those that have been tailor made to aid in
+    flexible movement—above and beyond what normal clothes will do.
+    Typically, light armors will consisted of padded gloves, tightly
+    wound fabrics, and other cushions to assist in acrobatic movements.
+
+-   **Medium** and **Heavy** armors provide increasing Block protection,
+    but at the cost of more limited mobility. Most traditional armors,
+    such as breastplates, chain shirts, and articulated plate fit into
+    the Medium or Heavy Category
 
 <table>
 <tbody>
@@ -667,7 +449,7 @@ The Category of Armor provides modifiers to the Soak or Evasion defenses
 <tr class="even">
 <td></td>
 <td><blockquote>
-<p><strong>Soak Modifier</strong></p>
+<p><strong>Block Modifier</strong></p>
 </blockquote></td>
 <td><blockquote>
 <p>Evasion Modifier</p>
@@ -714,136 +496,80 @@ The Category of Armor provides modifiers to the Soak or Evasion defenses
 </tbody>
 </table>
 
--   **Light** armors are those that have been tailor made to aid in
-    flexible movement—above and beyond what normal clothes will do.
-    Typically, light armors will consisted of padded gloves, tightly
-    wound fabrics, and other cushions to assist in acrobatic movements.
-
--   **Medium** and **Heavy** armors provide increasing Soak protection,
-    but at the cost of more limited mobility. Most traditional armors,
-    such as breastplates, chain shirts, and articulated plate fit into
-    the Medium or Heavy Category
-
 ### Weapons
 
-The category of **Weapon** provides accuracy and base damage bonuses—the
-heavier the weapon, the more damage it does, but at the cost of
-accuracy.
+Weapons are built using Tags, each with an individual cost in points. No
+individual tag may be applied to a weapon or armor more than once.
 
-Weapons also determine which Attribute is used during an Accuracy
-roll—whether it be focused more on Dexterity or Strength.
+There are some tags with levels (e.g. Accurate (I) and Accurate (II)).
+They are considered the same tag, and so cannot be applied to the same
+weapon.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p>Weapons</p>
-</blockquote></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><blockquote>
-<p>Attribute</p>
-</blockquote></td>
-<td><blockquote>
-<p>Accuracy</p>
-</blockquote></td>
-<td><blockquote>
-<p>Base Damage</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Unarmed</p>
-</blockquote></td>
-<td><blockquote>
-<p>Dexterity or</p>
-<p>Strength</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Light</p>
-</blockquote></td>
-<td><blockquote>
-<p>Dexterity</p>
-</blockquote></td>
-<td><blockquote>
-<p>+2</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Medium</p>
-</blockquote></td>
-<td><blockquote>
-<p>Dexterity or</p>
-<p>Strength</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Heavy</p>
-</blockquote></td>
-<td><blockquote>
-<p>Strength</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>+2</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+#### Mundane *Weapon Tags*
 
--   **Unarmed** and **Medium** weapons can be effectively used by those
-    who favor Dexterity or Strength.
+A standard mundane weapon starts with **3 Points** in order to craft the
+weapon with a set amount of Tags.
 
--   **Light** weapons rely only on fine, precise movements to find their
-    targets, and so rely soley on Dexterity.
+Tags will often have some *requirements* associated with them. A weapon
+cannot have conflicting requirements.
 
--   **Heavy** weapons rely primarily on stable, graceful moves with a
-    pendulous weight. Strength alone controls where the weapon goes.
+|                         |            |                                                                                  |
+|-------------------------|------------|----------------------------------------------------------------------------------|
+| **Mundane Weapon Tags** |            |                                                                                  |
+| **Name**                | **Points** | **Description**                                                                  |
+| Accurate (I/II/III/IV)  | (1/2/3/4)  | Gain +1/2/3/4 bonus to Accuracy.                                                 |
+| Damaging (I/II/III/IV)  | (1/2/3/4)  | Gain +1/2/3/4 to weapon damage.                                                  |
+| Ranged                  | 1          | You may attack across 1 Zone boundary.                                           |
+| Long-Ranged             | 3          | You may attack across 2 Zone boundaries.                                         |
+| Grappling               | 1          | The Accuracy of the weapon is added to any attempts to make a Restrain Maneuver. |
 
-### Weapon Attributes
+#### Special Tags
 
-&lt;&lt;TODO&gt;&gt;
+Special weapons, Powers or Martial Arts will grant specific tags to be
+used when building a weapon. These are not available for purchase
+normally.
 
-Weapons are associated with abilities, and a speciality of them. Swords
-is a speciality of Melee. Weapons can cross specialities and even
-abilities: a claymore can double as a Sword or Club. A Spear as a sword
-or a thrown weapon.
+|                         |            |                                                                                                                                              |
+|-------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| **Special Weapon Tags** |            |                                                                                                                                              |
+| **Name**                | **Points** | **Description**                                                                                                                              |
+| Natural                 | 2          | The weapon cannot be disarmed.                                                                                                               |
+| Unique Ability          | 3          | Use a specific, non-Martial Attribute/Ability Combo with this weapon. (E.g. Charisma + Performance). The damaging attribute is also changed. |
 
-### Artifacts
+Elsewhere
+---------
 
-&lt;&lt;TODO&gt;&gt;
+The mechanisms of reality are flawed. Items, particularly those not paid
+attention to, have a tendency to reappear and move to alternate
+locations. Mortals will often attribute this forgetfulness, or not
+recognize the incongruity at all, when in reality it is the tireless
+motions of the Loom taking shortcuts.
 
-Artifacts combat equipment can get one of the following:
+Exalts, long ago, learned how to quietly and easily exploit this—simply
+though sleight of hand, they can store their physical items in places
+and not feel the weight nor brunt of the equipment. It is not unusual
+for an Exalt to suddenly pull out a large daiklaive from little more
+than a handbag’s opening.
 
--   +1 Soak or Evasion (no more than +2 total)
+Depositing or retrieving equipment from Elsewhere takes an entire
+Action.
 
--   +1 Accuracy
+Sidereals have labeled this flaw as “Elsewhere,” since the items are
+neither *here* nor *there*, but simply somewhere…else. Certainly it is
+something that needs to be fixed. Eventually. Preferably by someone
+else.
 
--   +1 Damage.
+Elsewhere is not all-powerful. The Exalt must reasonably be able to
+carry the items in the first place, and it must not be something that
+has a particularly close and important tie to reality. For example:
+living creatures cannot be kept in Elsewhere, as their mind and soul has
+far too great of self-awareness to be forgotten by reality.
 
--   Use of non-standard Attribute or Ability
+As well, while time does not affect items *inside* of Elsewhere, the
+moment it is pulled out reality will quickly reassert itself. Food would
+rot within seconds, and we iron rust within a blink of an eye.
+
+Items stored in Elsewhere of a dead Exalt will eventually reassert
+themselves into reality—often by finding themselves in nearby containers
+that may not have existed until needed for this precise purpose.
+

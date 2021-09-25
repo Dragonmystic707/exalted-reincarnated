@@ -4,11 +4,6 @@ title: Home
 order: 1
 ---
 
-**Note: I'm halting development of Exalted Reincarnated. I am proud of what it is and what has been developed, but it is an endless amount of work and I wish to regain my free time.**
-
-Hopefully this will be of use to someone!
-
-
 Exalted Reincaranated is a fan-made, top-to-bottom mechanics rewrite of the [**Exalted System**](http://theonyxpath.com/category/worlds/exalted/) by Onyx Path Publishing. 
 While the setting is fascinating, compelling, and contains great thematics, the mechanics supporting the setting are overcomplicated, and ultimately fall short of delivering on its thematics.
 

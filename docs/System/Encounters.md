@@ -2,16 +2,16 @@
 layout: page
 base_url: System
 title: Encounters
-group_order: 2
-order: 6
-prev_url: Social
-prev_title: Social
+group_order: 4
+order: 01
+prev_url: The-System
+prev_title: The System
 next_url: Combat
 next_title: Combat
 ---
 
-Encounters
-==========
+Creating an Encounter
+---------------------
 
 From the intricate dance of ballroom politics, to battlefield war bands,
 to the high-drama of a courtroom, an Exalt’s life will be filled with
@@ -23,20 +23,15 @@ Encounter system is a *framework* intended to help Storytellers craft
 dramatic scenes, and thus should be treated as guidelines rather than
 firm rules.
 
-Goal
-----
+### Goal
 
 You have to first decide what the Goal of the scene *is*. What is it the
 Players ultimately want? Sometimes it may be obvious from the context,
 but many other times you may need to ask them what their ultimate goal
 is. This is the first hurdle in starting an Encounter.
 
-It is fine if the goal *changes* during the course of the Encounter.
-
-On the southern shores of the Inland Sea party decides that they will
-need a full caravan to traverse the Burning Sands. There is a local
-Trade-Prince whom they think they can convince to finance and supply
-them this caravan.
+It is fine if the goal *changes* during the course of the Encounter,
+there just needs to be something there to start with..
 
 <table>
 <tbody>
@@ -47,8 +42,7 @@ them this caravan.
 </tbody>
 </table>
 
-Key Issues
-----------
+### Key Issues
 
 Once a goal has been established, identify and breakdown what stops the
 Players from reaching their goals. (2-3 are suggested, and never more
@@ -65,6 +59,11 @@ distinct, *actions* must be made to overcome the Key Issue. This is an
 abstracted representation not of difficulty (that is determined by
 individual rolls), but of *complexity*.
 
+Visualizing progress is important in an encounter—and it is recommended
+you keep your players in the loop that they are working towards their
+Key Issue! Having a set of tokens to remove, or something as simple as
+check-boxes to fill does wonders!
+
 |                          |             |
 |--------------------------|-------------|
 | **Key Issue Complexity** |             |
@@ -73,20 +72,6 @@ individual rolls), but of *complexity*.
 | Average                  | 3           |
 | Difficult                | 5           |
 | Complex                  | 7           |
-
-Visualizing progress is important in an encounter—and it is recommended
-you keep your players in the loop that they are working towards their
-Key Issue! Having a set of tokens to remove, or something as simple as
-check-boxes to fill does wonders!
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Large Groups</p>
-<p>If you have 5 or more players, increase the required actions of any non-Simple Complexity by +2.</p></td>
-</tr>
-</tbody>
-</table>
 
 ### Generating Key Issues
 
@@ -103,66 +88,21 @@ village, yet your Players instead craft a monument of glory—and that is
 perfectly fine and encouraged! So long as each action has a narrative
 weight, even if unexpected, it should be allowed!
 
-The Storyteller decides there are 3 Key Issues preventing the
-Trade-Prince from funding the caravan:
+|                       |     |
+|-----------------------|-----|
+| **Sample Key Issues** |     |
+| 1                     |     |
+| 2                     |     |
+| 3                     |     |
+| 4                     |     |
+| 5                     |     |
+| 6                     |     |
+| 7                     |     |
+| 8                     |     |
+| 9                     |     |
+| 10                    |     |
 
-1\. Monetary concerns: he needing a return on investment. (Simple).
-Understandably, the Trade-Prince will need to be convinced it is worth
-his while to dedicate so many resources to this goal.
-
-2\. Antagonistic Sycophants (*Average*). The Trade-Prince has surrounded
-himself with sycophants, who deeply despise any perceived change to
-their position. The Party must silence their influence.
-
-3\. Fear of the Immaculate Order Retribution (*Difficult*) (Hidden).
-Through the party’s past actions, the Trade-Prince has secretly caught
-on that they are Anathema. He does not personally care, but he will need
-a way to make sure that the Immaculate Order will not find out about
-this deal—or at least be convinced of this fact.
-
-### Altering/Adding Goals
-
-During the Encounter, the Players may decide they want to alter the
-ultimate goal—perhaps they have decided to push further, or have found
-an alternate goal they prefer.
-
-In both cases, the Storyteller should add an additional Key Issue to
-encapsulate this difference. They may decide to drop a separate existing
-Key Issue if the altered goal no longer applies.
-
- Flow
-----
-
-An Encounter is not like a Combat Scene—the timing is fluid, and actions
-do not follow a set order, depending primarily on the natural flow of
-the narrative.
-
-However, a “Round” is still defined: each character has one and only one
-Full Action (Simple Action + Supplementary) in a round.
-
-The Storyteller should make sure that all Players know they have the
-*option* to act each Round.
-
-Playing Consequences
---------------------
-
-The main tool you have as a Storyteller to interrupt and challenge the
-Player characters is to introduce consequences and *choices* for
-actions; a successful roll means the Player Characters got what they
-wanted, but that doesn’t mean that everything turns out positive. If
-they used Intimidation to cower townsfolk into submission, the townsfolk
-will naturally be terrified and less friendly to the group. (Represented
-as a negative minor intimacy: -2 dice/+1 Resolve)
-
-However, care should be taken with Consequences: they should never feel
-like a *punishment*. Your job is to keep your Players on their toes, not
-to discourage them from taking unique and interesting ways to solve a
-problem. This is a situation where a little bit goes a long way: only
-introduce a mechanically-effecting consequence when it truly matters to
-change the scene.
-
-Introducing Complications
--------------------------
+###  Complications
 
 Complications are anything introduced into the Scene by the Storyteller
 that will distract, inhibit, or otherwise challenge the Player
@@ -189,8 +129,72 @@ necessarily surprise: if you give your Players just enough information
 that there is *something* going to happen, when their Characters do not,
 it is far more satisfying and impactful when it actually does.
 
- Antagonist Goals
-----------------
+|                          |                                                                                                                    |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Sample Complications** |                                                                                                                    |
+| 1                        | There is a mutually exclusive choice the players must make. Should they choose one, the other will become cut off. |
+| 2                        | The Environment is slowly, consistently deteriorating—either literally or metaphorically.                          |
+| 3                        |                                                                                                                    |
+| 4                        |                                                                                                                    |
+| 5                        |                                                                                                                    |
+| 6                        |                                                                                                                    |
+| 7                        |                                                                                                                    |
+| 8                        |                                                                                                                    |
+| 9                        |                                                                                                                    |
+| 10                       |                                                                                                                    |
+
+ Playing an Encounter
+--------------------
+
+### Flow
+
+An Encounter is not like a Combat Scene—the timing is fluid, and actions
+do not follow a set order, depending primarily on the natural flow of
+the narrative.
+
+By default, the concept of “Round” is not necessary in an Encounter—only
+in the manner that each character gets one action per “Round”--i.e. a
+character cannot simply chain actions together without others getting a
+chance to act.
+
+However, if an encounter is *timed*, you may use Turn Order method as
+detailed in Combat.
+
+### Consequences
+
+Consequences are essentially **Complications** that arise in the story
+because of *Player Choices*.
+
+The classic example is that of intimidation: if a Player Character gets
+what they want through terrorizing people into townsfolk, they should
+*get what they want*, but it will carry with it a price. The townsfolk
+will find themselves hostile, cowed, or scared of the Players, and be
+less friendly and forthcoming with information.
+
+Essentially, an Encounter should never remain *static*, and should
+change and update with every character’s action. Think of it like a
+shifting scene with branching paths—sometimes some actions will close
+doors and possibilities, while others will open them up. Make sure your
+Encounter is *dynamic*.
+
+However, care should be taken with Consequences: they should never feel
+like a *punishment*. Your job is to keep your Players on their toes, not
+to discourage them from taking unique and interesting ways to solve a
+problem. This is a situation where a little bit goes a long way: only
+introduce a mechanically-effecting consequence when it truly matters to
+change the scene.
+
+### Altering/Adding Goals
+
+During the Encounter, the Players may decide they want to alter the
+ultimate goal—perhaps they have decided to push further, or have found
+an alternate goal they prefer.
+
+In both cases, the Storyteller should add an additional Key Issue to
+encapsulate this difference. They may decide to drop a separate existing
+Key Issue if the altered goal no longer applies.
+
+### Antagonist Goals
 
 Antagonists are operating on their own goal during the scene, and have
 their own Key Issues that they must Gather Influence upon.
@@ -235,8 +239,7 @@ In order to wrest control over a completed Key Issue, you must take 1
 Average (3) complexity issue, you would have to make a total of (4)
 actions.
 
-Characters on the Defense
--------------------------
+### Characters on the Defense
 
 Convincing important characters, particularly Player Characters, is a
 single Key Issue with a complexity equal to their Resolve + intimacy
@@ -268,8 +271,7 @@ backstory, or Facts when doing so.
 </tbody>
 </table>
 
-Encounter End
--------------
+### Encounter End
 
 The Encounter ends the same Round that all Key Issues become
 *controlled*—though they do not need to be under control all by the same
@@ -304,53 +306,102 @@ successful the characters will be in their endeavor. A failure would
 just represent not being able to push their success further—or at worst,
 a request to do something in return.
 
-**Example Encounter Scenes:  
-&lt;&lt;**Todo, format this nicely&gt;&gt;
+Example Encounters
+------------------
 
-One of the party members went full Iconic anima Banner inside a
-Realm-controlled outpost, and now they must escape.
+### Example 1: The Trade Prince
 
-Goal: Escape.
+On the southern shores of the Inland Sea party decides that they will
+need a full caravan to traverse the Burning Sands. There is a local
+Trade-Prince whom they think they can convince to finance and supply
+them this caravan.
 
-Key Issues: Hunted by the Immaculate Monks. City is winding and full of
-defenses. Need to obscure their tracks to prevent being followed.
+#### Goal
 
-Key Complication: Time will tick down. Every other round, introduce a
-complication into the scene, and after a set number of rounds they will
-have a confrontation with the Wyld hunt.
+Convince the Trade-Prince to fund their expedition.
 
-|                                |     |
-|--------------------------------|-----|
-| **Key Issues Idea Generation** |     |
-| &lt;todo&gt;                   |     |
-|                                |     |
-|                                |     |
-|                                |     |
-|                                |     |
-|                                |     |
-|                                |     |
-|                                |     |
+#### Key Issues
 
-|                                  |     |
-|----------------------------------|-----|
-| **Consequences Idea Generation** |     |
-| &lt;todo&gt;                     |     |
-|                                  |     |
-|                                  |     |
-|                                  |     |
-|                                  |     |
-|                                  |     |
-|                                  |     |
-|                                  |     |
+The Storyteller decides there are 3 Key Issues preventing the
+Trade-Prince from funding the caravan:
 
-|                                   |     |
-|-----------------------------------|-----|
-| **Complications Idea Generation** |     |
-| &lt;todo&gt;                      |     |
-|                                   |     |
-|                                   |     |
-|                                   |     |
-|                                   |     |
-|                                   |     |
-|                                   |     |
-|                                   |     |
+1.  **Monetary concerns  
+    *(Simple—1)***
+
+    Understandably, the Trade-Prince will need to be convinced it is
+    worth his while to dedicate so many resources to this goal.
+
+<!-- -->
+
+1.  **Antagonistic Sycophants  
+    (*Average—3*)**
+
+    The Trade-Prince has surrounded himself with sycophants, who deeply
+    despise any perceived change to their position. The Party must
+    silence their influence.
+
+2.  **Fear of the Immaculate Order Retribution  
+    (*Difficult—5*)** ***(Hidden)***
+
+    Through the party’s past actions, the Trade-Prince has secretly
+    caught on that they are Anathema. He does not personally care, but
+    he will need a way to make sure that the Immaculate Order will not
+    find out about this deal—or at least be convinced of this fact.
+
+#### Complications
+
+Hidden Key Issue. The Storyteller will not immediately indicate that the
+Immaculate Order has a presence in the scene, only dropping hints along
+the way to signal that its influence is here.
+
+###  Example 2: Escape
+
+They were on a simple *reconnaissance* mission: infiltrate the Guild’s
+meeting, and discover their end goal. They didn’t realize that a Slave
+Trader was part of the meeting, nor that their Zenith caste would have
+such a violent reaction upon discovering this fact.
+
+Now, they need to escape before the entire city is called down upon
+them.
+
+#### Goal
+
+Escape from the Guild Hall.
+
+#### Key Issues
+
+1.  **Physically Escape (silently)  
+    (*Average—3)***
+
+    They will need to traverse the complicated and guarded corridors of
+    the guild hall.
+
+<!-- -->
+
+1.  **Remove Presence  
+    *(Difficult—5) (optional)***
+
+    If they are to get their plans back on track, they will need to
+    confuse people who saw them into misremembering what happened, and
+    remove any indications that they were here tonight.
+
+2.  **Calm Rampaging Ally  
+    *(Difficult—5)***
+
+    Their Zenith cast ally is currently limit breaking, seeking to
+    destroy the slaver’s guild and free all of the ‘merchandise’ with
+    their sheer force of will. They need to be either appeased or forced
+    to take their mission in a better way.
+
+#### Complications
+
+This is a timed scene, with actual defined, structured rounds. The
+Storyteller has decided that on Round 3, the guards will alert the guild
+hall.
+
+On Round 5, more guards and innocent bystanders will fill the hall,
+increasing the difficulty of all stealth rolls.
+
+On Round 7, the gates will be closed, presumably forcing a failure of
+the scene.
+
