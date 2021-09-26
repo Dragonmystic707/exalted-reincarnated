@@ -10,79 +10,117 @@ next_url: The System
 next_title: The System
 ---
 
-<span class="smallcaps">Part 2</span>
-
 ### Solars
 
-Play a Solar if you want to be a paragon of mankind.
-&lt;&lt;TODO&gt;&gt;
+The Unconquered Sun chooses his champions from the greatest of humanity
+to be its champions. They are the wisest scholars, the greatest
+generals, and the most esteemed of diplomats. To be a Solar is to be
+creature of extremes—they are the mightiest of heroes, and often the
+most cunning of villains.
+
+Solars turn their powers inwards, enhancing what Abilities they pursue.
+As well, they alone can reach past their natural limitations, using
+high-level Powers sooner than any other Exalt.
 
 ### Dragonblooded
 
-Most Dragonblooded live in the center of the Realm, confident in their
-broken empire and taught that they are the rulers of the world. But
-there are many who live in the Outer Provinces, able to look inwards and
-see the same Pride that they so greatly place on others.
+Lineage is the single most important thing to a Dragonblooded, as the
+blood of the Dragons may flare up and grant Exaltation. Every single
+Dragonblood can trace their heritage back in an unbroken chain towards
+the Elemental Dragons themselves.
+
+As such Dragonblooded form complex societal webs, rife with intrigue,
+politics, and backstabbing—particularly in the world-spanning empire
+that is the Realm. Even the far flung, forgotten branches of their
+family trees will not be safe from such social pressures.
+
+Every Dragonblood gains access to the five elements: Fire, Water, Air,
+Earth, and Wood. As well, as the current masters of the world, they gain
+the ability to naturally lord and command over peoples without
+restraint.
 
 ### Lunars
 
-During the Great Wars of the First Age, the independant and disparate
-groups of the Lunars feared the worst. Many fled, taking their peoples
-and the very land itself with them—some to what is now the Outer
-Provinces, but many to the deep Wylds. Rumors and signs of these lost
-poeple and lands show up from time to time.
+Luna, the Many-Faced Moon chooses their champions from those that cannot
+be bound—not by definitions, not by laws, and *certainly* not by any
+forms of slavery. The Chosen are raw, primal heroes, channeling the raw
+might of nature, the soul, and the chaotic might of the Wyld.
 
-Never a unified people, the Lunars have become even more fractured,
-operating as independant entities. The attempt at unifying them—the
-Silver Pack—is little more than a thin gathering, its power limited to
-barely preventing internal wars between members.
-
-One of the lands stolen was the Caul—a place sacred to both Lunars and
-Dragonbloods. The realm has never forgiven this great treachery, blaming
-all Lunars for it. Thousands of ill-fated expeditions have been sent to
-find it—none of which have returned.
+Lunars gain access to Shapeshifting, Beasts, Spirit, and the Wyld. As
+well, their gain access to a Half Form, which allows them to enhance and
+change their natural attributes as needed.
 
 ### Sidereals
 
-The Seers were the first ones to see the madness of the Exalted before
-it happened. They saw two paths—one where they assassinated the Solars
-before their madness ripped Creation apart, one smaller path where they
-counseled and guided the Exalted. Though the decision was bitter, they
-chose the path of mercy—a decision questioned greatly as the lands of
-Creation nearly fell to Oblivion.
+The Chosen of Fate, overseen by the Maidens of Destiny, come into power
+because they will have always been given that power. To be a Sidereal is
+to accept and understand this circular nature of reality. The Chosen of
+the Stars fight and guide the flow of Fate, Destiny, and the nature of
+reality itself.
 
-The Sidereals suffered greatly when exiled from Heaven, as they were cut
-off from their most powerful tools. Without unification, they have built
-small, isolated conclaves in places of great power, but have become
-isolated from themselves and the rest of the world. In this day and age,
-they guide what portions of the world they can, but often run afowl of
-conflicting visions from other conclaves.
+Sidereals are gifted powers over the aspects of Fate. They may also
+weave in their own goals and visions into the tapestry of reality. In
+addition, they gain access to powerful and strange Martial Arts that
+stretch and bend the nature of reality.
 
-### Abyssals
+### 
 
-Oblivion, during the Great Wars of the First Age, crept in through the
-broken Creation and made its own mockery of an Exalt. These void-touched
-mortals take the form of a darkned Solars, for the Sun casts the
-greatest, clearest shadows. But any similarity between the two ends past
-the surface level. The Abyssals are creatures of the dead, those that
-straddle between unlife and the living. They are both the speakers for
-the long dead, spirits of vengeance in a broken mortal form, or a
-connection to the wisdom of the Ancients.
+###  Abyssals
 
-A contingeant of Abyssals have formed the great Tomb City of Sijan,
-which was instrumental in preventing a great many deaths during a vast
-Contagion that threatened to rage across the lands.
+The force of Oblivion seeps at the hidden edges of Creation, consuming
+and destroying what *is* so that *nothing* may replace it. Those mortal
+unlucky enough to be caught in these forces will find themselves split,
+empty, partially consumed. Within that shell of a broken soul, the power
+of the void can take root and form an Abyssal.
+
+Abyssals are creatures that are neither alive nor dead, trapped in
+between realms. Much like the shadows, they take the form of the
+strongest light source—in this case the Solars—but their substance is
+nothing of them. What an Abyssals chooses to do with their profane and
+destructive power is their choice, be it to become a speaker for the
+dead, spirits of vengeance, or even those that wish to hearken the end.
+
+The powers of the Abyssal revolve around Blood, Flesh, Shadows, and
+Memory.
 
 ### Infernals
 
-Before the First Age, there was a war within heave, where the Gods
-overthrew their cruel masters. These imprisoned titans, called the Yozi,
-rage at the betrayal, and seek to disrupt Creation and Heaven. From
-power and pieces of souls stolen from foolish and greedy Exalts, they
-have created amalgamation Exalted souls of their own, a mockery of the
-God’s Exalted, with whom they have let loose across their Creation.
+Before even the Age of Glory, there was a war among the Gods, who
+overthrew their cruel masters. These creatures chafe at their
+imprisonment and seek to wreak their unfocused and impotent rage upon
+the creations of the Gods.
+
+Infernals are their solution, a force of power given to those that are
+*not worthy* to hold such destructive force—and so will use it casually
+and callously in whatever force this unworthy mortal deems as “right and
+good.”
+
+Their power is an abomination—a thousand pieces of stolen power from the
+other Exalts, taken from the foolish over millennia in exchange for
+pieces of the Yozi’s great, destructive power, and then stitched
+together into a demon that merges with the mortal.
+
+Infernals draw their powers from the nature of their masters themselves,
+devoting to one path or another. As well, their form can be overwhelmed
+with their power, showing the power of their demon in a brief moment of
+unholy power.
 
 ### Alchemicals
+
+The Machine God left careful arcane instructions to his followers, to
+build and create protectors while he slept and healed from his grievous
+wounds. From these byzantine and incomprehensible instructions are born
+the champions of his followers, and protector of his sleeping form.
+
+Alchemicals are mortal souls born into an artificial body—built by
+mortal hands, but gifted the spark of exaltation by the sleeping god.
+They will always have a small community to protect and lead.
+
+The power of the Alchemical is focused on the magical materials:
+Orichalcum, Jade, Moonsilver, Starmetal, and Soulsteel. Their powers are
+modular, allowing swapping of charms and powers as they see fit.
+
+### 
 
 Other Creatures
 

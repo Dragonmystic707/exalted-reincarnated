@@ -10,8 +10,6 @@ next_url: The Exalted
 next_title: The Exalted
 ---
 
-<span class="smallcaps">Part 1</span>
-
 Aspects of the character are measured in **Dot Ratings,** the higher
 number representing greater proficiency. Dot ratings range from 0-5,
 with 0 being untrained, 2 average, and 5 masterful.
@@ -123,41 +121,29 @@ An online character sheet is provided
 <td></td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>Attribute</p>
-</blockquote></td>
+<td>Attribute</td>
 <td>4</td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>Ability</p>
-</blockquote></td>
-<td><blockquote>
-<p>2</p>
-</blockquote></td>
+<td>Ability</td>
+<td>2</td>
 </tr>
 <tr class="even">
 <td><strong>Powers</strong></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>Lesser</p>
-</blockquote></td>
+<td>Lesser</td>
 <td>6</td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>Greater<br />
-(Requires Essence 3)</p>
-</blockquote></td>
+<td>Greater<br />
+(Requires Essence 3)</td>
 <td>8</td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>Capstone<br />
-(Requires Essence 5)</p>
-</blockquote></td>
+<td>Capstone<br />
+(Requires Essence 5)</td>
 <td>10</td>
 </tr>
 </tbody>

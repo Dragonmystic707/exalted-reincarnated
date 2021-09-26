@@ -10,8 +10,6 @@ next_url: Encounters
 next_title: Encounters
 ---
 
-<span class="smallcaps">Part 3</span>
-
 Structure
 ---------
 
@@ -489,8 +487,8 @@ the question.
 ###  Influence Intimacy
 
 You may grant or *suppress* Intimacies in targets. Intimacy changes made
-this way are temporary, fading away after a couple of hours without
-reinforcement.
+this way are temporary. They last at least a Scene, but will fade away
+afterwards at the Storyteller’s discretion.
 
 #### Emotion
 
@@ -626,6 +624,16 @@ Intimacies as appropriate to reflect what has happened in the Story.
 They may gain, or lose Intimacies as they see fit, though they should
 have at least three and at most five.
 
+### Group Resolve
+
+Social actions against groups of people, rather than individuals, suffer
+from the lack of intimacy, as well as logistics. Any social action taken
+against multiple characters with a magnitude of “Crowd” (50 people) or
+larger gains +2 to their Resolve.
+
+Crowds of magnitude “City” or larger cannot be addressed by a simple
+roll, and instead must be done through an Encounter.
+
 <table>
 <tbody>
 <tr class="odd">
@@ -640,17 +648,7 @@ have at least three and at most five.
 </tbody>
 </table>
 
-### Groups
-
-Social actions against groups of people, rather than individuals, suffer
-from the lack of intimacy, as well as logistics. Any social action taken
-against multiple characters with a magnitude of “Crowd” (50 people) or
-larger gains +2 to their Resolve.
-
-Crowds of magnitude “City” or larger cannot be addressed by a simple
-roll, and instead must be done through an Encounter.
-
- Storyteller Timelines
+Storyteller Timelines
 ---------------------
 
 Rather than count the exact minutes and hours of effects, Exalted relies
