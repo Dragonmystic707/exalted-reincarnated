@@ -296,7 +296,7 @@ during discussions.
 Dawn Charms
 -----------
 
-Lesser
+<div class="power_category">Lesser</div>
 
 ### Armored Scout’s Invigoration
 
@@ -391,7 +391,7 @@ Make an (Essence + Integrity) roll. All enemies in the Zone with an
 Essence lower than the result suffers (Essence) damage. Creatures of
 Darkness hit by the Solar Spike suffer an extra (+2) damage.
 
-Greater
+<div class="power_category">Greater</div>
 
 ### Accuracy Without Distance
 
@@ -470,7 +470,7 @@ else become overwhelmed by the raw emotions.
 Dawn Caste Solars can impose fear and intimidation even to emotionless
 beings, and Zenith can cause awe and grief.
 
-Capstone
+<div class="power_category">Capstone</div>
 
 ### Searing Sunfire Interdiction
 
@@ -489,7 +489,7 @@ Damage. (Essence) per Round.
 Zenith Charms
 -------------
 
-Lesser
+<div class="power_category">Lesser</div>
 
 ### Certainty of Form
 
@@ -590,7 +590,7 @@ may choose to rescind their blessing, or perform a 10 Res. Project to
 make this effect permanent, either of which would allow them to bless a
 new target.
 
-Greater
+<div class="power_category">Greater</div>
 
 ### Accord of the Unbreakable Spirit
 
@@ -710,12 +710,12 @@ You may now perform Projects to grant the Rank 4
 [Endowment](/System/The Exalted/#supernatural-merits) Merit to those with significant ties
 to the character, granting them access to Universal Charms.
 
-Capstone
+<div class="power_category">Capstone</div>
 
 Twilight Charms
 ---------------
 
-Lesser
+<div class="power_category">Lesser</div>
 
 ### Chaos-Resistance Preparation
 
@@ -811,7 +811,7 @@ patterns, to migration patterns. Following the same rules as “Read
 Intentions,” the Player asks a specific question that the Storyteller
 must answer truthfully.
 
-Greater
+<div class="power_category">Greater</div>
 
 ### Inspection of Flaw
 
@@ -903,12 +903,12 @@ in the Wyld without suffering any Opposition Modifiers from the land.
 Creating Manses and other places of Power from the Wyld becomes a valid
 Project.
 
-Capstone
+<div class="power_category">Capstone</div>
 
 Night Charms
 ------------
 
-Lesser
+<div class="power_category">Lesser</div>
 
 ### Burning Corona
 
@@ -1019,7 +1019,7 @@ next Action.
 Multiple targets may be chosen at the same time, but doing so causes a
 Moderate Disadvantage.
 
-Greater
+<div class="power_category">Greater</div>
 
 ### A Will is a Way
 
@@ -1119,12 +1119,12 @@ For the remainder of the scene, the target’s location will be known to
 the Solar, no matter their distance nor intervening environmental
 factors.
 
-Capstone
+<div class="power_category">Capstone</div>
 
 Eclipse Charms
 --------------
 
-Lesser
+<div class="power_category">Lesser</div>
 
 ### Deft Official’s Way
 
@@ -1224,7 +1224,7 @@ and epicenter, but no more than that.
 
 The choice of selected targets may be altered between Stories.
 
-Greater
+<div class="power_category">Greater</div>
 
 ### Heart-Eclipsing Shroud
 
@@ -1347,4 +1347,4 @@ The Storyteller should surmise many of the attitudes and postures of the
 characters in the room, but allow the Player to ask a question of one or
 two important characters.
 
-Capstone
+<div class="power_category">Capstone</div>

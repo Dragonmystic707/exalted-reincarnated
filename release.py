@@ -146,8 +146,8 @@ def create_split(file_name, file_num, data_arr):
     data = re.sub(link_str, replace_link, data)
     
     # Find and replace the categories list
-    src_str = r"^\s*("+power_categories+".*)$"
-    repl_str = r"""<div class="power_category">\1</div>"""
+    src_str = r"\n(Lesser|Greater|Capstone)\n"
+    repl_str = r"""\n<div class="power_category">\1</div>\n"""
     data = re.sub(src_str, repl_str, data)
 
     # # Replace any Header 9 (Examples) with the "indent" figure
