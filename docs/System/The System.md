@@ -2,9 +2,9 @@
 layout: page
 base_url: System
 title: The System
-group_order: 3
 order: 3
-prev_url: The-Exalted
+group_order: 3
+prev_url: The Exalted
 prev_title: The Exalted
 next_url: Encounters
 next_title: Encounters
@@ -140,7 +140,7 @@ quickly as possible.
 match or exceed for the action to be considered a success. Here is a
 guiding scale for choosing difficulties:
 
--   **Difficulty 1 (Normal)  
+-   **Difficulty 1 (Easy)  
     **This task is challenging to a mere mortal, but an Exalted Hero is
     more than likely going to pass it: though there is still a
     reasonable risk of failing. Picking a lock, calming an irate
@@ -162,6 +162,8 @@ guiding scale for choosing difficulties:
     no matter the circumstances. Running straight up a building, leaping
     across a chasm unassisted, or keeping a patient alive without a
     heart for hours at a time with their bare hands.
+
+**Difficulty 3** should be the default roll.
 
 ### What to Roll?
 

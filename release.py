@@ -126,13 +126,13 @@ def create_split(file_name, file_num, data_arr):
             "layout: page", 
             "base_url: " + file_name,
             "title: " + title_name,
-            "group_order: " + str(index),
-            "order: " + str(int(file_num) + start_index)]
+            "order: " + str(index),
+            "group_order: " + str(int(file_num) + start_index)]
     if (index > 0 and url_list[index - 1]):
-        header.extend(["prev_url: " + clean_name(url_list[index - 1]),
+        header.extend(["prev_url: " + url_list[index - 1],
                     "prev_title: " + url_list[index - 1]])
     if index + 1 < len(url_list):
-        header.extend(["next_url: " + clean_name(url_list[index + 1]),
+        header.extend(["next_url: " + url_list[index + 1],
                     "next_title: " + url_list[index + 1]])
     header.extend(["---", ""])
     header_text = "\n".join(header)

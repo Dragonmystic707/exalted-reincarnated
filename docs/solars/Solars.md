@@ -2,8 +2,8 @@
 layout: page
 base_url: Solars
 title: Solars
-group_order: 0
-order: 7
+order: 0
+group_order: 7
 ---
 
 To be a Solar is to be a creature who knows no half-measures. They are

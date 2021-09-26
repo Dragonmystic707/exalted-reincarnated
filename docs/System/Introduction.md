@@ -2,9 +2,9 @@
 layout: page
 base_url: System
 title: Introduction
-group_order: 0
-order: 3
-next_url: Character-Creation
+order: 0
+group_order: 3
+next_url: Character Creation
 next_title: Character Creation
 ---
 

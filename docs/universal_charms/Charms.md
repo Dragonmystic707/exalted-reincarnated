@@ -2,8 +2,8 @@
 layout: page
 base_url: Universal_Charms
 title: Charms
-group_order: 0
-order: 4
+order: 0
+group_order: 4
 ---
 
 Charms are the natural expression of a character’s essence, a specific
