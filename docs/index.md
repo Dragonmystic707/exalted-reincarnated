@@ -4,6 +4,17 @@ title: Home
 order: 1
 ---
 
+Downloads
+==========
+
+<a href="/assets/downloads/Exalted_Reincarnated.pd" download>Exalted Reincarnated Core PDF </a>
+<a href="/assets/downloads/Summary.pdf" download>Rules Summary (Cheat Sheet)</a>
+
+[**<u>Character Sheets</u>**](https://docs.google.com/spreadsheets/d/1x2HMrSpvbnjuPyWsJxIqGz17zCdvyaTQnok4N7NBqFk/edit?usp=sharing)
+
+About
+=====
+
 Exalted Reincaranated is a fan-made, top-to-bottom mechanics rewrite of the [**Exalted System**](http://theonyxpath.com/category/worlds/exalted/) by Onyx Path Publishing. 
 While the setting is fascinating, compelling, and contains great thematics, the mechanics supporting the setting are overcomplicated, and ultimately fall short of delivering on its thematics.
 
@@ -29,9 +40,4 @@ As well, I would like to thank the systems and their authors of [Anima Prime (Ch
 
 
 
-Tools
------
 
-<a href="/assets/downloads/Summary.pdf" download>Rules Summary (Cheat Sheet)</a>
-
-[**<u>Character Sheets</u>**](https://docs.google.com/spreadsheets/d/1jRyQCIH2EfPr_X8OzsWhJxdUE4AAg2E7K3Lh8oMEWuQ/edit?usp=sharing)
