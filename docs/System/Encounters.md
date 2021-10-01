@@ -239,11 +239,40 @@ In order to wrest control over a completed Key Issue, you must take 1
 Average (3) complexity issue, you would have to make a total of (4)
 actions.
 
-### Characters on the Defense
+### Encounter End
+
+The Encounter ends the same Round that all Key Issues become
+*controlled*—though they do not need to be under control all by the same
+*side.*
+
+If a Goal’s Key Issues are completely controlled by one side, they will
+achieve their Goal.
+
+A Goal with split Key Issue control will find they have a *partial*
+victory—they do not get the full Goal they wanted, but they do not get
+nothing at all.
+
+When weighing a Partial Victory, the Storyteller should lean heavily
+into the uncontrolled Key Issues—why will this bring trouble to them?
+Perhaps they get what they want, but only at a certain cost?
+
+### Final Argument
+
+Optionally, the Encounter is wrapped up with a *Final Argument*, where a
+chosen Player or Storyteller summarizes what has happened in the
+Encounter, rolling it together and pointedly delivering as a capstone.
+This can take the form of a grand in character speech, addressing the
+crowds.
+
+The roll—if there is one—for this moment carries no risk of sabotaging
+existing progress, rather it is a push for *something more*.
+
+ Characters on the Defense
+-------------------------
 
 Convincing important characters, particularly Player Characters, is a
-single Key Issue with a complexity equal to their Resolve + intimacy
-bonuses, rather than a simple roll.
+single Key Issue with a base complexity of Average (3), or Difficult (5)
+if they have an opposing Intimacy to the idea.
 
 This can be anything from forcing the character to see their point on an
 important fact, charming them, lying to them, or even instilling a
@@ -271,40 +300,28 @@ backstory, or Facts when doing so.
 </tbody>
 </table>
 
-### Encounter End
+### Environmental Ailments
 
-The Encounter ends the same Round that all Key Issues become
-*controlled*—though they do not need to be under control all by the same
-*side.*
+The Exalted are *resistant* to casual exposure disease, warping effects
+from the Wyld, and other such external debilitation of the soul, but it
+does not mean they are *immune* to such effects, to say nothing of their
+mortal followers.
 
-If a Goal’s Key Issues are completely controlled by one side, they will
-achieve their Goal.
+Traversing past the threshold of the Wyld, the catacombs of the
+Underworld, or in the middle of a plague should *feel dangerous* and
+risky—if they choose to do such a thing, then they are inviting
+disaster.
 
-A Goal with split Key Issue control will find they have a *partial*
-victory—they do not get the full Goal they wanted, but they do not get
-nothing at all.
+Any of these effects should be treated as an Antagonistic Key Issue—at
+least of Average complexity against an individual Exalt. (Simple against
+a mortal).
 
-When weighing a Partial Victory, the Storyteller should lean heavily
-into the uncontrolled Key Issues—why will this bring trouble to them?
-Perhaps they get what they want, but only at a certain cost?
+The Storyteller can advance this Key Issue either as an *active* action
+of the Environment, or as a reflexive effect that happens when the
+Characters take a specific action.
 
-### Final Argument
-
-Typically, the Encounter is wrapped up with a *Final Argument*, where a
-chosen Player or Storyteller summarizes what has happened in the
-Encounter, rolling it together and pointedly delivering as a capstone.
-This can take the form of a grand in character speech, addressing the
-crowds.
-
-Preferably, Encounters do not end with a roll. The work has been put in
-already, there is no *need* for one.
-
-But in the cases when a roll feels In those cases, this final roll
-carries no risk of failure with it: after all, all of the ground work
-has been laid for the outcome already. Rather, it is a measure of *how*
-successful the characters will be in their endeavor. A failure would
-just represent not being able to push their success further—or at worst,
-a request to do something in return.
+If successful, the character should gain a dot or two of a deleterious
+“merit” that must take a Project to remove.
 
 Example Encounters
 ------------------

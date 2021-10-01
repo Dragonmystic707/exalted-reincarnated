@@ -77,13 +77,13 @@ An online character sheet is provided
 
     -   Record any Supernatural Abilities granted from your Exaltation.
 
-    -   Choose **3 Abilities**, which are your primary skills—what your
-        character is *known* for.
+    -   Choose **3 Abilities**, which are your primary skills—these
+        represent what your character is *known* for.
 
         Set them to either:  
         *\[5, 4, 3\]* or *\[4, 4, 4\]*
 
-    -   Spend **15 dots** in the remaining Abilities, with none being
+    -   Spend **15 dots** in the *remaining* Abilities, with none being
         higher than **3** at this time.
 
         Suggested:  
@@ -94,9 +94,7 @@ An online character sheet is provided
 
     Powers can be any combination of:
 
-    -   Universal Charms
-
-    -   Exaltation Charms.
+    -   Charms.
 
     -   Spells
 

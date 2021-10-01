@@ -63,8 +63,6 @@ weave in their own goals and visions into the tapestry of reality. In
 addition, they gain access to powerful and strange Martial Arts that
 stretch and bend the nature of reality.
 
-### 
-
 ###  Abyssals
 
 The force of Oblivion seeps at the hidden edges of Creation, consuming
@@ -120,13 +118,23 @@ The power of the Alchemical is focused on the magical materials:
 Orichalcum, Jade, Moonsilver, Starmetal, and Soulsteel. Their powers are
 modular, allowing swapping of charms and powers as they see fit.
 
-### 
+### Getimians
+
+&lt;todo&gt;
+
+### Exigents
+
+&lt;todo&gt;
 
 Other Creatures
 
-### Fae
+### <span class="smallcaps">The Fair Folk</span>
+
+&lt;todo&gt;
 
 ### Dragon Kings
+
+&lt;todo&gt;
 
 Essence
 -------
@@ -183,8 +191,8 @@ regaining motes, their accumulated Anima dissipates—you can only be
 </tr>
 <tr class="even">
 <td><strong>Critical Roll</strong></td>
-<td>2 Anima for a roll of 8 Successes or more.<br />
-If the roll is 12+, gain 4 Anima.</td>
+<td>1 Anima for a roll of 8 Successes or more.<br />
+If the roll is 12+, gain 2 Anima.</td>
 </tr>
 <tr class="odd">
 <td><strong>Stunt/Roleplay</strong></td>
@@ -257,10 +265,10 @@ and descriptions.
 When using their powers, the Exalted is bathed in their power, the
 crackling energies surrounding them and forming into a unique expression
 of their soul—the more power used. First, they crackle with subtle
-energies across their skin. Then, their Exaltation iconography
-shows—often a Caste Mark on their forehead. Finally, they erupt in their
-glorious fire, their body suffused in energy and their personal symbols
-visible to all around them.
+energies across their skin. Then, this energy leaps across outwards,
+forming an entire colored aura around themselves. Finally, they erupt in
+their glorious fire, their body suffused in energy and their personal
+symbols visible to all around them.
 
 The Exalt may choose to consciously hide it, if in situations where
 flaring their banner would be untoward. Hiding the anima banner requires
@@ -335,14 +343,15 @@ The stress and wear of an Exalt’s life will build and press upon them,
 eventually driving them to a breaking point. This is represented by
 Limit Points.
 
-A Character gains 1 limit point by:
+A Character gains **1 Limit** by:
 
 -   Activating their Excellency
 
 -   Encountering the limit trigger they have detailed as part of the
     Great Curse.
 
--   Working against one of their Intimacies.
+-   Working against one of their Intimacies, whether by choice or by
+    force.
 
 Limit Points represent how strained the Exalt is—how much wear and tear
 their psyche and soul is under. The character starts at 0, not being
@@ -838,7 +847,7 @@ of a Story, or to mark completion of a significant world Project.
 <tr class="odd">
 <td><p><strong>Fact Levels</strong></p>
 <p>Facts are set to 3 dots for ease of use—they are significant enough to impact the setting significantly, but not world changing. It is intended to be a “rule of thumb” for what should be written on the character sheet.</p>
-<p>If there is a need for a higher or lower merit to be written down, it becomes its own custom merit—which is perfectly acceptable.</p></td>
+<p>If there is a need for a higher or lower merit to be written down, it should become its own custom merit.</p></td>
 </tr>
 </tbody>
 </table>
@@ -855,14 +864,14 @@ question, so long as it is in line with the goals and morals of the
 organization.
 
 Backing 2 would either represent being the head of a local organization,
-or the leader of a local chapter of a global organization, wheras
+or the leader of a local chapter of a global organization, whereas
 Backing 5 would represent being the head of a global organization of
 great note.
 
 #### Bond
 
-***Special Note**: Bonded individuals must each have the Bond merit,
-though the level does not need to be the same.*
+***Special Note**: Bonds must be purchased by all bonded characters,
+though they need not be the same level.*
 
 Your soul has been entwined with another, uniting your Destinies. The
 character instinctively knows if their Bond is in danger, and the
@@ -881,9 +890,9 @@ someone who knows something.
 #### Cult
 
 The Character is a leader and/or target of worship for a religious cult.
-
-*Disadvantage:* The cult requires periodic guidance and attention. As
-well, it is often an unwelcome influence and potential political hazard.
+They unquestioningly follow your commands, but will also require
+periodic guidance, attention, and often may do unwanted things in their
+fervor.
 
 #### Wealth
 
@@ -905,9 +914,20 @@ own lives and concerns to deal with, but they can be assumed to not
 willingly or knowingly hurt the player character.
 
 The Rating of Allies represents both the scale and influence of the
-ally: Rating 1 would be a competent, but still mortal--guard. Rating 3
-would be an Exalt or a medium spanning organization. Rating 5 would be a
-high-rating God or an organization such as the Guild.
+ally: Rating 1 would be a competent mortal guard. Rating 3 would be an
+Exalt or a medium spanning organization. Rating 5 would be a high-rating
+God or an organization such as the Guild.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Allies in Combat</strong></p>
+<p>Exalted is a story about the Player Characters, not about the companions they have surrounded themselves with.</p>
+<p>By default whenever combat breaks out, any Allies will get tied up in their own battle group—splitting off part of the attack force and dealing with them in a parallel combat scene that is only visually referenced, not mechanically.</p>
+<p>However, the Player Character may choose to “Bark Orders” at an ally, which allows the Player to use one of their two actions as the Ally.</p></td>
+</tr>
+</tbody>
+</table>
 
 #### Artifact
 

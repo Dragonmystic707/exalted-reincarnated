@@ -338,14 +338,8 @@ By spending **3 Anima** and performing a Stunt, the Player may:
 
 -   Reuse any limited-use Power.
 
--   Use a Power they have not purchased, but would otherwise qualify
-    for. (i.e. At Essence 1, you may choose any Lesser Charm of your
-    Exalt. At Essence 3, any Lesser or Greater, etc.)
-
-    -   If the Power you choose has a mote cost higher than **3**, you
-        must instead pay the difference in motes.  
-        (e.g. if a chosen charm costs 4 motes, using that charm as a
-        Strife requires 3 anima, 1 mote.)
+-   Use a Lesser Power they have not purchased, but would otherwise
+    qualify for.
 
 -   Invent a Charm-like Effect. The Player should feel free to dictate
     how they use their powers in a custom-tailored way for the
@@ -380,7 +374,7 @@ environment, stopping any reinforcements—removing the time limit on the
 challenge, but not destroying their enemy. It assists the Player and
 their scene greatly, but does not solve it.
 
-Special Actions 
+ Special Actions 
 ---------------
 
 Most rolls are simple: the Player dictates what they are intending to

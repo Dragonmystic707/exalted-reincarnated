@@ -104,12 +104,24 @@ purchase Greater Charms of their Caste at Essence 1, and Capstone Charms
 of their Caste at Essence 3. Twilight Caste Solars may do the same with
 Greater and Capstone Spells.
 
+At Character Creation, you must still purchase 3 Lesser Powers, but may
+purchase the Greater Charms with the bonus experience.
+
 ### Solar Excellency
 
 At the cost of 1 Limit, the Solar may either add the used (Ability) or
 (Essence) as immediate successes, whichever is higher. This may be used
 for defensive values, for example increasing Evasion by the (Athletics)
 score.
+
+Solar Anima **<span class="smallcaps">Banners</span>** 
+------------------------------------------------------
+
+The anima of Solars will naturally be naturally composed of golds,
+whites, as well as various oranges and reds that are associated with the
+setting sun. The figures show inside of the banner will show highly
+intricate details, often containing symbols, words, and fractal designs
+that all have deep representations of the Exalt’s soul.
 
 Soulfire
 --------
@@ -183,8 +195,8 @@ Caring for others is too much of a hassle, and too much pain. The Solar
 becomes a machine of pure logic, following a path devoid of empathy and
 feeling.
 
- **<span class="smallcaps">Solar Castes</span>**
------------------------------------------------
+ **<span class="smallcaps">Solar Anima Powers</span>**
+-----------------------------------------------------
 
 ### Dawn
 
@@ -717,17 +729,17 @@ Twilight Charms
 
 <div class="power_category">Lesser</div>
 
-### Chaos-Resistance Preparation
+### Ancient Tongue Understanding
 
-**Type:** Simple; (Essence) Weeks  
-**Cost:** 3m
+**Type:** Permanent
 
-Reinforce an object no larger than (Essence) meters in its largest
-dimension.
-
-For (Essence) Weeks, that object, and anything inside of it, become
-resistant to the chaotic effects of the Wyld, gaining (Essence)
-difficulty to warp it.
+The Solar’s words are law, and all who inhabit the Spirit world
+instinctively understand it as such. No barrier of language, spiritual
+upheaval, or mental capacity will restrict a Spirit, Ghost, Elemental,
+Demon, or other such creature will restrict the understanding of the
+Solar’s words. In addition, the Solar will always be able to recognize
+basic reactions to such commands for what they are before the Spirit has
+a chance to react.
 
 ### Durability-Enhancing Technique
 
@@ -735,12 +747,14 @@ difficulty to warp it.
 **Cost:** 2m
 
 The Exalt may reinforce an object—no more than (Essence) meters in its
-largest dimension—and make it nigh unbreakable.
+largest dimension—and make it nigh unbreakable and resistant to changing
+effects, such as from the Wyld.
 
 While reinforced, the object is no longer considered “mundane,” and
-increases the difficulty to break or otherwise destroy it by (Essence).
+increases the difficulty to break, change, or otherwise destroy it by
+(Essence).
 
-A Project may be performed to make this enhancement permanent.
+A Scale 1 Project may be performed to make this enhancement permanent.
 
 ### Enlightened Touch Insight
 
@@ -753,6 +767,16 @@ its recent history and its usage.
 The Solar reconstructs the scene in their mind, effectively gaining a
 vision of what happened surrounding the object in moments of great
 emotion and action.
+
+### Inspection of Flaw
+
+**Type:** Reflexive  
+**Cost:** 2m
+
+Once per Session, the Player may Recall a Fact about a target object or
+institution that may be exploited to the character’s advantage
+immediately and without a roll. (This may be used to “correct” a failed
+roll.)
 
 ### Harmonious Academic Methodology
 
@@ -769,25 +793,6 @@ they must roll, they gain +4 dice, capped at 12 dice.
 
 Up to (Essence) blessings may be active at one time.
 
-### 
-
-###  Master Plan <span class="smallcaps">Revelation</span>
-
-**Type:** Reflexive  
-**Cost:** 2m
-
-Once per story, the Player may declare their character predicted a
-certain event, and accordingly planned for it. and accordingly planned
-for a certain event, and have somehow twisted it to their own benefit.
-Evidence provided turns out to be a planted fake; eyewitnesses have
-already been successfully bribed.
-
-This charm represents the Solar’s mastermind-level planning and
-cunning—essentially revealing hidden information to the Players
-themselves. As such, it can not actually change anything that has been
-firmly established, but it can complicate or muddy the veracity of those
-“facts.”
-
 ### Order-Affirming Blow
 
 **Type:** Simple  
@@ -797,8 +802,19 @@ The Solar knows the effects of the Wyld, Underworld, and other such
 places that might try to forcibly change the targets.
 
 So long as the effects have occurred within the last week, and not
-deeply ingrained into the soul of the subject, the Solar may banish the
-changes.
+deeply ingrained into the soul of the subject, the Solar may immediately
+banish the changes.
+
+In addition, they may undertake Medicine Projects to undo long-term
+changes and mutations.
+
+### Tireless Healer
+
+**Type:** Supplemental  
+**Cost:** (1m+)
+
+The Solar increase any Medicine Action or Charm one population scale for
+each mote spent, up to City.
 
 ### Truth-Rendering Gaze
 
@@ -812,16 +828,6 @@ Intentions,” the Player asks a specific question that the Storyteller
 must answer truthfully.
 
 <div class="power_category">Greater</div>
-
-### Inspection of Flaw
-
-**Type:** Reflexive  
-**Cost:** 2m
-
-Once per Session, the Player may Recall a Fact about a target object or
-institution that may be exploited to the character’s advantage
-immediately and without a roll. (This may be used to “correct” a failed
-roll.)
 
 ### Impurity-Hammering Blow
 
@@ -850,7 +856,24 @@ as though it were an extension of their body.
 Hostile entities may attempt to wrest control from the object by
 performing a contested Craft Roll.
 
-### Timely Prototype
+### Master Plan <span class="smallcaps">Revelation</span>
+
+**Type:** Reflexive  
+**Cost:** 2a
+
+Once per story, the Player may declare their character predicted a
+certain event, and accordingly planned for it. and accordingly planned
+for a certain event, and have somehow twisted it to their own benefit.
+Evidence provided turns out to be a planted fake; eyewitnesses have
+already been successfully bribed.
+
+This charm represents the Solar’s mastermind-level planning and
+cunning—essentially revealing hidden information to the Players
+themselves. As such, it can not actually change anything that has been
+firmly established, but it can complicate or muddy the veracity of those
+“facts.”
+
+###  Timely Prototype
 
 **Type:** Simple  
 **Cost:** 2a
@@ -869,9 +892,7 @@ to activate this charm.
 each Story, the Exalt gains an additional +2 Res, which may only be used
 only for Craft Projects.
 
-### 
-
-###  Will-Shattering Riddle
+### Will-Shattering Riddle
 
 **Type:** Simple; Scene  
 **Cost:** 2a
@@ -881,9 +902,9 @@ involved and distracted solving it.
 
 Roll a contested (Int. + Lore). If the target fails, they suffer from
 being distracted, consumed by trying to solve the puzzle. They lose (3)
-dice from any awareness rolls, and must make a (Int + Lore) each round
-until the beat the Solar’s roll to take an action. In combat, they may
-only make one action per round.
+dice from any awareness rolls, and must make a (Int + Lore) roll each
+round until the beat the Solar’s roll to take an action. In combat, they
+may only make one action per round.
 
 Only one character may be subjected to this per Scene.
 
@@ -969,7 +990,9 @@ Through misdirection, conceal an action or attack that the Exalt makes.
 Characters must exceed a (Wits + Awareness) roll against the number of
 successes of this action.
 
-### Shadow-Crossing Leap
+### 
+
+###  Shadow-Crossing Leap
 
 **Type:** Reflexive  
 **Cost:** 2a
@@ -1081,7 +1104,9 @@ are currently in motion in the current scene, and eliminates up to
 Once per Scene, the Exalt may reach a Position or Target they can
 observe, so long as a possible path exists.
 
-### Perfect Mirror
+### 
+
+###  Perfect Mirror
 
 **Type:** Simple; Week  
 **Cost:** 3a
@@ -1175,7 +1200,7 @@ Magistrate, or storm the docks.
 **Type:** Simple; Scene  
 **Cost:** 2m
 
-The Solars are known as Lawmaker, and such knowledge is intrinsic to
+The Solars are known as Lawgivers, and such knowledge is intrinsic to
 their very nature. During arguments involving law, procedure, or other
 methodology, they gain +3 dice.
 

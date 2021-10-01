@@ -10,7 +10,7 @@ import os.path as path
 
 start_index = 2
 
-power_categories = r"(?:Lesser|Greater|Capstone)"
+power_categories = r"(?:Lesser|Greater|Capstone|Emerald|Sapphire|Adamant)"
 
 # Define some local paths (may need to change this later)
 script_dir = os.path.dirname(__file__)

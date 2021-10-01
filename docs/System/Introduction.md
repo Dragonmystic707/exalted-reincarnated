@@ -164,32 +164,32 @@ permanently scarred and changed.
 
 The Dragonblooded, the most numerous and most mortal of the Exalted,
 were those that were left to pick up the pieces in the rubble of the
-First Age. Slowly, over millenia, they rebuilt. While it was a shadow of
-what it once was, it became a peace of sorts. They managed to stabilize
-the world, beat back a thousand dooms and angry Gods that threatened the
-mortals of the broken, shurnken lands of Creation.
+First Age. Slowly, over millennia, they rebuilt. While it was a shadow
+of what it once was, it became a peace of sorts. They managed to
+stabilize the world, beat back a thousand dooms and angry Gods that
+threatened the mortals of the broken, shrunken lands of Creation.
 
 But over time, the natural distrust of the other Exalts and their
 actions turned to fear, eventually turning their gaze inward into a sort
 of pride. Left to pick up the pieces, to salvage the mess of others,
 they soon started to feel it was their divine duty, and in a way a
-judgement that their worth was better than all others.
+judgment that their worth was better than all others.
 
 This Pride soon became doctrine, and one mandated by their new Scarlet
 Empress. All other Exalts, should they not swear fealty to the
 Dragonblooded, would be seen as dangers to be removed.
 
-This pride only paradoxically only grew when the Outer Provinces
-rebelled and seperated at this mandate. It only grew as their Empress
-was slain—now a matyr to the cause. A Holy Symbol of their greatness
-shattered and broken by the morally corrupt others.
+This pride only grew when the Outer Provinces rebelled and separated at
+this mandate. It only grew as their Empress was slain—now a martyr to
+the cause. A Holy Symbol of their greatness shattered and broken by the
+morally corrupt “Other.”
 
 #### The Time of Tumult
 
 Today, the lands of the central Realm is in a constant state of a civil
 war—though none dare to call it a war. Each Dragonblooded house vies for
 the throne, each declaring an (often dubious) tie to the great Scarlet
-Empress as proof. Among them is Mnemon, a proven descendent of the
+Empress as proof. Among them is Mnemon, a proven descendant of the
 Empress, but she has Exalted as a Solar and all have banded against her
 to stop her.
 
@@ -199,8 +199,8 @@ and has become a constant threat from the outside.
 
 Among all this chaos, in the central realm and the scattered city-states
 of the rebellious Outer Provinces, wander the Wyld Hunt. What was once a
-unified, independant gathering of Exalts tasked with dealing with
-demons, fae, angry Gods, and other threats to Creation, has become
+unified, independent gathering of Exalts tasked with dealing with
+demons, Fae, angry Gods, and other threats to Creation, has become
 fractured. Some chapters of the Wyld hunt stick true to their
 goals—recruiting new Exalts to serve Creation itself. Others have become
 little more than political extensions, threatening any who do not agree
