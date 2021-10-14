@@ -136,288 +136,6 @@ Other Creatures
 
 &lt;todo&gt;
 
-Essence
--------
-
-Essence is the fundamental energy that flows through the world, all
-creatures, and mortals—an energy that Exalts are naturally able to wield
-to their advantage.
-
-A character’s ability to manipulate and channel the energies of the
-world are measured in **Motes** of **Essence**, a pool of points that is
-immediately spent for supernatural effects, and slowly regains over
-time.
-
-Motes of Essence regain 1 per Hour when the character is taking explicit
-action to rest, such as sleeping, playing games, or participating in
-(relatively) stress-free activities that they enjoy.
-
-The entire Mote Pool regains after a full night’s of rest, regardless of
-how large the pool is.
-
-The mote pool will increase with the character’s **Essence**, which is a
-measure of how in tune the character is with the flows of energy through
-and surrounding them. This Rating will increase automatically as the
-character accrues xp.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Is it rest if I…</strong></p>
-<p>If an activity has any dual purpose or gains advantage (aside from the passage of time), it is not considered rest.</p>
-<p>A character may play a game to relax, but using a game to strategize a battle plan is not. Talking jovially (or in commiseration) with fellows is relaxing, while trying to convince friends to join in a plan is not.</p>
-<p>This regeneration rule is intended to encourage roleplaying moments of respite, not to force constant calculations and bookkeeping for the Storyteller.</p></td>
-</tr>
-</tbody>
-</table>
-
-### Anima
-
-Exalts are not limited to just their own personal Mote Pool as a source
-of their powers. The drive of action and movement will spur them to
-greater and greater heights. This movement of power is represented as
-*Anima*, a type of Essence Flow that is ultimately more fleeting, but
-brimming with possibilities.
-
-Anima fades away if it is not used—If the Exalt engages in rest,
-regaining motes, their accumulated Anima dissipates—you can only be
-“brimming with energy” for so long.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Gain Anima</strong></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Critical Roll</strong></td>
-<td>1 Anima for a roll of 8 Successes or more.<br />
-If the roll is 12+, gain 2 Anima.</td>
-</tr>
-<tr class="odd">
-<td><strong>Stunt/Roleplay</strong></td>
-<td>2 Anima for great stunts and/or roleplay.</td>
-</tr>
-<tr class="even">
-<td><strong>Build Power</strong></td>
-<td>1 Anima per 2 Successes</td>
-</tr>
-</tbody>
-</table>
-
-#### 
-
-####  Using Anima
-
-Anima may be used for:
-
--   Exalt/Caste Anima Abilities
-
--   Empowering more powerful Charms and Powers
-
--   Fueling a character’s **Strife**—their narrative power that expands
-    past the rules.
-
-As well, Anima may always be used in place of motes, making sure that an
-Exalt is never without power. (1 Anima per 1 Mote),
-
-#### Build Power
-
-During heated moments, such as in Combat or Encounters, the Exalt takes
-a moment to stoke their internal flames, drawing essence from the world
-around them.
-
-The Player describes how the Character focuses themselves, and rolls the
-appropriate (Attribute + Ability), gaining a point of Anima for ever 2
-successes rolled. (The Critical Roll Anima bonus does *not* apply on
-this roll.)
-
-Descriptions of Build Power can truly be anything. A Dawn Solar may find
-solace in flourishing their weapon in a display of (Dexterity + Melee).
-Another may find refuge in their thoughts, looking across others in
-recollection with a (Int + Lore) roll.
-
-Building Power encompass a number of thematic actions-- “Preparing for a
-devastating blow” or “catching a breather” or “bringing all the clues
-together in the mind.” It is intended to narratively reflect be the calm
-before a very, very explosive storm of power and action.
-
-For this reason, Build Power *cannot* have another mechanical
-purpose—you cannot intimidate combatants with a Build Power action;
-though having the scene or even unimportant characters *reacting* to the
-event is always encouraged.
-
-#### Narrative scope
-
-Since Anima fades away so quickly, Anima need not be tracked during
-slower, more narrative portions of the game. Instead, use of Anima can
-be allowed through taking extra time on their actions: roughly **5
-minutes per Anima** expended.
-
-### Anima Banner
-
-As an Exalt gathers energy, their souls become suffused with crackling
-energy, inflaming it into the seen world in a glorious expression.
-
-Ultimately the Anima Banner is an *Aesthetic* matter—one used for Stunts
-and descriptions.
-
-When using their powers, the Exalted is bathed in their power, the
-crackling energies surrounding them and forming into a unique expression
-of their soul—the more power used. First, they crackle with subtle
-energies across their skin. Then, this energy leaps across outwards,
-forming an entire colored aura around themselves. Finally, they erupt in
-their glorious fire, their body suffused in energy and their personal
-symbols visible to all around them.
-
-The Exalt may choose to consciously hide it, if in situations where
-flaring their banner would be untoward. Hiding the anima banner requires
-*dedicated* concentration.
-
-Excellencies
-------------
-
-Exalts aren’t restricted to simply accepting the roll that is given to
-them. When they need to, they may activate their Exalt-specific
-Excellency to push their roll further than they thought they could, both
-before they perform the roll, or after the roll (and all power effects)
-have been finalized.
-
-For example, a Solar will be able to add their Ability Ranks as a number
-of Successes to their roll, turning what is a certain failure into a
-success.
-
-However, this does not come without a cost. The character is straining
-themselves beyond their mortal bonds, and so will gain a point of
-[Limit](/System/The Exalted/#limit).
-
-The Great Curse
----------------
-
-Exaltation is a great and wondrous blessing from the Gods, but with it
-comes a great and terrible Curse. Perhaps, as the ancient and lost
-stories speak, the slain Enemies of the Gods lay this Curse upon their
-servants as a last, spiteful word in their dying breath. Or perhaps it
-is simply inalienable nature of man, exemplified and given root in
-power.
-
-Regardless of its source, every Exalt carries with them the Great Curse,
-an aggrandized character flaw that can interrupt and sabotage a
-character’s well meaning in spite of their better nature.
-
-Each individual Exaltation book details their Great Curse, but it is
-important to know that these are all *suggestions*. So long as a
-character has a flaw that affects their decision, it is an acceptable
-Great Curse. Custom descriptions should always include three aspects:
-what the flaw exposes in the character, what triggers the flaw, and what
-the character will (most likely) do when they enter a Limit Break.
-
--   **Solars** suffer from their own Ego. They are those that tirelessly
-    seek greatness and perfection, and may find others or even
-    themselves not up to the standards they desire.
-
--   **Lunars** suffer from being trapped between worlds and are
-    conflicted by the unknown. Are they man or beast? A part of society
-    or apart from it? Their form is constantly shifting, so who are they
-    really?
-
--   **Abyssals** have a portion of their self consumed by the void:
-    something that is lost and that can never be reclaimed. It may be
-    their name and relations; their lost vitality; a loss of emotion and
-    feeling.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Fine Tuning Limit Gain</strong></p>
-<p>Limit Gain should always be controlled by the <em>Player</em>, not the Storyteller. While you may setup the situations, it is ultimately up to the Player to decide how their character reacts—including if and when they gain Limit.</p>
-<p>Some Players will not want to gain Limit at all, others will enjoy pushing their characters back and forth constantly. Both are valid so long as they are having fun.</p>
-<p>That said, the rule of thumb should be to average about 2 limit per session. If more or less, talk with your Player to see if gaining limit is happening too much or little for their preference.</p></td>
-</tr>
-</tbody>
-</table>
-
-### Limit
-
-The stress and wear of an Exalt’s life will build and press upon them,
-eventually driving them to a breaking point. This is represented by
-Limit Points.
-
-A Character gains **1 Limit** by:
-
--   Activating their Excellency
-
--   Encountering the limit trigger they have detailed as part of the
-    Great Curse.
-
--   Working against one of their Intimacies, whether by choice or by
-    force.
-
-Limit Points represent how strained the Exalt is—how much wear and tear
-their psyche and soul is under. The character starts at 0, not being
-stressed, and can raise up to 10, a level of duress which they cannot
-stand anymore, at which point they will be forced Limit Break.
-
-#### Breaking Early
-
-When a character is particularly stressed, such as by being defeated,
-having their goals turned against them, their Intimacies being credibly
-threatened, or any other event the Player deems “anguishing,” they may
-see if the character Limit Breaks early.
-
-**Roll a 1d10.** If the result is equal to or higher than their current
-Limit, the character keeps it together. While they might be perturbed,
-hurt, otherwise emotionally compromised, they retain full faculty of
-their mind and actions. However, if they roll under their limit, they
-prematurely snap.
-
-The Player, knowing their character better than any at the table, may
-forgo the roll altogether and simply decide their character snaps.
-Remember, this should highlight the character’s flaws, and how it can
-impact and impede the character’s own goals!
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>The Calming Effect of Time</strong></p>
-<p>Limit resets after a Limit Break, which is the main. However, long spans of rest, meditation, and peace may ease the Exalt down from their stressed life.</p>
-<p>So long as the time breaks are particularly restful, the Exalt may lose 1 Limit per week.</p></td>
-</tr>
-</tbody>
-</table>
-
-### Limit Break
-
-When a character **Limit Breaks,** they lose all perspective on anything
-that does not align with their **Great Curse** and will make active and
-considered effort to fulfill it, regardless of the consequences.
-
-A character Limit Breaking does not lose their faculties, nor do they
-forget their Intimacies—but those are simply *secondary* to their Great
-Curse. Often they will use convoluted and strange reasoning to justify
-their actions.
-
-A Limit Break lasts for an entire scene. Only performing a grave offense
-against their own deeply-held Intimacies would be enough to snap the
-character out of their actions prematurely.
-
-At the end of a Limit Break, reset Limit to 0.
-
-During a Limit Break, the character does not gain any limit—even from
-activating their Excellencies. This effectively grants them **free use
-of the Excellency for the entire scene**, though it will still raise
-their anima level.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Ticking Time Bomb</strong></p>
-<p>There will be occasions when a character enters Limit Break, but turning it into a Limit Break Scene just doesn’t fit—it occurred during an otherwise lighthearted scene, or when the Exalt is in the middle of nowhere on their own, or the scene was just wrapping up.</p>
-<p>If this occurs, with both the Storyteller and Player in agreement, the Character can postpone the Limit Break to a more appropriate scene—just don’t wait <em>too</em> long.</p></td>
-</tr>
-</tbody>
-</table>
-
 Attributes
 ----------
 
@@ -673,15 +391,18 @@ practical application is.
 Occult is a broad skill, one that manipulates the very Essence that life
 in Creation relies upon, so it can sometimes be unclear to allow
 anything and everything through. So, there are a few guiding
-restrictions when using Occult:
+restrictions when using Occult and creating custom Spells:
 
 -   It takes time. Aside from the most basic uses, Occult is highly
     ritualistic, rarely being able to used in single action. It also
     often may only be done in specific times of the day, or with certain
     reagents.
 
--   The Essence flows of others cannot be changed or altered without a
-    dedicated Power.
+-   The cost is typically higher than other powers, and more often than
+    not dips into Anima.
+
+-   Changing the unwilling is particularly difficult, and cannot be done
+    at introductory powers.
 
 <table>
 <tbody>
@@ -712,6 +433,10 @@ restrictions when using Occult:
 <td><strong>Exorcism</strong></td>
 <td><p>By chanting, forming ritualistic circles, and performing a concentrated twisting of Essence, the sorcerer can banish a ghost or other underworld creature back to a Shadowlands.</p>
 <p>This cannot be done with any unwilling, undefeated creature that has an Essence Rating.</p></td>
+</tr>
+<tr class="odd">
+<td><strong>Words of Dreams</strong></td>
+<td>By staring into a polished mirror, pond, or other reflective surface, and by sacrificing some symbolic link to the target such as a lock of hair, the Sorcerer can appear into the dreams of the target the next time they sleep.</td>
 </tr>
 </tbody>
 </table>

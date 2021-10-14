@@ -25,9 +25,7 @@ The three levels of Spells are classified and known in the world of
 Creation and have many names depending on the tradition and culture of
 the sorcerer. The most widely known an accepted is **Emerald**,
 **Sapphire**, and **Adamant** to represent Lesser, Greater, and
-Capstone, respectively. Another is **First, Second**, and **Third**
-Circles of sorcery, and yet another is **Terrestrial, Celestial**, and
-**Solar.**
+Capstone, respectively.
 
 ### Initiations
 
@@ -37,14 +35,14 @@ should be able to point to a specific Merit their character has as a
 source of their training, such as an Ally, or one of their starting
 Facts.
 
-Typically, when advancing to the **Greater** and **Capstone** Spells,
-their mentor will require a **Task** to be performed. The mentor must
-ask the Exalt to undertake something they find difficult in order to
-find a deeper enlightenment and understanding of themselves before they
-are allowed such power over the world.
+When advancing to the **Sapphire** and **Adamant** Circle Spells, their
+mentor will require a **Task** to be performed. The mentor must ask the
+Exalt to undertake something they find difficult in order to find a
+deeper enlightenment and understanding of themselves before they are
+allowed such power over the world.
 
-Access to the **Greater Level** has a repercussion to the character for
-years on end, changing how they view life and themselves. The **Capstone
+Access to the **Sapphire Level** has a repercussion to the character for
+years on end, changing how they view life and themselves. The **Adamant
 Level** Task will have a permanent change to their character.
 
 These tasks could be any such as sacrificing a cherished item, scaling a
@@ -69,7 +67,7 @@ too wrapped up in own devices to mentor others. It is fortunate that
 there are plenty of alternate mentors that may show up.
 
 It is important to note that the source of Sorcery may train others in
-levels past what they themselves have reached. A Mortal Sorceror steeped
+levels past what they themselves have reached. A Mortal Sorcerer steeped
 in the Emerald Circle may induct a Solar into the Adamant Circle.
 
 #### Gods, Elementals, and Demons
@@ -97,7 +95,7 @@ protest as they fled the reach of the Realm.
 
 As the Age of Glory crumbled and the Gods sealed themselves away from
 mortals, the Sorcerers of old feared their art would be lost forever,
-and so wove tutalage of Sorcery into the very fabric of Creation.
+and so wove tutelage of Sorcery into the very fabric of Creation.
 
 Now, very rarely, the knowledge of Sorcery will reveal itself in an
 unrelenting fashion to individual chosen of forgotten and arcane

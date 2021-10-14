@@ -42,7 +42,7 @@ An online character sheet is provided
     -   Why do I stick with the party? Is there a particular character I
         resonate with? Do we share a common goal?
 
-3.  Choose your character’s [Great Curse](/System/The Exalted/#the-great-curse), the
+3.  Choose your character’s [Great Curse](/System/The System/#the-great-curse), the
     character flaw which your Exalt struggles with day in and day out.
     Example Great Curses are provided with your Exaltation, as each
     exalt tends to follow similar themes, but they by no means need to
@@ -188,13 +188,13 @@ values. If you are using the provided character sheet, this next part
 will be completed automatically.
 
 1.  Choose a name for your character and describe them. This description
-    should include your [Anima Banner](/System/The Exalted/#anima-banner), the personal
+    should include your [Anima Banner](/System/The System/#anima-banner), the personal
     soulshape of light that surrounds your character when brimming with
     power.
 
 <!-- -->
 
-1.  Set your [Essence](/System/The Exalted/#essence) to 1, the starting point for all
+1.  Set your [Essence](/System/The System/#essence) to 1, the starting point for all
     Exalts. This sets you apart from most mortals who do not have an
     essence rating at all. (Essence 0).
 

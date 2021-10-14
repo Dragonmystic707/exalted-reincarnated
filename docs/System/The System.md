@@ -317,62 +317,29 @@ land perfectly in a pose with no damage. Nobody need concern themselves
 with the useless physics of such a maneuver.
 
 If the Stunt is particularly impressive consider rewarding the Player
-with [2 Anima](/System/The Exalted/#anima).
+with [2 Anima](/System/The System/#anima).
 
 Stunts also do not need to be tied to specific actions. If, as a
 Storyteller, you find a scene or particular interaction to be moving,
 reward the players with Anima.
 
- Strife
-------
+Excellencies
+------------
 
-The world of Creation will push even the mighty Exalted to the brink,
-and in those moments of desperation, forcing them to delve into reserves
-they did not know they had—and can rarely replicate when needed. This
-moment is called a **Strife**.
+Exalts aren’t restricted to simply accepting the roll that is given to
+them. When they need to, they may activate their Exalt-specific
+Excellency to push their roll further than they thought they could, both
+before they perform the roll, or after the roll (and all power effects)
+have been finalized.
 
-Strife is a powerful tool for Player Characters to change the world
-around them.
+For example, a Solar will be able to add their Ability Ranks as a number
+of Successes to their roll, turning what is a certain failure into a
+success.
 
-By spending **3 Anima** and performing a Stunt, the Player may:
-
--   Reuse any limited-use Power.
-
--   Use a Lesser Power they have not purchased, but would otherwise
-    qualify for.
-
--   Invent a Charm-like Effect. The Player should feel free to dictate
-    how they use their powers in a custom-tailored way for the
-    situation, though this does require Storyteller approval to make
-    sure it doesn’t *directly* solve the problem of the scene.
-
-### Strife Guidelines
-
-When using a Strife, the action should simply happen without a roll. So
-long as a character *should* be able to do something, and it is *cool*
-for them to do so, it *does.* In this way, it can be thought of as a
-more powerful Stunt.
-
-There are a few guiding restrictions to keep in mind with Strifes, which
-should
-
--   Other character’s actions cannot be dictated: only those under
-    control of the Player’s.
-
--   The Action cannot *directly* solve the scene; it can only assist and
-    guide it.
-
--   The Action should flow naturally from the character—a Solar cannot
-    suddenly shapeshift, for example.
-
-**Example**
-
-######### The Archer turns from the Dragonblood threatening her and focusing her essence into a point on their arrow. With a sharp hiss of air, she lets it loose into the nearest mountain, watching as the arrow explodes in an impressive show of Anima. The mountain rumbles as the snow dislodges, causing the newly-fallen snow to groan, rumble, and then start cascading into a deadly avalanche which rushes into the passage, sealing it and cutting off the dynasts reinforcements.
-
-“I’m going to use my archery to cause an avalanche”. it changes the
-environment, stopping any reinforcements—removing the time limit on the
-challenge, but not destroying their enemy. It assists the Player and
-their scene greatly, but does not solve it.
+However, this does not come without a cost. The character is straining
+themselves beyond their mortal bonds, and so will gain a point of
+[Limit](/System/The System/#limit), a measure of how close their Great Curse is to
+activating.
 
  Special Actions 
 ---------------
@@ -642,7 +609,319 @@ roll, and instead must be done through an Encounter.
 </tbody>
 </table>
 
-Storyteller Timelines
+ Essence
+-------
+
+Essence is the fundamental energy that flows through the world, all
+creatures, and mortals—an energy that Exalts are naturally able to wield
+to their advantage.
+
+A character’s ability to manipulate and channel the energies of the
+world are measured in **Motes** of **Essence**, a pool of points that is
+immediately spent for supernatural effects, and slowly regains over
+time.
+
+Motes of Essence regain 1 per Hour when the character is taking explicit
+action to rest, such as sleeping, playing games, or participating in
+(relatively) stress-free activities that they enjoy.
+
+The entire Mote Pool regains after a full night’s of rest, regardless of
+how large the pool is.
+
+The mote pool will increase with the character’s **Essence**, which is a
+measure of how in tune the character is with the flows of energy through
+and surrounding them. This Rating will increase automatically as the
+character accrues xp.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Is it rest if I…</strong></p>
+<p>If an activity has any dual purpose or gains advantage (aside from the passage of time), it is not considered rest.</p>
+<p>A character may play a game to relax, but using a game to strategize a battle plan is not. Talking jovially (or in commiseration) with fellows is relaxing, while trying to convince friends to join in a plan is not.</p>
+<p>This regeneration rule is intended to encourage roleplaying moments of respite, not to force constant calculations and bookkeeping for the Storyteller.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Anima
+
+Exalts are not limited to just their own personal Mote Pool as a source
+of their powers. The drive of action and movement will spur them to
+greater and greater heights. This movement of power is represented as
+*Anima*, a type of Essence Flow that is ultimately more fleeting, but
+brimming with possibilities.
+
+Anima fades away if it is not used—If the Exalt engages in rest,
+regaining motes, their accumulated Anima dissipates—you can only be
+“brimming with energy” for so long.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Gain Anima</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Critical Roll</strong></td>
+<td>2 Anima for a roll of 8 Successes or more.<br />
+If the roll is 12+, gain 4 Anima.</td>
+</tr>
+<tr class="odd">
+<td><strong>Stunt/Roleplay</strong></td>
+<td>2 Anima for great stunts and/or roleplay.</td>
+</tr>
+<tr class="even">
+<td><strong>Build Power</strong></td>
+<td>1 Anima per 2 Successes</td>
+</tr>
+</tbody>
+</table>
+
+#### 
+
+####  Using Anima
+
+Anima is used to empower the Exalts Anima Powers, as well as any
+high-level Charms, Spells, or other sources of power that might call for
+Anima in its activation cost.
+
+Additionally, Anima may be used to empower a character’s
+[**Strife**](/System/The System/#strife), a way for the Player to wrest control over the
+narrative in their favor.
+
+Lastly, Anima can be used **in place of Motes,** 1 Anima per 1 Mote,
+should the Exalt ever run out of their stored energy.
+
+#### Build Power
+
+During heated moments, such as in Combat or Encounters, the Exalt takes
+a moment to stoke their internal flames, drawing essence from the world
+around them.
+
+The Player describes how the Character focuses themselves, and rolls the
+appropriate (Attribute + Ability), gaining a point of Anima for ever 2
+successes rolled. (The Critical Roll Anima bonus does *not* apply on
+this roll.)
+
+Descriptions of Build Power can truly be anything. A Dawn Solar may find
+solace in flourishing their weapon in a display of (Dexterity + Melee).
+Another may find refuge in their thoughts, looking across others in
+recollection with a (Int + Lore) roll.
+
+Building Power encompass a number of thematic actions-- “Preparing for a
+devastating blow” or “catching a breather” or “bringing all the clues
+together in the mind.” It is intended to narratively reflect be the calm
+before a very, very explosive storm of power and action.
+
+For this reason, Build Power *cannot* have another mechanical
+purpose—you cannot intimidate combatants with a Build Power action;
+though having the scene or even unimportant characters *reacting* to the
+event is always encouraged.
+
+#### Narrative scope
+
+Since Anima fades away so quickly, Anima need not be tracked during
+slower, more narrative portions of the game. Instead, use of Anima can
+be allowed through taking extra time on their actions: roughly **5
+minutes per Anima** expended.
+
+### Anima Banner
+
+As an Exalt gathers energy, their souls become suffused with crackling
+energy, inflaming it into the seen world in a glorious expression.
+
+Ultimately the Anima Banner is an *Aesthetic* matter—one used for Stunts
+and descriptions.
+
+When using their powers, the Exalted is bathed in their power, the
+crackling energies surrounding them and forming into a unique expression
+of their soul—the more power used. First, they crackle with subtle
+energies across their skin. Then, this energy leaps across outwards,
+forming an entire colored aura around themselves. Finally, they erupt in
+their glorious fire, their body suffused in energy and their personal
+symbols visible to all around them.
+
+The Exalt may choose to consciously hide it, if in situations where
+flaring their banner would be untoward. Hiding the anima banner requires
+*dedicated* concentration.
+
+Strife
+------
+
+The world of Creation will push even the mighty Exalted to the brink,
+and in those moments of desperation, forcing them to delve into reserves
+they did not know they had—and can rarely replicate when needed. This
+moment is called a **Strife**.
+
+Strife is a powerful tool for Player Characters to change the world
+around them.
+
+By spending **3 Anima** and performing a Stunt, the Player may:
+
+-   Use a Lesser Power they have not purchased, but would otherwise
+    qualify for. If they select a Permanent Power or one with an
+    extended duration, it only lasts a Day at most.
+
+-   Reset a Limited-Use Power they have, such as anything that must
+    activated “Once per Story”. This can be done regardless of the level
+    of the Power, and affects Anima Powers. They must still pay the
+    original activation cost of the charm, in addition to the cost of
+    the Strife.
+
+-   Have an impact on the world through narrative means. The Player
+    should feel free to dictate how they use their powers in a
+    custom-tailored way for the situation, though this does require
+    Storyteller approval to make sure it doesn’t *directly* solve the
+    problem of the scene.
+
+### Strife Guidelines
+
+When using a Strife, the action should simply happen without a roll. So
+long as a character *should* be able to do something, and it is *cool*
+for them to do so, it *does.* In this way, it can be thought of as a
+more powerful Stunt.
+
+There are a few guiding restrictions to keep in mind with Strifes, which
+should
+
+-   Other character’s actions cannot be dictated: only those under
+    control of the Player’s.
+
+-   The Action cannot *directly* solve the scene; it can only assist and
+    guide it.
+
+-   The Action should flow naturally from the character—a Solar cannot
+    suddenly shapeshift, for example.
+
+**Example**
+
+######### The Archer turns from the Dragonblood threatening her and focusing her essence into a point on their arrow. With a sharp hiss of air, she lets it loose into the nearest mountain, watching as the arrow explodes in an impressive show of Anima. The mountain rumbles as the snow dislodges, causing the newly-fallen snow to groan, rumble, and then start cascading into a deadly avalanche which rushes into the passage, sealing it and cutting off the dynasts reinforcements.
+
+“I’m going to use my archery to cause an avalanche”. it changes the
+environment, stopping any reinforcements—removing the time limit on the
+challenge, but not destroying their enemy. It assists the Player and
+their scene greatly, but does not solve it.
+
+The Great Curse
+---------------
+
+Exaltation is a great and wondrous blessing from the Gods, but with it
+comes a great and terrible Curse. Perhaps, as the ancient and lost
+stories speak, the slain Enemies of the Gods lay this Curse upon their
+servants as a last, spiteful word in their dying breath. Or perhaps it
+is simply inalienable nature of man, exemplified and given root in
+power.
+
+Regardless of its source, every Exalt carries with them the Great Curse,
+an aggrandized character flaw that can interrupt and sabotage a
+character’s well meaning in spite of their better nature.
+
+Each individual Exaltation book details their Great Curse, but it is
+important to know that these are all *suggestions*. So long as a
+character has a flaw that affects their decision, it is an acceptable
+Great Curse.
+
+Custom descriptions should always include three aspects: what the flaw
+exposes in the character, what triggers the flaw, and what the character
+will (most likely) do when they enter a Limit Break.
+
+-   **Solars** suffer from their own Ego. They are those that tirelessly
+    seek greatness and perfection, and may find others or even
+    themselves not up to the standards they desire.
+
+-   **Lunars** suffer from being trapped between worlds and are
+    conflicted by the unknown. Are they man or beast? A part of society
+    or apart from it? Their form is constantly shifting, so who are they
+    really?
+
+-   **Abyssals** have a portion of their self consumed by the void:
+    something that is lost and that can never be reclaimed. It may be
+    their name and relations; their lost vitality; a loss of emotion and
+    feeling.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Fine Tuning Limit Gain</strong></p>
+<p>Limit Gain should always be controlled by the <em>Player</em>, not the Storyteller. While you may setup the situations, it is ultimately up to the Player to decide how their character reacts—including if and when they gain Limit.</p>
+<p>Some Players will not want to gain Limit at all, others will enjoy pushing their characters back and forth constantly. Both are valid so long as they are having fun.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Limit
+
+The stress and wear of an Exalt’s life will build and press upon them,
+eventually driving them to a breaking point. This is represented by
+Limit Points.
+
+A Character gains **1 Limit** by:
+
+-   Activating their Excellency
+
+-   Encountering the limit trigger they have detailed as part of the
+    Great Curse.
+
+-   Working against one of their Intimacies, whether by choice or by
+    force.
+
+Limit Points represent how strained the Exalt is—how much wear and tear
+their psyche and soul is under. The character starts at 0, not being
+stressed, and can raise up to 10, a level of duress which they cannot
+stand anymore, at which point they will be forced Limit Break.
+
+#### Breaking Early
+
+When a character is particularly stressed, such as by being defeated,
+having their goals turned against them, their Intimacies being credibly
+threatened, or any other event the Player deems “anguishing,” they may
+see if the character Limit Breaks early.
+
+**Roll a 1d10.** If the result is equal to or higher than their current
+Limit, the character keeps it together. While they might be perturbed,
+hurt, otherwise emotionally compromised, they retain full faculty of
+their mind and actions. However, if they roll under their limit, they
+prematurely snap.
+
+The Player, knowing their character better than any at the table, may
+forgo the roll altogether and simply decide their character snaps.
+Remember, this should highlight the character’s flaws, and how it can
+impact and impede the character’s own goals!
+
+### Limit Break
+
+When a character **Limit Breaks,** they lose all perspective on anything
+that does not align with their **Great Curse** and will make active and
+considered effort to fulfill it, regardless of the consequences.
+
+A character Limit Breaking does not lose their faculties, nor do they
+forget their Intimacies—but those are simply *secondary* to their Great
+Curse. Often they will use convoluted and strange reasoning to justify
+their actions.
+
+A Limit Break lasts for an entire scene. Only performing a grave offense
+against their own deeply-held Intimacies would be enough to snap the
+character out of their actions prematurely.
+
+At the end of a Limit Break, reset Limit to 0.
+
+During a Limit Break, the character does not gain any limit—even from
+activating their Excellencies. This effectively grants them **free use
+of the Excellency for the entire scene**, though it will still raise
+their anima level.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Ticking Time Bomb</strong></p>
+<p>There will be occasions when a character enters Limit Break, but turning it into a Limit Break Scene just doesn’t fit—it occurred during an otherwise lighthearted scene, or when the Exalt is in the middle of nowhere on their own, or the scene was just wrapping up.</p>
+<p>If this occurs, with both the Storyteller and Player in agreement, the Character can postpone the Limit Break to a more appropriate scene—just don’t wait <em>too</em> long.</p></td>
+</tr>
+</tbody>
+</table>
+
+ Storyteller Timelines
 ---------------------
 
 Rather than count the exact minutes and hours of effects, Exalted relies
@@ -670,7 +949,7 @@ on a more cinematic sense of time.
     A complete game, encompassing all the stories relevant to a set of
     characters.
 
-Magnitudes
+ Magnitudes
 ----------
 
 *Exalted* is styled in more of a cinematic, broad-sweeping style game
@@ -680,6 +959,49 @@ every person, time frame, or area, it will instead deal with measures of
 
 Some Powers will declare an increase (or decrease) in a *magnitude*.
 Those magnitude definitions are as follows:
+
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Time Magnitudes</p>
+</blockquote></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>0</td>
+<td>Second (Instant)</td>
+<td>5</td>
+<td>Month</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>Minute (Moment)</td>
+<td>6</td>
+<td>Season</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Hour</td>
+<td>7</td>
+<td>Year</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Day</td>
+<td>8</td>
+<td>Decade</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Week</td>
+<td>9</td>
+<td>Century</td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <tbody>
@@ -850,101 +1172,6 @@ Those magnitude definitions are as follows:
 </blockquote></td>
 <td><blockquote>
 <p>-</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p>Time Magnitudes</p>
-</blockquote></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Scale</td>
-<td>Name</td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>0</p>
-</blockquote></td>
-<td><blockquote>
-<p>Second (Instant)</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>1</p>
-</blockquote></td>
-<td><blockquote>
-<p>Minute (Moment)</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>2</p>
-</blockquote></td>
-<td><blockquote>
-<p>Hour</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>3</p>
-</blockquote></td>
-<td><blockquote>
-<p>Day</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>4</p>
-</blockquote></td>
-<td><blockquote>
-<p>Week</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>5</p>
-</blockquote></td>
-<td><blockquote>
-<p>Month</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>6</p>
-</blockquote></td>
-<td><blockquote>
-<p>Season</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>7</p>
-</blockquote></td>
-<td><blockquote>
-<p>Year</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>8</p>
-</blockquote></td>
-<td><blockquote>
-<p>Decade</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>9</p>
-</blockquote></td>
-<td><blockquote>
-<p>Century</p>
 </blockquote></td>
 </tr>
 </tbody>
