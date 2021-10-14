@@ -8,9 +8,9 @@ prev_url: Sorcery
 prev_title: Sorcery
 ---
 
-Emerald
+<div class="power_category">Emerald</div>
 
-### <span class="smallcaps">All-Encompassing Sorcerer’s Sight</span>
+### All-Encompassing Sorcerer’s Sight
 
 **Type:** Simple; Scene  
 **Cost:** 1m
@@ -195,7 +195,7 @@ their forehead and relive it.
 The Sorcerer, casting this spell again, may pull the memory out of the
 emerald, where it will return back to its original owner.
 
-**Sapphire**
+<div class="power_category">Sapphire</div>
 
 ### Calling the Calibration Gate
 
@@ -379,7 +379,7 @@ Fate. Lastly, the further back in time the Sorcerer goes, the less
 substantial the illusions become, with gaps forming in the displayed
 memory. Anything past 500 years is nearly unusable.
 
-Adamant
+<div class="power_category">Adamant</div>
 
 ### Abjuration of the Maidens
 

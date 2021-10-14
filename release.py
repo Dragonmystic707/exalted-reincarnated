@@ -10,7 +10,7 @@ import os.path as path
 
 start_index = 2
 
-power_categories = r"(?:Lesser|Greater|Capstone|Emerald|Sapphire|Adamant)"
+power_categories = r"(Lesser|Greater|Capstone|Emerald|Sapphire|Adamant)"
 
 # Define some local paths (may need to change this later)
 script_dir = os.path.dirname(__file__)
@@ -146,9 +146,8 @@ def create_split(file_name, file_num, data_arr):
     data = re.sub(link_str, replace_link, data)
     
     # Find and replace the categories list
-    src_str = r"\n(Lesser|Greater|Capstone)\n"
     repl_str = r"""\n<div class="power_category">\1</div>\n"""
-    data = re.sub(src_str, repl_str, data)
+    data = re.sub("\n"+power_categories+"\n", repl_str, data)
 
     # # Replace any Header 9 (Examples) with the "indent" figure
     # header_str = r"#########\s(.*)"
