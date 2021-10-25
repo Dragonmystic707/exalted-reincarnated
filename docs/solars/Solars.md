@@ -225,10 +225,10 @@ hearts, spurring them forward into the shadows.
 #### Divine Mandate
 
 Spend 2 Anima. The mark of the Sun appears on their brow of the Zenith,
-and All ghosts, spirits, gods, or any other dematerialized beings are
+and all ghosts, spirits, gods, or any other dematerialized beings are
 forced to revealing themselves for the Scene. Additionally, the Zenith
-may send any willing or subdued ghosts directly to Lethe, where they may
-reenter the cycle of reincarnation.
+may send any willing or subdued ghosts directly to into the cycle of
+Reincarnation, releasing them from their torment.
 
 #### Passion of the Heart
 
@@ -746,7 +746,7 @@ a chance to react.
 **Type:** Simple; Scene  
 **Cost:** 2m
 
-The Exalt may reinforce an object—no more than (Essence) meters in its
+The Solar may reinforce an object—no more than (Essence) meters in its
 largest dimension—and make it nigh unbreakable and resistant to changing
 effects, such as from the Wyld.
 
@@ -783,15 +783,14 @@ roll.)
 **Type:** Simple; Month  
 **Cost:** 2m
 
-Targeting a non-Player individual, organization, or such group, the
-Solar may grant insight into their own knowledge and methodologies in a
-way that resonates in their minds.
+Bless a mortal individual, organization, or such group, the Solar may
+grant insight into their own knowledge and methodologies in a way that
+resonates in their minds. Up to (Essence) groups may be blessed at a
+time.
 
 Choose one of the character’s Abilities, and the target’s tasks in that
 specialty will run smoother and be completed faster than otherwise. If
 they must roll, they gain +4 dice, capped at 12 dice.
-
-Up to (Essence) blessings may be active at one time.
 
 ### Order-Affirming Blow
 
@@ -837,11 +836,9 @@ must answer truthfully.
 By infusing their methods with their own burning anima, the Solar can
 quickly purify any mundane, raw material into pure versions of its type.
 
-The Solar may not convert more than their own body weight in a single
-day.
-
 On gaining Resources in the form of raw, impure materials, the Solar may
-double its normal Resource value.
+double its normal Resource value. The Solar may not convert more than
+their own body weight in a single day.
 
 ### Marvelous Machinery
 
