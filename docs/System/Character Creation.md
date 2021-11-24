@@ -164,19 +164,188 @@ An online character sheet is provided
         local tongue, and one common to the all the Player Characters
         (typically Riverspeak).
 
-    -   Gain **7 Dots** of Merits**,** with which to purchase additional
+    -   Gain **6 Dots** of Merits**,** with which to purchase additional
         merit dots. A **4 dot** merit may only be purchased with
         storyteller permission
 
         Suggested:  
-        *\[3,2,1,1\]*
+        *\[3,2,1\]*
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p>Starting with a Greater Merit</p>
-<p>With special Storyteller permission, you may start with a 4-dot merit, which will place you “in debt” by 1 Keystone.</p>
-<p>This takes the form of an unresolved story tie related to that merit. Perhaps you are on the run for stealing it. Maybe it is defective somehow, or in great danger of falling apart? This debt will remain until that plot thread is resolved.</p></td>
+<p>With Storyteller permission, you may start with a 4-dot merit, which will place you “in debt” by 1 Keystone.</p>
+<p>This takes the form of an unresolved story tie related to that merit. Perhaps you are on the run for stealing it. Maybe it is defective somehow, or in great danger of falling apart?</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Armor</p>
+</blockquote></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p><strong>Block Modifier</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>Evasion Modifier</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Light</p>
+</blockquote></td>
+<td>+0</td>
+<td>+1</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Medium</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Heavy</p>
+</blockquote></td>
+<td><blockquote>
+<p>+2</p>
+</blockquote></td>
+<td><blockquote>
+<p>-1</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Mundane Weapons</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p><strong>Acc.</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p><strong>Full (Glancing)</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p><strong>Notes</strong></p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>Unarmed</td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>Mundane Brawl</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><strong>Close-Range Weapons (Melee)</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Light</p>
+</blockquote></td>
+<td>+3</td>
+<td>+1(0)</td>
+<td><blockquote>
+<p>Dexterity-only</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Medium</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1(1)</p>
+</blockquote></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Heavy</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>+2(1)</p>
+</blockquote></td>
+<td><blockquote>
+<p>Strength-only</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><strong>Ranged Weapons (Archery, Thrown)</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Light</p>
+</blockquote></td>
+<td>+2</td>
+<td>+0(0)</td>
+<td><blockquote>
+<p>Dexterity-only</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Medium</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1(0)</p>
+</blockquote></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Heavy</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>+2(0)</p>
+</blockquote></td>
+<td><blockquote>
+<p>Strength -only</p>
+</blockquote></td>
 </tr>
 </tbody>
 </table>

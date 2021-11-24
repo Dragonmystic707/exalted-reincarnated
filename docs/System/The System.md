@@ -664,8 +664,9 @@ regaining motes, their accumulated Anima dissipates—you can only be
 </tr>
 <tr class="even">
 <td><strong>Critical Roll</strong></td>
-<td>2 Anima for a roll of 8 Successes or more.<br />
-If the roll is 12+, gain 4 Anima.</td>
+<td>1 Anima for a roll of 8-9<br />
+2 Anima for a roll of 10-11<br />
+4 Anima for a roll of 12+</td>
 </tr>
 <tr class="odd">
 <td><strong>Stunt/Roleplay</strong></td>
@@ -673,7 +674,7 @@ If the roll is 12+, gain 4 Anima.</td>
 </tr>
 <tr class="even">
 <td><strong>Build Power</strong></td>
-<td>1 Anima per 2 Successes</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -690,8 +691,16 @@ Additionally, Anima may be used to empower a character’s
 [**Strife**](/System/The System/#strife), a way for the Player to wrest control over the
 narrative in their favor.
 
-Lastly, Anima can be used **in place of Motes,** 1 Anima per 1 Mote,
-should the Exalt ever run out of their stored energy.
+Lastly, there are a couple of raw uses of anima:
+
+-   Expending 1 Anima to add 2 Dice to an action. This may only be done
+    once per turn—you cannot expend 2 anima to get 4 dice.
+
+-   Anima may be used in place of Motes, at a rate of 1 Anima per Mote.
+    An unlimited amount of Anima may be expended this way.
+
+    -   This is usually reserved for when all Motes have been expended,
+        as Anima is typically a more precious resource.
 
 #### Build Power
 

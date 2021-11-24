@@ -11,7 +11,7 @@ next_title: Projects
 ---
 
 The Time of Tumult is one of great conflict, and the Exalted that live
-through it will invariably find themselves in armed conflict, weilding
+through it will invariably find themselves in armed conflict, wielding
 their great weapons and powers of destruction.
 
 The Combat Round
@@ -28,16 +28,10 @@ one can be a **Strike** by default. (e.g. a single **Maneuver** and
 order the Player desires.
 
 There are some charms or powers that may grant a bonus action. **There
-is a hard limit of 3 total actions per turn**, no combination of Powers
+is a hard limit of 1 bonus action per Turn**, no combination of Powers
 or effects can exceed that limit. Supplemental Powers that grant a
 maneuver’s *effects* through do not count to that limit. (e.g. If a
 Charm that supplements a successful Strike with *knockback*.)
-
-If a character were to have a Charm that grants another Movement action
-and a Charm that allows another Strike action, they would have to choose
-whether or not to take an action such as: “Move, Move, Strike” or
-“Strike, Move, Strike”, but “Move, Strike, Move, Strike” would break the
-action limit.
 
 <table>
 <tbody>
@@ -51,67 +45,77 @@ action limit.
 
 ### Turn Order
 
-The Storyteller starts combat by selecting the first side and character
-to act. Often, this will depend on the context leading up to the scene,
-such as one side ambushing the other. However, if it is ever unclear,
-simply perform a relevant Action Roll, with the character that rolls
-highest going first. Any ties should be determined by another roll. (If
-it continues to be a tie, simply flip a coin.)
+In combat, Turns follow a swinging back-and-forth focus: once one
+character finishes their actions, it is passed to the next side to the
+opponent with the most narrative weight or physical proximity to the
+action. For example, if a Player Character is attacking a monster, the
+monster would be the next to go in the action, and then the spotlight
+would swing back to the Player Character closest to the monster.
 
-If there is a roll, by default it will be (Wits + Awareness) to
-represent a character’s reaction to changing environments. However, it
-*need not be*. Any sort of contested roll can be used—if racing towards
-the battlefield, it would be (Dexterity + Athletics), for example. Or
-perhaps (Insight + Socialize) to realize that a negotiation has turned
-sour.
+Each character only takes one turn per Round. Once all combatants on a
+side gone, the remaining characters finish their turns—no character
+should be skipped in a Round (unless they willingly passed.)
 
-Once the starting character has been determined, they may take their
-action, and then pass the action to another on their side. This
-continues until all members of a side have performed an action, at which
-point it switches to a character on other side, chosen by the last
-character to go.
+The first person to act in the combat scene should naturally flow from
+the end of the last scene—if a character launched a surprise attack, or
+was the first one on the combat scene, they are the one to act first.
 
-Once all characters on both sides have performed their actions, the
-round starts over with the original starting character.
+However, if it unclear (as it often is,) the first character to act is
+determined by a (Wits + Awareness) roll performed as combat breaks
+out—the character with the most successes acting first, (Ties are
+resolved with a coin flip)
 
-### Holding Action
-
-Any character may Hold their Action, or wait to act based on something
-that happens in the battlefield. To do so, the must describe what it is
-they are waiting for: they cannot *arbitrarily wait.* When the specified
-event happens, they get a chance to act *before* or *after* the event,
-at their discretion.
-
-However, if the event does not occur during the round, their action is
-forfeited.
+The Storyteller is the ultimate arbiter of the combat flow, guiding this
+alternating spotlight as they feel best fits the mood, but characters
+volunteering for an action, or passing their action over to a fellow
+character should be encouraged and respected as best as possible.
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>Optional: Alternate Turn Orders</p>
-<p>Everyone has their favorite way determining turn order, and they all have their benefits. Ultimately, while necessary to have one, the exact system of turn orders is not important.</p>
+<td><p>Alternate Turn Orders</p>
+<p>Turn Order is a mechanic highly and contentiously discussed. Everyone has their favorite way of handling combat—all with their own individual benefits.</p>
+<p>Ultimately, what matters is simply agreement on a system, so that each Player’s turn can be quick and responsive—the exact method can be altered based on personal preferences, or even in response to a specific scene.</p>
 <p>Here are a few alternates:</p>
 <p>1. <strong>Static</strong>: At the beginning of combat, all characters roll (1d10) and add (Athletics). Each round, characters go from highest number to lowest.</p>
-<p>2. <strong>Alternating Team:</strong> The side with the highest total number of successes among all characters goes first. Each round, the team nominates which character will act for their turn.</p>
-<p>3. <strong>Focus</strong>: There is no turn order, rather the turn jumps from character to character at the Storyteller’s discretion. (This is best used for small groups.)</p></td>
+<p>2. <strong>Popcorn</strong>: Each character takes their action, and then the controlling Player designates the next character to act until all have acted in the Round.</p>
+<p>3. <strong>Nominated Team:</strong> The side with the highest total number of successes among all characters goes first. Each round, the team nominates which character will act for their turn.</p></td>
 </tr>
 </tbody>
 </table>
 
-Zones
+#### *Held* Actions
+
+A character may use up one of their actions to wait for a specific
+event, where they can use their other action to either act *before* or
+*after* the event, at their discretion. This must be a specific,
+non-arbitrary event such as “when someone comes through this door.”
+Players *must* tell the Storyteller what the event is—they cannot
+arbitrarily wait.
+
+A character may hold their action until it is their Turn again in the
+next Round. If by this point the event has not happened, the held action
+is simply lost and the character must take their new Turn as normal.
+
+ Zones
 -----
 
-The battlefield is split into distinct areas—inside the inn, weaving
-through the trees, or across the rooftops. These areas are called
-**Zones**, and characters can freely move inside, interact with, or
-importantly: attack any and all within the same zone. The character is
-constantly moving in the Zone, performing acrobatics, flipping off the
-walls, rushing from point to point—they do not simply hole up in a
-single spot waiting to be hit..
+Characters are constantly in motion in the battlefield—performing
+acrobatics, running across the walls, and rushing from point to point.
+Even the least mobile among the exalted do not simply stand in a single
+spot waiting to be hit.
 
-Zones should be split up logically based on the terrain, though if the
-Storyteller may choose to chop up a zone into smaller categories if they
-feel they are too large (i.e. a north and south side of a long path.)
+For this reason, rather than lock characters down with a required
+movement action, the battlefield is split into distinct Zones, which
+characters can freely move within and attack each other without
+limitation.
+
+When entering combat, the Storyteller should designate the battlefield
+into distinct Zones that have logical boundaries related to scene, such
+as “inside the inn” or “on top of the rooftops.” Zones should be split
+up logically based on the terrain, though if the Storyteller may choose
+to chop up a zone into smaller categories if they feel they are too
+large (i.e. a north and south side of a long path.)
 
 There is no set size for a zone—they can be as large or small as needed.
 
@@ -128,6 +132,21 @@ Ranged weapons, such as bows, have the option to attack cross zone lines
 as though they were in the same zone. However, zone boundaries often are
 marked by some sort of barrier, such as walls, which *would still*
 impede an attack.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Zone of Control</p>
+<p>Occasionally, a Zone might be focused around a character—typically some giant monster that dominates the battlefield, and often extends just as long as the creature’s reach. This is considered a “Zone within a Zone”</p>
+<p>Aside from being mobile, this Zone follows most of the same rules—characters must be in that Zone to make melee attacks (including the creature itself). But there are a couple special considerations:</p>
+<p>1. The creature can move within and between Static Zones as normal.</p>
+<p>2. The creature can force a target character into its Zone of Control by approaching them. This may be done once freely a turn, targeting a single character within the same Static Zone. (Common Sense may bring other characters in too—such as if a group is describe as huddling together.)</p>
+<p>3. Characters must always use a roll when attempting to leave the Zone of Control.</p></td>
+</tr>
+</tbody>
+</table>
+
+### 
 
  Maneuvers
 ---------
@@ -146,22 +165,21 @@ is called for.
 
 Remember, Exalted follows the dynamic and cinematic model—heroes should
 be leaping across narrow banisters, dancing steel in testing feints, and
-channelling their inner might during combat. Nearly any action, if
+channeling their inner might during combat. Nearly any action, if
 described well enough, can grant a bonus to combat.
 
 The one hard and fast rule of a Maneuver is that it **cannot deal
 damage—**that is a Strike. Knocking back a character through a wall,
 shattering the wall is a Maneuver. Knocking back a character into a
 wall, shattering their bones, is a Strike. (Knocking them back into the
-wall, breaking it *and* shattering their bones would be a Combined
-Manuever Strike, taking 2 Actions).
+wall, breaking it *and* shattering their bones would be a Maneuver and
+Strike actions, which would narratively be combined together.
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p>On Hit</p>
-<p>Many combat powers will call for something to happen “on hit”. If not specifically calling out a Strike, this can also include Maneuvers that target the specified Difficulty involving physical contact between the two characters/their weapons. For example, knocking back a character with a kick.(or specified difficulty, such as Block and Evasion).</p>
-<p>If there is no specified Difficulty, use Defense.</p></td>
+<p>Many combat powers will call for something to happen “on hit”. If not specifically calling out a Strike, this can also include Maneuvers that target the specified Difficulty involving physical contact between the two characters/their weapons. For example, knocking back a character with a kick.(or specified difficulty, such as Block and Evasion).</p></td>
 </tr>
 </tbody>
 </table>
@@ -176,8 +194,8 @@ movements of the foes, centering yourself, or making feinting moves.
 <tbody>
 <tr class="odd">
 <td><p>What can’t I do?</p>
-<p>Maneuvers are simply normal actions taken in combat, and so follow the same rule: “Does this make sense?” There are few hard limits imposed, rather relying on the judgement of the Storyteller and fellow players for the tone of the setting.</p>
-<p>Can you knock back an enemy on a wave of sound by performing an epic ballad on your essence guitar? (Charismsa + Performance) Whether or not this is something you want in your game is your choice.</p>
+<p>Maneuvers are simply normal actions taken in combat, and so follow the same rule: “Does this make sense?” There are few hard limits imposed, rather relying on the judgment of the Storyteller and fellow players for the tone of the setting.</p>
+<p>Can you knock back an enemy on a wave of sound by performing an epic ballad on your essence guitar? (Charisma + Performance) Whether or not this is something you want in your game is your choice.</p>
 <p>During combat, Physical Attributes and Martial Abilities can do the most, rarely needing an explanation or stunt to justify their actions.</p></td>
 </tr>
 </tbody>
@@ -196,6 +214,18 @@ movements of the foes, centering yourself, or making feinting moves.
 <td>Description</td>
 </tr>
 <tr class="odd">
+<td>Weaken Defense</td>
+<td>(3 / 5 / 8)</td>
+<td><p>Decrease a single target’s defense. (-1) for a (3+), (-2) for (5+), or (-3) for (8+). Cannot be stacked.</p>
+<p>This lasts at least a round.</p></td>
+</tr>
+<tr class="even">
+<td>Break/Bypass Defense</td>
+<td>(Varies)</td>
+<td><p>If a weakness exists, as detailed by the Storyteller, it can break or bypass a defense—effectively setting it to 1.</p>
+<p>Tearing armor off, or trapping a beast in a cage are examples</p></td>
+</tr>
+<tr class="odd">
 <td><p>Knockback /</p>
 <p>Pull /</p></td>
 <td>Block</td>
@@ -210,50 +240,45 @@ movements of the foes, centering yourself, or making feinting moves.
 This lasts until your next action.</td>
 </tr>
 <tr class="odd">
-<td><p>Keep Pace/</p>
-<p>Reactionary Move</p></td>
-<td>Evasion</td>
-<td>When the target takes a Move Action, reflexively move one Zone. This does not cost an action.<br />
-This lasts until your next action.</td>
-</tr>
-<tr class="even">
 <td><p>Distract /</p>
 <p>Intimidate / Stun</p></td>
 <td>Resolve</td>
-<td>You apply a Minor disadvantage on another character. If you exceed their Resolve by +3, this becomes a Moderate Disadvantage.</td>
-</tr>
-<tr class="odd">
-<td>Recover</td>
-<td>(3 / 5)</td>
-<td>Reduce all Disadvantages by (1 / 2) levels. (e.g. for 3, remove Minor Disadvantages and turn Moderate into Minor.)</td>
+<td>You apply a -2 dice disadvantage on another character. If you exceed their Resolve by +3, this becomes a -4 dice Disadvantage.</td>
 </tr>
 <tr class="even">
+<td>Recover</td>
+<td>(3 / 5)</td>
+<td><p>Remove imposed dice penalties.</p>
+<p>Purge (-2) or lower for 3, and (-4) and lower for 5.</p></td>
+</tr>
+<tr class="odd">
 <td>Smash Scenery</td>
 <td>Based on Scenery</td>
 <td>Change the scenery, such as by collapsing a pillar.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Seek Cover/</p>
 <p>Destroy Cover</p></td>
 <td>Based on Scenery</td>
 <td>Attempt to find cover, granting yourself Minor/Moderate Defense Advantage.<br />
 You may also destroy other’s cover Advantage.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Defend Other</td>
 <td>(None)</td>
 <td>Select a character in the same Zone as you. Attacks that target them must exceed your Block or their Defense, whichever is higher. They must remain in the same Zone.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Disarm</td>
 <td>Block</td>
 <td>Knock a weapon out of a hand, which cannot be reclaimed for a Round.</td>
 </tr>
-<tr class="even">
-<td>Expose/target Weakness</td>
-<td>(3)</td>
-<td><p>The next attack against an opponent is either their Block or Evasion, instead of their Defense.</p>
-<p>You may explicitly choose to gift this to another character to their advantage.</p></td>
+<tr class="odd">
+<td><p>Keep Pace/</p>
+<p>Reactionary Move</p></td>
+<td>Evasion</td>
+<td>When the target takes a Move Action, reflexively move one Zone. This does not cost an action.<br />
+This lasts until your next action.</td>
 </tr>
 </tbody>
 </table>
@@ -262,36 +287,63 @@ Strike
 ------
 
 If you truly wish to kill your opponent, you may do so by striking at
-them with a dangerous attack.
+them with a dangerous attack. These can be performed against any
+character within range that is not specifically protected by some sort
+of narrative defense—such as a wall or a giant chasm. If a character
+attempts to attack an ineligible target, remind them and ask them to
+take another action instead.
 
-First, roll the (Attribute + Ability) roll of the attack adding dice
-from Accuracy bonus gained from your weapon or charms. If the roll
-exceeds the Defense (or targeted value) of the enemy, you successfully
-Strike them.
+Without the use of a Power or a Stunt, Striking is restricted to the
+Physical Attributes (Strength, Dexterity), paired with a Martial
+Ability—typically Archery, Brawl, Melee, or Thrown.
 
-Without the use of a Power or stunt, Striking is restricted to the
-Physical Attributes (Strength, Dexterity) and the Martial Abilities,
-typically Archery, Brawl, Melee, or Thrown.
+The Accuracy of the roll is the (Attribute + Ability) dice, plus any
+bonuses from weapons or powers.
+
+If the roll matches or exceeds the higher value of the two Defenses:
+Block and Evasion, the attack hits for **Full** Damage.
+
+If the roll only matches or exceeds **one** of the two defenses, the
+attack hits for the lesser **Glancing** Damage. The target was able to
+either avoid or take the full brunt of the hit, but not enough to leave
+without a scratch.
+
+If the roll is less than both defenses, or has 0 successes, the attack
+misses and no damage is dealt.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>A Note on Combat</p>
+<p>If you run through the math, you will notice that characters are most likely to deal Glancing damage if they attack an equivalent foe—it is not difficult to raise the highest defense a point or two.</p>
+<p>This is intentional, and there are two reasons behind it:</p>
+<p>1. The game assumes—and encourages—tactical weakening of opponents defenses, as well as gratuitous boosting of their own attacks. Base attacks are unlikely to deal Full damage without said boosts.</p>
+<p>2. Attacking consumes an action, while defending does not. Therefore, the chance of completely missing and dealing <em>no</em> damage is far more punishing than being hit for some damage, and has been weighted accordingly.</p></td>
+</tr>
+</tbody>
+</table>
 
 ### Damage
 
-**Base Damage**, by default, is the highest of (Strength, Dexterity, or
-Essence Level), as a character can pierce the defenses of their opponent
-through brute force, precision strikes, or sheer force of will if the
-other two do not apply.
+Damage is based off of the **Attribute** used in the attack. **Full**
+Damage is (Attribute) + (Essence), while **Glancing** damage is
+(Attribute)/2, rounded up.
 
-The selection of Martial Arts may change or alter what source of damage
-can be used—a light weapon may require Dexterity, or a heavy weapon
-Strength. A more obscure style may wield Charisma as the damaging
-attribute.
+Weapons and powers will often boost damage, and will be written as
+follows:
 
-However, no matter the source, or restriction, **Essence** remains the
-minimum for Base Damage.
++Full (Glancing)
 
-The target’s health lost is the Base Damage, adding any bonus from
-weapons or powers, and then subtracting any defensive bonuses. The
-damage a character *takes* can be reduced all the way to 0—though this
-is still considered a hit.
+So a power that says “+2(1) damage” would add +2 Full Damage, and +1
+Glancing Damage.
+
+If, through any combination of powers or bonuses, Glancing Damage ever
+becomes greater than Full Damage, you may choose to deal Glancing damage
+during a Full hit. (You should never be punished for rolling too well.)
+
+The target loses Health equal to the damage, minus any damage reduction
+they may gain through Powers. If the damage is reduced all the way to 0,
+the attack is still considered a hit.
 
 <table>
 <tbody>
@@ -308,7 +360,7 @@ is still considered a hit.
 <li><p>The <strong>Player(s)</strong> may decide to activate their Excellency—either offensively or Defensively.</p></li>
 <li><p>If the Attack exceeds the final defense value, it hits.</p></li>
 <li><p>The Attacker declares any supplemental Damage boosting Powers.</p></li>
-<li><p>The Defender decalres any supplemental Damage reducing Powers.</p></li>
+<li><p>The Defender declares any supplemental Damage reducing Powers.</p></li>
 <li><p>The final damage is calculated, then Health is removed.</p></li>
 </ol></td>
 </tr>
@@ -423,10 +475,6 @@ Equipment
 
 ### Armor
 
-Wearing armor is a tradeoff in Exalted – you gain additional Block or
-Evasion, and thus have a higher total Defense, but at the cost of
-revealing a potential weakness to be exploited later on.
-
 -   **Light** armors are those that have been tailor made to aid in
     flexible movement—above and beyond what normal clothes will do.
     Typically, light armors will consisted of padded gloves, tightly
@@ -435,7 +483,7 @@ revealing a potential weakness to be exploited later on.
 -   **Medium** and **Heavy** armors provide increasing Block protection,
     but at the cost of more limited mobility. Most traditional armors,
     such as breastplates, chain shirts, and articulated plate fit into
-    the Medium or Heavy Category
+    the Medium or Heavy Category.
 
 <table>
 <tbody>
@@ -468,7 +516,7 @@ revealing a potential weakness to be exploited later on.
 <td><blockquote>
 <p>Light</p>
 </blockquote></td>
-<td>-1</td>
+<td>+0</td>
 <td>+1</td>
 </tr>
 <tr class="odd">
@@ -479,7 +527,7 @@ revealing a potential weakness to be exploited later on.
 <p>+1</p>
 </blockquote></td>
 <td><blockquote>
-<p>-1</p>
+<p>+0</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -490,51 +538,165 @@ revealing a potential weakness to be exploited later on.
 <p>+2</p>
 </blockquote></td>
 <td><blockquote>
-<p>-2</p>
+<p>-1</p>
 </blockquote></td>
 </tr>
 </tbody>
 </table>
 
+Artifact Armor gains +1 to Block or Evasion.
+
 ### Weapons
 
-Weapons are built using Tags, each with an individual cost in points. No
-individual tag may be applied to a weapon or armor more than once.
+<table>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p><strong>Mundane Weapons</strong></p>
+</blockquote></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p><strong>Accuracy</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p><strong>Damage</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p><strong>Notes</strong></p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>Unarmed</td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>Mundane Brawl must used Unarmed.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><strong>Close-Range Weapons (Melee)</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Light</p>
+</blockquote></td>
+<td>+3</td>
+<td>+1(0)</td>
+<td><blockquote>
+<p>Must use Dexterity when attacking.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Medium</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1(1)</p>
+</blockquote></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Heavy</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>+2(1)</p>
+</blockquote></td>
+<td><blockquote>
+<p>Must use Strength when attacking.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><strong>Ranged Weapons (Archery, Thrown)</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Light</p>
+</blockquote></td>
+<td>+2</td>
+<td>+0(0)</td>
+<td><blockquote>
+<p>Must use Dexterity when attacking.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Medium</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1</p>
+</blockquote></td>
+<td><blockquote>
+<p>+1(0)</p>
+</blockquote></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Heavy</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
+<td><blockquote>
+<p>+2(0)</p>
+</blockquote></td>
+<td><blockquote>
+<p>Must use Strength when attacking.</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-There are some tags with levels (e.g. Accurate (I) and Accurate (II)).
-They are considered the same tag, and so cannot be applied to the same
-weapon.
+#### Custom Weapons
 
-#### Mundane *Weapon Tags*
+Weapons are built using Tags, each with an individual cost in points.
+Mundane weapons start with 4 points to spend as they see fit.
 
-A standard mundane weapon starts with **3 Points** in order to craft the
-weapon with a set amount of Tags.
+Artifact weapons start with 6 points.
 
-Tags will often have some *requirements* associated with them. A weapon
-cannot have conflicting requirements.
-
-|                         |            |                                                                                  |
-|-------------------------|------------|----------------------------------------------------------------------------------|
-| **Mundane Weapon Tags** |            |                                                                                  |
-| **Name**                | **Points** | **Description**                                                                  |
-| Accurate (I/II/III/IV)  | (1/2/3/4)  | Gain +1/2/3/4 bonus to Accuracy.                                                 |
-| Damaging (I/II/III/IV)  | (1/2/3/4)  | Gain +1/2/3/4 to weapon damage.                                                  |
-| Ranged                  | 1          | You may attack across 1 Zone boundary.                                           |
-| Long-Ranged             | 3          | You may attack across 2 Zone boundaries.                                         |
-| Grappling               | 1          | The Accuracy of the weapon is added to any attempts to make a Restrain Maneuver. |
+|                         |            |                              |
+|-------------------------|------------|------------------------------|
+| **Mundane Weapon Tags** |            |                              |
+| **Name**                | **Points** | **Description**              |
+| Accurate                | 1          | Gain +1 Dice.                |
+| Damaging                | 1          | Gain +1 Full Damage          |
+| Reliable                | 2          | Gain +1 Glancing Damage      |
+| Range                   | 2          | Increase the range by 1 Zone |
 
 #### Special Tags
 
 Special weapons, Powers or Martial Arts will grant specific tags to be
-used when building a weapon. These are not available for purchase
-normally.
+used when building a weapon. These may only be purchased with
+Storyteller approval
 
-|                         |            |                                                                                                                                              |
-|-------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| **Special Weapon Tags** |            |                                                                                                                                              |
-| **Name**                | **Points** | **Description**                                                                                                                              |
-| Natural                 | 2          | The weapon cannot be disarmed.                                                                                                               |
-| Unique Ability          | 3          | Use a specific, non-Martial Attribute/Ability Combo with this weapon. (E.g. Charisma + Performance). The damaging attribute is also changed. |
+|                         |            |                                                                                                      |
+|-------------------------|------------|------------------------------------------------------------------------------------------------------|
+| **Special Weapon Tags** |            |                                                                                                      |
+| **Name**                | **Points** | **Description**                                                                                      |
+| Natural/Tethered        | 1          | The weapon cannot be disarmed.                                                                       |
+| Unique Ability          | 2          | Use a specific, non-Martial Attribute/Ability Combo with this weapon. (E.g. Charisma + Performance). |
 
 Elsewhere
 ---------
