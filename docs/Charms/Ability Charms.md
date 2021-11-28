@@ -31,7 +31,7 @@ The Exalt makes an Archery Strike against up to (Archery) foes within an
 The arrow flies true and with purpose, deflecting any incoming
 projectiles before they have a chance to hit their intended target.
 
-Against any ranged attack, you may define Defense as (Dexterity +
+Against any ranged attack, you may gain a Third Defense of (Dexterity +
 Archery)/2. This may be used to Defend Others across Zones equal to your
 weapon’s Range.
 
@@ -143,9 +143,11 @@ Brawl
 **Type:** Supplemental  
 **Cost:** 1m
 
-On a successful Brawl hit, immediately knock the target back one Zone.
+On a successful Brawl hit, immediately knock the target back up to one
+Zone. Against creatures of immense mass, such as those above an
+elephant, may require an additional (Strength + Brawl) roll vs. Block.
 
-### Knockout Blow
+### Knockout Kick
 
 **Type:** Supplemental  
 **Cost:** 1m
@@ -176,17 +178,16 @@ structures.
 
 On Feats of Strength, such as breaking through walls or destroying
 scenery, add (Essence)x2 dice. The Exalt is even able to damage walls
-made of magical materials, though must roll to do so.
-
-Additionally, a Strike against animate beings (such as Earth elementals
-and golems), add (3) dice to the Damage Roll.
+made of magical materials, though must roll to do so. Additionally, a
+Strike against animate beings (such as Earth elementals and golems), add
+(3) dice to the Damage Roll.
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p>Fists of the Street Style</p>
-<p>Brawl interfaces heavily with Martial Arts Styles, which hone a stylists body into weapons rivaling and surpassing forged steel.</p>
-<p>However, not every character has access to, nor sometimes the inclination, to becoming a master Martial Artist. Instead, they will often fall into what is (disparagingly) called the “Fists of the Street” Style.</p>
+<p>Brawl interfaces heavily with Martial Arts Styles, which hone a stylists body into weapons rivaling and surpassing forged steel. However, not every character has access to, nor sometimes the inclination, to becoming a master Martial Artist.</p>
+<p>Instead, they will form their own, untrained style that is often called “Fists of the Street” Style.</p>
 <p>While this style has no proper techniques, nor unified history behind it, it is as deadly and useful as any “true” Martial Arts.</p>
 <p><strong>Fists of the Street Form</strong><br />
 Your unarmed strikes become as strong as either Light or Medium weapons, while retaining the Natural tag. This style cannot be used with armor.</p>
@@ -202,10 +203,9 @@ Melee
 
 **Type:** Permanent
 
-The Exalt gains Parry, which may be used as a Defense to deflect any
-incoming attacks, or guard others.
-
-Their Parry score is equal to (Dexterity + Melee)/2.
+The Exalt gains Parry, a Third Defense equal to (Dexterity + Melee)/2
+against all non-targeted attacks. This defense may be used freely to
+Defend Other that are in the same Zone as the character.
 
 ### Bulwark Stance
 
@@ -243,8 +243,10 @@ damage to each individual.
 **Type:** Supplemental  
 **Cost:** (1m per Dmg.)
 
-For every mote spent, deal an extra point of Damage on a Strike. You may
-add no more than (Melee) damage this way.
+For every mote spent, deal an extra point of Full Damage on a Strike.
+You may add no more than (Melee) damage this way.
+
+You may add (Melee)/2 Glancing damage at a rate of 2m per damage.
 
  Physique
 --------
@@ -589,7 +591,7 @@ question—either by spilling it directly through words, or indirectly
 through something such as a subtle glance. If the target has no useful
 information to give, that fact is relayed instead.
 
-### <span class="smallcaps">Motive-Discerning Technique</span>
+### <span class="smallcaps">Motive-Discerning Perception</span>
 
 **Type:** Simple  
 **Cost:** 1m
@@ -999,8 +1001,6 @@ roll.
 
  Medicine
 --------
-
-### 
 
 ### <span class="smallcaps">Banishment of Pain</span>
 

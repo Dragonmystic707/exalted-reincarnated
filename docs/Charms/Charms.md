@@ -116,6 +116,14 @@ tiers.
 There are very few Greater or Capstone Universal Charms—these almost
 always the domain of Exaltation specific areas.
 
+### <span class="smallcaps">Upgrade</span>
+
+Most charms can only be purchased once, and at a set power level.
+However, there are some Charms and Powers that may have their power
+increased through an upgrade—increasing a Lesser Charm to a Greater
+Charm, and so on. Only the XP difference must be paid, and the Exalt
+retains all lesser benefits when they do so.
+
 <table>
 <tbody>
 <tr class="odd">

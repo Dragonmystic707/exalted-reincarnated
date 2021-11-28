@@ -313,7 +313,7 @@ final result of the roll:
 </tr>
 <tr class="even">
 <td><blockquote>
-<p>6-9</p>
+<p>7-9</p>
 </blockquote></td>
 <td><blockquote>
 <p>An <strong>Alteration</strong> has developed and the Exalt's direct attention is requested. Describe how the project is changed—the end goal remains the same.</p>
@@ -322,7 +322,7 @@ final result of the roll:
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p>4-5</p>
+<p>4-6</p>
 </blockquote></td>
 <td><blockquote>
 <p>A <strong>Problem</strong> happens. Something requires the character’s direct attention, and will put great strain on them.</p>

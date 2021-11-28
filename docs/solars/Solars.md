@@ -206,13 +206,13 @@ unparalleled, nor their ability to coordinate and command others.
 
 #### Fearsome Visage
 
-Reflexively spend 2 Anima. Instill an emotion of Fear, Awe,
+Reflexively spend 1 Anima. Instill an emotion of Fear, Awe,
 Intimidation, or similar into a target. This may affect targets that
 normally do not feel said emotions, such as golems and zombies.
 
 #### *Daybreak*
 
-Reflexively Spend 4 Anima. Nothing can outrun the advancing light of a
+Reflexively Spend 2 Anima. Nothing can outrun the advancing light of a
 sunrise. Immediately Strike your target again. This does not take an
 action.
 
@@ -310,15 +310,6 @@ Dawn Charms
 
 <div class="power_category">Lesser</div>
 
-### Armored Scout’s Invigoration
-
-**Type:** Permanent
-
-Armor becomes like a second skin to the Solar. At the moment of
-purchasing, permanently reduce either the Evasion or Block penalty of
-any worn armor by 1, to a minimum of 0. This charm may be repurchased as
-a Greater and then Capstone Charm.
-
 ### Burning Essence Strike
 
 **Type:** Supplemental  
@@ -343,7 +334,7 @@ capped at (Essence)x3.
 ### Diamond-Body Mastery
 
 **Type:** Reflexive  
-**Cost:** 2m
+**Cost:** 1m
 
 The Solar’s body becomes resistant to the world around them. You may
 negate up to (Essence)x2 damage from Environmental effects. This
@@ -358,12 +349,13 @@ through glass windows or falling five stories.
 Conjuring the deepest Intimacy, the Solar lashes out with a spike of
 Soulfire which cascades from enemy to enemy.
 
-Make an (Essence + Integrity) roll. All enemies in the Zone with an
-Essence lower than the result suffers (Essence) damage, as the bolt of
-light shines through and pierces through all of them. Creatures of
-Darkness hit by the Solar Spike suffer an extra (+2) damage.
+Make an (Wits + Integrity) roll +(Essence) extra dice. All enemies in
+the Zone with an Essence lower than the result suffers 5+(Essence)
+damage, as the bolt of light shines through and pierces through all of
+them. Creatures of Darkness hit by the Solar Spike suffer an extra
+2+(Essence) damage.
 
-###  Eagle-Wing Style
+### Eagle-Wing Style
 
 **Type:** Supplemental; Scene  
 **Cost:** 1m
@@ -374,7 +366,9 @@ leap effortlessly through the air. So long as there is the most minimum
 of solid mass to propel themselves against, they may use it to keep
 leaping upwards.
 
-### Shadow over Water
+### 
+
+###  Shadow over Water
 
 **Type:** Reflexive  
 **Cost:** (1/2/4m)
@@ -400,8 +394,8 @@ Conjuring the deepest Intimacy, the Solar lashes out with a spike of
 Soulfire which cascades from enemy to enemy.
 
 Make an (Essence + Integrity) roll. All enemies in the Zone with an
-Essence lower than the result suffers (Essence) damage. Creatures of
-Darkness hit by the Solar Spike suffer an extra (+2) damage.
+Essence lower than the result suffers 5+(Essence) damage. Creatures of
+Darkness hit by the Solar Spike suffer an extra 2+(Essence) damage.
 
 <div class="power_category">Greater</div>
 
@@ -447,7 +441,7 @@ This may also be used to halt a Sorcerer from completing a Spell.
 The Solar’s weapon careens through the air, striking target after
 target.
 
-The Solar may target up to (Essence) enemies with their Maneuver or
+The Solar may target up to (2+Essence) enemies with their Maneuver or
 Strike, dealing full damage to each of them so long as each target is a
 valid target.
 
@@ -459,7 +453,7 @@ valid target.
 Gathering anima into a burning and crackling aura, their weapon is
 infused with Soulfire and is hurled at their enemy.
 
-On a Decisive Attack, Gain (+Essence) successes on both the Accuracy and
+On a Decisive Attack, Gain (+3) successes on both the Accuracy and
 damage rolls. If the target is a Creature of Darkness, deal an
 additional (+Essence) damage.
 
@@ -550,7 +544,7 @@ complication.
 ### Sun King Radiance
 
 **Type:** Simple; Day  
-**Cost:** 1m
+**Cost:** 2m
 
 The Solar radiates their strength to others. Choose up to (Essence) x2
 targets, and one of the Solar’s Intimacies. So long as the target is
@@ -644,8 +638,9 @@ which all snap to attention and must obey.
 The Solar targets a Mortal, or a Yu-Shan spirit of Essence less than the
 Solar. Any inconvenient task the Solar commands will be performed to the
 best of their abilities, without question nor needed roll. If the target
-is some other entity, the Solar must succeed on a Social roll vs.
-Resolve roll for this to take effect.
+is some other entity, or is against a hostile character combatant, the
+Solar must succeed on a Social roll vs. Resolve roll for this to take
+effect.
 
 If a given task would run counter their intimacies, or the task is
 otherwise considered unacceptable influence, this charm automatically
@@ -658,7 +653,7 @@ fails and the target is broken from the Solar’s influence.
 
 Allies need only look to the Solar to steady their nerves and keep their
 wits together. Immediately banish fear, panic, and other similar
-emotions from all allies within Medium Range of the Solar, and force any
+emotions from all allies that can perceive the Solar, and force any
 future attempts to fail for the remainder of the scene.
 
 This Charm does not protect against the Dawn Caste’s Anima Power.
@@ -712,7 +707,8 @@ those listening become unable to interrupt. Even their enemies must
 pause at the force of conviction the Solar, unable to take direct action
 against the Solar.
 
-This charm only affects those with (Essence) less than the Solar’s.
+This charm only affects those with (Essence) less than 3, or the Solar’s
+own (whichever is greater).
 
 ### Prophet-Uplifting Evocation
 
@@ -913,7 +909,10 @@ characters.
 **Type:** Simple  
 **Cost:** 3a
 
-The Solar imposes their will upon the Wyld, and it must obey.
+The Solar imposes their will upon the Wyld, and the endless chaos must
+conform.
+
+Whenever crafting in the Wyld
 
 Once a story, gain +2 Resources. As well, the Solar may create projects
 in the Wyld without suffering any Opposition Modifiers from the land.
@@ -1001,14 +1000,6 @@ windows remain shut, as though they had not passed through them.
 
 Only solid walls without any opening may halt their passage from one
 location to the next.
-
-### Seven Shadows Evasion
-
-**Type:** Reflexive  
-**Cost:** 2a
-
-The Solar is as swift as the shadows they cast, and may Increase their
-Evasion against an attack by (Essence).
 
 ### Sound and Scent Banishing Attitude
 

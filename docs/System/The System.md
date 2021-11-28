@@ -674,7 +674,7 @@ regaining motes, their accumulated Anima dissipates—you can only be
 </tr>
 <tr class="even">
 <td><strong>Build Power</strong></td>
-<td></td>
+<td>(Successes) / 2</td>
 </tr>
 </tbody>
 </table>
@@ -723,10 +723,10 @@ devastating blow” or “catching a breather” or “bringing all the clues
 together in the mind.” It is intended to narratively reflect be the calm
 before a very, very explosive storm of power and action.
 
-For this reason, Build Power *cannot* have another mechanical
-purpose—you cannot intimidate combatants with a Build Power action;
-though having the scene or even unimportant characters *reacting* to the
-event is always encouraged.
+As Building Power is a narrative device to represent a character pushing
+above and beyond normal strength, trying to purposefully sit and gather
+Power in scenes without any narrative weight behind it is not allowed.
+It
 
 #### Narrative scope
 
@@ -930,7 +930,7 @@ their anima level.
 </tbody>
 </table>
 
- Storyteller Timelines
+Storyteller Timelines
 ---------------------
 
 Rather than count the exact minutes and hours of effects, Exalted relies

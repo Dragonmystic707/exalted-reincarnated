@@ -85,7 +85,7 @@ Scale)x2 damage.
 **Cost:** 3a
 
 Flames surround the sorcerer, whipped by their anima in to the shape of
-the elemental garda bird. As the spell completes, it unfurls its wings,
+the elemental Garda bird. As the spell completes, it unfurls its wings,
 shrieking to the sky as it rushes forward in a terrifying blaze towards
 a point up to two zones away from the Sorcerer.
 
@@ -95,7 +95,7 @@ immediately take (Essence)x5 damage, and become burned, taking an
 additional (3) damage every turn.
 
 Creatures attuned to fire, such as its Elementals and Fire-Aspected
-Dragonbloods, are immune to this attack.
+Dragonbloods are immune to this attack.
 
 ### <span class="smallcaps">Infallible Messenger</span>
 
@@ -114,7 +114,7 @@ existence as the sorcerer.
 
 ###  <span class="smallcaps">Mists of Eventide</span>
 
-Type: Simple  
+Type: Simple; Scene  
 Cost: 2a
 
 From atop the highest peaks of the elemental Pole of Air, the Sorcerer
@@ -133,7 +133,8 @@ will lose 1 Action per turn while they remain in the mists.
 ### Summon <span class="smallcaps">Demon</span>
 
 **Type:** Ritual; Task  
-**Cost:** 3m
+**Upgradeable**  
+**Cost:** 3m (5m, 7m)
 
 Spending at least 15 minutes, out of sight of the Sun, the Sorcerer
 draws an elaborate summoning circle detailing out the Ancient Contract
@@ -160,8 +161,8 @@ and so are considered far more unreliable.
 
 This Spell may be repurchased at the Sapphire and Adamant level to
 summon Second and Third Circle Demons/Spirits, which act as Ally (4) and
-(5), respectively. Second Circle Demons may only be summoned at
-midnight, and Third Circle only on the night of the No Moon.
+(5), and cost (5m, 7m) respectively. Second Circle Demons may only be
+summoned at midnight, and Third Circle only on the night of the No Moon.
 
 <table>
 <tbody>
@@ -324,7 +325,7 @@ the sanctified ground for five years afterwards.
 
 ###  <span class="smallcaps">Magma Kraken</span>
 
-**Type:** Simple  
+**Type:** Simple; Scene  
 **Cost:** 4a
 
 The Essence of fire erupts at three Zones the Sorcerer designates, whose
@@ -481,22 +482,3 @@ the target’s Evasion to hit.
 If the beam comes in contact with a person, they suffer (Essence)x10
 damage immediately. Objects are immediately melted, unless they are made
 of the strongest magical materials.
-
-The beam of destruction is formed from the ambient destructive energy,
-and so will have different effects based on what dominant energies are
-around:
-
--   **Creation/Yu-Shan**: the beam is formed of the Sun’s essence, a
-    brilliant gold and red, dealing an immediate (7) damage to all
-    Creatures of Darkness in the same Zones that it passes through.
-
--   **Underworld/Shadowlands**: The beam is filled with necrotic energy,
-    a sickening pustule of decomposition. It leaves behind a film of
-    decay in the Zones it passes through, leaving an Environmental
-    Damage of (5) that affects the living.
-
--   **Malfeas**: The burning green sun torches and blinds all who dare
-    look upon its power.
-
--   **Wyld:** Leaves behind a chaotic mutation on anything or anyone the
-    beam touches, which will fade after a Day.

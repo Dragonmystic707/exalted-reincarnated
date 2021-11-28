@@ -332,7 +332,7 @@ Damage is (Attribute) + (Essence), while **Glancing** damage is
 Weapons and powers will often boost damage, and will be written as
 follows:
 
-+Full (Glancing)
+**+Full (Glancing)**
 
 So a power that says “+2(1) damage” would add +2 Full Damage, and +1
 Glancing Damage.
@@ -344,6 +344,16 @@ during a Full hit. (You should never be punished for rolling too well.)
 The target loses Health equal to the damage, minus any damage reduction
 they may gain through Powers. If the damage is reduced all the way to 0,
 the attack is still considered a hit.
+
+#### Third Defense
+
+There are some Powers, Martial Arts, etc. that grant a third defense.
+This new defense—typically limited in some way—will primarily help avoid
+Glancing damage, replacing the weaker of Block or Evasion on normal
+attacks.
+
+Maneuvers and actions that target Block or Evasion, however, remain
+unaffected.
 
 <table>
 <tbody>
@@ -366,6 +376,39 @@ the attack is still considered a hit.
 </tr>
 </tbody>
 </table>
+
+**<span class="smallcaps">Combat End</span>**
+---------------------------------------------
+
+Combat ends when the outcome of the scene has been determined—you don’t
+need to grind out all the health from opponents to know they are
+defeated.
+
+Once the direction of the Scene is determined, the Storyteller may drop
+out of Combat and into a Narrative scene, letting the players resolve
+combat as they see fit—or try to recuperate from its losses.
+
+The Exalted are also known to stop combat through strange ways—such as
+breaking the will of combatants so they no longer are their enemies.
+Moments like this should be *encouraged*, and there is no special reason
+that characters will keep attacking past reason.
+
+### Fleeing
+
+It is not unreasonable that one side or another will, instead of waiting
+to be slaughtered, or outright surrender, they will instead try to flee
+for their lives.
+
+There are two methods to contest this. (Simply allowing one side or the
+other to flee is also an option.)
+
+One, is to transfer into an **Encounter**, where chasing or fleeing is
+the goal of the encounter, and the Key Issues are impediments to
+trapping or routing the fleeing characters.
+
+The other is to attempt to keep the fleeing characters in combat. In
+this case, all fleeing characters need to leave and external-facing
+Zones through a contested Athletics roll on their turn.
 
 Defeat
 ------
