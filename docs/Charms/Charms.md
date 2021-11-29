@@ -4,8 +4,6 @@ base_url: Charms
 title: Charms
 order: 0
 group_order: 4
-next_url: Ability Charms
-next_title: Ability Charms
 ---
 
 Charms are the natural expression of a character’s essence, a specific
