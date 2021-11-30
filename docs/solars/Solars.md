@@ -249,10 +249,12 @@ possibilities they see unfolding before them. Predict a sequence of
 events that will happen in the scene, which is now considered a fact so
 long as there is no interference.
 
-#### *Summoner’s Call*
+#### *Anima Assistant*
 
-Spend 4 Anima. Immediately summon a lesser Elemental or demon to assist
-you for the Day. They act as a 3-dot Ally.
+Spend 2 Anima. You shed a portion of you anima into glowing, burning
+shell(s) of your choice of shape—either a single creature, or a group of
+small creatures. These assistant(s) are an extension of yourself—a
+perfect execution of your will. They are represented as a 4-dot Ally.
 
 ###  Night
 
@@ -501,7 +503,7 @@ Zenith Charms
 
 **Type:** Simple; Day  
 **Cost:** 1m per target  
-**Prerequisite:** Integrity Protection Prana (Universal Charm)
+**Prerequisite:** Integrity Protection Prana (Integrity Charm)
 
 The Solar protects not only themselves, but their certainty of will
 extends to others.
@@ -515,8 +517,8 @@ Grant the effects of *Integrity Protection Prana* for the scene to up to
 **Cost:** 2m
 
 Perform a Social roll vs. Resolve against a target. If successful, the
-Solar forces the target character to take an action, *any action*, that
-is in alignment with one of their Intimacies or Emotions.
+Solar forces the target character to take an action—*any action—*that is
+in alignment with one of their Intimacies or Emotions.
 
 ### Peril-Demanding Haste
 
@@ -565,16 +567,21 @@ remove this temporary Intimacy.
 
 ### Worshipful Lackey Acquisition
 
-**Type:** Reflexive; Week  
+**Type:** Reflexive; Scene  
 **Cost:** 2m
 
-After successfully completing an Encounter Scene with all Key Issues
-under their Party’s Control, those who observed the scene become
-enthralled by the Exalt, willing to nearly anything.
+The Solar’s presence alone is enough to summon a group of sycophants
+from any place that has at least a village-sized population. These
+lackeys become enthralled by the Solar, and are willing to do nearly
+anything for them.
 
-Any who has a Resolve less than the Exalt’s Essence gains a positive
-Intimacy towards the Exalt for the next week, and will perform any
-Inconvenient tasks when asked without the need of a roll.
+The Solar can use these impromptu worshipers to gain a Group Defense
+bonus (+2 Resolve), or may command to perform an Inconvenient task
+without a need for a roll.
+
+The individuals of the group, while denizens of the area, rarely have
+any special access, knowledge, or social stature that would be useful to
+the Solar, aside from what is common knowledge among the populace.
 
 ### Underling-Promoting Touch
 
@@ -719,6 +726,8 @@ You may now perform Projects to grant the Rank 4
 to the character, granting them access to Universal Charms.
 
 <div class="power_category">Capstone</div>
+
+### 
 
 Twilight Charms
 ---------------

@@ -163,6 +163,7 @@ def create_split(file_name, file_num, data_arr):
     new_dir = path.join(page_dir, file_name)
     if not path.exists(new_dir):
         os.makedirs(new_dir)
+        
 
     with open(path.join(page_dir, file_name, title_name + ".md"), "w", encoding="utf8") as w:
         w.write(header_text)
