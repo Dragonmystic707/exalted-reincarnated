@@ -31,13 +31,13 @@ but many other times you may need to ask them what their ultimate goal
 is. This is the first hurdle in starting an Encounter.
 
 It is fine if the goal *changes* during the course of the Encounter,
-there just needs to be something there to start with..
+there just needs to be something there to start with.
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p>Simple Goals</p>
-<p>It’s perfectly fine to have simple, assumed goals. Not everything needs to have a complex or structured goal; sometimes a primal need is all a goal has to be. “Survive” is quite a popular one.</p></td>
+<p>It’s perfectly fine to have simple, assumed goals. Not everything needs to have a complex or structured; sometimes a primal need is all it has to be. “Survive” is quite popular.</p></td>
 </tr>
 </tbody>
 </table>
@@ -88,19 +88,19 @@ village, yet your Players instead craft a monument of glory—and that is
 perfectly fine and encouraged! So long as each action has a narrative
 weight, even if unexpected, it should be allowed!
 
-|                       |     |
-|-----------------------|-----|
-| **Sample Key Issues** |     |
-| 1                     |     |
-| 2                     |     |
-| 3                     |     |
-| 4                     |     |
-| 5                     |     |
-| 6                     |     |
-| 7                     |     |
-| 8                     |     |
-| 9                     |     |
-| 10                    |     |
+|                       |                                                                                                |
+|-----------------------|------------------------------------------------------------------------------------------------|
+| **Sample Key Issues** |                                                                                                |
+| 1                     | Multiple groups of Guards are patrolling on a schedule.                                        |
+| 2                     | There is a character with a close and strong emotional tie, opposing what the characters seek. |
+| 3                     | There is a group that have political desires to keep the status quo.                           |
+| 4                     |                                                                                                |
+| 5                     |                                                                                                |
+| 6                     |                                                                                                |
+| 7                     |                                                                                                |
+| 8                     |                                                                                                |
+| 9                     |                                                                                                |
+| 10                    |                                                                                                |
 
 ###  Complications
 
@@ -134,7 +134,7 @@ it is far more satisfying and impactful when it actually does.
 | **Sample Complications** |                                                                                                                    |
 | 1                        | There is a mutually exclusive choice the players must make. Should they choose one, the other will become cut off. |
 | 2                        | The Environment is slowly, consistently deteriorating—either literally or metaphorically.                          |
-| 3                        |                                                                                                                    |
+| 3                        | A character needs to be distracted or kept occupied for a certain amount of rounds.                                |
 | 4                        |                                                                                                                    |
 | 5                        |                                                                                                                    |
 | 6                        |                                                                                                                    |

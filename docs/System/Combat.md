@@ -266,7 +266,8 @@ You may also destroy other’s cover Advantage.</td>
 <tr class="odd">
 <td>Defend Other</td>
 <td>(None)</td>
-<td>Select a character in the same Zone as you. Attacks that target them must exceed your Block or their Defense, whichever is higher. They must remain in the same Zone.</td>
+<td><p>Select a character in the same Zone as you. Attacks that target them must instead target you.</p>
+<p>You must remain in the same Zone as your charge.</p></td>
 </tr>
 <tr class="even">
 <td>Disarm</td>

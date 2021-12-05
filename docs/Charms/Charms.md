@@ -166,5 +166,7 @@ have?”
     *Legend*, which is why Solars with their Supernal Force are so
     terrifying.
 
-    These typically cost 3-6 anima.
+    These typically cost 3-4 anima.
+
+**Note:** Reflexive charms should favor using motes over anima.
 

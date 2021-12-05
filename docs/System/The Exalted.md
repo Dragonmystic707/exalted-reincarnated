@@ -118,24 +118,6 @@ The power of the Alchemical is focused on the magical materials:
 Orichalcum, Jade, Moonsilver, Starmetal, and Soulsteel. Their powers are
 modular, allowing swapping of charms and powers as they see fit.
 
-### Getimians
-
-&lt;todo&gt;
-
-### Exigents
-
-&lt;todo&gt;
-
-Other Creatures
-
-### <span class="smallcaps">The Fair Folk</span>
-
-&lt;todo&gt;
-
-### Dragon Kings
-
-&lt;todo&gt;
-
 Attributes
 ----------
 

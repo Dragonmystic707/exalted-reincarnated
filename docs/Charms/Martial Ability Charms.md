@@ -217,8 +217,9 @@ Defend Other that are in the same Zone as the character.
 
 You may reflexively defend anyone in your zone without taking an action.
 
-Alternatively, you may sacrifice one of your next actions in order to
-move Zones and protect another within an adjacent Zone.
+Additionally, you may defend those in an adjacent Zone, reflexively
+moving towards them without an action. However, on your next turn, you
+lose an action.
 
 ### Call the Blade
 
