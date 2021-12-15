@@ -14,13 +14,15 @@ Awareness
 ### <span class="smallcaps">Inner Eye Focus</span>
 
 **Type:** Reflexive; Scene  
-**Cost:** 1m
+**Cost:** 2m
 
-Eliminate all mundane Disadvantages caused by visual conditions such as
-smoke, fog, and darkness.
+The Exalt may perceive all around them, relying on other senses or
+heightening their own until impediments such as smoke, fog, and natural
+darkness mean nothing.
 
-Supernatural forces can be overcome with a (Int. + Awareness) vs.
-(target Essence) roll.
+The Exalt may immediately ignore any disadvantage caused by natural
+visual impediments, and can see just as clearly in the middle of the
+night as they could in day.
 
 ### <span class="smallcaps">Living Pulse Perception</span>
 

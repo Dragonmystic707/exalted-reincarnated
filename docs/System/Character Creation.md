@@ -234,21 +234,21 @@ An online character sheet is provided
 <table>
 <tbody>
 <tr class="odd">
-<td><strong>Mundane Weapons</strong></td>
+<td><blockquote>
+<p><strong>Mundane Weapons</strong></p>
+</blockquote></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
+<td>Acc.</td>
 <td><blockquote>
-<p><strong>Acc.</strong></p>
+<p>Damage</p>
 </blockquote></td>
 <td><blockquote>
-<p><strong>Full (Glancing)</strong></p>
-</blockquote></td>
-<td><blockquote>
-<p><strong>Notes</strong></p>
+<p>Notes</p>
 </blockquote></td>
 </tr>
 <tr class="odd">
@@ -259,12 +259,10 @@ An online character sheet is provided
 <td><blockquote>
 <p>+0</p>
 </blockquote></td>
-<td><blockquote>
-<p>Mundane Brawl</p>
-</blockquote></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><strong>Close-Range Weapons (Melee)</strong></td>
+<td><strong>Close-Range Weapons (Melee-Range)</strong></td>
 <td></td>
 <td></td>
 <td></td>
@@ -274,9 +272,9 @@ An online character sheet is provided
 <p>Light</p>
 </blockquote></td>
 <td>+3</td>
-<td>+1(0)</td>
+<td>+0/0</td>
 <td><blockquote>
-<p>Dexterity-only</p>
+<p>Dex.-only</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -287,7 +285,7 @@ An online character sheet is provided
 <p>+1</p>
 </blockquote></td>
 <td><blockquote>
-<p>+1(1)</p>
+<p>+1/1</p>
 </blockquote></td>
 <td></td>
 </tr>
@@ -299,14 +297,14 @@ An online character sheet is provided
 <p>+0</p>
 </blockquote></td>
 <td><blockquote>
-<p>+2(1)</p>
+<p>+2/1</p>
 </blockquote></td>
 <td><blockquote>
-<p>Strength-only</p>
+<p>Str-only</p>
 </blockquote></td>
 </tr>
 <tr class="even">
-<td><strong>Ranged Weapons (Archery, Thrown)</strong></td>
+<td><strong>Ranged Weapons</strong></td>
 <td></td>
 <td></td>
 <td></td>
@@ -315,10 +313,10 @@ An online character sheet is provided
 <td><blockquote>
 <p>Light</p>
 </blockquote></td>
-<td>+2</td>
-<td>+0(0)</td>
+<td>+1</td>
+<td>+0/0</td>
 <td><blockquote>
-<p>Dexterity-only</p>
+<p>Dex-only</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -326,26 +324,12 @@ An online character sheet is provided
 <p>Medium</p>
 </blockquote></td>
 <td><blockquote>
-<p>+1</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1(0)</p>
-</blockquote></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Heavy</p>
-</blockquote></td>
-<td><blockquote>
 <p>+0</p>
 </blockquote></td>
 <td><blockquote>
-<p>+2(0)</p>
+<p>+1/0</p>
 </blockquote></td>
-<td><blockquote>
-<p>Strength -only</p>
-</blockquote></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -367,7 +351,7 @@ will be completed automatically.
     Exalts. This sets you apart from most mortals who do not have an
     essence rating at all. (Essence 0).
 
-2.  Start with a **Mote Pool of 8**, which is how you empower might
+2.  Start with a **Mote Pool of 6**, which is how you empower might
     charms, spells, and techniques. The pool starts completely filled.
 
 3.  **Health**  
@@ -444,7 +428,7 @@ Remember that each Essence Rank provides:
 
 -   +2 Maximum Motes
 
--   Ensures a minimum Base Damage of (Essence)
+-   +1 Full Damage
 
 At **Essence 3** and **Essence 5**, the character gains access to
 purchasing **Greater** and **Capstone** charms, respectively.
@@ -551,7 +535,7 @@ Follow Character Creation, and then add an additional:
 </tbody>
 </table>
 
-### Mortal Start
+###  Mortal Start
 
 It is quite natural to want to start the adventure before the Exalted
 have become what they are. This should be taken with great care and
@@ -602,4 +586,15 @@ normal mortals. They follow this creation guidance:
 8.  Set **Health** to 15, then add (Physique) additional points.
 
 9.  The remaining derived values are calculated as normal.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>One-Shots</strong></p>
+<p>Exalted Reincarnated is intended to be played across multiple sessions, and so the <strong>Limit</strong> mechanic is balanced to buildup over several sessions.</p>
+<p>If you do a One-Shot, <strong>start at 5 Limit</strong> or higher for each character. That should be more than enough for crazy, overpowered shenanigans that are a hallmark of one-shots, but not so much that there are no consequences.</p>
+<p>As well, it is suggested you tie up a session with a Project, giving up to a generous 4 Resources and 1 Keystone each, as a way to sunset the characters and session.</p></td>
+</tr>
+</tbody>
+</table>
 

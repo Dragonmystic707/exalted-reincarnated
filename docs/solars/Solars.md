@@ -106,54 +106,39 @@ purchase Greater Charms of their Caste at Essence 1, and Capstone Charms
 of their Caste at Essence 3. Twilight Caste Solars may do the same with
 Greater and Capstone Spells.
 
+Solars may choose a single Martial Arts, which will follow this same
+advantage.
+
 At Character Creation, you must still purchase 3 Lesser Powers, but may
 purchase the Greater Charms with the bonus experience.
 
 ### Solar Excellency
 
-At the cost of 1 Limit, the Solar may either add the used (Ability) or
-(Essence) as immediate successes, whichever is higher. This may be used
-for defensive values, for example increasing Evasion by the (Athletics)
-score.
+At the cost of 1 Limit, the Solar gains successes equal to the Rating of
+the Ability used on the roll. For example, if they rolled (Dexterity
+\[3\] + Stealth \[4\]), they could immediately gain 4 successes. This
+cannot be used on derived static values, such as Resolve or Evasion.
 
-Solar Anima **<span class="smallcaps">Banners</span>** 
-------------------------------------------------------
+Like most Excellencies, this may be used after the roll is normally
+determined.
 
-The anima of Solars will naturally be naturally composed of golds,
-whites, as well as various oranges and reds that are associated with the
-setting sun. The figures show inside of the banner will show highly
-intricate details, often containing symbols, words, and fractal designs
-that all have deep representations of the Exalt’s soul.
-
-Soulfire
---------
-
-The boundless essence of a Solar is, in itself, a dangerous weapon. With
-certain charms and actions, the Solar can lance out their anima itself
-as an extension of themselves.
-
-This Soulfire is particularly threatening to Creatures of Darkness.
-
-### Creatures of Darkness
-
-These are any Spirits, demons, or other supernatural creatures whose
-bodies and nature recoil at the sight of the Sun and his Chosen. The
-following are a broad stroke classification of Creatures of Darkness:
-
--   Denizens of the Underworld, such as ghosts, specters, and zombies,
-    and even its champions, the Abyssal Exalted.
-
--   Any Spirits of the Night, those gods and monsters of Creation that
-    live in the shadows of reality. Luna and her chosen are not part of
-    this classification.
-
--   Demons descended from the Ebon Dragon.
-
-Being classified as a Creature of Darkness does not belay some
-corruption of the heart—for example, many of the Night Spirits are
-dutiful citizens and stewards of the Unconquered Sun—it only represents
-that their very Essence cannot stand the incredible light in front of
-them.
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Soulfire</strong></p>
+<p>The boundless essence of a Solar is, in itself, a dangerous weapon. With certain charms and actions, the Solar can lance out their anima itself as an extension of themselves.</p>
+<p>This Soulfire is particularly threatening to Creatures of Darkness.</p>
+<p><strong>Creatures of Darkness</strong></p>
+<p>These are any Spirits, demons, or other supernatural creatures whose bodies and nature recoil at the sight of the Sun and his Chosen. The following are a broad stroke classification of Creatures of Darkness:</p>
+<ul>
+<li><p>Denizens of the Underworld, such as ghosts, specters, and zombies, and even its champions, the Abyssal Exalted.</p></li>
+<li><p>Any Spirits of the Night, those gods and monsters of Creation that live in the shadows of reality. Luna and her chosen are not part of this classification.</p></li>
+<li><p>Demons descended from the Ebon Dragon.</p></li>
+</ul>
+<p>Being classified as a Creature of Darkness does not belay some corruption of the heart—for example, many of the Night Spirits are dutiful citizens and stewards of the Unconquered Sun—it only represents that their very Essence cannot stand the incredible light in front of them.</p></td>
+</tr>
+</tbody>
+</table>
 
  Great Curse
 -----------
@@ -197,7 +182,16 @@ Caring for others is too much of a hassle, and too much pain. The Solar
 becomes a machine of pure logic, following a path devoid of empathy and
 feeling.
 
- **<span class="smallcaps">Solar Anima Powers</span>**
+ Solar Anima **<span class="smallcaps">Banners</span>** 
+------------------------------------------------------
+
+The anima of Solars will naturally be naturally composed of golds,
+whites, as well as various oranges and reds that are associated with the
+setting sun. The figures show inside of the banner will show highly
+intricate details, often containing symbols, words, and fractal designs
+that all have deep representations of the Exalt’s soul.
+
+**<span class="smallcaps">Solar Anima Powers</span>**
 -----------------------------------------------------
 
 ### Dawn
@@ -258,7 +252,7 @@ shell(s) of your choice of shape—either a single creature, or a group of
 small creatures. These assistant(s) are an extension of yourself—a
 perfect execution of your will. They are represented as a 4-dot Ally.
 
-###  Night
+### Night
 
 Even when the Sun sets, his presence can be felt everywhere. The Night
 caste embody divine determination: they will do whatever needs to be
@@ -287,9 +281,9 @@ officiate.
 
 #### *Oath-Binder*
 
-Spend 4 Anima, and sanctify an Oath made between willing characters. Any
-who have sworn this oath will suffer Divine, Storyteller-driven
-retribution—including the Player Characters.
+Once per Story, spend 4 Anima, and sanctify an Oath made between willing
+characters. Any who have sworn this oath will suffer Divine,
+Storyteller-driven retribution—including the Player Characters.
 
 <table>
 <tbody>

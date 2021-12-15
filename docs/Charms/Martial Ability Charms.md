@@ -22,9 +22,17 @@ The sky becomes filled with a barrage of arrows, blotting out the
 celestial bodies with their mass before they come crashing down into
 their foes.
 
-The Exalt makes an Archery Strike against up to (Archery) foes within an
-*adjacent* Zone. All creatures with a Defense less than the attack take
-half of the normally calculated damage.
+Attack up to (Archery) foes in a single, *adjacent* Zone with a single
+dice roll. You deal -2 less damage on this flurried attack.
+
+### Cruel Thorns
+
+**Type:** Reflexive  
+**Cost:** 2m
+
+If you roll 8 or more successes on an Archery Strike (and hit the
+target), you may add an additional (Attribute + Essence)/2 damage to
+your attack.
 
 ### Dragonfly Finds Mate
 
@@ -34,20 +42,8 @@ The arrow flies true and with purpose, deflecting any incoming
 projectiles before they have a chance to hit their intended target.
 
 Against any ranged attack, you may gain a Third Defense of (Dexterity +
-Archery)/2. This may be used to Defend Others across Zones equal to your
-weapon’s Range.
-
-### Inescapable Judgment
-
-**Type:** Supplemental  
-**Cost:** 1m
-
-The Exalt locks their senses onto their target, imbuing Flows of Essence
-into their bolt to protect its inevitable journey.
-
-No Disadvantages from environmental effects, such as visual conditions
-of darkness, smoke, or environmental effects such as high winds will
-harm the path of the projectile. Cover and line of sight still apply.
+Archery)/2 + (Weapon Acc.). This may be used to Defend Others at a Range
+equal to that of your weapon’s.
 
 ### Splitting the Arrow
 
@@ -57,19 +53,24 @@ harm the path of the projectile. Cover and line of sight still apply.
 The Exalt strikes with unerring accuracy and lethality, finding the
 smallest chink of armor and exploiting it.
 
-The Archery Strike bypasses Defense and Block, only targeting Evasion.
+Your attack now targets Evasion only: dealing full damage if successful,
+and no damage otherwise.
 
 ### Wise Arrow
 
 **Type:** Supplemental  
-**Cost:** 1m
+**Cost:** 1m (+2)
 
 With perfect control, the Exalt lets loose a bolt of a perfect arc to
 strike their target.
 
-So long as there is a physical path to their target, such as over
-barriers, through doors, or even between slits of a door, the Exalt may
-make a ranged attack against their foe, ignoring any cover.
+The Exalt may target creatures through the smallest of cracks, over
+impossibly high barriers, or even through slits between a door. So long
+as a single, uninterrupted arch exists to the target, they are a valid
+enemy, and derive no benefit from cover.
+
+For an additional +2motes, this may increase an Archery attack by one
+Zone.
 
  Athletics
 ---------
@@ -89,9 +90,9 @@ they continue to run.
 **Cost:** 1m
 
 You strike before the opponent can gather their thoughts. You may
-interrupt the natural turn order, taking your action before a target
-character. However, this will limit you to 1 single action, rather than
-2.
+interrupt the natural turn order, taking your turn before a different
+character has a chance to act. However, this will cause you to take 1
+action instead of 2.
 
 ### Graceful Crane Stance
 
@@ -117,12 +118,13 @@ action.
 ### Reed in the Wind
 
 **Type:** Reflexive  
-**Cost:** (1m per 2 Dmg.)
+**Cost:** (1m per 1 Dmg.)
 
 Matching their rhythm to their attackers, the Exalt can minimize even
 the attacks that do manage to land.
 
-For every mote spent, reduce incoming damage by 2 Health.
+For every mote spent, reduce incoming damage by 1 Health, up to a
+maximum of 5.
 
 ### Soaring Leap
 
@@ -140,6 +142,20 @@ descending from all but the tallest of buildings.
 Brawl
 -----
 
+### Environment Utilization Stance
+
+**Type:** Supplemental; Scene  
+**Cost:** 1m
+
+The Exalt has become in tune with the mastery of form, so much so that
+they merely need to glance at object to know its utility in combat.
+
+You may pick up and use any object in the scene smaller than your body,
+and larger than your arm. This is classified as a medium brawl weapon
+\[+1 Acc. +1/1 Dmg.\]. You also may decide if and how the weapon breaks
+when being used. If a weapon breaks on an attack, deal an additional
+(+3) damage.
+
 ### Force-Delivering Blow
 
 **Type:** Supplemental  
@@ -147,8 +163,7 @@ Brawl
 
 On a successful Brawl hit, immediately knock the target back up to one
 Zone. Against creatures of immense mass, such as those above an
-elephant, an additional, successful (Strength + Brawl) vs. Block roll is
-required.
+elephant, an additional (Strength + Brawl) vs. Block roll is required.
 
 ### Knockout Kick
 
@@ -160,7 +175,7 @@ target is immediately knocked unconscious, and will remain so for
 several hours unless specifically roused.
 
 Outside of combat, this may be used on foes with an (Essence) score
-lower than yours, and you must succeed on a Brawl vs. Block roll.
+lower than yours when succeeding on a Brawl vs. Block roll.
 
 ### Ox-Stunning Blow
 
@@ -177,24 +192,18 @@ less than one action on their turn.
 **Cost:** 1m
 
 The fists of the Exalt can tear down even the most stubborn of
-structures.
+structures, pummeling it to oblivion.
 
-On Feats of Strength, such as breaking through walls or destroying
-scenery, add (Essence)x2 dice. The Exalt is even able to damage walls
-made of magical materials, though must roll to do so. Additionally, a
-Strike against animate beings (such as Earth elementals and golems), add
-(3) dice to the Damage Roll.
+Break through any non-magical or artifact barrier that is less think
+than 2 meters. Alternatively, you gain +(2) dice on a “Break Scenery”
+Maneuver.
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>Fists of the Street Style</p>
-<p>Brawl interfaces heavily with Martial Arts Styles, which hone a stylists body into weapons rivaling and surpassing forged steel. However, not every character has access to, nor sometimes the inclination, to becoming a master Martial Artist.</p>
-<p>Instead, they will form their own, untrained style that is often called “Fists of the Street” Style.</p>
-<p>While this style has no proper techniques, nor unified history behind it, it is as deadly and useful as any “true” Martial Arts.</p>
-<p><strong>Fists of the Street Form</strong><br />
-Your unarmed strikes become as strong as either Light or Medium weapons, while retaining the Natural tag. This style cannot be used with armor.</p>
-<p>In this style, you gain +1 Evasion, up to an unarmored maximum of 6.</p></td>
+<td><p>Brawl Weapons</p>
+<p>While Brawl is the only ability that can be used <em>while</em> unarmed, it is not restricted to it—there are plenty of Brawl weapons.</p>
+<p>For the truly unarmed warrior, though, Martial Arts are a highly-complimentary investment.</p></td>
 </tr>
 </tbody>
 </table>
@@ -206,9 +215,14 @@ Melee
 
 **Type:** Permanent
 
-The Exalt gains Parry, a Third Defense equal to (Dexterity + Melee)/2
-against all non-targeted attacks. This defense may be used freely to
-Defend Other that are in the same Zone as the character.
+The Exalt has perfect control of their blade, using it as an extension
+of themselves and their body. They may effortlessly guide incoming
+attacks away from themselves.
+
+Gain Parry, a Third Defense equal to (Dexterity + Melee)/2. This may be
+used against all general attacks, but not those that directly target a
+specific defense, such as Evasion. This defense may be used to Defend
+Others, so long as they are in the same Zone.
 
 ### Bulwark Stance
 
@@ -312,15 +326,6 @@ Block by (Essence) against a single attack.
  Thrown
 ------
 
-### Flashing Draw Mastery
-
-**Type:** Supplemental  
-**Cost:** 1m
-
-Pull all weapons thrown by the Exalt back to themselves, so long as a
-possible path still exists. This charm may be used Supplemental to an
-attack to perform a thrown attack from an unexpected angle.
-
 ### Angle-Tracing Edge
 
 **Type:** Supplemental  
@@ -335,9 +340,19 @@ from Cover.
 **Type:** Simple  
 **Cost:** 2m
 
-Target all foes within the same zone you occupy and a single adjacent
-one. Make a Strike: any targets with a Defense less than the attack are
-hit with half of the calculated damage.
+Target up to (Thrown) foes within the same Zone you occupy and a single
+adjacent one.
+
+Make a single Thrown Strike against all targets. You deal -2 damage to
+the targets.
+
+### Critical Strike
+
+**Type:** Reflexive  
+**Cost:** 2m
+
+If you roll 8 or more successes on a Strike that does Full Damage to a
+target, add another (Attribute + Essence)/2 damage to the attack.
 
 ### Fan of Blades
 
@@ -345,14 +360,26 @@ hit with half of the calculated damage.
 **Cost:** 1m
 
 The Exalt spreads out a hundred blades, ensuring that at least one will
-hit. They may target Soak instead of DV on their Thrown attack.
+hit. They may target Soak on their Thrown attack.
 
-### Joint-Wounding Attack
+### Flashing Draw Mastery
 
 **Type:** Supplemental  
-**Cost:** 1a
+**Cost:** 1m
 
-On a successful Strike disable the use of a limb of the target for a
-day. In combat this lasts at least 3 rounds, or until the character
-takes a considered action above difficulty (3) to restore functionality.
+Pull all weapons thrown by the Exalt back to themselves, so long as a
+possible path still exists. This charm may be used to attack an enemy
+from the position of the thrown weapon, rather the position of the
+Exalt.
+
+### Shrapnel Casting Attitude
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+Any and all objects can be a weapon in the hands of the Exalted.
+
+You may hurl any physical object that is smaller than your torso without
+any penalties, treating it as a mundane Medium Ranged weapon (+1/0
+damage.)
 

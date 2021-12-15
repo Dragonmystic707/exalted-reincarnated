@@ -312,49 +312,9 @@ without a scratch.
 If the roll is less than both defenses, or has 0 successes, the attack
 misses and no damage is dealt.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>A Note on Combat</p>
-<p>If you run through the math, you will notice that characters are most likely to deal Glancing damage if they attack an equivalent foe—it is not difficult to raise the highest defense a point or two.</p>
-<p>This is intentional, and there are two reasons behind it:</p>
-<p>1. The game assumes—and encourages—tactical weakening of opponents defenses, as well as gratuitous boosting of their own attacks. Base attacks are unlikely to deal Full damage without said boosts.</p>
-<p>2. Attacking consumes an action, while defending does not. Therefore, the chance of completely missing and dealing <em>no</em> damage is far more punishing than being hit for some damage, and has been weighted accordingly.</p></td>
-</tr>
-</tbody>
-</table>
-
-### Damage
-
-Damage is based off of the **Attribute** used in the attack. **Full**
-Damage is (Attribute) + (Essence), while **Glancing** damage is
-(Attribute)/2, rounded up.
-
-Weapons and powers will often boost damage, and will be written as
-follows:
-
-**+Full (Glancing)**
-
-So a power that says “+2(1) damage” would add +2 Full Damage, and +1
-Glancing Damage.
-
-If, through any combination of powers or bonuses, Glancing Damage ever
-becomes greater than Full Damage, you may choose to deal Glancing damage
-during a Full hit. (You should never be punished for rolling too well.)
-
 The target loses Health equal to the damage, minus any damage reduction
 they may gain through Powers. If the damage is reduced all the way to 0,
 the attack is still considered a hit.
-
-#### Third Defense
-
-There are some Powers, Martial Arts, etc. that grant a third defense.
-This new defense—typically limited in some way—will primarily help avoid
-Glancing damage, replacing the weaker of Block or Evasion on normal
-attacks.
-
-Maneuvers and actions that target Block or Evasion, however, remain
-unaffected.
 
 <table>
 <tbody>
@@ -378,7 +338,61 @@ unaffected.
 </tbody>
 </table>
 
-**<span class="smallcaps">Combat End</span>**
+###  Damage Calculation
+
+Damage is based off of the **Attribute** used in the attack. **Full**
+Damage is (Attribute) + (Essence), while **Glancing** damage is
+(Attribute)/2, rounded up.
+
+Weapons and powers will often boost damage, and will be written as
+follows:
+
+**+Full / Glancing**
+
+So a power that says “+2/1 damage” would add +2 Full Damage, and +1
+Glancing Damage.
+
+If, through any combination of powers or bonuses, Glancing Damage ever
+becomes greater than Full Damage, you may choose to deal Glancing damage
+during a Full hit. (You should never be punished for rolling too well.)
+
+#### Third Defense
+
+There are some Powers, Martial Arts, etc. that grant a third defense.
+This new defense—typically limited in some way—will primarily help avoid
+Glancing damage, replacing the weaker of Block or Evasion on normal
+attacks.
+
+#### Targeted Attacks
+
+Certain Powers will call for a **targeted** attack, attacking a derived
+value such as Evasion or Resolve, or calling for a contested roll.
+
+This bypasses the normal defense structure
+
+There are some Powers, Martial Arts, etc. that grant a third defense.
+This new defense—typically limited in some way—will primarily help avoid
+Glancing damage, replacing the weaker of Block or Evasion on normal
+attacks.
+
+Maneuvers and actions that target Block or Evasion, however, remain
+unaffected.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>A Note on Combat</p>
+<p>If you run through the math, you will notice that characters are most likely to deal Glancing damage if they attack an equivalent foe—it is not difficult to raise the highest defense a point or two.</p>
+<p>This is intentional, and there are two reasons behind it:</p>
+<p>1. The game assumes—and encourages—tactical weakening of opponents defenses, as well as gratuitous boosting of their own attacks. Base attacks are unlikely to deal Full damage without said boosts.</p>
+<p>2. Attacking consumes an action, while defending does not. Therefore, the chance of completely missing and dealing <em>no</em> damage is far more punishing than being hit for some damage, and has been weighted accordingly.</p></td>
+</tr>
+</tbody>
+</table>
+
+#### 
+
+ **<span class="smallcaps">Combat End</span>**
 ---------------------------------------------
 
 Combat ends when the outcome of the scene has been determined—you don’t
@@ -434,7 +448,7 @@ Health lost in combat is regained much in the same way motes are:
 through rest and relaxation. **15 Points** of Health are regained after
 a full night’s rest, or **2 points** per hour if it is interrupted.
 
-### Death and Dying
+###  Cheat Death
 
 A dramatic moment of death is a perfect send-off and ending for one of
 the members of the Exalted. However, not all defeats are a dramatic
@@ -475,7 +489,7 @@ Suggestions are:
 </tbody>
 </table>
 
-The Environment
+ The Environment
 ---------------
 
 The Environment itself can be a “character” involved in combat, as a way
@@ -514,7 +528,7 @@ their **Group Magnitude:**
 -   Add 1 Damage, 1 Accuracy, and +1 Dice on an action for every
     Magnitude Scale increment
 
-Equipment
+ Equipment
 ---------
 
 ### Armor
@@ -622,9 +636,7 @@ Artifact Armor gains +1 to Block or Evasion.
 <td><blockquote>
 <p>+0</p>
 </blockquote></td>
-<td><blockquote>
-<p>Mundane Brawl must used Unarmed.</p>
-</blockquote></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><strong>Close-Range Weapons (Melee)</strong></td>
@@ -637,7 +649,7 @@ Artifact Armor gains +1 to Block or Evasion.
 <p>Light</p>
 </blockquote></td>
 <td>+3</td>
-<td>+1(0)</td>
+<td>+0/0</td>
 <td><blockquote>
 <p>Must use Dexterity when attacking.</p>
 </blockquote></td>
@@ -650,7 +662,7 @@ Artifact Armor gains +1 to Block or Evasion.
 <p>+1</p>
 </blockquote></td>
 <td><blockquote>
-<p>+1(1)</p>
+<p>+1/1</p>
 </blockquote></td>
 <td></td>
 </tr>
@@ -662,7 +674,7 @@ Artifact Armor gains +1 to Block or Evasion.
 <p>+0</p>
 </blockquote></td>
 <td><blockquote>
-<p>+2(1)</p>
+<p>+2/1</p>
 </blockquote></td>
 <td><blockquote>
 <p>Must use Strength when attacking.</p>
@@ -678,8 +690,8 @@ Artifact Armor gains +1 to Block or Evasion.
 <td><blockquote>
 <p>Light</p>
 </blockquote></td>
-<td>+2</td>
-<td>+0(0)</td>
+<td>+1</td>
+<td>+0/0</td>
 <td><blockquote>
 <p>Must use Dexterity when attacking.</p>
 </blockquote></td>
@@ -689,45 +701,32 @@ Artifact Armor gains +1 to Block or Evasion.
 <p>Medium</p>
 </blockquote></td>
 <td><blockquote>
-<p>+1</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1(0)</p>
-</blockquote></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Heavy</p>
-</blockquote></td>
-<td><blockquote>
 <p>+0</p>
 </blockquote></td>
 <td><blockquote>
-<p>+2(0)</p>
+<p>+1/0</p>
 </blockquote></td>
-<td><blockquote>
-<p>Must use Strength when attacking.</p>
-</blockquote></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 #### Custom Weapons
 
-Weapons are built using Tags, each with an individual cost in points.
-Mundane weapons start with 4 points to spend as they see fit.
+Custom weapons defy the Light, Medium, and Heavy categories, and are
+instead built from the ground up (from 0) using Tags.
 
-Artifact weapons start with 6 points.
+Mundane weapons have 3 points with which to spend on tags, while
+Artifacts start with 6 points.
 
-|                         |            |                              |
-|-------------------------|------------|------------------------------|
-| **Mundane Weapon Tags** |            |                              |
-| **Name**                | **Points** | **Description**              |
-| Accurate                | 1          | Gain +1 Dice.                |
-| Damaging                | 1          | Gain +1 Full Damage          |
-| Reliable                | 2          | Gain +1 Glancing Damage      |
-| Range                   | 2          | Increase the range by 1 Zone |
+|                         |        |                              |
+|-------------------------|--------|------------------------------|
+| **Mundane Weapon Tags** |        |                              |
+| Name                    | Points | Description                  |
+| Accurate                | 1      | Gain +1 Dice.                |
+| Damaging                | 1      | Gain +1 Full Damage.         |
+| Reliable                | 1      | Gain +1 Glancing Damage.     |
+| Range                   | 2      | Increase the range by 1 Zone |
 
 #### Special Tags
 
@@ -756,9 +755,6 @@ though sleight of hand, they can store their physical items in places
 and not feel the weight nor brunt of the equipment. It is not unusual
 for an Exalt to suddenly pull out a large daiklaive from little more
 than a handbag’s opening.
-
-Depositing or retrieving equipment from Elsewhere takes an entire
-Action.
 
 Sidereals have labeled this flaw as “Elsewhere,” since the items are
 neither *here* nor *there*, but simply somewhere…else. Certainly it is

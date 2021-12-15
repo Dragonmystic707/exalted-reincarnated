@@ -257,22 +257,13 @@ action.
 </blockquote></td>
 </tr>
 <tr class="odd">
-<td>Minor</td>
-<td><blockquote>
-<p>±1</p>
-</blockquote></td>
-<td><blockquote>
-<p>±0</p>
-</blockquote></td>
-</tr>
-<tr class="even">
 <td><blockquote>
 <p>Moderate</p>
 </blockquote></td>
 <td>±2</td>
 <td>±1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><blockquote>
 <p>Major</p>
 </blockquote></td>
@@ -317,7 +308,7 @@ land perfectly in a pose with no damage. Nobody need concern themselves
 with the useless physics of such a maneuver.
 
 If the Stunt is particularly impressive consider rewarding the Player
-with [2 Anima](/System/The System/#anima).
+with [1 Anima](/System/The System/#anima).
 
 Stunts also do not need to be tied to specific actions. If, as a
 Storyteller, you find a scene or particular interaction to be moving,
@@ -626,23 +617,13 @@ action to rest, such as sleeping, playing games, or participating in
 (relatively) stress-free activities that they enjoy.
 
 The entire Mote Pool regains after a full night’s of rest, regardless of
-how large the pool is.
+how large the pool is. However, a character will **lose** all their
+accumulated Anima while resting.
 
 The mote pool will increase with the character’s **Essence**, which is a
 measure of how in tune the character is with the flows of energy through
 and surrounding them. This Rating will increase automatically as the
 character accrues xp.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Is it rest if I…</strong></p>
-<p>If an activity has any dual purpose or gains advantage (aside from the passage of time), it is not considered rest.</p>
-<p>A character may play a game to relax, but using a game to strategize a battle plan is not. Talking jovially (or in commiseration) with fellows is relaxing, while trying to convince friends to join in a plan is not.</p>
-<p>This regeneration rule is intended to encourage roleplaying moments of respite, not to force constant calculations and bookkeeping for the Storyteller.</p></td>
-</tr>
-</tbody>
-</table>
 
 ### Anima
 
@@ -652,9 +633,9 @@ greater and greater heights. This movement of power is represented as
 *Anima*, a type of Essence Flow that is ultimately more fleeting, but
 brimming with possibilities.
 
-Anima fades away if it is not used—If the Exalt engages in rest,
-regaining motes, their accumulated Anima dissipates—you can only be
-“brimming with energy” for so long.
+You gain Anima through a few means: On a **Critical Roll**, through
+**Stunting** an action, or through taking a dedicated action to **Build
+Power.**
 
 <table>
 <tbody>
@@ -666,41 +647,33 @@ regaining motes, their accumulated Anima dissipates—you can only be
 <td><strong>Critical Roll</strong></td>
 <td>1 Anima for a roll of 8-9<br />
 2 Anima for a roll of 10-11<br />
-4 Anima for a roll of 12+</td>
+3 Anima for a roll of 12+</td>
 </tr>
 <tr class="odd">
-<td><strong>Stunt/Roleplay</strong></td>
-<td>2 Anima for great stunts and/or roleplay.</td>
+<td><strong>Stunt</strong></td>
+<td>1 Anima for great stunts</td>
 </tr>
 <tr class="even">
 <td><strong>Build Power</strong></td>
-<td>(Successes) / 2</td>
+<td>(Successes) / 2 Anima<br />
+(Or extend cast time by 5 minutes per anima required)</td>
 </tr>
 </tbody>
 </table>
 
-#### 
+Anima fades away if it is not used—If the Exalt engages in rest,
+regaining motes, their accumulated Anima dissipates—you can only be
+“brimming with energy” for so long.
 
-####  Using Anima
-
-Anima is used to empower the Exalts Anima Powers, as well as any
-high-level Charms, Spells, or other sources of power that might call for
-Anima in its activation cost.
-
-Additionally, Anima may be used to empower a character’s
-[**Strife**](/System/The System/#strife), a way for the Player to wrest control over the
-narrative in their favor.
-
-Lastly, there are a couple of raw uses of anima:
-
--   Expending 1 Anima to add 2 Dice to an action. This may only be done
-    once per turn—you cannot expend 2 anima to get 4 dice.
-
--   Anima may be used in place of Motes, at a rate of 1 Anima per Mote.
-    An unlimited amount of Anima may be expended this way.
-
-    -   This is usually reserved for when all Motes have been expended,
-        as Anima is typically a more precious resource.
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Is it rest if I…</strong></p>
+<p>A character may play a game to relax, but using a game to strategize a battle plan is not. Talking jovially (or in commiseration) with fellows is relaxing, while trying to convince friends to join in a plan is not.</p>
+<p>If it is truly unclear whether a passage of time was rest, ask your players a hard question: “Do you want to regain all your motes? You will lose all of your Anima.”</p></td>
+</tr>
+</tbody>
+</table>
 
 #### Build Power
 
@@ -726,7 +699,6 @@ before a very, very explosive storm of power and action.
 As Building Power is a narrative device to represent a character pushing
 above and beyond normal strength, trying to purposefully sit and gather
 Power in scenes without any narrative weight behind it is not allowed.
-It
 
 #### Narrative scope
 
@@ -735,7 +707,28 @@ slower, more narrative portions of the game. Instead, use of Anima can
 be allowed through taking extra time on their actions: roughly **5
 minutes per Anima** expended.
 
-### Anima Banner
+#### Using Anima
+
+Anima is used to empower the Exalts Anima Powers, as well as any
+high-level Charms, Spells, or other sources of power that might call for
+Anima in its activation cost.
+
+Additionally, Anima may be used to empower a character’s
+[**Strife**](/System/The System/#strife), a way for the Player to wrest control over the
+narrative in their favor.
+
+Lastly, there are a couple of raw uses of anima:
+
+-   Expending 1 Anima to add 2 Dice to an action. This may only be done
+    once per turn—you cannot expend 2 anima to get 4 dice.
+
+-   Anima may be used in place of Motes, at a rate of 1 Anima per Mote.
+    An unlimited amount of Anima may be expended this way.
+
+    -   This is usually reserved for when all Motes have been expended,
+        as Anima is typically a more precious resource.
+
+###  Anima Banner
 
 As an Exalt gathers energy, their souls become suffused with crackling
 energy, inflaming it into the seen world in a glorious expression.

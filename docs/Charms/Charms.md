@@ -11,6 +11,8 @@ next_title: Martial Ability Charms
 Charms are the natural expression of a character’s essence, a specific
 and trained way for their internal power to be expressed upon the world.
 
+### Ability Charms (Universal)
+
 Typically, a character does not know they are using a specific charm: it
 is simply an instinctual channeling of essence to produce the desired
 effect.
@@ -21,6 +23,8 @@ falcon to see further, while an Air Dragonblood would create a focal
 lens out of the air—but they both would spend the same number of motes
 and end up with the same perception advantage. The Player should be
 encouraged to take their own unique spin on the Charm.
+
+**Ability Charms are all Lesser Powers.** (Except for Upgrades).
 
 Don’t be afraid to take your own unique spin on describing a charm’s
 powers!
@@ -169,4 +173,15 @@ have?”
     These typically cost 3-4 anima.
 
 **Note:** Reflexive charms should favor using motes over anima.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Dice Adders</strong></p>
+<p>You may notice that—compared to standard Exalted—charms that purely add dice are a bit more rare. This is an intentional design choice to limit dice inflation.</p>
+<p>If a Power adds dice to a roll, it should be to a fairly conditional and specific thing.</p>
+<p>The largest and most reliable way to increase a character’s dice pool is to purchase Attributes and Ability points.</p></td>
+</tr>
+</tbody>
+</table>
 

@@ -22,6 +22,9 @@ Solars turn their powers inwards, enhancing what Abilities they pursue.
 As well, they alone can reach past their natural limitations, using
 high-level Powers sooner than any other Exalt.
 
+**Excellency**: Master of Skills  
+G*ain successes equal to the Rating of the Ability used on the roll.*
+
 ### Dragonblooded
 
 Lineage is the single most important thing to a Dragonblooded, as the
@@ -39,6 +42,10 @@ Earth, and Wood. As well, as the current masters of the world, they gain
 the ability to naturally lord and command over peoples without
 restraint.
 
+**Excellency:** Elemental Surge  
+*Gain 3 Anima. On this action, you may convert an unlimited amount of
+Anima into dice.*
+
 ### Lunars
 
 Luna, the Many-Faced Moon chooses their champions from those that cannot
@@ -48,7 +55,11 @@ might of nature, the soul, and the chaotic might of the Wyld.
 
 Lunars gain access to Shapeshifting, Beasts, Spirit, and the Wyld. As
 well, their gain access to a Half Form, which allows them to enhance and
-change their natural attributes as needed.
+change their natural attributes as needed.  
+  
+**Excellency:** Primal Versatility  
+*Choose an Attribute unused during the roll, and gain that many dice.
+You may use your Excellency multiple times on the same action.*
 
 ### Sidereals
 
@@ -63,7 +74,12 @@ weave in their own goals and visions into the tapestry of reality. In
 addition, they gain access to powerful and strange Martial Arts that
 stretch and bend the nature of reality.
 
-###  Abyssals
+**Excellency:** Fate-Twister  
+*Choose an Ability for Fate to either favor or shun. For the remainder
+of the Scene* all *characters either gain or lose (Essence)/2 successes
+to rolls using that Ability, respectively.*
+
+### Abyssals
 
 The force of Oblivion seeps at the hidden edges of Creation, consuming
 and destroying what *is* so that *nothing* may replace it. Those mortal
@@ -80,6 +96,10 @@ dead, spirits of vengeance, or even those that wish to hearken the end.
 
 The powers of the Abyssal revolve around Blood, Flesh, Shadows, and
 Memory.
+
+**Excellency:** Blood Magic  
+*You may sacrifice your Health for successes, at a rate of 2 Health per
+success. You cannot sacrifice more than 10 Health at a time.*
 
 ### Infernals
 
@@ -103,6 +123,10 @@ devoting to one path or another. As well, their form can be overwhelmed
 with their power, showing the power of their demon in a brief moment of
 unholy power.
 
+**Excellency:** Spite  
+*For an action, remove either 3 or (Essence) successes from a target’s
+roll, or from a defense such as Evasion or Resolve.*
+
 ### Alchemicals
 
 The Machine God left careful arcane instructions to his followers, to
@@ -117,6 +141,12 @@ They will always have a small community to protect and lead.
 The power of the Alchemical is focused on the magical materials:
 Orichalcum, Jade, Moonsilver, Starmetal, and Soulsteel. Their powers are
 modular, allowing swapping of charms and powers as they see fit.
+
+*Excellency: Overdrive  
+Choose an Attribute, and raise it by three points (which may exceed the
+cap of 5). Choose another Attribute that has at least 3 points, and set
+it to 1. This lasts for the remainder of the Scene. Derived values, such
+as Block or Resolve, are unaffected.*
 
 Attributes
 ----------
@@ -212,9 +242,10 @@ might constitute aerobic exercise.
 ### Brawl
 
 Mastery of the body, allowing attacks from any part of the limb, ranging
-from kicking, punching, tripping, or grappling. While often performed
-unarmed, Brawl has a selection of weapons that can be used, such as
-brass knuckles.
+from kicking, punching, tripping, or grappling. While **often**
+performed unarmed, Brawl weapons do exist—ranging from such close
+quarters weapons such as brass knuckles to iron boots to simply
+improvised weapons like chairs.
 
 ### Melee
 
@@ -231,7 +262,7 @@ debilitation of the body or mind.
 ### Thrown
 
 Mastery of physical weapons that deal damage hurling weapons at enemies,
-such as knives, spears, and even improvised objects.
+such as knives, spears, and often improvised objects lying around.
 
 Social
 
@@ -314,7 +345,7 @@ their hand at reigns, the stern of a ship.
 
 The art of not being seen, from physical stillness to knowing how to
 blend into a crowd. Also includes some tricks of the trade, such as
-lockpicking.
+lock-picking.
 
 ### Survival
 
@@ -722,7 +753,7 @@ A Mortal may learn this merit on their own, though it is rare.
 
 A mutation represents any non-standard body configuration that may be
 useful to the character. This is a boon (or curse, depending on
-attitudes), is granted by sourcerous workings, the gods, and the eddies
+attitudes), is granted by sorcerous workings, the gods, and the eddies
 of the dangerous Wyld.
 
 |                      |          |                                                                                                                            |

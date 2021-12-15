@@ -42,7 +42,7 @@ When damaging a foe that is not a Lesser Foe, regain (Physique) Health.
 
 After taking damage from an opponent in their Zone, the Solar may
 reflexively lash out and deal the same amount of damage to the opponent,
-capped at (Essence)x3.
+capped at 5 + (Essence) per attack.
 
 ### Diamond-Body Mastery
 
@@ -78,14 +78,6 @@ or even coins the Solar carries with them to launch against, and may
 leap effortlessly through the air. So long as there is the most minimum
 of solid mass to propel themselves against, they may use it to keep
 leaping upwards.
-
-### Shadow over Water
-
-**Type:** Reflexive  
-**Cost:** (1/2/4m)
-
-Spend Motes to clear Disadvantages to Defense, Soak, or Evasion. 1m for
-all Minor, 2m for all Moderate and lower, or 4m for all Disadvantages.
 
 ### Stubborn Boar Stance
 
@@ -168,8 +160,7 @@ valid target.
 To strike against the unassailable Solar is foolishness, as they can
 turn aside even the blasting of the hurricane winds.
 
-Immediately increase all of your defenses against a single attack by
-(Essence).
+Immediately increase all of your defenses against a single attack by 2.
 
 ### <span class="smallcaps">Fire and Stones Strike</span>
 
@@ -181,7 +172,7 @@ into the target’s Soul.
 
 After successfully hitting on a Strike, increase the damage dealt by the
 (Ability) rating used on the attack. If a Full hit, add an additional
-(Essence).
+(+Essence) damage.
 
 ###  Fiery Solar Chakram
 
@@ -205,8 +196,8 @@ themselves outward in a burst of light.
 
 Roll (Essence + Martial Ability). All enemies in the Zone with the Solar
 with an Evasion less than the roll are struck by the explosion of
-ephemeral steel, taking (Essence)x3 damage, and becoming pinned by the
-spikes, unable to move until they spend a Maneuver to free themselves.
+ephemeral steel, taking (5) damage, and becoming pinned by the spikes,
+unable to move until they spend a Maneuver to free themselves.
 
 ### Whispered Prayers of Retribution
 
@@ -221,8 +212,8 @@ On a successful Action (or strike) against the target’s Defense, the
 target suffers through visions and the emotions imparted on them.
 
 For the remainder of the Scene, the target must roll their (Wits +
-Integrity) vs. the Solar’s (Essence) in order to take any action, or
-else become overwhelmed by the raw emotions.
+Integrity) vs. the higher of 3 or the Solar’s (Essence) in order to take
+any action, or else become overwhelmed by the raw emotions.
 
 Dawn Caste Solars can impose fear and intimidation even to emotionless
 beings, and Zenith can cause awe and grief.
@@ -238,10 +229,24 @@ The Solar focuses all their Wrath into a single Strike, and selects a
 target Zone.
 
 A Strike of solid Soulfire crashes down at the targeted location,
-dealing (Essence) x5 damage to all foes within the Zone. They cannot
+dealing 5 + (Essence) x4 damage to all foes within the Zone. They cannot
 defend or reduce the damage from this attack. For the remainder of the
 scene, the affected area becomes bathed in Soulfire Environmental
 Damage. (Essence) per Round.
+
+### <span class="smallcaps">Mountain-Crossing leap Technique</span>
+
+**Type:** Supplemental  
+**Cost:** 5m
+
+The anima of the Solar coils underneath them, reinforcing and empowering
+their leap.
+
+In one single bound, the Solar may cross an entire city, rolling
+(Strength + Athletics) to grant accuracy to the landing target—6 being
+required for a pinpoint landing across a city.
+
+If in combat, they may leap across all Zones with one movement.
 
 ### <span class="smallcaps">Ready in Eight Directions Stance</span>
 
@@ -258,7 +263,7 @@ long as they are attacking a valid target.
 **Note:** To speed the counterattacks up, simply use the average of the
 Solar’s Accuracy pool.
 
-#### 
+### 
 
 Zenith Caste
 ------------
@@ -392,7 +397,7 @@ Disparaging the Lawgiver, their name or their Intimacies is foolish at
 best. Whenever the Solar witnesses such an event, they may speak subtle
 words to all those who listen and making the accuser seem the fool.
 
-Contest the social action with (Essence) extra dice. If there are more
+Contest the social action with (+2) extra dice. If there are more
 successes than the aggressor’s roll, the result of the intended action
 turns upon the aggressor instead. If they were trying to incriminate the
 Solar, they instead become incriminated.
@@ -437,8 +442,8 @@ This Charm does not protect against the Dawn Caste’s Anima Power.
 
 The Solar is instinctively and subconsciously aware of any actions of
 thievery or Stealth performed by those in their presence who are below
-(Essence). The exact target, circumstances, nor direction is not
-disclosed, simply the fact that it is happening.
+the Solar’s (Essence). The exact target, circumstances, nor direction is
+not disclosed, simply the fact that it is happening.
 
 The Storyteller should only inform the Player of significant moments of
 such events, otherwise only answering when asked.
@@ -466,9 +471,8 @@ may immediately take their own social action, forcing the target to wait
 until the Solar is done.
 
 Any who observes this interruption with an (Essence) less than the
-Solar’s own (Essence) will develop a temporary negative Intimacy of
-“disdain” towards the target. This may also affect the target
-themselves.
+Solar’s own will develop a temporary negative Intimacy of “disdain”
+towards the target. This may also affect the target themselves.
 
 ### Respect-Commanding Attitude
 
@@ -556,7 +560,7 @@ eye, or mentally break down a crime scene immediately upon entering.
 **Type:** Simple; Scene  
 **Cost:** 2m
 
-The Solar may reinforce an object—no more than (Essence) meters in its
+The Solar may reinforce an object—no more than (Essence)x5 meters in its
 largest dimension—and make it nigh unbreakable and resistant to changing
 effects, such as from the Wyld.
 
@@ -901,7 +905,7 @@ mortal can reach—able to differentiate between individual voices three
 buildings down, or tasting the slightest variation in flavors in food
 (as would be present with the most subtle of poisons.)
 
-On all active Awareness rolls, gain 4 dice, and rolls are now allowed
+On all active Awareness rolls, gain 2 dice, and rolls are now allowed
 for what would be considered impossible before.
 
 Prolonged use of this charm is often considered painful and
@@ -998,18 +1002,6 @@ again. So long as they have imbued a dose that would
 The Solar may deliberately choose to lower their defenses for such
 recreational substances like alcohol.
 
-### Living Pulse Perception
-
-**Type:** Simple  
-**Cost:** 2a
-
-By focusing all their senses into a single point, the Solar can gather a
-trace of all living, breathing, and/or moving creatures.
-
-This allows a roll against all hidden creatures that breathe, live, or
-are currently in motion in the current scene, and eliminates up to
-(Essence) penalties that would be applied against the roll.
-
 ###  One Extra Step
 
 **Type:** Supplemental  
@@ -1023,11 +1015,11 @@ observe, and which is not completely impossible to reach.
 
 ### Perfect Mirror
 
-**Type:** Simple; Week  
-**Cost:** 3a
+**Type:** Simple; Day  
+**Cost:** 3m
 
-Choose a target that the Solar has studied for at least a day, and then
-become a perfect replica. All mannerisms and characteristics of the
+Choose a target that the Solar has studied for at least a few hours, and
+then become a perfect replica. All mannerisms and characteristics of the
 target are replicated, and a surface level of knowledge and abilities
 the target knows—enough to fool all but the most intimate of
 acquaintances.
@@ -1077,19 +1069,7 @@ deception.
 The Player then declares where the Solar actually is—up to one Zone
 away. This often will not be obvious to combatants on the field.
 
-### <span class="smallcaps">Mountain-Crossing leap Technique</span>
-
-**Type:** Supplemental  
-**Cost:** 5m
-
-The anima of the Solar coils underneath them, reinforcing and empowering
-their leap.
-
-In one single bound, the Solar may cross an entire city, rolling
-(Strength + Athletics) to grant accuracy to the landing target—6 being
-required for a pinpoint landing across a city.
-
-If in combat, they may leap across all Zones with one movement.
+### 
 
 Eclipse **<span class="smallcaps">Caste</span>**
 ------------------------------------------------
