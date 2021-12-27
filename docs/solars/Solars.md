@@ -14,7 +14,7 @@ Yet they are also its cruel tyrants, forcing others to follow in their
 grand plan—regardless of their desires.
 
 They are paragons of mankind, representing Humanity at its most
-extremes. Whatever a Solar sets their mind to, it will be done.
+extremes. Whatever a Solar sets their mind to, *it will be done.*
 
 ### Heroes of Mankind
 
@@ -35,19 +35,28 @@ Their absence only heightened their ignoble legend—soon only those that
 stormed the gates of heavenly Yu-Shan were remembered, not those that
 fought against their brethren to prevent such an act. What few were
 chosen in this time were regarded with fear and anger—warily regarded,
-if not outright attacked on sight.
+if not outright attacked on sight by those who blame them for the fall
+of the First Age.
 
 And yet, the Unconquered Sun, the one assaulted and most harmed by this
-rebellion, still Exalts new Solars; giving of his own self to his
-Chosen. Were the others not so afraid, might have the Great Contagion
-not have been prevented? The constant erosion of the land in the Wyld
-halted and turned back?
+rebellion still Exalts new Solars; giving of his own self to his Chosen.
+Were the others not so afraid, might have the Great Contagion not have
+been prevented? The constant erosion of the land in the Wyld halted and
+turned back? These are questions that might just be answered, as the Sun
+has started Exalting his chosen in unprecedented number.
 
-These are questions that might just be answered, as the Sun has started
-Exalting his chosen in unprecedented number—a strain mighty on his
-wounded soul; a strain that must have reason.
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>How is the Unconquered Sun doing?</strong></p>
+<p>The Unconquered Sun was greatly wounded in the First Age—the attempt on his life leaving behind great scars. Beyond that fact, and the fact that Exalting his Chosen comes at a cost to him—there is little given of the Sun’s condition to mere Mortals.</p>
+<p>It could simply be that he has taken this long of time to heal, and only now has he recuperated enough to bring his Chosen back en masse. It could be that this is his last gasp—a blaze of glory as he fades into the great unknown. More than likely it falls in between the two.</p>
+<p>Ultimately, though, this is a story of the <em>Exalted</em>, not the Unconquered Sun, so use what best fits your campaign.</p></td>
+</tr>
+</tbody>
+</table>
 
-###  Exaltation
+### Exaltation
 
 The Unconquered Sun grants his blessing to those who have an incredible
 drive, a force of personality that would change their world no matter

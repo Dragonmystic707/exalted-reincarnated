@@ -424,7 +424,7 @@ been gained, (+30xp) for each level.
 
 Remember that each Essence Rank provides:
 
--   +5 Health
+-   +3 Health
 
 -   +2 Maximum Motes
 

@@ -784,7 +784,7 @@ spell.
 
 <div class="power_category">Capstone</div>
 
-### <span class="smallcaps">Ephemeral Induction Technique</span>
+### <span class="smallcaps">Ephemeral Induction</span>
 
 **Type:** Permanent
 
@@ -1051,6 +1051,20 @@ For the remainder of the scene, the target’s location will be known to
 the Solar, no matter their distance nor intervening environmental
 factors.
 
+### Unexpected Assailant
+
+**Type:** Reflexive  
+**Cost:** 1m
+
+The fleeting shadows hide the Sun until the time the Sun is ready to
+grace the land with his presence.
+
+Gain an additional +2 dice, on top of the natural advantage gained,
+whenever performing something radically unexpected to the target. This
+ranges from attacking from the shadows, to surprising someone as they
+turn across to the alleyway, to even more abstract concepts of surprise
+such as flustering someone with a strange turn of conversation.
+
 <div class="power_category">Capstone</div>
 
 ### False Image Feint
@@ -1069,7 +1083,40 @@ deception.
 The Player then declares where the Solar actually is—up to one Zone
 away. This often will not be obvious to combatants on the field.
 
-### 
+### Inevitable Machinations
+
+**Type:** Simple  
+**Cost:** 5a
+
+It is not simply the great power of the Solar Exalted that others fear
+so much, but their great cunning. To challenge one of the Solar Exalted
+is to have inevitably lost, as they come prepared with the winning hand.
+
+Once per Story, reveal how the Solar already has what they want out of a
+Scene—so long as the goal is to take an object, procure information, or
+kill/trap/or otherwise contain a person or group.
+
+When activating this charm, describe how the Solar planned ahead, and
+how only now its effects are activating—for example, they may have
+poisoned the target earlier and only now are its effects being felt. Or
+perhaps they already have the great artifact that they were searching
+for, and have simply been distracting the guardian of it while it was
+secreted away to a safe spot. Or perhaps a Sorcerous circle is about to
+activate, banishing the great demon back into Malfeas.
+
+Whatever it is, the Solar has *already won*—quite a while ago—and what
+is happening is theater to distract or inconvenience the antagonist.
+
+Opponents with (Essence) less than the Solar’s must immediately *Cheat
+Death* to avoid the worst effects of what the Solar has planned for
+them. Those of equal to or greater cannot be directly harmed by this
+Charm, but can certainly be inconvenienced.
+
+This Charm is limited in that it can only be used to solve a problem in
+the *immediate* future—for example, you cannot simply start a Story and
+use this charm to finish it. Only when the goal is in sight—such as
+before the final battle—may this charm be used to solve the Story, and
+it cannot be used to solve two Stories in a row.
 
 Eclipse **<span class="smallcaps">Caste</span>**
 ------------------------------------------------
@@ -1321,7 +1368,7 @@ specific individual with such force that all around them cannot help but
 feel disgust and outrage at the target—often leading to riots at the
 very least.
 
-All who observe the Solar in their fiery passion must make a Integrity
+All who observe the Solar in their fiery passion must make an Integrity
 Roll vs. the Solar’s Essence. If they fail, they become incited against
 the specific ideas the Player dictates. For the remainder of the week,
 they will take active action to suppress the heretical idea, and any who

@@ -83,9 +83,9 @@ Fists of the Street Style
 **Weapons** Unarmed
 
 There is one Martial Arts Style that *does not* require a mentor—or
-rather, the mentor is simply the rough teacher that is Creation herself.
-Many of her inhabitants will learn a psuedo-style of fighting that
-naturally enhances their own attacks and defense. This is (often
+rather, the mentor is simply the rough teacher that is life on Creation
+herself. Many of her inhabitants will learn a psuedo-style of fighting
+that naturally enhances their own attacks and defense. This is (often
 derogatorily) called the “Fists of the Street” Style—even though there
 is little unifying facets of the style.
 
@@ -93,7 +93,7 @@ This Martial Arts is unique in that has no techniques past the Form.
 However, it is a favorite among those who wish to become an unarmed
 champion with little effort.
 
-Lesser Techniques
+<div class="power_category">Lesser Techniques</div>
 
 ### Fists of the Street Form
 
@@ -127,7 +127,7 @@ quick piercing strikes. Trainees often use harmless chopsticks as their
 practice weapons. Masters know how to use simply their bare fingers for
 this style.
 
-Lesser Techniques
+<div class="power_category">Lesser Techniques</div>
 
 ### Snake Form
 
@@ -167,7 +167,7 @@ bind the target, preventing them from moving. They must expend a
 Contested Maneuver against your (Dexterity + Athletics) to escape the
 ever-moving coils.
 
-Greater Techniques
+<div class="power_category">Greater Techniques</div>
 
 ### Countless Coils Evasion
 
@@ -177,10 +177,10 @@ Greater Techniques
 The Stylist is ever moving, nearly impossible to pin down nor target
 with attacks.
 
-After being hit, roll (Dexterity + Athletics). Reduce the amount of
-damage you take by the number of rolled successes. If you reduce the
-amount to 0, the attack is considered to have not hit in the first
-place.
+After being hit, roll (Dexterity + Athletics). *This roll cannot be
+boosted by any means*. Reduce the amount of damage you take by the
+number of rolled successes. If you reduce the amount to 0, the attack is
+considered to have not hit in the first place.
 
 ### Crippling Pressure-Point Strike
 
@@ -197,7 +197,7 @@ limb for the remainder of the Scene. They suffer (-2) on all actions
 that would normally use such a limb—representing them using their
 non-dominant hand for attacks, for example.
 
-Capstone Technique
+<div class="power_category">Capstone Technique</div>
 
 ### Essence Venom Strike
 
@@ -218,3 +218,102 @@ Scale 2 Medicine Project must be undertaken to cure the toxin, or by
 Cheating Death.
 
 The same target cannot be repeatedly be envenomed in the same Season.
+
+Tiger Style
+-----------
+
+**Abilities** Brawl, Athletics  
+**Armor** Unarmored, Light  
+**Weapons** Unarmed, Fist Weapons
+
+Tiger Stylists focus on a low-centered, wide stances, which provides
+both incredible balance and flexibility in their motions. Their actions
+are fluid and active, using their entire body in their motion full of
+rolls, kicks, and extensive footwork. It is not uncommon for Tiger
+Stylists to use the environment to their advantage, leaping off of walls
+and rafters in a ravaging pounce.
+
+The path of the Tiger follows the life of the great cat—the young are
+quick, agile, and reflexive, while as they age they become terrifying
+predators with immense damage—but never losing the agility of their
+young selves.
+
+Tiger Stylists are known to be brutal teachers, focusing on outcome and
+results rather than pleasantries and inner peace. The style has
+therefore developed a bit of a dour reputation—often used in theatrical
+productions to show cruel villains or terrifying overloards.
+
+<div class="power_category">Lesser Techniques</div>
+
+### Tiger Form
+
+**Type:** Form
+
+The Tiger Stylist is ever ready, no matter the terrain or their
+position. They do not need to roll to cross unsteady or moving terrain,
+and never suffer penalties from being knocked down.
+
+### Retreating Momentum
+
+**Type:** Reflexive  
+**Cost:** 1m
+
+When attacked, the Stylist whirls around and uses the momentum of the
+incoming attack to propel themselves backwards.
+
+On an incoming attack, reduce the damage received by 3. However, you are
+knocked-back a range band, at the discretion of the attacker.
+
+### Crimson Leaping Cat
+
+**Type:** Supplemental  
+**Cost:** 2m
+
+Leaping from afar, the Stylist crashes into their opponent with immense
+rage and fury, bringing the fury of the Tiger upon their target.
+
+This technique must be used on the same Turn in which you move towards
+the opponent. Supplement a Decisive Strike, dealing (+3/2) damage and
+stunning the target on a hit.
+
+<div class="power_category">Greater Techniques</div>
+
+### Prey-Maiming Frenzy
+
+**Type:** Supplemental  
+**Cost:** 2a
+
+The Stylist channels the sheer strength of the Tiger, ravaging their
+opponent with frenzied, brutal strikes.
+
+Against any target that is stunned, paralyzed, or otherwise held in
+place, deal an extra (+4/3) damage.
+
+### Bone-Shattering Bite
+
+**Type:** Reflexive  
+**Cost:** 3a
+
+After delivering a successful Strike, the Stylist sinks their
+metaphorical teeth into the wound, shattering the bones of their target.
+
+So long as the target has lost at least 5 Health from one of your
+attacks (as calculated after all powers), you may disable a limb of the
+target by breaking a bone. While that limb is broken, they suffer (-2)
+on all actions that would normally use such a limb—representing them
+using their non-dominant hand for attacks, for example.
+
+Healing a broken bone faster than a year requires a Medicine Project of
+Scale 1.
+
+**Capstone Technique**
+
+### Angry Predator Frenzy
+
+**Type:** Permanent
+
+The tiger is the apex Predator of the jungle, stalker of all those
+around them.
+
+When in Tiger Form, add (+2) dice to any Athletics checks, and add
+(+3/1) damage to their attacks.

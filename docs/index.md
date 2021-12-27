@@ -17,10 +17,8 @@ About
 =====
 
 Exalted Reincaranated is a fan-made, top-to-bottom mechanics rewrite of the [**Exalted System**](http://theonyxpath.com/category/worlds/exalted/) by Onyx Path Publishing. 
-While the setting is fascinating, compelling, and contains great thematics, the mechanics supporting the setting are overcomplicated, and ultimately fall short of delivering on its thematics.
 
-The aim of this project is to provide a new system that is simplier to learn, but still provides a greate variety of customization to the player. This is, as best we can make it, an entirely new
-"edition" of the game, where we take everything apart, analyze its purpose, and build anew.
+The aim of this project is to provide a new system that is simplier to learn, but still provides a greate variety of customization to the player. This is, as best we can make it, an entirely new "edition" of the game, where we take everything apart, analyze its purpose, and build anew.
 
 **Mechanical Highlights:**
 

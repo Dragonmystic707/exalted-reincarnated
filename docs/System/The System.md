@@ -208,9 +208,17 @@ the choice between them.
 <p>In a high-powered setting such as Exalted, properly handling failure is incredibly important. You, as the Storyteller, are there to make sure that the story keeps moving forward, even if the Players are unable to do so.</p>
 <p>It is often helpful to see a failed roll as an opportunity for you to move the plot in a way that the Player characters wouldn’t want, rather than simply not succeeding.</p>
 <p>When a Player Character fails on an action, there are a few general paths that you may choose to employ:</p>
-<p>1. <em>A simple failure</em>—the character don’t do the action, the story continues. Typically you pick this path when the players already know of different paths they may take. Sometimes letting your players step back and reanalyze their approach is a decent option. You should not pick this option if it would bring the momentum of the scene to a crashing halt.</p>
-<p>2. <em>A bargained success—</em>the character manages to squeeze through a victory, but at a great cost. They opened the doors like the wanted, but they alerted everyone to their actions. You, as the Storyteller, are allowed to take a hard action against the player characters when this happens. Remember: you are not there to punish the players, but to set up great adversity and challenges!</p>
-<p>3. <em>“No, but...”</em>—If players have heavily invested in an action, and it just doesn’t work out because of bad luck, don’t give them <em>nothing</em>. Sure, they failed at the task they were intending, but another pathway opens. Maybe they failed to convince the Queen of their plight, but the Prince overheard and wishes to speak to them. Be judicious of choosing this option, as overuse may make your game feel consequence-free.</p></td>
+<p><strong>A Simple Failure</strong></p>
+<p>The character doesn’t do the action, and the story must continue through a different way.</p>
+<p>Sometimes simply failing is perfectly fine—the limits of the character are tested and shown, and there’s no shame in slowing down and reconsidering a new way to go forward.</p>
+<p>This is the simplest way forward, and probably what most people think of with a failure. Using it should happen when the Players have plenty of potential options in front of them and can quickly jump tracks onto another way—often highlighting a different character.</p>
+<p>The dangers of this path, though, is that it will slow down momentum of the game. A little slowdown is fine—sometimes there needs to be room to breathe—but if a game crashes to a halt based on a failure and all narrative momentum is lost, it would be better to choose a different failure condition.</p>
+<p><strong>A Great Cost</strong></p>
+<p>The character manages to do what they intended, but only at a great personal or story cost—they have met the bare minimum of what they wanted, but most definitely not in the way they wanted it.</p>
+<p>They opened the doors like the wanted, but they alerted everyone to their actions. You, as the Storyteller, are allowed to take a story-based reaction against the player character, driving up the stakes of the scene. Remember: you are not there to punish the players, but to set up great adversity and challenges!</p>
+<p><strong>No, but...</strong></p>
+<p>If players have heavily invested in an action, and it just doesn’t work out because of bad luck, don’t give them <em>nothing</em>. Sure, they failed at the task they were intending, but another pathway opens.</p>
+<p>Maybe they failed to convince the Queen of their plight, but the Prince overheard and wishes to speak to them. Be judicious of choosing this option, as overuse may make your game feel consequence-free.</p></td>
 </tr>
 </tbody>
 </table>
