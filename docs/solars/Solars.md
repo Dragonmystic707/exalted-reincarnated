@@ -101,7 +101,7 @@ people they hurt along the way.
 
 ### Skilled Start
 
-The Solar starts with **5 extra points** of abilities during character
+The Solar starts with **5 extra dots** of abilities during character
 creation. These points may raise abilities past **3**.
 
 ### Expanded Mote Pool
@@ -137,7 +137,7 @@ determined.
 <td><p><strong>Soulfire</strong></p>
 <p>The boundless essence of a Solar is, in itself, a dangerous weapon. With certain charms and actions, the Solar can lance out their anima itself as an extension of themselves.</p>
 <p>This Soulfire is particularly threatening to Creatures of Darkness.</p>
-<p><strong>Creatures of Darkness</strong></p>
+<h3 id="creatures-of-darkness">Creatures of Darkness</h3>
 <p>These are any Spirits, demons, or other supernatural creatures whose bodies and nature recoil at the sight of the Sun and his Chosen. The following are a broad stroke classification of Creatures of Darkness:</p>
 <ul>
 <li><p>Denizens of the Underworld, such as ghosts, specters, and zombies, and even its champions, the Abyssal Exalted.</p></li>

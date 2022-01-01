@@ -518,7 +518,7 @@ Minor Characters
 ----------------
 
 Minor Characters, especially those that cannot alone damage their foes
-will naturally fall into **Groups**.
+will naturally fall into **Battle Groups**.
 
 Groups act as a single character, but gain the following bonus based on
 their **Group Magnitude:**

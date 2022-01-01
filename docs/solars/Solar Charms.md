@@ -1002,7 +1002,7 @@ again. So long as they have imbued a dose that would
 The Solar may deliberately choose to lower their defenses for such
 recreational substances like alcohol.
 
-###  One Extra Step
+### One Extra Step
 
 **Type:** Supplemental  
 **Cost:** 2a
@@ -1013,7 +1013,9 @@ pursue them immediately with none of their fellows the wiser.
 Once per Scene, the Exalt may reach a Position or Target they can
 observe, and which is not completely impossible to reach.
 
-### Perfect Mirror
+### 
+
+###  Perfect Mirror
 
 **Type:** Simple; Day  
 **Cost:** 3m

@@ -202,8 +202,8 @@ Maneuver.
 <tbody>
 <tr class="odd">
 <td><p>Brawl Weapons</p>
-<p>While Brawl is the only ability that can be used <em>while</em> unarmed, it is not restricted to it—there are plenty of Brawl weapons.</p>
-<p>For the truly unarmed warrior, though, Martial Arts are a highly-complimentary investment.</p></td>
+<p>While Brawl is the only ability that can be used <em>while</em> unarmed, it is not restricted to it—there are plenty of Brawl weapons to choose from—brass knuckles, tiger claws, spiked boots, etc.</p>
+<p>For the unarmed warrior, taking a Martial Arts is suggested.</p></td>
 </tr>
 </tbody>
 </table>

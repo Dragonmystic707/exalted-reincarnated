@@ -240,6 +240,15 @@ Difficulty, you should **take the average**, rounding up. +1 or +2 dice
 is +1 to Resolve, for example. Some powers will directly reference
 Static Value or Difficulty modifiers, instead of dice.
 
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Minimum Difficulty</strong></p>
+<p>The minimum difficulty is <strong>always 1</strong>. You cannot lower difficulty past that through any means. Therefore, rolling 0 successes is <strong>always a failure</strong>.</p></td>
+</tr>
+</tbody>
+</table>
+
 ### Assigning Modifiers
 
 Modifiers can be granted from any source, such as any powers, the
@@ -676,14 +685,15 @@ regaining motes, their accumulated Anima dissipates—you can only be
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>Is it rest if I…</strong></p>
-<p>A character may play a game to relax, but using a game to strategize a battle plan is not. Talking jovially (or in commiseration) with fellows is relaxing, while trying to convince friends to join in a plan is not.</p>
-<p>If it is truly unclear whether a passage of time was rest, ask your players a hard question: “Do you want to regain all your motes? You will lose all of your Anima.”</p></td>
+<td><p><strong>Critical Rolls and Excellencies</strong></p>
+<p>Unless otherwise specified, the successes added from Excellencies <em>counts</em> as true successes for a critical roll. For example, if you roll 5 successes, and then bump it up to 9 successes through your excellency, you would gain 1 Anima.</p></td>
 </tr>
 </tbody>
 </table>
 
-#### Build Power
+#### 
+
+####  Build Power
 
 During heated moments, such as in Combat or Encounters, the Exalt takes
 a moment to stoke their internal flames, drawing essence from the world
@@ -736,7 +746,17 @@ Lastly, there are a couple of raw uses of anima:
     -   This is usually reserved for when all Motes have been expended,
         as Anima is typically a more precious resource.
 
-###  Anima Banner
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Is it rest if I…</strong></p>
+<p>If it is truly unclear whether a passage of time was rest, ask your players a hard question: “Do you want to regain all your motes? You will lose all of your Anima.”</p>
+<p>Resting does not mean sleep—so long as the activity is non-stressful and relaxing to the character, such as playing games or talking over a campfire, it is rest.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Anima Banner
 
 As an Exalt gathers energy, their souls become suffused with crackling
 energy, inflaming it into the seen world in a glorious expression.

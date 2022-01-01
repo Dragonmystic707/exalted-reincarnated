@@ -127,6 +127,8 @@ quick piercing strikes. Trainees often use harmless chopsticks as their
 practice weapons. Masters know how to use simply their bare fingers for
 this style.
 
+Hand needles have no mechanical benefit.
+
 <div class="power_category">Lesser Techniques</div>
 
 ### Snake Form
@@ -313,7 +315,212 @@ Scale 1.
 **Type:** Permanent
 
 The tiger is the apex Predator of the jungle, stalker of all those
-around them.
+around them. Where they travel, others dare not walk in their
+footsteps—for the great tiger slinks roughly through the underbrush,
+ready to strike.
 
-When in Tiger Form, add (+2) dice to any Athletics checks, and add
-(+3/1) damage to their attacks.
+When in Tiger Form, add (+2) dice to any Athletics rolls, and add (+3/1)
+damage to their attacks.
+
+Single Point Shining into the Void Style
+----------------------------------------
+
+**Abilities** Melee, Integrity  
+**Armor** Light, Medium  
+**Weapons** Slashing Swords
+
+Those Stylists who choose to be a Single Point of light among the
+darkness that reins in Creation must dedicate themselves to the purity
+of form itself. They must know their own inner truth before being
+inducted into this style—if they cannot bear the burden of their own
+self, they cannot bear the burden of the rest of the world on their
+shoulders.
+
+Stylists are known to be decisive, quick, and only move with purpose.
+Rarely do they even unsheathe their weapons except to deliver a
+singular, killing blow, only to return their pristine steel back as
+quickly as it is drawn.
+
+<div class="power_category">Lesser Techniques</div>
+
+### Single Point Shining into the Void Form
+
+**Type:** Form
+
+The stylist does not draw their weapons without purpose. To not throw
+everything behind their attacks would be foolishly brandishing their
+weapon about.
+
+You may use both actions on your turn as Decisive Strikes. However, on
+your next turn you may only take Maneuvers.
+
+As well, the Stylist always deals an extra (+1/1) damage to [Creatures
+of Darkness](creatures-of-darkness).
+
+### Gathering Light Concentration
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+The posture of the Stylist shows the dedication to their craft, and even
+those who do not know of their reputation will understand quickly how to
+fear this creature.
+
+Whenever using Melee on any Maneuver, such as Building Power or
+Intimidation, gain (+2) dice to such efforts.
+
+### Shining Star Execution
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+The Stylist becomes a whirl of steel, flowing from one target to the
+next in a blur of motion that becomes impossible to predict.
+
+When attacking twice in a round, gain +2 dice and (+2/1) damage on your
+second attack, so long as you attack a different target than the first.
+
+<div class="power_category">Greater Techniques</div>
+
+### Six-Demon Scabbard Binding
+
+**Type:** Reflexive  
+**Cost:** 3m
+
+The Stylist knows the truth of their own soul, and also knows when those
+around them seek to twist it to their own bindings—even subconsciously.
+
+While in the heat of battle, actively roll (Wits + Integrity), with
+(Essence) extra dice, against any attempts to supernaturally warp,
+twist, shape, or otherwise change the mind, spirit, or body of the
+Stylist instead of using Resolve or any other specified defense.
+
+If the Stylist successfully defends against this attack with 3 successes
+more than their attacker, they may turn the attack back on their
+assailant.
+
+### Horizon-Swallowed Star Flash
+
+**Type:** Reflexive  
+**Cost:** 3a
+
+The stylist knows that, often, aggressors will drop their defenses in
+the moment of their unbridled rage present in an attack.
+
+When either defending another or being attacked directly, roll
+(Dexterity + Integrity) vs. the target’s Evasion. If you are successful,
+immediately deliver your Full Damage as a preemptive counterattack,
+resolved before the target has a chance to deliver their attack.
+
+**Capstone Technique**
+
+### Blinding Nova Flare
+
+**Type:** Simple  
+**Cost:** 4a
+
+The Stylist strikes with overwhelming speed and spiritual prowess that
+erupts into a glowing sphere of destruction.
+
+Once per Scene, erupt into a brilliant nova of blinding light that
+resonates with your Exaltation. All foes in the scene who witness this
+eruption suffer (-2) dice on all their actions.
+
+As well, choose a target to focus your fury on, and roll contested (Wits
++ Integrity). If you succeed, their Evasion drops by (3) for the
+remainder of the fight, as you focus your inner soul on defeating them
+no matter the cost.
+
+White Reaper Style
+------------------
+
+**Abilities** Melee, Physique  
+**Armor** Any  
+**Weapons** Scythes, Polearms, Staves
+
+The origins of the White Reaper style lays with the humble farmers, who
+took up their instruments of craft to face the innumerable hordes of
+Wyld troops that sought to destroy and defile their land, their
+livelihoods, and their lives. Despite all odds, they managed to turn the
+tides, keeping their lands from the flood of the Wyld.
+
+To this day, the White Reaper Style stands as a testament of the strong
+spirit of those that are typically powerless, and how one may stand
+against a seemingly endless wave of enemies. It is particularly popular
+among Lunars of the northeastern cities, who have perfected the style
+into its current form.
+
+<div class="power_category">Lesser Techniques</div>
+
+### White Reaper Form
+
+**Type:** Form
+
+The Reaper stands strong against a thousand faceless hoards, empowered
+by the uneven odds as a misty white halo of energy coalesces around them
+with every strike.
+
+Gain (+2) accuracy and (+2/1) damage on Strikes against Battle Groups.
+As well, whenever you successfully Strike a Battle Group, immediately
+gain 1 Anima. You also gain 1 Anima every time any enemy is defeated by
+your Strike.
+
+### Falling Scythe Flash
+
+**Type:** Reflexive  
+**Cost:** 1m
+
+The Strikes of a White Reaper do not fall except for the purpose of
+harvesting their foes. Deal an extra (Strength)/2 damage on Full Hit.
+Against Battle Groups, instead deal an extra (Strength) damage.
+
+### Revolving Crescent Defense
+
+**Type:** Permanent
+
+The Stylist whirls their scythe in a complex pattern of moving steel and
+wood, providing a parry against all that would strike against them.
+
+Gain Parry, a third defense, which is calculated as (Strength +
+Melee)/2.
+
+<div class="power_category">Greater Techniques</div>
+
+### Enemies Like Grass
+
+**Type:** Simple  
+**Cost:** (2a per target)
+
+As the corona of blinding white light surrounds the Stylist, they lash
+out and strike at all whom dare stand in their way, halos of light
+erupting and crashing into their foes.
+
+You may target up to (Essence) foes, spending 2 Anima per target. These
+targets may be in the same and/or adjacent Zones. Lash out and attack
+them with a singular roll, gaining (+2) accuracy, and (+3/2) damage.
+
+### Snow Follows Winter
+
+**Type:** Simple  
+**Cost:** (1a per 3hp)
+
+The Stylist knows that combat against an endless horde is one of
+attrition, and constantly reinforces them with the energy harvested from
+the fallen.
+
+Immediately pull in a white halo of light from fallen foes into
+yourself—gaining 3 health for every 1 Anima spent.
+
+<div class="power_category">Capstone Technique</div>
+
+### Greatest Killer Attitude
+
+**Type:** Permanent
+
+The flow and ebb of battle becomes ingrained into the Stylist, and the
+energies stolen from fallen enemies bolsters the swath of death, fueling
+the cold inevitability of battle. The White corona of death surrounds
+the stylist, draping them further and further into the agent of the End.
+
+Each time a foe or Battle Group is defeated, gain (+2 acc), (+1/1)
+damage until the end of the Scene.

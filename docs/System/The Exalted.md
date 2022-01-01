@@ -142,7 +142,7 @@ The power of the Alchemical is focused on the magical materials:
 Orichalcum, Jade, Moonsilver, Starmetal, and Soulsteel. Their powers are
 modular, allowing swapping of charms and powers as they see fit.
 
-*Excellency: Overdrive  
+**Excellency:** Overdrive*  
 Choose an Attribute, and raise it by three points (which may exceed the
 cap of 5). Choose another Attribute that has at least 3 points, and set
 it to 1. This lasts for the remainder of the Scene. Derived values, such
