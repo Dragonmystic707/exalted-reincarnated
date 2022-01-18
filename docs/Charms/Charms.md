@@ -3,7 +3,7 @@ layout: page
 base_url: Charms
 title: Charms
 order: 0
-group_order: 4
+group_order: 5
 next_url: Martial Ability Charms
 next_title: Martial Ability Charms
 ---

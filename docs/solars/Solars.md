@@ -3,7 +3,7 @@ layout: page
 base_url: Solars
 title: Solars
 order: 0
-group_order: 7
+group_order: 8
 next_url: Solar Charms
 next_title: Solar Charms
 ---

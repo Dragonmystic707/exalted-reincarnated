@@ -2,10 +2,8 @@
 layout: page
 base_url: System
 title: The Exalted
-order: 2
-group_order: 3
-prev_url: Character Creation
-prev_title: Character Creation
+order: 0
+group_order: 4
 next_url: The System
 next_title: The System
 ---
@@ -99,7 +97,8 @@ Memory.
 
 **Excellency:** Blood Magic  
 *You may sacrifice your Health for successes, at a rate of 2 Health per
-success. You cannot sacrifice more than 10 Health at a time.*
+success. You cannot sacrifice more than 10 Health at a time. You do not
+gain Limit when using your Excellency*
 
 ### Infernals
 

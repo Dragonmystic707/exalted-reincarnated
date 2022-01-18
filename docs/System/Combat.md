@@ -2,8 +2,8 @@
 layout: page
 base_url: System
 title: Combat
-order: 5
-group_order: 3
+order: 3
+group_order: 4
 prev_url: Encounters
 prev_title: Encounters
 next_url: Projects
@@ -326,7 +326,7 @@ the attack is still considered a hit.
 <ol type="1">
 <li><p>Attacker rolls their Accuracy, with all Accuracy-boosting Powers.</p></li>
 </ol>
-<ol start="33" type="1">
+<ol start="7" type="1">
 <li><p>Defender responds with their Static Value and any defense-boosting Powers.</p></li>
 <li><p>The <strong>Player(s)</strong> may decide to activate their Excellency—either offensively or Defensively.</p></li>
 <li><p>If the Attack exceeds the final defense value, it hits.</p></li>

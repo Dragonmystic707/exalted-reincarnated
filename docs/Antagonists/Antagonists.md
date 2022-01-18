@@ -3,7 +3,7 @@ layout: page
 base_url: Antagonists
 title: Antagonists
 order: 0
-group_order: 11
+group_order: 12
 ---
 
 Quick **<span class="smallcaps">Characters</span>**

@@ -3,7 +3,7 @@ layout: page
 base_url: Exigents
 title: Exigents
 order: 0
-group_order: 9
+group_order: 10
 ---
 
 **<span class="smallcaps">One Thousand Gods</span>**

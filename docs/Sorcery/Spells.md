@@ -3,7 +3,7 @@ layout: page
 base_url: Sorcery
 title: Spells
 order: 1
-group_order: 5
+group_order: 6
 prev_url: Sorcery
 prev_title: Sorcery
 ---

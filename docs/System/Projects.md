@@ -2,8 +2,8 @@
 layout: page
 base_url: System
 title: Projects
-order: 6
-group_order: 3
+order: 4
+group_order: 4
 prev_url: Combat
 prev_title: Combat
 ---

@@ -3,7 +3,7 @@ layout: page
 base_url: Charms
 title: Utility Ability Charms
 order: 3
-group_order: 4
+group_order: 5
 prev_url: Social Ability Charms
 prev_title: Social Ability Charms
 ---

@@ -2,8 +2,8 @@
 layout: page
 base_url: System
 title: Encounters
-order: 4
-group_order: 3
+order: 2
+group_order: 4
 prev_url: The System
 prev_title: The System
 next_url: Combat

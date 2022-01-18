@@ -2,8 +2,8 @@
 layout: page
 base_url: System
 title: The System
-order: 3
-group_order: 3
+order: 1
+group_order: 4
 prev_url: The Exalted
 prev_title: The Exalted
 next_url: Encounters

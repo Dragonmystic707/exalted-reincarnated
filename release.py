@@ -183,22 +183,22 @@ def zip_downloads():
             print("-",pdf_file)
             zip_obj.write( os.path.join(downloads_dir, pdf_file), arcname=pdf_file)
 
-def export_pdf(folder_name):
-    folder_dir = path.join(src_dir, folder_name)
+def export_pdf(folder_dir):
     master_file_list = [f for f in  os.listdir(folder_dir) if f.endswith('.odm')]
     for master_file in master_file_list:
+        file_name, file_ext = os.path.splitext(master_file)
+        pdf_file = os.path.join(folder_dir, file_name + ".pdf")
+        dest_file = os.path.join(downloads_dir, file_name + ".pdf")
+
         # Create the pdf
         print("Converting", master_file, "to pdf...")
         soffice_cmd = soffice + " --headless \"" + os.path.join(folder_dir, master_file) + "\" \"macro:///" + macro_name +"\""
         subprocess.Popen(soffice_cmd).wait()
 
         # Move it to the downloads folder
-        file_name, file_ext = os.path.splitext(master_file)
-        src_file = os.path.join(folder_dir, file_name + ".pdf")
-        dest_file = os.path.join(downloads_dir, file_name + ".pdf")
         if os.path.exists(dest_file):
             os.remove(dest_file)
-        shutil.move(src_file, dest_file)
+        shutil.move(pdf_file, dest_file)
 
 def main(args):
     print("------------------------")
@@ -210,6 +210,15 @@ def main(args):
         print("------------------------")
         print("Converting Summary to pdf...")
         subprocess.Popen(soffice_cmd).wait()
+    
+    # Export out the Character Creation section seperately
+    if (args.file.lower() == "all" or args.file.lower() == "cc"):
+        soffice_cmd = soffice + " --convert-to pdf \"" + path.join(src_dir, "01_Character Creation.odt") + "\" --outdir " + downloads_dir
+        print("------------------------")
+        print("Converting Character Creation to pdf...")
+        subprocess.Popen(soffice_cmd).wait()
+        print(soffice_cmd)
+        shutil.move(os.path.join(downloads_dir, "01_Character Creation.pdf"), os.path.join(downloads_dir, "Character_Creation.pdf"))
 
 
     # Create the release
@@ -220,7 +229,7 @@ def main(args):
     export_pdf(src_dir)
 
     # Zip all the downloads
-    #zip_downloads()
+    zip_downloads()
     print("------------------------")
     print("Done!")
 

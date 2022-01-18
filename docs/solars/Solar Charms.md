@@ -3,7 +3,7 @@ layout: page
 base_url: Solars
 title: Solar Charms
 order: 1
-group_order: 7
+group_order: 8
 prev_url: Solars
 prev_title: Solars
 ---
@@ -477,12 +477,13 @@ towards the target. This may also affect the target themselves.
 ### Respect-Commanding Attitude
 
 **Type:** Supplemental; Scene  
-**Cost**: 2m
+**Cost**: 2a
 
 Once a Solar has begun a speech, performance, or other social action,
-those listening become unable to interrupt. Even their enemies must
-pause at the force of conviction the Solar, unable to take direct action
-against the Solar.
+those listening become unable to interrupt—no matter how long the Solar
+draws out their speech. Even their enemies must pause at the force of
+conviction the Solar, unable to take direct action against the Solar
+while in their monologue, unless they are directly acted against.
 
 This charm only affects those with (Essence) less than 3, or the Solar’s
 own (whichever is greater).

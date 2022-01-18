@@ -3,7 +3,7 @@ layout: page
 base_url: Martial-Arts
 title: Martial Arts
 order: 0
-group_order: 6
+group_order: 7
 ---
 
 Martial Arts are sets of Powers that are wholly dedicated to the art of
@@ -111,7 +111,7 @@ Snake Style
 
 **Abilities** Brawl, Athletics  
 **Armor** Unarmored, Light  
-**Weapons** Unarmed (Hand Needles)
+**Weapons** Unarmed \[Hand Needles\]
 
 Snake stylists use quick, precise strikes, disrupting Chakras and the
 flow of their targets motions. They prey on those that are slower than
@@ -226,7 +226,7 @@ Tiger Style
 
 **Abilities** Brawl, Athletics  
 **Armor** Unarmored, Light  
-**Weapons** Unarmed, Fist Weapons
+**Weapons** Unarmed, Close \[Fist Weapons\]
 
 Tiger Stylists focus on a low-centered, wide stances, which provides
 both incredible balance and flexibility in their motions. Their actions
@@ -327,7 +327,7 @@ Single Point Shining into the Void Style
 
 **Abilities** Melee, Integrity  
 **Armor** Light, Medium  
-**Weapons** Slashing Swords
+**Weapons** Close \[Slashing Swords\]
 
 Those Stylists who choose to be a Single Point of light among the
 darkness that reins in Creation must dedicate themselves to the purity
@@ -436,7 +436,7 @@ White Reaper Style
 
 **Abilities** Melee, Physique  
 **Armor** Any  
-**Weapons** Scythes, Polearms, Staves
+**Weapons** Close \[Scythes, Polearms, Staves\]
 
 The origins of the White Reaper style lays with the humble farmers, who
 took up their instruments of craft to face the innumerable hordes of
@@ -524,3 +524,119 @@ the stylist, draping them further and further into the agent of the End.
 
 Each time a foe or Battle Group is defeated, gain (+2 acc), (+1/1)
 damage until the end of the Scene.
+
+Silver-Voiced Nightingale Style
+-------------------------------
+
+**Abilities** Performance  
+**Armor** Unarmored  
+**Weapons** Unarmed \[Kai\]
+
+The lands of Creation are dangerous and wild—particularly for those that
+have dedicated their souls to the pursuit of song, instrumental music,
+and dance. There are some who have rebelled against this seeming
+weakness, concentrating and focusing their expression of self into a
+dangerous and powerful weapon to defend themselves and aid those around
+them.
+
+While the Nightingale style focuses on the spoken voice, there are many
+subsets allowing for instruments, and even dance.
+
+<div class="power_category">Lesser Techniques</div>
+
+### Silver-Voiced Nightingale Form
+
+**Type:** Form
+
+The Stylist hones their voice into a form fueled with the Essence of the
+land itself, pulling energy into the song and dance of life, and
+focusing their voice into powerful blasts that harms the psyche, moral,
+and essence flows of their opponents.
+
+Gain access to the Kai, a ranged weapon that uses Charisma and
+Performance for its attacks. It has +0/0 damage and +0 accuracy as a
+weapon.
+
+As well, the Stylist gains +1 Evasion, as they are in perfect harmony of
+their music and movement.
+
+### Inspiring Battle Hymn
+
+**Type:** Reflexive  
+**Cost:** 1m
+
+The song of war can not only harm their foes, but inspire their allies
+and spur their to greater actions, thrumming their motion with the beat
+of music.
+
+Grant +2 dice to an ally. This is considered a Teamwork bonus, but does
+not require the Stylist to consume their action to do so.
+
+### Terrifying Battle Shriek
+
+**Type:** Simple  
+**Cost:** 2m
+
+Sharp, deafening barks of mocking lyrics pour from the voice of the
+Stylist, intimidating and surprising all of those around them that
+perceives the actions of the stylist.
+
+As a Maneuver, roll (Charisma + Performance) against all targets in the
+same Zone as you. Those with a (Resolve) less than the number of
+successes gain (-2) on their next action. As well, in order to attack
+you on the next action, they must succeed on a (Wits + Integrity) roll
+vs. your (Essence).
+
+<div class="power_category">Greater Techniques</div>
+
+### Harmony in Opposition Stance
+
+**Type:** Reflexive; Scene  
+**Cost:** 2a
+
+The motion of song fills the Stylist, the rhythm moving their body in
+the constant dance of the battlefield—strikes, parries, dodges all
+becoming one intricate expression of the soul.
+
+Choose a single enemy to synchronize with, gaining (+3) Evasion against
+any attack they make directly against you. (This does not affect attacks
+that target areas.) As well, gain (+2) dice on all contested athletics
+attempts with the target.
+
+### Resounding Songbird’s Cry
+
+**Type:** Simple; Scene  
+**Cost:** 3a
+
+The Songbird shrieks out into an awful cry, glass and crystal shattering
+all around them as they hit the terrible frequencies, cracking and
+breaking even metal.
+
+To all enemies within your Zone and Adjacent Zones, roll (Charisma +
+Performance) vs. Resolve, dealing (Charisma) damage on a success. As
+well, from all the shattered scenery, you create an environmental hazard
+that deals (3 damage) to all who enters into this Zone unless they
+succeed on a (Dex + Athletics) vs. 3 roll.
+
+<div class="power_category">Capstone Technique</div>
+
+### Shattering Discord Cacophony
+
+**Type:** Simple  
+**Cost:** 5a
+
+The Stylist knows that the power held in music is not a simple
+analogy—there is a flow of Essence the resonates with the souls of those
+that can hear—and that flow can be disrupted. Dropping into a complex
+chant, the Stylist weaves their anima into the song, disrupting a
+target’s flow of Essence—threatening to dissolve their physical form
+into a blur of color.
+
+Roll (Charisma + Performance) +(Essence) dice vs. the target’s Resolve.
+If successful, the target takes 5 damage and becomes semi-incorporeal
+until your next turn—they cannot take any active actions of their own,
+but may be attacked as normal. If you fail, the target takes no damage
+but disappears completely from the battlefield until your next turn.
+
+If a target is downed while this effect is upon them, they dissolve into
+pure Essence.
