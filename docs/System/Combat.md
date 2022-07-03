@@ -657,7 +657,10 @@ its flavor. This should be equivalent to a **Lesser Power** in strength.
     the Medium or Heavy Category.
 
 Note that **Mundane Armor** cannot increase Block or Evasion **past 5.**
-Any Block or Evasion above this limit becomes **Soak**.
+Any Block or Evasion above this limit becomes **Soak**, which is only
+active when that defense is used. E.g. if you have a Block of 6, it
+becomes DV 5, +1 Soak for normal attacks. But attacks that bypass
+Evasion will also bypass the Soak.
 
 <table>
 <tbody>
@@ -665,7 +668,6 @@ Any Block or Evasion above this limit becomes **Soak**.
 <td><blockquote>
 <p>Mundane Armor</p>
 </blockquote></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -677,15 +679,9 @@ Any Block or Evasion above this limit becomes **Soak**.
 <td><blockquote>
 <p>Evasion Modifier</p>
 </blockquote></td>
-<td><blockquote>
-<p>Soak</p>
-</blockquote></td>
 </tr>
 <tr class="odd">
 <td>No Armor</td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
 <td><blockquote>
 <p>+0</p>
 </blockquote></td>
@@ -699,9 +695,6 @@ Any Block or Evasion above this limit becomes **Soak**.
 </blockquote></td>
 <td>+0</td>
 <td>+1</td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -709,9 +702,6 @@ Any Block or Evasion above this limit becomes **Soak**.
 </blockquote></td>
 <td><blockquote>
 <p>+1</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
 </blockquote></td>
 <td><blockquote>
 <p>+0</p>
@@ -726,9 +716,6 @@ Any Block or Evasion above this limit becomes **Soak**.
 </blockquote></td>
 <td><blockquote>
 <p>-1</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1</p>
 </blockquote></td>
 </tr>
 </tbody>
