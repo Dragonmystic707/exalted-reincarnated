@@ -672,8 +672,9 @@ Power.**
 </tr>
 <tr class="even">
 <td><strong>Build Power</strong></td>
-<td>(Successes) / 2 Anima<br />
-(Or extend cast time by 5 minutes per anima required)</td>
+<td><p>Gain Anima by taking an action</p>
+<p><strong>or</strong></p>
+<p>Spend 5 minutes per Anima required.</p></td>
 </tr>
 </tbody>
 </table>
@@ -686,7 +687,7 @@ regaining motes, their accumulated Anima dissipates—you can only be
 <tbody>
 <tr class="odd">
 <td><p><strong>Critical Rolls and Excellencies</strong></p>
-<p>Unless otherwise specified, the successes added from Excellencies <em>counts</em> as true successes for a critical roll. For example, if you roll 5 successes, and then bump it up to 9 successes through your excellency, you would gain 1 Anima.</p></td>
+<p>Unless otherwise specified, the successes added from Excellencies <em>counts</em> as true successes for a critical roll. For example, if you roll 5 successes, and then bump it up to 9 successes through your excellency, you would still gain 1 Anima.</p></td>
 </tr>
 </tbody>
 </table>
@@ -699,15 +700,17 @@ During heated moments, such as in Combat or Encounters, the Exalt takes
 a moment to stoke their internal flames, drawing essence from the world
 around them.
 
-The Player describes how the Character focuses themselves, and rolls the
-appropriate (Attribute + Ability), gaining a point of Anima for ever 2
-successes rolled. (The Critical Roll Anima bonus does *not* apply on
-this roll.)
+The Player describes how the Character focuses themselves, which should
+be some signature aspect of their character—a Dawn Solar may find solace
+in flourishing their weapon, a Lunar of the Wyld might cycle through her
+forms, and a Dragonblood may pull energy from the surrounding area.
 
-Descriptions of Build Power can truly be anything. A Dawn Solar may find
-solace in flourishing their weapon in a display of (Dexterity + Melee).
-Another may find refuge in their thoughts, looking across others in
-recollection with a (Int + Lore) roll.
+Building Power grants 1 Anima to the character immediately. In addition,
+roll (Essence + Ability) dice and gain **half** (rounded up) of the
+Successes rolled as Anima.
+
+The Ability chosen should, naturally, be one of the highest your
+character has—the signature move of your character.
 
 Building Power encompass a number of thematic actions-- “Preparing for a
 devastating blow” or “catching a breather” or “bringing all the clues
@@ -717,6 +720,7 @@ before a very, very explosive storm of power and action.
 As Building Power is a narrative device to represent a character pushing
 above and beyond normal strength, trying to purposefully sit and gather
 Power in scenes without any narrative weight behind it is not allowed.
+Instead, use the **Narrative Scope** of building power.
 
 #### Narrative scope
 
@@ -812,8 +816,7 @@ long as a character *should* be able to do something, and it is *cool*
 for them to do so, it *does.* In this way, it can be thought of as a
 more powerful Stunt.
 
-There are a few guiding restrictions to keep in mind with Strifes, which
-should
+There are a few guiding restrictions to keep in mind with Strifes:
 
 -   Other character’s actions cannot be dictated: only those under
     control of the Player’s.
@@ -823,6 +826,18 @@ should
 
 -   The Action should flow naturally from the character—a Solar cannot
     suddenly shapeshift, for example.
+
+For mechanical guidance:
+
+-   By default, a roll is not required with a Strife—simply expending
+    the Anima is the cost required to succeed.
+
+    -   However, if the effect is *contested* or otherwise resisted, you
+        are always guaranteed at least (Essence) successes on said roll,
+        regardless of what is actually rolled.
+
+    -   Using a Strife as a **Strike** gives +4 to Accuracy, and has a
+        Base Damage of 3+(Essence)x2
 
 **Example**
 
@@ -951,6 +966,52 @@ their anima level.
 </tbody>
 </table>
 
+Cheat Death
+-----------
+
+The Player is the sole arbiter of the their character’s fate. If it is
+not the time for their character’s story to end, that death becomes
+cheated. Somehow, the defy the monumental odds, crawling days through
+pain and anguish that none other have suffered for help.
+
+Cheating Death can also be employed for smaller dooms that the Player
+disagrees with—being mentally controlled, catastrophically messing up a
+project, etc. “Cheating Death” is the ultimate refusal of the rules, to
+impose your own narrative on the story.
+
+But cheating death comes at a **cost**. The character will be invariably
+changed from their experience. There will be scars of their
+encounter—whether it is physical, mental, or social. The Player should
+work with the Storyteller to come up with a consequence from the
+implausible survival.
+
+Cheating Death always involves **gaining 1 Limit**, and rolling to
+**Limit Break** at the start of the *next* Scene.
+
+Suggestions are:
+
+-   A dramatic change in Intimacies—such as the addition of (fear)
+    related to the event.
+
+-   A loss of an appropriate merit, such as an Ally who sacrificed
+    themselves to save the character.
+
+-   Physical reminders of the lost battles, such as scars.
+
+-   Recurring nightmares, where the character is forced to relive the
+    moment of their escaped death.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Antagonist Defeat</p>
+<p>There will be times when an antagonist—intended to be recurring—is defeated, or otherwise dramatically halted.</p>
+<p>These Characters, like Player Characters, have the ability to escape certain defeat if it best suits the plot. However, they should <em>also</em> suffer the same consequences for doing so.</p>
+<p>Escaping death should never be cheap, and should not be done too many times. Let your Players have victories.</p></td>
+</tr>
+</tbody>
+</table>
+
 Storyteller Timelines
 ---------------------
 
@@ -979,7 +1040,7 @@ on a more cinematic sense of time.
     A complete game, encompassing all the stories relevant to a set of
     characters.
 
- Magnitudes
+Magnitudes
 ----------
 
 *Exalted* is styled in more of a cinematic, broad-sweeping style game

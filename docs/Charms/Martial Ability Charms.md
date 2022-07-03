@@ -10,69 +10,7 @@ next_url: Social Ability Charms
 next_title: Social Ability Charms
 ---
 
-Archery
--------
-
-### Arrow Storm Technique
-
-**Type:** Simple  
-**Cost:** 2m
-
-The sky becomes filled with a barrage of arrows, blotting out the
-celestial bodies with their mass before they come crashing down into
-their foes.
-
-Attack up to (Archery) foes in a single, *adjacent* Zone with a single
-dice roll. You deal -2 less damage on this flurried attack.
-
-### Cruel Thorns
-
-**Type:** Reflexive  
-**Cost:** 2m
-
-If you roll 8 or more successes on an Archery Strike (and hit the
-target), you may add an additional (Attribute + Essence)/2 damage to
-your attack.
-
-### Dragonfly Finds Mate
-
-**Type:** Permanent
-
-The arrow flies true and with purpose, deflecting any incoming
-projectiles before they have a chance to hit their intended target.
-
-Against any ranged attack, you may gain a Third Defense of (Dexterity +
-Archery)/2 + (Weapon Acc.). This may be used to Defend Others at a Range
-equal to that of your weapon’s.
-
-### Splitting the Arrow
-
-**Type:** Supplemental  
-**Cost:** 1m
-
-The Exalt strikes with unerring accuracy and lethality, finding the
-smallest chink of armor and exploiting it.
-
-Your attack now targets Evasion only: dealing full damage if successful,
-and no damage otherwise.
-
-### Wise Arrow
-
-**Type:** Supplemental  
-**Cost:** 1m (+2)
-
-With perfect control, the Exalt lets loose a bolt of a perfect arc to
-strike their target.
-
-The Exalt may target creatures through the smallest of cracks, over
-impossibly high barriers, or even through slits between a door. So long
-as a single, uninterrupted arch exists to the target, they are a valid
-enemy, and derive no benefit from cover.
-
-For an additional +2motes, this may increase an Archery attack by one
-Zone.
-
- Athletics
+Athletics
 ---------
 
 ### Feather Foot Style
@@ -118,13 +56,13 @@ action.
 ### Reed in the Wind
 
 **Type:** Reflexive  
-**Cost:** (1m per 1 Dmg.)
+**Cost:** Permanent
 
 Matching their rhythm to their attackers, the Exalt can minimize even
-the attacks that do manage to land.
+the attacks that approach them.
 
-For every mote spent, reduce incoming damage by 1 Health, up to a
-maximum of 5.
+Increase Evasion by +1, up to a maximum of 5. If unable to increase
+Evasion, this instead grants +1 Soak.
 
 ### Soaring Leap
 
@@ -261,10 +199,65 @@ damage to each individual.
 **Type:** Supplemental  
 **Cost:** (1m per Dmg.)
 
-For every mote spent, deal an extra point of Full Damage on a Strike.
-You may add no more than (Melee) damage this way.
+For every mote spent, deal an extra point of Damage on a Strike. You may
+add no more than (Melee) damage this way.
 
-You may add (Melee)/2 Glancing damage at a rate of 2m per damage.
+ Marksmanship
+------------
+
+### Arrow Storm Technique
+
+**Type:** Simple  
+**Cost:** 2m
+
+The sky becomes filled with a barrage of arrows, blotting out the
+celestial bodies with their mass before they come crashing down into
+their foes.
+
+Attack up to (Marks.) foes in a single, *adjacent* Zone with a single
+dice roll. You deal -2 less damage on this flurried attack.
+
+### Cruel Thorns
+
+**Type:** Reflexive  
+**Cost:** 2m
+
+If you roll 8 or more successes on a Ranged Strike (and hit the target),
+you may add an additional (Attribute + Essence)/2 damage to your attack.
+
+### Dragonfly Finds Mate
+
+**Type:** Permanent
+
+The arrow flies true and with purpose, deflecting any incoming
+projectiles before they have a chance to hit their intended target.
+
+Against any ranged attack, you may gain a Third Defense of (Dexterity +
+Marks.)/2 + (Weapon Acc.). This may be used to Defend Others at a Range
+equal to that of your weapon’s.
+
+### Splitting the Arrow
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+The Exalt strikes with unerring accuracy and lethality, finding the
+smallest chink of armor and exploiting it.
+
+You may target Evasion on this attack, instead of DV.
+
+### Wise Arrow
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+With perfect control, the Exalt lets loose a bolt of a perfect arc to
+strike their target.
+
+The Exalt may target creatures through the smallest of cracks, over
+impossibly high barriers, or even through slits between a door. So long
+as a single, uninterrupted arch exists to the target, they are a valid
+enemy, and derive no benefit from cover.
 
  Physique
 --------
@@ -321,65 +314,6 @@ Type: Reflexive
 Cost: 1m
 
 The Exalt can withstand nearly any blow thrown at them. Increase your
-Block by (Essence) against a single attack.
-
- Thrown
-------
-
-### Angle-Tracing Edge
-
-**Type:** Supplemental  
-**Cost:** 1m
-
-With perfect control, the Exalt lets loose a Thrown Attack that performs
-a perfect set of ricochets to reach its target, eliminating any benefit
-from Cover.
-
-### Cascade of Cutting Terror
-
-**Type:** Simple  
-**Cost:** 2m
-
-Target up to (Thrown) foes within the same Zone you occupy and a single
-adjacent one.
-
-Make a single Thrown Strike against all targets. You deal -2 damage to
-the targets.
-
-### Critical Strike
-
-**Type:** Reflexive  
-**Cost:** 2m
-
-If you roll 8 or more successes on a Strike that does Full Damage to a
-target, add another (Attribute + Essence)/2 damage to the attack.
-
-### Fan of Blades
-
-**Type:** Supplemental  
-**Cost:** 1m
-
-The Exalt spreads out a hundred blades, ensuring that at least one will
-hit. They may target Soak on their Thrown attack.
-
-### Flashing Draw Mastery
-
-**Type:** Supplemental  
-**Cost:** 1m
-
-Pull all weapons thrown by the Exalt back to themselves, so long as a
-possible path still exists. This charm may be used to attack an enemy
-from the position of the thrown weapon, rather the position of the
-Exalt.
-
-### Shrapnel Casting Attitude
-
-**Type:** Supplemental  
-**Cost:** 1m
-
-Any and all objects can be a weapon in the hands of the Exalted.
-
-You may hurl any physical object that is smaller than your torso without
-any penalties, treating it as a mundane Medium Ranged weapon (+1/0
-damage.)
+Block by +1, to a maximum of 5. If unable to grant Block, it instead
+becomes +1 Soak.
 

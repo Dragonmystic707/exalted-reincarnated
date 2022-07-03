@@ -15,8 +15,14 @@ handled through a broad-stroking brush.
 
 Projects represent what happens during **downtime** to explain what
 characters are doing when the heat of action is not fully upon them. As
-such, performing Projects should typically happen only during points of
-**time skips**, or **between Stories.**
+such, performing Projects best happens during *time skips* or *between
+stories—*a perfect point to pause the action and reflect on what
+characters are not doing on-screen.
+
+However, *this is not required—*any point of downtime or rest is a valid
+time to perform a Project. In this case, the time required is assumed to
+have been done over the course of many sleepless nights—or just
+hand-waved away.
 
 A scene of Projects will often follow a montage structure—Choose a
 Player, let them describe what they are spending their points on, then
@@ -77,15 +83,18 @@ Project.
 
 ### Keystone Resource
 
-Larger and more ambitious projects will require certain Keystone to
-complete. This can range from needing a General to command an army to
-requiring a significant amount of *magical materials,* such as
-Orichalcum or Moonsilver.
+Larger and more ambitious projects (Projects of Scale 4 **and 5**) will
+require a Keystone to complete—some piece of the Story that is needed to
+complete the project. This can range from needing a General to command
+an army to requiring a significant amount of *magical materials,* such
+as Orichalcum or Moonsilver.
 
 Keystone Resources are things that Players must *seek out.* Typically,
 this is done by dropping out of the “montage” section of Projects, and
 embracing a full scene involving the Exalt seeking out, resolving, and
-interacting with their desired Keystone.
+interacting with their desired Keystone. This need *not* be longer than
+a small Scene, but it *can* be used as a major driving force for the
+Story.
 
 <table>
 <tbody>
@@ -93,7 +102,7 @@ interacting with their desired Keystone.
 <td><p>Using Keystones as Story Generation</p>
 <p>Keystones are an excellent way to gauge what Players care about, and what they feel is central to care about—you never need a Keystone for a minor change to the world or minor merit for the character.</p>
 <p>Therefore, it’s not unreasonable to ask players early what sort of Keystone they are seeking, and then make it a plot of a <strong>Story,</strong> giving them the requested Keystone when certain criteria have been met—when they have recruited their General, changed the geomancy of an area, or introduced their assassin network into a new location.</p>
-<p>However, if this takes more than a Session, you should let the Player spend their resources and use their merit/change upon the world while searching for the Keystone—though perhaps at a bit of a disadvantage.</p></td>
+<p><strong>However</strong>, Keystones aren’t <em>required</em> to be important parts of the Story. Just simply detailing out a small Scene to its acquisition is perfectly acceptable.</p></td>
 </tr>
 </tbody>
 </table>
@@ -254,97 +263,96 @@ resistance to this command that he must make a Minor Alteration Project
  Obstruction Rolls
 -----------------
 
-All projects of **Scale 1+**, will have an Obstruction Roll, to
+All projects greater than **Scale 1** will have an Obstruction Roll, to
 represent any sort of random events and/or problems that will inevitably
 show up during the course of your Project.
 
-The Obstruction Roll is a **Luck Die** (1d10), to which they add their
-(Ability) Score to. Then, they subtract the Project Scale to get the
-final result of the roll:
-
-> **1d10 + (Ability Rating) - (Scale/Merit Level)**
->
 > Once the Player knows the scale of their Obstruction, they should
 > describe what the result is, and how their character deals with the
 > results.
 >
 > If desired, the Player may request ideas from the Storyteller or other
 > players.
->
-> Obstructions should never prevent the Player from completing a
-> project—even a Major Problem. The Resources and Keystones have been
-> spent. However, they can certainly inconvenience the Character, change
-> the outcome unexpectedly, or make the character question if they are
-> on the right path.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Multiple Projects</strong></p>
-<p>If a character has multiple projects proceeding, only roll for Obstructions for the <strong>two</strong> most impactful Projects of that character, to speed things up.</p></td>
-</tr>
-</tbody>
-</table>
+An Obstruction Roll uses an (Attribute + Ability) roll. However, **this
+is not a normal Ability Roll**, and cannot be modified by normal Powers,
+as this roll represents a considered effort over a great amount of time,
+not burst effort. Only Powers which **explicitly** mention the Project
+system affect this roll.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p>Obstructions</p>
-</blockquote></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>12+</p>
-</blockquote></td>
-<td><blockquote>
-<p><strong>Critical Success:</strong> Everything has seemingly clicked into place, providing an extra benefit. You increase the Merit by 1 additional dot rating, up to 3.</p>
-<p>If this is not possible, or the Merit is already at rank 3, you may reclaim 1 Resource from the project.</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>10-11</p>
-</blockquote></td>
-<td><blockquote>
-<p><strong>Success:</strong> Everything is proceeding exactly as planned. Describe your character in full control, excelling at what they do best.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>7-9</p>
-</blockquote></td>
-<td><blockquote>
-<p>An <strong>Alteration</strong> has developed and the Exalt's direct attention is requested. Describe how the project is changed—the end goal remains the same.</p>
-<p>Alterations are neither positive or negative—they are simply something <em>unexpected</em>.</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>4-6</p>
-</blockquote></td>
-<td><blockquote>
-<p>A <strong>Problem</strong> happens. Something requires the character’s direct attention, and will put great strain on them.</p>
-<p>The character will become stressed, lose sleep, or have some other temporary impact to their wellbeing in order to overcome this difficulty.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>0-3</p>
-</blockquote></td>
-<td><blockquote>
-<p><strong>Major Problem</strong>: The project is in <em>dire straits</em>, and requires some <em>sacrifice</em> on the part of the Character, or else the project will fail, and half of the invested Resources will be lost.</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+The **Excellency** may be used on an Obstruction Roll, but the **cost**
+is doubled—2 Limit. (Abyssals gain a Limit, and must start with their
+decreased Health Pool at the next non-Project Scene.)
 
-### Alteration 
+The results of the Obstruction Roll operates on a **Degree of Success**,
+which subtracts the project’s scale from the number:
 
-Oddities are events that, while unexpected, are not directly harmful to
-the completion of the project. They could potentially be a boon, even,
-but require direct attention of the Exalt to resolve.
+**Degree of Success:** (Att + Ability) - Scale
+
+The Degree of Success determines how well the character did on their
+project. Do note that the Project has already been bought and paid for
+with their Resources, so even a negative roll will allow the project to
+come to fruition—at a cost. The exception being 0 Successes rolled—a
+critical failure.
+
+### Obstruction Results:
+
+#### Critical Failure: 0 Successes Rolled
+
+The Character has so incredibly botched their attempt that it is has
+become actively dangerous to them and all involved.
+
+The character may either to *immediately* Cheat Death—sacrificing an
+existing Merit or something close to them—or else allow the disaster to
+spiral out of control, allowing the Storyteller to create an incredible
+consequence for their actions.
+
+Should they choose to push forward despite the incredible disaster they
+have caused, they must Cheat Death again.
+
+Regardless if they push forward or not, all Resources are lost.
+
+**Examples:**
+
+-   Your workers have split into two different groups, on the brink of a
+    civil war.
+
+-   An uncaught spy sabotaged your works, and has successfully usurped
+    your hard work for their own gain.
+
+-   One of the magical materials was corrupted with Vitriol, becoming a
+    touchstone gateway for unbound Demons.
+
+#### 
+
+####  Problem: Result is negative
+
+The Project turned out to be incredibly more challenging than expected,
+and you are only able to pull it off by the skin of your teeth, putting
+great strain on your well-being.
+
+You have quelled the issue—for now. It is almost certain to show back up
+later.
+
+**Examples:**
+
+-   A spy has not returned on time. You know they are not simply late.
+
+-   Loss of a minor cache of resources. A spirit has started to disrupt
+    the village.
+
+-   An explosion rocked your campsite.
+
+-   Supply lines are being disrupted.
+
+-   Rumors of the Wyld hunt are near your border.
+
+#### Alteration: (0-3)
+
+Something unexpected happened—nothing that you can’t handle, but it did
+require you to change something significant about the project.
+
+**Examples:**
 
 -   Beastmen have heard of your militia, and wish to join. Current
     members are uneasy and do not wish them to without your input.
@@ -357,30 +365,19 @@ but require direct attention of the Exalt to resolve.
     leading to a variance in essence flow. It might lead to a new and
     unintended strange power.
 
-### Problems
+#### Success: (4-5)
 
-Problems, if not dealt with, would set back the Project.
+Everything went according to plan. Describe your character excelling at
+what they are good at, anticipating any and all issues that might have
+happened with their greatest grace.
 
--   A spy has not returned on time. You know they are not simply late.
+#### Critical Success: (6+)
 
--   Loss of a minor cache of resources. A spirit has started to disrupt
-    the village.
+The Maidens of Fate smiled upon you, and decided to grace your efforts
+beyond your wildest ability.
 
--   An explosion rocked your campsite.
-
--   Supply lines are being disrupted.
-
--   Rumors of the Wyld hunt are near your border, but are unproven.
-
-### Major Problem
-
-A Major Problem will derail the entire project if not dealt with.
-
--   Your workers have split into two different groups, on the brink of a
-    civil war.
-
--   There seems to be an element inside your organization actively and
-    effectively disrupting your society.
-
--   One of the magical materials was corrupted with Vitriol, and has
-    started to speak the demon-tongue of Malfeas.
+Not only do you succeed, but you *exceed* at your expectation. You may
+either describe how your efforts go above and beyond what you wanted,
+gaining one extra Scale to your Project, reclaim 1 Resource from the
+Project, or allow the Storyteller to grant you a boon from this effort
+to be reflected in the story.

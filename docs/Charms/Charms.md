@@ -4,30 +4,10 @@ base_url: Charms
 title: Charms
 order: 0
 group_order: 5
-next_url: Martial Ability Charms
-next_title: Martial Ability Charms
 ---
 
 Charms are the natural expression of a character’s essence, a specific
 and trained way for their internal power to be expressed upon the world.
-
-### Ability Charms (Universal)
-
-Typically, a character does not know they are using a specific charm: it
-is simply an instinctual channeling of essence to produce the desired
-effect.
-
-Charms available to all Exalts, such as the Ability Charms will manifest
-uniquely based on their exaltation. A Lunar might borrow the eyes of a
-falcon to see further, while an Air Dragonblood would create a focal
-lens out of the air—but they both would spend the same number of motes
-and end up with the same perception advantage. The Player should be
-encouraged to take their own unique spin on the Charm.
-
-**Ability Charms are all Lesser Powers.** (Except for Upgrades).
-
-Don’t be afraid to take your own unique spin on describing a charm’s
-powers!
 
 System Presentation
 -------------------
@@ -184,4 +164,3 @@ have?”
 </tr>
 </tbody>
 </table>
-

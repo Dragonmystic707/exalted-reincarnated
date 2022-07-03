@@ -20,150 +20,192 @@ well-spoken speeches or careful deliberation.
 
 In such moments, one or more Scenes should be dedicated to it. This
 Encounter system is a *framework* intended to help Storytellers craft
-dramatic scenes, and thus should be treated as guidelines rather than
-firm rules.
+dramatic scenes.
 
-### Goal
+An Encounter, at its fundamental, boils down to two overarching
+questions: “**What You \[PCs\] Want”** and “**What They \[NPC’s\]
+Want.**” Each group works to further their goals, while trying to
+prevent the other from advancing their own goal.
 
-You have to first decide what the Goal of the scene *is*. What is it the
-Players ultimately want? Sometimes it may be obvious from the context,
-but many other times you may need to ask them what their ultimate goal
-is. This is the first hurdle in starting an Encounter.
+### The Doom Counter (What They Want)
 
-It is fine if the goal *changes* during the course of the Encounter,
-there just needs to be something there to start with.
+As a Storyteller, you are to write down **What They Want**, and decide
+how difficult it is for the NPCs to get to their target—how many
+distinct actions they will have to take in order to reach their goal if
+unimpeded. This is the **Doom Counter—**if it is filled,
+
+If each action is **certain,** where an antagonist need only *take* the
+action to fill the doom counter, the number of actions should be:
+
+|                            |            |          |                 |
+|----------------------------|------------|----------|-----------------|
+| **Doom Counter (Certain)** |            |          |                 |
+| **Easy**                   | **Medium** | **Hard** | **Challenging** |
+| 3                          | 5          | 7        | 9               |
+
+Certain Actions can represent a myriad of things—the simplest being the
+passage of time, an oppresive clock ticking down to harm to Player’s
+actions. But it can be any range of things, from a city guard pursuing
+them, an approaching avalanch burying the battlefield.
+
+If each action is **conditional,** or are not certain to succeed when
+the antagonist takes their action the number of actions should be:
+
+|                                |            |          |                 |
+|--------------------------------|------------|----------|-----------------|
+| **Doom Counter (Conditional)** |            |          |                 |
+| **Easy**                       | **Medium** | **Hard** | **Challenging** |
+| 2                              | 3          | 5        | 7               |
+
+**Conditional** actions come in two flavors: they are advanced when an
+antagonists takes an action that requires a roll, and succeeds on said
+roll (such as attempting to sway, influence or otherwise inconvenience a
+Player character.). Or, they can be **reactively advanced** to whenever
+a Player Character does something—typically failing on a roll.
+
+The Players should be made aware of this doom counter, even if their
+characters are not—it will only heighten the tension in the scene. This
+can be done simply by having a number ticking down on the screen, some
+figure being filled in, or physical counters being slowly taken away.
+
+Of course, the *nature* of the Doom Counter should be rarely
+known—simply a ticking clock towards doom is enough.
+
+There can be **multiple** Goals for NPCs in the scene, completely
+independent of each other---but it is suggested to never have more than
+**3**, as that becomes too much to track.
+
+As well, if a scene is relaxed and easygoing, there is a possibility
+that there is **no** Doom Counter—the risk here is not an external force
+that imposes complications, but the Player Characters making a mess of
+the Scene themselves.
+
+#### Pushing Doom Back
+
+Player Characters can *counter* the doom counter by taking considered
+actions to **halt** or **reverse** the doom counter.
+
+You, as the Storyteller, will have to decide if the Player’s described
+action will either prevent the doom counter from advancing this round,
+or remove a point from the counter—the former being much easier than the
+latter.
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>Simple Goals</p>
-<p>It’s perfectly fine to have simple, assumed goals. Not everything needs to have a complex or structured; sometimes a primal need is all it has to be. “Survive” is quite popular.</p></td>
+<td><p><strong>Abstract Antagonists</strong></p>
+<p>It is easy to recognize an antagonist when it is an individual. However, Antagonists can be anything—mobs of people, the environment, or even Time itself.</p></td>
 </tr>
 </tbody>
 </table>
 
-### Key Issues
+### Complications
 
-Once a goal has been established, identify and breakdown what stops the
-Players from reaching their goals. (2-3 are suggested, and never more
-than 5). Each of these obstacles are **Key Issues** that need to be
-overcome before the goal can be reached.
+Each time a **Doom Counter** is filled, a complication is introduced
+into the Scene, ready to trip up, halt, or just alter the course of the
+Player Characters.
 
-Key Issues can truly be anything—personal or political entanglements,
-terrain difficulties, or even logistics issues. So long as it fits the
-theme of the scene, and is a solid, self-contained idea, it can be a Key
-Issue.
+The simplest Complication is the most absolute: the Antagonist gets what
+they want, the Scene ends, the Player Characters lose. Typically this is
+only associated with at least Hard Dooms, and is a result of the Players
+completely ignoring the impending doom.
 
-Once the Key Issues have been identified, decide how many successful,
-distinct, *actions* must be made to overcome the Key Issue. This is an
-abstracted representation not of difficulty (that is determined by
-individual rolls), but of *complexity*.
+The other complications, those far more likely to happen, will simply
+*change* the scene in a way that is detrimental to the Player
+Characters. As time goes on and more Dooms are fulfilled, the Scene will
+become more and more untenable, to the point where the Players may have
+to bail on their goals.
 
-Visualizing progress is important in an encounter—and it is recommended
-you keep your players in the loop that they are working towards their
-Key Issue! Having a set of tokens to remove, or something as simple as
-check-boxes to fill does wonders!
+**Examples:**
 
-|                          |             |
-|--------------------------|-------------|
-| **Key Issue Complexity** |             |
-|                          | **Actions** |
-| Simple                   | 1           |
-| Average                  | 3           |
-| Difficult                | 5           |
-| Complex                  | 7           |
+-   The City Guard shows up, requiring the Player Characters to sneak
+    around, or else risk an unwanted confrontation.
 
-### Generating Key Issues
+-   Half of the Scene gets buried under snow, unable to interacted with.
 
-It can help to visualize distinct challenges relating to the key issue,
-such as: “Number of people to convince over to my side,” or “stages of
-stealth to overcome.” However, always remember that you are setting up a
-*challenge* for players to overcome, not the method for which they must
-go through, and this abstracted count of actions should allow that
-flexibility!
+-   Characters needed for questioning scatter. The Players must actively
+    search for them.
 
-It is entirely possible for you to expect your players to talk to
-individual bystanders, to inspire each one of them to raise moral of the
-village, yet your Players instead craft a monument of glory—and that is
-perfectly fine and encouraged! So long as each action has a narrative
-weight, even if unexpected, it should be allowed!
+### Key Issues (What You Want)
 
-|                       |                                                                                                |
-|-----------------------|------------------------------------------------------------------------------------------------|
-| **Sample Key Issues** |                                                                                                |
-| 1                     | Multiple groups of Guards are patrolling on a schedule.                                        |
-| 2                     | There is a character with a close and strong emotional tie, opposing what the characters seek. |
-| 3                     | There is a group that have political desires to keep the status quo.                           |
-| 4                     |                                                                                                |
-| 5                     |                                                                                                |
-| 6                     |                                                                                                |
-| 7                     |                                                                                                |
-| 8                     |                                                                                                |
-| 9                     |                                                                                                |
-| 10                    |                                                                                                |
+When the Encounter starts, a certain **Goal** must be clearly decided by
+the Players—if there is no clear Goal, take a moment to discuss it. The
+goal does not need to be overly complex: “Escape” is quite a popular
+one, after all.
 
-###  Complications
+Once the Goal has been established, think up **1-3 Key Issues** that are
+preventing the Goal from being accomplished. Again, these need not be
+overly complex-- a simple sentence is all that is needed for a Key
+Issue. If you cannot think of any at the spot, is is perfectly fine to
+use the Goal itself as the singular Key Issue.
 
-Complications are anything introduced into the Scene by the Storyteller
-that will distract, inhibit, or otherwise challenge the Player
-Characters in their pursuit of their goals.
+Each Key Issue should have a Counter, much like the Doom Counter. Each
+**successful action** that Players take will fill in a piece of the
+Counter, and if there is a **Critical Success** (8+), it either fills in
+two counters, or fills in one counter and prevents a **Doom Counter**
+from being filled.
 
-Complications can change, alter, or otherwise shed different light on
-the Key Issues, and may even block certain methods of attaining their
-goals. Perhaps a landslide occurs, burying the way to a quarter of the
-city; or there is a patrol of guards cycling through the way; or even
-perhaps something a simple as the chiming of the bells, denoting that a
-new hour has arrived.
+As this is a narrative section, you, as the Storyteller, must decided if
+a stated action would fill in the counter or not—but you must
+communicate this to your Players before they undertake their action.
 
-Complications should show up fairly regularly—there should be at least
-one per Encounter. However, they should always make sense and be
-telegraphed to players beforehand. If the source of a Complication is a
-character, say a primary antagonist or a group of guards, this is quite
-easy—players will expect them to take an action every “Round” or so.
+Not all actions will lead to filling in the Key Issue—there are plenty
+of actions that are either in support, or lead up to a deciding action.
 
-However, when it is something more abstract, such as the passage of
-time, you should signify it with something, be it the description of a
-clock’s hand ticking down, or the more abstract notion of displaying a
-counter filled up after actions performed. Suspense in a scene is not
-necessarily surprise: if you give your Players just enough information
-that there is *something* going to happen, when their Characters do not,
-it is far more satisfying and impactful when it actually does.
+|               |            |          |                 |
+|---------------|------------|----------|-----------------|
+| **Key Issue** |            |          |                 |
+| **Easy**      | **Medium** | **Hard** | **Challenging** |
+| 3             | 5          | 7        | 9               |
 
-|                          |                                                                                                                    |
-|--------------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Sample Complications** |                                                                                                                    |
-| 1                        | There is a mutually exclusive choice the players must make. Should they choose one, the other will become cut off. |
-| 2                        | The Environment is slowly, consistently deteriorating—either literally or metaphorically.                          |
-| 3                        | A character needs to be distracted or kept occupied for a certain amount of rounds.                                |
-| 4                        |                                                                                                                    |
-| 5                        |                                                                                                                    |
-| 6                        |                                                                                                                    |
-| 7                        |                                                                                                                    |
-| 8                        |                                                                                                                    |
-| 9                        |                                                                                                                    |
-| 10                       |                                                                                                                    |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Large Groups</p>
+<p>If you have more than 4 Players, you should increase the number of actions required for each Key Issue by +1 per Player.</p></td>
+</tr>
+</tbody>
+</table>
 
- Playing an Encounter
---------------------
+#### Hidden Issues
 
-### Flow
+Like the Doom Counter, the *presence* of a Key Issue and the number of
+actions needed to perform it should not be kept secret—Players must know
+they are making progress in a Scene, and know that it is heading toward
+a resolution.
 
-An Encounter is not like a Combat Scene—the timing is fluid, and actions
-do not follow a set order, depending primarily on the natural flow of
-the narrative.
+However, the *nature* of a Key Issue may not be known—especially in an
+intrigue Scene, finding out what *blocks* the goal is nearly as
+important as taking actions to counter it. There are two ways to handle
+it:
 
-By default, the concept of “Round” is not necessary in an Encounter—only
-in the manner that each character gets one action per “Round”--i.e. a
-character cannot simply chain actions together without others getting a
-chance to act.
+The **first way** is to simply not state what the Key Issue is, and
+periodically drop hints as to what it is. If they take actions that are
+even tangentially related to countering the issue, they get to take a
+reflexive action using the **Read Intentions** rules to uncover the
+nature of the Key Issue.
 
-However, if an encounter is *timed*, you may use Turn Order method as
-detailed in Combat.
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Accidental Progress</p>
+<p>Most of the time, a Hidden Key Issue will require uncovering what the Issue is before proceeding. Only the most targeted actions are supposed to advance the Counter.</p>
+<p>However, either through educated guesses or sheer good luck, a Player might take an action that <em>precisely</em> matches a Key Issue. In this case...let the issue be filled, and give them a large hint as to what the Key Issue is.</p>
+<p>This should be the <em>exception</em>, though. If their action is tangentially or near to the Key Issue, simply let them uncover the nature.</p></td>
+</tr>
+</tbody>
+</table>
 
-### Consequences
+The **Second Way** is to have another Key Issue whose goal is to
+**Uncover** the nature of the Key Issue. What you are doing here is
+essentially *splitting* the Key Issue in two—half of its actions are
+dedicated to uncovering the nature, the other half to countering it.
 
-Consequences are essentially **Complications** that arise in the story
-because of *Player Choices*.
+#### Consequences
+
+In an Encounter, it is important that Player Actions have
+*Consequences—*these are **Complications** that arise directly because
+of the Player’s Actions.
 
 The classic example is that of intimidation: if a Player Character gets
 what they want through terrorizing people into townsfolk, they should
@@ -184,7 +226,23 @@ problem. This is a situation where a little bit goes a long way: only
 introduce a mechanically-effecting consequence when it truly matters to
 change the scene.
 
-### Altering/Adding Goals
+### Flow
+
+An Encounter does not *need* to have a rigid timing system like
+Combat—it is a narrative space where actions and reactions happen as
+seems fitting.
+
+The one rule is that all character should have a *chance* to act/react,
+before a character acts again.
+
+Once the Players have fulfilled their Key Issues (or the Antagonist has
+fulfilled theirs), the Encounter scene ends—there is no need to stick
+around for anything but the optional **final argument**, which wraps up
+the scene and moves forward.
+
+### Specific Rules
+
+#### Altering/Adding Goals
 
 During the Encounter, the Players may decide they want to alter the
 ultimate goal—perhaps they have decided to push further, or have found
@@ -194,69 +252,7 @@ In both cases, the Storyteller should add an additional Key Issue to
 encapsulate this difference. They may decide to drop a separate existing
 Key Issue if the altered goal no longer applies.
 
-### Antagonist Goals
-
-Antagonists are operating on their own goal during the scene, and have
-their own Key Issues that they must Gather Influence upon.
-
-Typically, the Antagonist’s Goal and Goals and Key Issues are directly
-related to the Party’s—whether in direct opposition, or competing to get
-there first. For convenience sake, these are referred to as the “the
-same” Key Issue.
-
-However, antagonists having the same Key Issue is not a
-*requirement*—they may be working on a separate Goal for the scene, and
-they have tangential or completely unrelated Key Issues. Typically,
-these start out as hidden to the Party.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Abstract Antagonists</strong></p>
-<p>It is easy to recognize an antagonist when it is an individual. However, Antagonists can be anything—from mobs of people to an avalanche to <em>Time itself</em> closing off a Key Issue.</p></td>
-</tr>
-</tbody>
-</table>
-
-### Sabotaging Progress
-
-The Antagonist and Party’s Progress tracks are independent of each
-other, and can be thought of more as a “race” rather than anything.
-However, just like in a race, participants can *sabotage* the other’s
-progress.
-
-When taking an action, a Player can apply one of their actions to
-removing the progress of an antagonist by one action. Or, they may
-attempt to wrest control over a completed Key Issue piece by piece—the
-latter of which often requires one action greater than
-
-Control may be taken away if a different side gains more Influence than
-the previous owner, either by decreasing it through sabotage or
-reinforcing their own claim.
-
-In order to wrest control over a completed Key Issue, you must take 1
-*additional* action more than what would be normally required. So for an
-Average (3) complexity issue, you would have to make a total of (4)
-actions.
-
-### Encounter End
-
-The Encounter ends the same Round that all Key Issues become
-*controlled*—though they do not need to be under control all by the same
-*side.*
-
-If a Goal’s Key Issues are completely controlled by one side, they will
-achieve their Goal.
-
-A Goal with split Key Issue control will find they have a *partial*
-victory—they do not get the full Goal they wanted, but they do not get
-nothing at all.
-
-When weighing a Partial Victory, the Storyteller should lean heavily
-into the uncontrolled Key Issues—why will this bring trouble to them?
-Perhaps they get what they want, but only at a certain cost?
-
-### Final Argument
+#### Final Argument
 
 Optionally, the Encounter is wrapped up with a *Final Argument*, where a
 chosen Player or Storyteller summarizes what has happened in the
@@ -267,40 +263,7 @@ crowds.
 The roll—if there is one—for this moment carries no risk of sabotaging
 existing progress, rather it is a push for *something more*.
 
- Characters on the Defense
--------------------------
-
-Convincing important characters, particularly Player Characters, is a
-single Key Issue with a base complexity of Average (3), or Difficult (5)
-if they have an opposing Intimacy to the idea.
-
-This can be anything from forcing the character to see their point on an
-important fact, charming them, lying to them, or even instilling a
-particular Intimacy.
-
-A successful application does not *force* the character to do
-anything—this isn’t unnatural influence, simply convincing speech. But
-they should take this new idea as part of their decision process. As
-well, after the idea impacts their life negatively once, they may
-reconsider and reject it.
-
-As always, Players reserve the right to declare something as
-Unacceptable influence, if they believe it violates their character or
-ideas. Typically they should reference one of their Intimacies,
-backstory, or Facts when doing so.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>It’s Hard to Convince Player Characters</strong></p>
-<p>Ultimately, it’s up to the Player whether or not their character is convinced by something. As a Storyteller, you have control over all aspects of the world, and how difficult each action is; the one thing that you don’t have control over is what Player Characters think and do—you should only suggest it to the Player, not force it upon them. Even powerful effects, such as “Theft of Memory,” should be used with caution.</p>
-<p>Ultimately, this is a story about the <em>Player Characters</em> and their actions, not about Non-Playable characters and your world!</p>
-<p>Social-focused Antagonists should be primarily represented by their actions and charm against other NPC’s. While they should not shy away from trying to charm the Player Characters, don’t expect them to succeed!</p></td>
-</tr>
-</tbody>
-</table>
-
-### Environmental Ailments
+#### Environmental Ailments
 
 The Exalted are *resistant* to casual exposure disease, warping effects
 from the Wyld, and other such external debilitation of the soul, but it
@@ -322,6 +285,80 @@ Characters take a specific action.
 
 If successful, the character should gain a dot or two of a deleterious
 “merit” that must take a Project to remove.
+
+#### Characters on the Defense
+
+Convincing important characters, particularly Player Characters, is a
+single Key Issue with a base complexity of Average (3), or Difficult (5)
+if they have an opposing Intimacy to the idea.
+
+This can be anything from forcing the character to see their point on an
+important fact, charming them, lying to them, or even instilling a
+particular Intimacy.
+
+A successful application does not *force* the character to do
+anything—this isn’t unnatural influence, simply convincing speech. But
+they should take this new idea as part of their decision process. As
+well, after the idea impacts their life negatively once, they may
+reconsider and reject it.
+
+As always, Players reserve the right to declare something as
+Unacceptable influence, if they believe it violates their character or
+ideas—but they must **Cheat Death** in order to avoid the influence.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>It’s Hard to Convince Player Characters</strong></p>
+<p>Ultimately, it’s up to the Player whether or not their character is convinced by something. As a Storyteller, you have control over all aspects of the world, and how difficult each action is; the one thing that you don’t have control over is what Player Characters think and do—you should only suggest it to the Player, not force it upon them. Even powerful effects, such as “Theft of Memory,” should be used with caution.</p>
+<p>Ultimately, this is a story about the <em>Player Characters</em> and their actions, not about Non-Playable characters and your world!</p>
+<p>Social-focused Antagonists should be primarily represented by their actions and charm against other NPC’s. While they should not shy away from trying to charm the Player Characters, don’t expect them to succeed!</p></td>
+</tr>
+</tbody>
+</table>
+
+Encounter Types
+---------------
+
+### The Journey
+
+The Player Characters are on a journey from one point of the map to the
+other. Their Goal is to simply get there as fast and safely as possible.
+
+Unless the terrain is *actively hostile*, such as the treacherous deep
+sea or the ever-shifting Wyld, the **Doom Counter** is only filled when
+the Player **roll poorly—**but there may be a creature or force actively
+hunting them as well.
+
+**Complications**:
+
+-   Getting Lost
+
+-   Losing supplies
+
+-   Coming upon dangers.
+
+-   Leaving a traceable trail.
+
+**Key Issues**
+
+-   Unknown Path
+
+-   Dwindling rations
+
+-   Hostile environment, such as frigid temperatures.
+
+### The Court
+
+&lt;TODO&gt;
+
+### Murder Investigation 
+
+&lt;TODO&gt;
+
+### Stealth Mission
+
+&lt;TODO&gt;
 
 Example Encounters
 ------------------

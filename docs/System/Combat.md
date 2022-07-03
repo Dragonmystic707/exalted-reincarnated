@@ -48,9 +48,10 @@ Charm that supplements a successful Strike with *knockback*.)
 In combat, Turns follow a swinging back-and-forth focus: once one
 character finishes their actions, it is passed to the next side to the
 opponent with the most narrative weight or physical proximity to the
-action. For example, if a Player Character is attacking a monster, the
-monster would be the next to go in the action, and then the spotlight
-would swing back to the Player Character closest to the monster.
+action, as determined by the Storyteller. For example, if a Player
+Character is attacking a monster, the monster would be the next to go in
+the action, and then the spotlight would swing back to the Player
+Character closest to the monster.
 
 Each character only takes one turn per Round. Once all combatants on a
 side gone, the remaining characters finish their turns—no character
@@ -117,7 +118,8 @@ up logically based on the terrain, though if the Storyteller may choose
 to chop up a zone into smaller categories if they feel they are too
 large (i.e. a north and south side of a long path.)
 
-There is no set size for a zone—they can be as large or small as needed.
+There is no set size for a zone—they can be as large or small as is
+narratively required.
 
 ### Move
 
@@ -133,6 +135,15 @@ as though they were in the same zone. However, zone boundaries often are
 marked by some sort of barrier, such as walls, which *would still*
 impede an attack.
 
+Attacks crossing a Zone boundary suffer a **-2** dice penalty, but may
+be negated by taking an **Aim** Maneuver. Each Zone boundary adds its
+own dice penalty, and must be negated by its own individual Aim
+Maneuver. For example, striking across 3 Zone boundaries would impose a
+-6 dice penalty, and would require 3 Aim Maneuvers to fully counter.
+
+**Aiming** is an action that must be declared against the target you
+intend to hit. You cannot simply take a general aim action.
+
 <table>
 <tbody>
 <tr class="odd">
@@ -146,9 +157,7 @@ impede an attack.
 </tbody>
 </table>
 
-### 
-
- Maneuvers
+Maneuvers
 ---------
 
 A Maneuver is any action the character performs to gain advantage over
@@ -161,7 +170,9 @@ considered to be a Maneuver.
 
 The Player describes any action that would grant them tactical
 advantage, and then rolls the appropriate \[Att + Abi\] dice pool if one
-is called for.
+is called for. If there is a Difficulty of **None** on the Maneuver,
+they simply declare they are taking that action, and move on—no roll
+needed.
 
 Remember, Exalted follows the dynamic and cinematic model—heroes should
 be leaping across narrow banisters, dancing steel in testing feints, and
@@ -204,7 +215,7 @@ movements of the foes, centering yourself, or making feinting moves.
 <table>
 <tbody>
 <tr class="odd">
-<td><strong>Sample Maneuver Effects</strong></td>
+<td><strong>Maneuvers</strong></td>
 <td></td>
 <td></td>
 </tr>
@@ -214,16 +225,37 @@ movements of the foes, centering yourself, or making feinting moves.
 <td>Description</td>
 </tr>
 <tr class="odd">
+<td>Aim</td>
+<td>None</td>
+<td>Take an Action and Aim, negating the penalty from firing across a Zone boundary. Must specifically declare a target.</td>
+</tr>
+<tr class="even">
+<td>Move</td>
+<td>None (Varies)</td>
+<td>Cross a Zone boundary. Typically has no difficulty, but may require a roll if restrained, or if the terrain is difficult.</td>
+</tr>
+<tr class="odd">
+<td>Defend Other</td>
+<td>None</td>
+<td><p>Select a character in the same Zone as you. Attacks that target them must instead target you.</p>
+<p>You must remain in the same Zone as your charge.</p></td>
+</tr>
+<tr class="even">
+<td>Change Stance</td>
+<td>None</td>
+<td>Swap Fighting Style.</td>
+</tr>
+<tr class="odd">
 <td>Weaken Defense</td>
 <td>(3 / 5 / 8)</td>
 <td><p>Decrease a single target’s defense. (-1) for a (3+), (-2) for (5+), or (-3) for (8+). Cannot be stacked.</p>
-<p>This lasts at least a round.</p></td>
+<p>This lasts until the target recovers.</p></td>
 </tr>
 <tr class="even">
 <td>Break/Bypass Defense</td>
 <td>(Varies)</td>
 <td><p>If a weakness exists, as detailed by the Storyteller, it can break or bypass a defense—effectively setting it to 1.</p>
-<p>Tearing armor off, or trapping a beast in a cage are examples</p></td>
+<p>Tearing armor off, or trapping a beast in a cage are examples. The difficulty is determined based on the narrative.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Knockback /</p>
@@ -232,17 +264,15 @@ movements of the foes, centering yourself, or making feinting moves.
 <td>Moves the target up to one Zone.</td>
 </tr>
 <tr class="even">
-<td><p>Hold/</p>
-<p>Grapple/</p>
-<p>Restrain</p></td>
+<td>Restrain</td>
 <td>Evasion</td>
-<td>Note the number of Successes rolled. The target must make a roll against that number as a difficulty, or else be unable to move.<br />
+<td>Roll (Dexterity + Brawl) against a target’s Evasion. If successful, the target cannot move Zones for one Roundl,.<br />
 This lasts until your next action.</td>
 </tr>
 <tr class="odd">
 <td><p>Distract /</p>
 <p>Intimidate / Stun</p></td>
-<td>Resolve</td>
+<td>MDV</td>
 <td>You apply a -2 dice disadvantage on another character. If you exceed their Resolve by +3, this becomes a -4 dice Disadvantage.</td>
 </tr>
 <tr class="even">
@@ -264,17 +294,6 @@ This lasts until your next action.</td>
 You may also destroy other’s cover Advantage.</td>
 </tr>
 <tr class="odd">
-<td>Defend Other</td>
-<td>(None)</td>
-<td><p>Select a character in the same Zone as you. Attacks that target them must instead target you.</p>
-<p>You must remain in the same Zone as your charge.</p></td>
-</tr>
-<tr class="even">
-<td>Disarm</td>
-<td>Block</td>
-<td>Knock a weapon out of a hand, which cannot be reclaimed for a Round.</td>
-</tr>
-<tr class="odd">
 <td><p>Keep Pace/</p>
 <p>Reactionary Move</p></td>
 <td>Evasion</td>
@@ -287,6 +306,9 @@ This lasts until your next action.</td>
 Strike
 ------
 
+> **Hit**: (Accuracy) &gt;= DV  
+> **Damage:** (Accuracy) + Base Damage – DV - Soak
+
 If you truly wish to kill your opponent, you may do so by striking at
 them with a dangerous attack. These can be performed against any
 character within range that is not specifically protected by some sort
@@ -294,27 +316,27 @@ of narrative defense—such as a wall or a giant chasm. If a character
 attempts to attack an ineligible target, remind them and ask them to
 take another action instead.
 
-Without the use of a Power or a Stunt, Striking is restricted to the
-Physical Attributes (Strength, Dexterity), paired with a Martial
-Ability—typically Archery, Brawl, Melee, or Thrown.
+By default, a Strike must use use either **Strength** or **Dexterity**,
+paired with **Brawl, Melee,** or **Marksmanship**. Attacking with any
+other Attribute/Ability requires either a Stunt, Storyteller permission,
+or a dedicated Power.
 
-The Accuracy of the roll is the (Attribute + Ability) dice, plus any
-bonuses from weapons or powers.
+The dice pool to attack is called **Accuracy,** which should be recorded
+on the character sheet for quick reference. It is the (Attribute +
+Ability) referenced above, with any bonuses added from your fighting
+style, and any Powers and Advantages you might have.
 
-If the roll matches or exceeds the higher value of the two Defenses:
-Block and Evasion, the attack hits for **Full** Damage.
+After declaring an attack, roll the **Accuracy** pool. If the number of
+successes is less than the target’s **DV**, the attack misses. If it is
+greater or equal to, it hits.
 
-If the roll only matches or exceeds **one** of the two defenses, the
-attack hits for the lesser **Glancing** Damage. The target was able to
-either avoid or take the full brunt of the hit, but not enough to leave
-without a scratch.
+On a hit, subtract the **DV** from the number of successes on the
+**Accuracy** roll—this is called your **Threshold Successes**. Add that
+to your **Base Damage**, and the total amount is the damage the target
+takes.
 
-If the roll is less than both defenses, or has 0 successes, the attack
-misses and no damage is dealt.
-
-The target loses Health equal to the damage, minus any damage reduction
-they may gain through Powers. If the damage is reduced all the way to 0,
-the attack is still considered a hit.
+If the target has **Soak**, they absorb that much damage, but the rest
+is taken from their Health Pool.
 
 <table>
 <tbody>
@@ -326,71 +348,28 @@ the attack is still considered a hit.
 <ol type="1">
 <li><p>Attacker rolls their Accuracy, with all Accuracy-boosting Powers.</p></li>
 </ol>
-<ol start="7" type="1">
+<ol start="6" type="1">
 <li><p>Defender responds with their Static Value and any defense-boosting Powers.</p></li>
 <li><p>The <strong>Player(s)</strong> may decide to activate their Excellency—either offensively or Defensively.</p></li>
 <li><p>If the Attack exceeds the final defense value, it hits.</p></li>
 <li><p>The Attacker declares any supplemental Damage boosting Powers.</p></li>
-<li><p>The Defender declares any supplemental Damage reducing Powers.</p></li>
+<li><p>The Defender declares any supplemental Damage reducing Powers, including Soak.</p></li>
 <li><p>The final damage is calculated, then Health is removed.</p></li>
 </ol></td>
 </tr>
 </tbody>
 </table>
 
-###  Damage Calculation
-
-Damage is based off of the **Attribute** used in the attack. **Full**
-Damage is (Attribute) + (Essence), while **Glancing** damage is
-(Attribute)/2, rounded up.
-
-Weapons and powers will often boost damage, and will be written as
-follows:
-
-**+Full / Glancing**
-
-So a power that says “+2/1 damage” would add +2 Full Damage, and +1
-Glancing Damage.
-
-If, through any combination of powers or bonuses, Glancing Damage ever
-becomes greater than Full Damage, you may choose to deal Glancing damage
-during a Full hit. (You should never be punished for rolling too well.)
-
-#### Third Defense
-
-There are some Powers, Martial Arts, etc. that grant a third defense.
-This new defense—typically limited in some way—will primarily help avoid
-Glancing damage, replacing the weaker of Block or Evasion on normal
-attacks.
-
 #### Targeted Attacks
 
 Certain Powers will call for a **targeted** attack, attacking a derived
-value such as Evasion or Resolve, or calling for a contested roll.
+value such as Evasion or Resolve, or calling for a contested roll. These
+bypasses the normal defense structure.
 
-This bypasses the normal defense structure
-
-There are some Powers, Martial Arts, etc. that grant a third defense.
-This new defense—typically limited in some way—will primarily help avoid
-Glancing damage, replacing the weaker of Block or Evasion on normal
-attacks.
-
-Maneuvers and actions that target Block or Evasion, however, remain
-unaffected.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>A Note on Combat</p>
-<p>If you run through the math, you will notice that characters are most likely to deal Glancing damage if they attack an equivalent foe—it is not difficult to raise the highest defense a point or two.</p>
-<p>This is intentional, and there are two reasons behind it:</p>
-<p>1. The game assumes—and encourages—tactical weakening of opponents defenses, as well as gratuitous boosting of their own attacks. Base attacks are unlikely to deal Full damage without said boosts.</p>
-<p>2. Attacking consumes an action, while defending does not. Therefore, the chance of completely missing and dealing <em>no</em> damage is far more punishing than being hit for some damage, and has been weighted accordingly.</p></td>
-</tr>
-</tbody>
-</table>
-
-#### 
+Instead of **DV**, you will use whatever defense is declared on the
+Power. For example, you may directly target Block against a highly
+Evasive enemy, both increasing your chances of hitting and gaining more
+damage in the process.
 
  **<span class="smallcaps">Combat End</span>**
 ---------------------------------------------
@@ -439,55 +418,17 @@ knocked. Surrender, escape, or other options will become the pressing
 concern of any NPC who gets at or below **5 Health.** They gain an
 Intimacy of “survival” at this point.
 
-Player characters who are defeated gain **1 Limit** from the
-humiliation, regardless of if they are in mortal danger or not.
+Player characters who are defeated and in mortal danger must **Cheat
+Death** in order to avoid their fate, explaining their (implausible)
+escape/return. If they are not in mortal danger, they still gain **1
+Limit** from the humiliation of defeat. (Friendly sparring matches and
+competitions are excluded.)
 
 ### <span class="smallcaps">Healing and Recovery</span>
 
 Health lost in combat is regained much in the same way motes are:
 through rest and relaxation. **15 Points** of Health are regained after
 a full night’s rest, or **2 points** per hour if it is interrupted.
-
-###  Cheat Death
-
-A dramatic moment of death is a perfect send-off and ending for one of
-the members of the Exalted. However, not all defeats are a dramatic
-moment—sometime it is not time for a character to depart from the story.
-
-The Player is the sole arbiter of the their character’s fate. If it is
-not the time for their character’s story to end, that death becomes
-cheated. Somehow, the defy the monumental odds, crawling days through
-pain and anguish that none other have suffered for help.
-
-But cheating death comes at a cost. The character will be invariably
-changed from their experience. There will be scars of their
-encounter—whether it is physical, mental, or social. The Player should
-work with the Storyteller to come up with a consequence from the
-implausible survival.
-
-Suggestions are:
-
--   A dramatic change in Intimacies—such as the addition of (fear)
-    related to the event.
-
--   A loss of an appropriate merit, such as an Ally who sacrificed
-    themselves to save the character.
-
--   Physical reminders of the lost battles, such as scars.
-
--   Recurring nightmares, where the character is forced to relive the
-    moment of their escaped death.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Antagonist Defeat</p>
-<p>There will be times when an antagonist—intended to be recurring—is defeated, or otherwise dramatically halted.</p>
-<p>These Characters, like Player Characters, have the ability to escape certain defeat if it best suits the plot. However, they should <em>also</em> suffer the same consequences for doing so.</p>
-<p>Escaping death should never be cheap, and should not be done too many times. Let your Players have victories.</p></td>
-</tr>
-</tbody>
-</table>
 
  The Environment
 ---------------
@@ -514,8 +455,8 @@ It is assumed to hit and deal damage.
 | Heavy                    | 7   |
 | Oppressive               | 9   |
 
-Minor Characters
-----------------
+Battle Groups
+-------------
 
 Minor Characters, especially those that cannot alone damage their foes
 will naturally fall into **Battle Groups**.
@@ -528,10 +469,182 @@ their **Group Magnitude:**
 -   Add 1 Damage, 1 Accuracy, and +1 Dice on an action for every
     Magnitude Scale increment
 
- Equipment
----------
+ Fighting Style
+--------------
 
-### Armor
+A character’s **Fighting Style** is a combination of the **Weapon Type**
+and the **Weapon Style** with which ist is weilded. These two aspects
+are completely linked, and cannot be changed once created. For example,
+taking the Weapon Type: Melee, and the Fighting Style: Two-Handed
+describes a two-handed greatsword. It cannot simply be changed to a
+One-Handed style due to its intrinsic nature.
+
+A character can have up to two Fighting Styles at a time, which can be
+switched to and from using a Maneuver Action. (The base ‘style,’
+Unarmed, or no style, does not count on this limit.) This represents the
+time it takes for the character to swap their weapons out. Specific
+Fighting Styles are often called out as a requirement for a Martial
+Arts.
+
+Note that a Fighting Style **cannot increase Block or Evasion past 5.**
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Can my Weapon Pull Double Duty?</p>
+<p>The default assumption is that each Fighting Style has an individual weapon associated with it: you fight with a firepiece in one stance, and a sword in another.</p>
+<p>If you wanted to combine the two into one weapon, creating a gunblade, that is perfectly fine. It provides no mechanical benefit, but it is cooler.</p></td>
+</tr>
+</tbody>
+</table>
+
+### Weapon Types
+
+The weapon type is defined by what Ability it uses, and gains a few
+benefits along the way:
+
+-   **Brawl  
+    **+1 Accuracy, 3 Base Damage  
+    Typical weapons: None, tiger claws, natural weapons, brass knuckles,
+    spiked boots.
+
+-   **Melee  
+    **Grants 4 Base Damage  
+    Typical weapons: Sword, spear, club, mace, whip.
+
+-   **Marksmanship  
+    **+1 Accuracy. 2 Base Damage, May attack at all ranges.  
+    Typical weapons: Bow, flamepiece, crossbow, throwing spear.
+
+#### Exotic Types (Custom)
+
+Exotic abilities, those that are not of the list above, can be used with
+the coordination and approval of the Storyteller. For example, **Craft**
+could be paired with **Reach/Thrown** to represent throwing explosives
+as an attack.
+
+Exotic Types offer no other benefit, save for 2 Base Damage. By default
+(without a custom style), they still require Strength/Dexterity as the
+paired Attribute.
+
+### Weapon Style
+
+#### Grapple Master:
+
+(Brawl-Only)  
++1 Evasion (max 5)
+
+You may *Grapple* opponents, occupying them in close hand-to-hand combat
+in a way that they cannot escape. As a Maneuver, roll (Dexterity +
+Brawl) against their Evasion. If successful, you Restrain them for a
+Round, plus additional Rounds for every 2 extra Successes on the roll.
+
+When Restrained, you have an extra +2 dice to attack the target. As
+well, you may prematurely end the grapple as a maneuver, throwing or
+slamming the target against physical material, immediately dealing 5
+damage to them (which may be soaked.)
+
+#### Defensive Posture:
+
++1 Block (max 5)  
+*Often represented as having a shield in the off-hand.*
+
+Choose a target at the start of combat. You may reflexively defend them
+as long as you are in their Zone. As well, you may reflexively move one
+Zone to meet your protectorate, though it consumes your next Maneuver.
+
+#### One-Handed:
+
++1 Accuracy, +1 Damage  
+*A balanced style, allowing great flexibility and general bonuses.*
+
+You can **call** a Strike, taking a Maneuver to specify the target and
+how you are performing the called shot. (e.g. a specific body part,
+trying to use psychology against them, etc.) All Strikes against this
+character gain +2 Acc. for the remainder of the Scene, or else until you
+switch targets.
+
+#### Two-Handed:
+
+(Strength-only)  
++2 Damage  
+*Focused on overwhelming power over all else.*
+
+You may brazenly attack. Perform a Maneuver, calling out a specific
+*target.* Lower your DV by 1 until your next Round in order to target
+Evasion instead of DV on your next Strike against the target.
+
+#### Dual-Wielding:
+
+(Dexterity-Only)  
++1 Accuracy, +1 Damage  
+*A surprise attack from the off-hand weapon will catch most opponents
+off-guard.*
+
+Once per battle, you may immediately Reroll a Strike should it fail.
+Afterwards you may spend 2 Anima to re-use this ability. Only one reroll
+per Strike is allowed.
+
+#### 
+
+####  Reach/Thrown:
+
+(Marksmanship excluded)  
+Allows attacking at range, but only across one Zone Boundary.  
+**Note:** you do not lose access to your weapon after throwing it.
+Either it returns (like a boomerang), you have a chain to pull it back,
+or you have multiple copies.
+
+At the beginning of combat, call out an enemy—you do not suffer Ranged
+Penalties for attacking them. You may switch targets as a Maneuver.
+
+### Custom Style
+
+You are by no means restricted to these listed styles, and may work with
+your Storyteller to craft your own.
+
+You are granted 2 base points to spend on a style:
+
+0 points (flavor restrictions)
+
+-   Restricting to Strength or Dexterity
+
+-   Restricting to or excluding a Weapon Type
+
+The following each cost 1 point.
+
+-   1 dice of accuracy (max 3)
+
+-   1 damage (max 3)
+
+-   +2 Dice on a specific action
+
+-   Allows the use of an Exotic Attribute.
+
+-   Minor consistent benefit
+
+-   Moderate situational benefit
+
+The following each cost 2 points
+
+-   Moderate consistent benefit
+
+-   Major situational benefit
+
+-   1 Block/Evasion (max 1)
+
+-   1 Soak (max 1)
+
+You may **gain points** if you take a penalty, which are *inverse* of
+the above—for example gaining a point if you have a 1 dice *penalty* to
+accuracy. You cannot gain more than 3 points total from this method.
+
+Once the points have been granted, you should give the Style a **Power**
+that enhances the style—some sort of **Maneuver** that gives the style
+its flavor. This should be equivalent to a **Lesser Power** in strength.
+
+ Armor
+-----
 
 -   **Light** armors are those that have been tailor made to aid in
     flexible movement—above and beyond what normal clothes will do.
@@ -543,12 +656,16 @@ their **Group Magnitude:**
     such as breastplates, chain shirts, and articulated plate fit into
     the Medium or Heavy Category.
 
+Note that **Mundane Armor** cannot increase Block or Evasion **past 5.**
+Any Block or Evasion above this limit becomes **Soak**.
+
 <table>
 <tbody>
 <tr class="odd">
 <td><blockquote>
-<p>Armor</p>
+<p>Mundane Armor</p>
 </blockquote></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -560,9 +677,15 @@ their **Group Magnitude:**
 <td><blockquote>
 <p>Evasion Modifier</p>
 </blockquote></td>
+<td><blockquote>
+<p>Soak</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
 <td>No Armor</td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
 <td><blockquote>
 <p>+0</p>
 </blockquote></td>
@@ -576,6 +699,9 @@ their **Group Magnitude:**
 </blockquote></td>
 <td>+0</td>
 <td>+1</td>
+<td><blockquote>
+<p>+0</p>
+</blockquote></td>
 </tr>
 <tr class="odd">
 <td><blockquote>
@@ -583,6 +709,9 @@ their **Group Magnitude:**
 </blockquote></td>
 <td><blockquote>
 <p>+1</p>
+</blockquote></td>
+<td><blockquote>
+<p>+0</p>
 </blockquote></td>
 <td><blockquote>
 <p>+0</p>
@@ -598,151 +727,20 @@ their **Group Magnitude:**
 <td><blockquote>
 <p>-1</p>
 </blockquote></td>
-</tr>
-</tbody>
-</table>
-
-Artifact Armor gains +1 to Block or Evasion.
-
-### Weapons
-
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><strong>Mundane Weapons</strong></p>
-</blockquote></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><blockquote>
-<p><strong>Accuracy</strong></p>
-</blockquote></td>
-<td><blockquote>
-<p><strong>Damage</strong></p>
-</blockquote></td>
-<td><blockquote>
-<p><strong>Notes</strong></p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td>Unarmed</td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Close-Range Weapons (Melee)</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Light</p>
-</blockquote></td>
-<td>+3</td>
-<td>+0/0</td>
-<td><blockquote>
-<p>Must use Dexterity when attacking.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Medium</p>
-</blockquote></td>
 <td><blockquote>
 <p>+1</p>
 </blockquote></td>
-<td><blockquote>
-<p>+1/1</p>
-</blockquote></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Heavy</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>+2/1</p>
-</blockquote></td>
-<td><blockquote>
-<p>Must use Strength when attacking.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><strong>Ranged Weapons (Archery, Thrown)</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Light</p>
-</blockquote></td>
-<td>+1</td>
-<td>+0/0</td>
-<td><blockquote>
-<p>Must use Dexterity when attacking.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Medium</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1/0</p>
-</blockquote></td>
-<td></td>
 </tr>
 </tbody>
 </table>
 
-#### Custom Weapons
+### Artifact Armor
 
-Custom weapons defy the Light, Medium, and Heavy categories, and are
-instead built from the ground up (from 0) using Tags.
+Artifact Armor gains +1 Soak to all categories, in addition to their
+specific bonuses. This will be reiterated with the artifact stat block.
 
-Mundane weapons have 3 points with which to spend on tags, while
-Artifacts start with 6 points.
-
-|                         |        |                              |
-|-------------------------|--------|------------------------------|
-| **Mundane Weapon Tags** |        |                              |
-| Name                    | Points | Description                  |
-| Accurate                | 1      | Gain +1 Dice.                |
-| Damaging                | 1      | Gain +1 Full Damage.         |
-| Reliable                | 1      | Gain +1 Glancing Damage.     |
-| Range                   | 2      | Increase the range by 1 Zone |
-
-#### Special Tags
-
-Special weapons, Powers or Martial Arts will grant specific tags to be
-used when building a weapon. These may only be purchased with
-Storyteller approval
-
-|                         |            |                                                                                                      |
-|-------------------------|------------|------------------------------------------------------------------------------------------------------|
-| **Special Weapon Tags** |            |                                                                                                      |
-| **Name**                | **Points** | **Description**                                                                                      |
-| Natural/Tethered        | 1          | The weapon cannot be disarmed.                                                                       |
-| Unique Ability          | 2          | Use a specific, non-Martial Attribute/Ability Combo with this weapon. (E.g. Charisma + Performance). |
-
-Elsewhere
----------
+ Equipment and Elsewhere
+-----------------------
 
 The mechanisms of reality are flawed. Items, particularly those not paid
 attention to, have a tendency to reappear and move to alternate

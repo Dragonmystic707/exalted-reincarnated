@@ -18,16 +18,45 @@ An online character sheet is provided
 ----------------------------------------
 
 1.  Choose your Exaltation and associated Caste, noting down any special
-    abilities granted.  
-      
-    Your Exaltation will influence everything about your character, from
-    what charms they may take, so take some time exploring your options.
+    abilities granted. Your Exaltation will influence everything about
+    your character, from what charms they may take, so take some time
+    exploring your options.
+
+<!-- -->
+
+1.  Choose a name for your character and describe them. This description
+    should include your [Anima Banner](/System/The System/#anima-banner), the personal
+    soulshape of light that surrounds your character when brimming with
+    power.
+
+<!-- -->
+
+1.  Choose your character’s [Great Curse](/System/The System/#the-great-curse), the
+    character flaw which your Exalt struggles with day in and day out.
+    Example Great Curses are provided with your Exaltation, as each
+    exalt tends to follow similar themes, but they by no means need to
+    be followed verbatim. A Great Curse must answer three questions:
+
+    **How is the character flawed?**  
+    How does the Curse describe your character? Are they overly
+    compassionate, taking on the worlds ills onto themselves at their
+    own detriment? Are they a braggart, who cannot help but show off?
+
+    **What Aggravates the flaw?**  
+    What is something that you can encounter in the world that will
+    cause the Great Curse to rear its ugly head? Is it the sight of
+    those in power mistreating those that they are supposed to protect?
+
+    **How does the Character Act Out?**  
+    When your character cannot take the accumulated stress of their
+    adventures anymore, what action will they (most likely) take? Do
+    they shut themselves off from the world? Do they take action,
+    ignoring any potential consequences?
 
 2.  Choose Three [Intimacies](/System/The System/#intimacies), which are simple
     sentences that describes your relation or devotions to certain
-    ideals, people, or places.
-
-    Your Intimacies together should answer the questions:
+    ideals, people, or places. Your Intimacies, when taken together,
+    should answer these questions:
 
     -   What is a tie I have to the world around me? Why do I care
         whether the world is destroyed or not?
@@ -38,38 +67,14 @@ An online character sheet is provided
     -   Why do I stick with the party? Is there a particular character I
         resonate with? Do we share a common goal?
 
-3.  Choose your character’s [Great Curse](/System/The System/#the-great-curse), the
-    character flaw which your Exalt struggles with day in and day out.
-    Example Great Curses are provided with your Exaltation, as each
-    exalt tends to follow similar themes, but they by no means need to
-    be followed verbatim.
-
-    Describing a Great Curse should answer these questions:
-
-    **How is the character flawed?**  
-    How does the Curse describe your character? Are they overly
-    compassionate, taking on the worlds ills onto themselves at their
-    own detriment? Are they a braggart, who cannot help but show off?
-
-    **What aggravates the flaw?**  
-    What is something that you can encounter in the world that will
-    cause the Great Curse to rear its ugly head? Is it the sight of
-    those in power mistreating those that they are supposed to protect?
-
-    **What happens?**  
-    When your character cannot take the accumulated stress of their
-    adventures anymore, what action will they (most likely) take? Do
-    they shut themselves off from the world? Do they take action,
-    ignoring any potential consequences
-
-4.  Distribute **16 dots** into [Attributes](/System/The Exalted/#attributes). Each must be
+3.  Distribute **15 dots** into [Attributes](/System/The Exalted/#attributes). Each must be
     at least 1, and no more than 5. Attributes are your general skills,
     applied constantly to the world.
 
     Suggested Spread:  
-    *\[4, 3, 3, 3, 2, 1\]*
+    *\[4, 3, 3, 2, 2, 1\]*
 
-5.  Describe your specific skills, or [Abilities](/System/The Exalted/#abilities).
+4.  Assign points to your specific skills, or [Abilities](/System/The Exalted/#abilities).
 
     -   Record any Supernatural Abilities granted from your Exaltation.
 
@@ -79,13 +84,13 @@ An online character sheet is provided
         Set them to either:  
         *\[5, 4, 3\]* or *\[4, 4, 4\]*
 
-    -   Spend **15 dots** in the *remaining* Abilities, with none being
+    -   Spend **10 dots** in the *remaining* Abilities, with none being
         higher than **3** at this time.
 
         Suggested:  
-        *\[3, 3, 2, 2, 2, 1, 1, 1\]*
+        *\[3, 2, 2, 1, 1, 1\]*
 
-6.  Gain **3 Lesser Powers,** which are situational and unique effects
+5.  Gain **3 Lesser Powers,** which are situational and unique effects
     your character can have in the world.
 
     Powers can be any combination of:
@@ -98,12 +103,14 @@ An online character sheet is provided
 
     -   Artifact Evocations.
 
-7.  Detail out the [Armor and Weapons](armor-and-weapons) your
-    character uses. Any other mundane equipment the character has need
-    not be written down—so long as it is a reasonable thing for your
-    character to carry, it may be used.
+6.  Detail out the Fighting Style your character uses, and if they are
+    wearing Armor.
 
-8.  You may now spend **16 xp** freely. You may use this to increase
+    -   You may detail out mundane equipment carried, but it is not
+        necessary—as long as it is reasonable for your character to
+        have, it may always be assumed to be on your character.
+
+7.  You may now spend **16 xp** freely. You may use this to increase
     Abilities past **3**.
 
     Keep any experience that is unspent.
@@ -116,7 +123,7 @@ An online character sheet is provided
 </tr>
 <tr class="even">
 <td>Attribute</td>
-<td>4</td>
+<td>6</td>
 </tr>
 <tr class="odd">
 <td>Ability</td>
@@ -128,17 +135,17 @@ An online character sheet is provided
 </tr>
 <tr class="odd">
 <td>Lesser</td>
-<td>6</td>
+<td>4</td>
 </tr>
 <tr class="even">
 <td>Greater<br />
 (Requires Essence 3)</td>
-<td>8</td>
+<td>6</td>
 </tr>
 <tr class="odd">
 <td>Capstone<br />
 (Requires Essence 5)</td>
-<td>10</td>
+<td>8</td>
 </tr>
 </tbody>
 </table>
@@ -150,240 +157,84 @@ An online character sheet is provided
         local tongue, and one common to the all the Player Characters
         (typically Riverspeak).
 
-    -   Gain **6 Dots** of Resources**,** with which to purchase
-        additional merit dots. A **4 dot** merit may only be purchased
-        with storyteller permission.
+    -   Gain **6 Dots o**f Resources**,** with which to purchase merit
+        dots.
 
         Suggested:  
-        *\[3,2,1\]  
-          
-        *You may choose to store the Resources instead of purchasing
-        Merits.
+        *\[3,2,1\]*
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Starting with a Greater Merit</p>
-<p>With Storyteller permission, you may start with a 4-dot merit, which will place you “in debt” by 1 Keystone.</p>
-<p>This takes the form of an unresolved story tie related to that merit. Perhaps you are on the run for stealing it. Maybe it is defective somehow, or in great danger of falling apart?</p></td>
-</tr>
-</tbody>
-</table>
+        -   A **4 dot** merit *may* only be purchased with storyteller
+            permission, and will place you into “debt” by a
+            Keystone—represented as an unresolved plot thread tied to
+            that merit. Perhaps you are on the run for stealing it?
+            Maybe it is defective in some way, and requires repairs?
 
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p>Armor</p>
-</blockquote></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><blockquote>
-<p><strong>Block Modifier</strong></p>
-</blockquote></td>
-<td><blockquote>
-<p>Evasion Modifier</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Light</p>
-</blockquote></td>
-<td>+0</td>
-<td>+1</td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Medium</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Heavy</p>
-</blockquote></td>
-<td><blockquote>
-<p>+2</p>
-</blockquote></td>
-<td><blockquote>
-<p>-1</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+            *  
+            *
 
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><strong>Mundane Weapons</strong></p>
-</blockquote></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Acc.</td>
-<td><blockquote>
-<p>Damage</p>
-</blockquote></td>
-<td><blockquote>
-<p>Notes</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td>Unarmed</td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Close-Range Weapons (Melee-Range)</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Light</p>
-</blockquote></td>
-<td>+3</td>
-<td>+0/0</td>
-<td><blockquote>
-<p>Dex.-only</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Medium</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1/1</p>
-</blockquote></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Heavy</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>+2/1</p>
-</blockquote></td>
-<td><blockquote>
-<p>Str-only</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><strong>Ranged Weapons</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>Light</p>
-</blockquote></td>
-<td>+1</td>
-<td>+0/0</td>
-<td><blockquote>
-<p>Dex-only</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>Medium</p>
-</blockquote></td>
-<td><blockquote>
-<p>+0</p>
-</blockquote></td>
-<td><blockquote>
-<p>+1/0</p>
-</blockquote></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+### 
 
-### Finishing Touches
+###  Finishing Touches
 
 Once your character has been finalized, it is time to record static
 values. If you are using the provided character sheet, this next part
 will be completed automatically.
 
-1.  Choose a name for your character and describe them. This description
-    should include your [Anima Banner](/System/The System/#anima-banner), the personal
-    soulshape of light that surrounds your character when brimming with
-    power.
+1.  Set your [Essence](/System/The System/#essence) to 1, the starting point for all
+    Exalts. This sets you apart from most mortals who do not have an
+    essence rating at all.
 
 <!-- -->
 
-1.  Set your [Essence](/System/The System/#essence) to 1, the starting point for all
-    Exalts. This sets you apart from most mortals who do not have an
-    essence rating at all. (Essence 0).
-
-2.  Start with a **Mote Pool of 6**, which is how you empower might
+1.  Start with a **Mote Pool of 6**, which is how you empower might
     charms, spells, and techniques. The pool starts completely filled.
 
-3.  **Health**  
-    Set to 20, then add (Physique) additional points.  
-    In a combat scene, represents how long you may remain in the fight
-    before collapsing from fatigue.
+2.  **Health**  
+    Set to **20**. In a combat scene, this represents how long you may
+    remain in the fight before collapsing from fatigue.
 
-4.  **Accuracy**  
-    (Weapon Att. + Weapon Ability) + (Weapon Acc)  
-    The Attribute and Ability you use to calculate accuracy is dependent
-    on your weapon. For example, a Heavy Maul will require Strength and
-    Close Combat, while a Light Bow would require Dexterity and Ranged
-    Combat. See [Weapons](armor-and-weapons).
+3.  Record your Physical Defensive Values**.** Your general **DV** will
+    the greater of the two:
 
-5.  **Damage**  
-    Greater of (Strength, Dexterity, or Essence), and add your bonus
-    from (Weapon).
+    -   **Block**: (Strength)/2  
+        The ability to deflect, mitigate, or otherwise directly absorb a
+        hit in its entirety.
 
-    When attacking a foe, this is the amount of wounds you inflict upon
-    the foe by default.  
-      
-    Martial Arts or chosen weapons, can change or modify the base
-    damage, but can never bring it lower than (Essence).
+    -   **Evasion:** (Dexterity)/2  
+        The ability to dodge out of the way of an attack, ensuring that
+        it lands in a place where you are not.
+
+4.  Record your Mental Defensive Values. Your general **MDV** will the
+    greater of the two:
+
+    -   **Guile:** (Wits)/2  
+        The ability to realize when social and mental attacks are
+        coming, and deflect them with prepared disarming counter
+        retorts.
+
+    -   **Resolve:** (Insight)/2  
+        The ability to withstand, through sheer force of will and
+        practiced mental flexibility, any social or mental assaults on
+        the mind.
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p>Rounding</p>
-<p>When taking the average of numbers, always round up to the nearest whole number.</p></td>
+<p>Always round up to the nearest whole number.</p></td>
 </tr>
 </tbody>
 </table>
 
-1.  **Evasion**  
-    (Dexterity + Athletics)/2 + (Armor Modifier)
+1.  **Accuracy**  
+    For any weapons you use regularly, write down its associated
+    (Attribute + Ability + Weapon Acc. Bonus). This is the roll you will
+    (most often) use to attack a target.
 
-2.  **Block**  
-    (Strength + Physique)/2 + (Armor Modifier)
-
-3.  **Resolve**  
-    (Wits + Integrity)/2.  
-    Used to defend against anything that would sway your mind and
-    actions, from deceptively sweet words to mind-altering Spells.
+2.  **Base Damage**  
+    Your base Damage is (Essence + Weapon Dmg. Bonus). This, combined
+    with the threshold successes of your attack will be the damage you
+    deal in an attack.
 
  Advancement
 -----------
@@ -413,19 +264,18 @@ been gained, (+30xp) for each level.
 
 Remember that each Essence Rank provides:
 
--   +3 Health
+-   +5 Health
 
 -   +2 Maximum Motes
 
--   +1 Full Damage
+-   +1 Base Damage
 
 At **Essence 3** and **Essence 5**, the character gains access to
 purchasing **Greater** and **Capstone** charms, respectively.
 
-You may only save up to **One** **Power’s** worth of experience to
-purchase higher level powers on reaching this milestone—e.g. you cannot
-reach Essence 3 and then suddenly have 5 Greater Charms in your
-repertoire
+You may not save experience to purchase higher level powers—i.e. you
+cannot reach Essence 3 and then suddenly have 5 Greater Charms in your
+repertoire. The amount of xp spent should match
 
 ###  XP Gain
 
@@ -439,20 +289,24 @@ additional **One XP** for meeting any and each of the following:
 
 -   Creating a moment of excellent roleplay.
 
+-   Character’s learning something important.
+
 -   A character falling victim to their Great Curse, impeding their
     journey in some way. This does not need to be a Limit Break.
 
--   Reaching a milestone in a player character’s personal story.
-
--   Reaching a milestone in the overarching Story.
-
 -   Suffering a great defeat.
 
-Gain **Two XP** for any of the following:
+In addition, a **Story Point** is granted at the important milestone of
+any **Story**, whether it be the overarching story, or a personal story.
+All characters get the Story Point, even if it is not *their* personal
+story reaching a milestone.
 
--   Finishing a Story.
+A **Story Point** may be used to *either* purchase 1 Attribute point, or
+3 Ability Points. **Story Points** do not affect Essence Advancement.
 
--   A Player Character being forced to cheat death, or actually dying.
+Milestones are, admittedly, a loose definition. Think of them like the
+chapters of a book—whenever there is a natural break, whether it be a
+conclusion or cliffhanger, that should be a milestone.
 
 <table>
 <tbody>

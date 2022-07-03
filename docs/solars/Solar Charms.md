@@ -13,6 +13,18 @@ Dawn **<span class="smallcaps">Caste</span>**
 
 <div class="power_category">Lesser</div>
 
+### Arrow Storm Technique
+
+**Type:** Simple  
+**Cost:** 2m
+
+The sky becomes filled with a barrage of arrows, blotting out the
+celestial bodies with their mass before they come crashing down into
+their foes.
+
+Attack up to (Marksmanship) foes in a single Zone with a dice roll. Your
+deal no Base Damage on this attack, but do deal +2 damage to any Group.
+
 ### Burning Essence Strike
 
 **Type:** Supplemental  
@@ -35,14 +47,16 @@ the battle is not fruitless, they can keep moving forward.
 
 When damaging a foe that is not a Lesser Foe, regain (Physique) Health.
 
-### Solar Cross-Counter
+### Bulwark Stance
 
 **Type:** Reflexive  
-**Cost:** 2a
+**Cost:** 1m
 
-After taking damage from an opponent in their Zone, the Solar may
-reflexively lash out and deal the same amount of damage to the opponent,
-capped at 5 + (Essence) per attack.
+You may reflexively defend anyone in your zone without taking an action.
+
+Additionally, you may defend those in an adjacent Zone, reflexively
+moving towards them without an action. However, on your next turn, you
+lose an action.
 
 ### Diamond-Body Mastery
 
@@ -53,6 +67,108 @@ The Solar’s body becomes resistant to the world around them. You may
 negate up to (Essence)x2 damage from Environmental effects. This
 includes any moderate incidental scenery damage, such as crashing
 through glass windows or falling five stories.
+
+###  Eagle-Wing Style
+
+**Type:** Supplemental; Scene  
+**Cost:** 1m
+
+By using the barest of scenery, be it lampposts, delicate tree branches,
+or even coins the Solar carries with them to launch against, and may
+leap effortlessly through the air. So long as there is the most minimum
+of solid mass to propel themselves against, they may use it to keep
+leaping upwards.
+
+### Force-Delivering Blow
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+On a successful Brawl hit, immediately knock the target back up to one
+Zone. Against creatures of immense mass, such as those above an
+elephant, an additional (Strength + Brawl) vs. Block roll is required.
+
+### Heart of the Corona
+
+**Type:** Simple  
+**Cost:** 2m
+
+Conjuring the deepest Intimacy, the Solar lashes out with a spike of
+Soulfire which cascades from enemy to enemy.
+
+As a Strike, attack all enemies in the Zone with an Essence lower than
+your (Essence). They suffer 5+(Essence) damage. Creatures of Darkness
+hit by the Solar Spike suffer an extra 2+(Essence) damage.
+
+### Increasing Strength Exercise
+
+**Type:** Simple; Scene  
+**Cost:** 1m
+
+The Exalt may lift, carry, haul, or otherwise exert such feats of
+strength far beyond their mortal limits—performing duties deemed
+impossible such as hefting an entire caravan over their head or lifting
+a building off of its foundations in a singular piece.
+
+If a roll is required, they are guaranteed a minimum of (Strength)
+successes on their roll.
+
+### <span class="smallcaps">Iron Whirlwind</span>
+
+**Type:** Simple  
+**Cost:** 2m
+
+With a rush of wind and flashing steel, the Exalt sweeps across the
+battlefield and cuts down all of their enemies.
+
+Make a Melee Strike against up to (Melee) targets in the same Zone. If
+their Defense is less than the Strike, deal (½, rounded up) of your
+damage to each individual.
+
+### Ox-Stunning Blow
+
+**Type:** Simple  
+**Cost:** 1m
+
+Spend a Maneuver studying your foe. On your next successful Strike
+against that foe, immediately Stun them, forcing them to lose 1 of their
+next Actions and forcing them to make a successful Athletics check
+against 3 in order to move a Zone.
+
+If your Brawl Strike would place the character below 5 Health, the
+target is knocked unconscious, and will remain so for several hours
+unless specifically roused.
+
+### Perfect Strike
+
+**Type:** Supplemental  
+**Cost:** (1m per 2xDmg.)
+
+For every mote spent, deal an extra 2x Damage on a Strike. You may add
+no more than (Essence + Melee) damage this way.
+
+### Sledgehammer Strike
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+The fists of the Exalt can tear down even the most stubborn of
+structures, pummeling it to oblivion.
+
+Break through any non-magical or artifact barrier that is less think
+than 2 meters. You may also gain +(2) dice on a “Break Scenery”
+Maneuver, and against any creatures made of earth, stone, or similar
+materials—such as Earth Elementals.
+
+### Solar Cross-Counter
+
+**Type:** Reflexive  
+**Cost:** 2a
+
+After taking damage from an opponent in their Zone, the Solar may
+reflexively lash out and deal the same amount of damage to the opponent,
+capped at 5 + (Essence) per attack. They may choose to lower their
+defenses to 0 for this purpose—purposefully getting hit.
 
 ### Solar Spike
 
@@ -68,18 +184,7 @@ damage, as the bolt of light shines through and pierces through all of
 them. Creatures of Darkness hit by the Solar Spike suffer an extra
 2+(Essence) damage.
 
-###  Eagle-Wing Style
-
-**Type:** Supplemental; Scene  
-**Cost:** 1m
-
-By using the barest of scenery, be it lampposts, delicate tree branches,
-or even coins the Solar carries with them to launch against, and may
-leap effortlessly through the air. So long as there is the most minimum
-of solid mass to propel themselves against, they may use it to keep
-leaping upwards.
-
-### Stubborn Boar Stance
+###  Stubborn Boar Stance
 
 **Type:** Reflexive  
 **Cost:** 1m
@@ -88,31 +193,14 @@ The Solar stands as an indomitable barrier against all who would stand
 against them. Gain +(Essence) against any effects to knockback, pull,
 restrain, or otherwise physically alters the Exalt’s movement.
 
-### Supernal Force
+### Visage of Force
 
-**Type:** Supplemental  
-**Cost:** 2m
+**Type:** Reflexive  
+**Cost:** 1m
 
-Conjuring the deepest Intimacy, the Solar lashes out with a spike of
-Soulfire which cascades from enemy to enemy.
-
-Make an (Essence + Integrity) roll. All enemies in the Zone with an
-Essence lower than the result suffers 5+(Essence) damage. Creatures of
-Darkness hit by the Solar Spike suffer an extra 2+(Essence) damage.
-
-### <span class="smallcaps">Unassailable Guardian Posture</span>
-
-**Type:** Reflexive; Scene  
-**Cost: (**1m per Charge)
-
-None commands the battlefield’s presence as completely as the Solar’s,
-and assailants must first break themselves upon that bulwark before
-others.
-
-Select up to (Essence) charges, spending 1 mote per charge. For the
-remainder of the scene, so long as you are a valid target at the moment
-of a Strike, you may choose to force assailants to attack you instead of
-your charges.
+All who gaze upon the Exalt can see that their threats are not empty. On
+attempts to intimidate, threaten, or otherwise coerce another through
+physical means, you may immediately add (3) extra Dice.
 
 <div class="power_category">Greater</div>
 
@@ -182,9 +270,9 @@ After successfully hitting on a Strike, increase the damage dealt by the
 Gathering anima into a burning and crackling aura, their weapon is
 infused with Soulfire and is hurled at their enemy.
 
-On a Decisive Attack, Gain (+3) successes on both the Accuracy and
-damage rolls. If the target is a Creature of Darkness, deal an
-additional (+Essence) damage.
+On a Decisive Attack, Gain (+2) successes on Accuracy and +2 damage. If
+the target is a Creature of Darkness, deal an additional (+Essence)
+damage.
 
 ### <span class="smallcaps">Radiance of Blades</span>
 
@@ -270,17 +358,45 @@ Zenith Caste
 
 <div class="power_category">Lesser</div>
 
-### Certainty of Form
+### <span class="smallcaps">Attentive Listener’s Ear</span>
 
-**Type:** Simple; Day  
-**Cost:** 1m per target  
-**Prerequisite:** Integrity Protection Prana (Integrity Charm)
+**Type:** Simple  
+**Cost:** 1m
 
-The Solar protects not only themselves, but their certainty of will
-extends to others.
+The Exalt brings a friendly and relaxing air with them, pushing others
+to more easily speak their mind—and spill their secrets.
 
-Grant the effects of *Integrity Protection Prana* for the scene to up to
-(Essence) x2 targets.
+On any attempt to prod someone for information, sift through a rambling
+story, or otherwise parse a spoken testimony, gain +3 dice.
+
+### Command-Breaking Stance
+
+**Type:** Simple  
+**Cost:** 1m
+
+A skilled commander knows what brings drilled groups together, and what
+can break them apart.
+
+The Exalt breaks up a group of Lesser Foes, causing their next actions
+to be lost as they reform.
+
+### Direct Orders
+
+**Type:** Simple; Scene  
+**Cost:** 2m
+
+The Exalt may take charge of a group of allied Lesser Foes, directing
+their action, and granting them a moderate advantage on that action for
+the remainder of the scene. This boon cannot be stacked.
+
+### Fury Inciting Speech
+
+**Type:** Simple  
+**Cost:** 1m
+
+The Exalt immediately Instills anger, rage, or a similar emotion into
+any mortal or sapient creature that can observe the Exalt with an
+Essence Rating less than their own.
 
 ### Heart-Compelling Method
 
@@ -290,6 +406,35 @@ Grant the effects of *Integrity Protection Prana* for the scene to up to
 Perform a Social roll vs. Resolve against a target. If successful, the
 Solar forces the target character to take an action—*any action—*that is
 in alignment with one of their Intimacies or Emotions.
+
+### <span class="smallcaps">Inner Eye Focus</span>
+
+**Type:** Reflexive; Scene  
+**Cost:** 2m
+
+The Exalt may perceive all around them, relying on other senses or
+heightening their own until impediments such as smoke, fog, and natural
+darkness mean nothing.
+
+The Exalt may immediately ignore any disadvantage caused by natural
+visual impediments, and can see just as clearly in the middle of the
+night as they could in day.
+
+### Organization of Command
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+The Exalt may command across large groups with great ease. When
+commanding a Group to Perform a Task, the Exalt may negate any Resolve
+bonus from being in a Group.
+
+### Ox-Body Technique 
+
+**Type:** Permanent
+
+Gain an additional +5 Health. This charm may be repurchased as a Greater
+and then Capstone Charm.
 
 ### Peril-Demanding Haste
 
@@ -324,35 +469,43 @@ targets, and one of the Solar’s Intimacies. So long as the target is
 acting in accordance with the Intimacy, they may use the Resolve of the
 Solar instead of their own.
 
-###  Tireless Burden
+### Tireless Burden
 
 **Type:** Permanent
 
 Through sheer force of will, the Solar may keep their body healthy,
 hale, and moving past its natural limits. They may go without sleep for
-an entire week at no consequences (except perhaps to their mood.)
+an entire week at no consequences (except perhaps to their mood.) They
+still regain health and Motes as if they had slept
 
 After a week of no sleep, the Solar gains an Intimacy of “Desire to
 sleep,” and must sleep normally for at least three consecutive nights to
 remove this temporary Intimacy.
 
-### Worshipful Lackey Acquisition
+### Toxin Acclimation 
 
 **Type:** Reflexive; Scene  
 **Cost:** 1m
 
-The Solar’s presence alone is enough to summon a group of sycophants
-from any place that has at least a village-sized population. These
-lackeys become enthralled by the Solar, and are willing to do nearly
-anything for them.
+The Exalt resists any mundane toxin, poison, or psychotropic, and is
+granted +(3) dice to resist any supernatural version.
 
-The Solar can use these impromptu worshipers to gain a Group Defense
-bonus (+2 Resolve), or may command to perform an Inconvenient task
-without a need for a roll.
+As well, they do not suffer ill-effects from mundane drink or other
+mundane recreational substances.
 
-The individuals of the group, while denizens of the area, rarely have
-any special access, knowledge, or social stature that would be useful to
-the Solar, aside from what is common knowledge among the populace.
+### <span class="smallcaps">Unassailable Guardian Posture</span>
+
+**Type:** Reflexive; Scene  
+**Cost: (**1m per Charge)
+
+None commands the battlefield’s presence as completely as the Solar’s,
+and assailants must first break themselves upon that bulwark before
+others.
+
+Select up to (Essence) charges, spending 1 mote per charge. For the
+remainder of the scene, so long as you are a valid target at the moment
+of a Strike, you may choose to force assailants to attack you instead of
+your charges.
 
 ### Underling-Promoting Touch
 
@@ -373,6 +526,24 @@ The Solar may only designate one target at a time for this effect. They
 may choose to rescind their blessing, or perform a 10 Res. Project to
 make this effect permanent, either of which would allow them to bless a
 new target.
+
+### Worshipful Lackey Acquisition
+
+**Type:** Reflexive; Scene  
+**Cost:** 1m
+
+The Solar’s presence alone is enough to summon a group of sycophants
+from any place that has at least a village-sized population. These
+lackeys become enthralled by the Solar, and are willing to do nearly
+anything for them.
+
+The Solar can use these impromptu worshipers to gain a Group Defense
+bonus (+2 Resolve), or may command to perform an Inconvenient task
+without a need for a roll.
+
+The individuals of the group, while denizens of the area, rarely have
+any special access, knowledge, or social stature that would be useful to
+the Solar, aside from what is common knowledge among the populace.
 
 <div class="power_category">Greater</div>
 
@@ -532,6 +703,18 @@ Twilight **<span class="smallcaps">Caste</span>**
 
 <div class="power_category">Lesser</div>
 
+### Absence of Thought
+
+**Type:** Simple; (Day+)  
+**Cost:** 2m
+
+Sometimes, knowledge can be a burden. On touching a character, and on a
+successful (Int. + Lore) vs. Resolve roll, purge a thought, idea, or
+other-self contained concept from the target’s mind.
+
+This absence of knowledge is guaranteed for a Day, after which it may
+return based on the Storyteller’s discretion.
+
 ### Ancient Tongue Understanding
 
 **Type:** Permanent
@@ -544,17 +727,95 @@ Solar’s words. In addition, the Solar will always be able to recognize
 basic reactions to such commands for what they are before the Spirit has
 a chance to react.
 
-### <span class="smallcaps">Crafty Observation Method</span>
+### <span class="smallcaps">Banishment of Pain</span>
 
-**Type:** Reflexive  
+**Type:** Simple; Scene  
 **Cost:** 1m
 
-The Solar may absorb knowledge from an object or scene with upmost speed
-and efficiency.
+Upon touching a target, the Exalt is able to calm and ease the physical
+pain they are under. While it does not cure the underlying cause, it
+allows the target to focus without mental clarity, or even escape from
+being bedridden for a time.
 
-When performing an observation or information gathering action, do so
-instantly. This may be used to read an entire tome in the blink of an
-eye, or mentally break down a crime scene immediately upon entering.
+### Crack-Mending Eye
+
+**Type:** Permanent
+
+Projects to repair, alter, or destroy crafted materials such as Manses,
+Artifacts, and other such physical goods are now 1 scale lower. (i.e.
+Minor repairs now are at -3 to Scale, Major at -2, and Monumental at
+-1).
+
+### <span class="smallcaps">Crafty Observation Method</span>
+
+**Type:** Simple  
+**Cost:** 2m
+
+Examining undisturbed physical evidence, the Exalt is able to
+reconstruct what happened to bring that object to its present condition.
+
+You may read an entire tome in a blink of an eye, mentally break down a
+crime scene upon entering, or discern the reason for a character to be
+here. You may either ask the Storyteller for this information, or Recall
+a Fact about the Scene yourself. This may only be used once per Scene.
+
+### <span class="smallcaps">Craftsman Needs No Tools</span>
+
+**Type:** Supplemental; Scene  
+**Cost:** 1m
+
+The Exalt always has the proper tools at their hands—and if they don’t
+they can fashion the next best thing from whatever lies around.
+
+Except for the most specialized, massive, or otherwise obscure
+implements, the Exalt will always have the proper tool at their beck and
+call—ranging from the humble lever to a delicate lockpick.
+
+While working with these perfect and ideal tools, the Exalt halves the
+time needed to operate complex machinery or perform their task.
+
+### Concept-Forming Thought
+
+**Type:** Simple  
+**Cost:** 1m
+
+The Exalt can manifest their ideas into a concise, easily-understandable
+format with no chance of misunderstanding.
+
+Simple ideas and commands can be immediately transcribed onto a physical
+document and replicated. More complex thoughts, like entire tomes, need
+to be transcribed over a course of a night.
+
+Whoever reads this document will be able to perform—correctly – the
+steps required of them without a roll or chance of failure. (Whether the
+*choose to* or are *physically or spiritually able to* is a different
+question. This does not allow mortals to perform Sorcery, for example.)
+
+### Deftly Applied Tools 
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+All things, with the proper study and analysis, may be approached
+without the need for brute force. During Feats of Strength, such as
+lifting, carrying, or destroying crafted materials, they may use (Wits +
+Craft) roll instead.
+
+### Discerning Craftsmanship
+
+**Type:** Simple; Story  
+**Cost:** 2m
+
+The Exalt studies an object, forming its composition and structure into
+their mind.
+
+For the remainder of the story, the Exalt is granted +2 dice on efforts
+to mimic the style of the original artist. They also may use (Insight +
+Craft) with a +2 dice advantage to study other objects to recognize it
+as the crafter’s work, and not a forgery.
+
+If this current object they are studying is in fact a forgery,
+difficulty to recognize this fact is lowered by 1.
 
 ### Durability-Enhancing Technique
 
@@ -586,14 +847,23 @@ emotion and action.
 ### <span class="smallcaps">Essence-Lending Method</span>
 
 **Type:** Simple  
-**Cost:** (1m per 1m)
+**Cost:** (1m per 1m or 1a per 1a)
 
 Knowing the flows of essence within all beings, the Solar may choose to
 give of themselves so that others may prosper.
 
 Transfer Essence from the Solar to another character, 1mote given per 1
-mote received. The target may not refuse this gift. Any extra motes
-above their maximum limit is kept, but only until the end of the Scene
+mote received, or 1 anima per 1anima received. The target may not refuse
+this gift. Any extra motes above their maximum limit is kept, but only
+until the end of the Scene.
+
+### <span class="smallcaps">Giving of the Self</span>
+
+**Type:** Reflexive  
+**Cost:** (1 Health)
+
+So long as you are able to touch another, you may sacrifice your own
+Health to gift it to another, no more than (Essence)x5 per turn.
 
 ### Inspection of Flaw
 
@@ -619,6 +889,16 @@ Choose one of the character’s Abilities, and the target’s tasks in that
 specialty will run smoother and be completed faster than otherwise. If
 they must roll, they gain +4 dice, capped at 12 dice.
 
+### Mark of the Maker
+
+**Type:** Simple  
+**Cost:** 1m
+
+Glean immediate insight into the original purpose, material makeup, age,
+and other such information while studying a Crafted object. Often, you
+are able to glance into the very emotions of the original craftsman at
+the moment, seeing it in the handiwork of their creation.
+
 ### Order-Affirming Blow
 
 **Type:** Simple  
@@ -633,6 +913,27 @@ banish the changes.
 
 In addition, they may undertake Medicine Projects to undo long-term
 changes and mutations.
+
+### Sagacious Reading of Intent
+
+**Type:** Simple  
+**Cost:** 2m
+
+After analyzing a written (or otherwise recorded) work, immediately
+glean insight into the writer’s state of mind, general well-being, and
+motivations behind the writing. If they were trying to hide such
+matters, the character may make a contested (Lore) vs. (Subterfuge)
+roll.
+
+### Strange Tongue Communication
+
+**Type:** Simple  
+**Cost:** 1m
+
+Bypassing any language barriers, the Exalt can communicate a
+self-contained concept to the target. The concept may be moderately
+complicated, such as directions to a place, but does not include any
+subtleties of language, or allow subterfuge.
 
 ### Tireless Healer
 
@@ -652,6 +953,44 @@ insight on the nature of a creature, such as its typical attack
 patterns, to migration patterns. Following the same rules as “Read
 Intentions,” the Player asks a specific question that the Storyteller
 must answer truthfully.
+
+### Uncanny Perception Technique
+
+**Type:** Permanent
+
+The presence of dematerialized, intangible, or otherwise spectral
+creatures may be natively detected—although the precise location still
+remains a mystery. The creature may attempt a contested (Awareness) vs.
+(Stealth) roll combat this.
+
+This sense will manifest in all manner of strange sensory phenomena
+appropriate to the being: a chill of winter, coppery taste, or the sound
+of bells. As well, this sense is distinctive to the specific being,
+allowing for recognition upon sensing it again.
+
+### <span class="smallcaps">Walking Amongst Death</span>
+
+**Type:** Simple; Scene  
+**Cost:** (1m per target)
+
+You concoct some sort of remedy or potion to give to targets, specifying
+specific instructions that contains one flaw—they must hold onto a
+branch of herbs, breath through a mask, or drink a sip of a tonic every
+5 minutes, for example.
+
+For the remainder of the Scene, so long as your targets adhere to your
+rules, you cannot be afflicted by a specified toxin, disease, or
+parasite.
+
+### <span class="smallcaps">Wound-Mending Care</span>
+
+**Type:** Simple  
+**Cost:** 2m
+
+Touching the target, you may immediately heal them for 5 Health.
+
+On rolls to treat the sick and injured, this may be used to increase a
+Medicine roll by +3 dice.
 
 <div class="power_category">Greater</div>
 
@@ -845,6 +1184,66 @@ Evasion by (Essence)
 If the target is of (Essence) less than the Solar, the target becomes
 blinded for the remainder of the Scene.
 
+### Easily-Overlooked Presence
+
+**Type:** Simple; Scene  
+**Cost:** 2m
+
+The Exalt easily blends into a crowd, becoming impossible to pick out
+from a sea of faces. So long as the Exalt takes no distinct or overt
+action and stays with the same crowd of people, they cannot be found by
+anything except for systematic checking of each individual.
+
+### False Pursuit
+
+**Type:** Simple; Scene  
+**Cost:** 2m
+
+On a successful (Charisma + Deception) roll against the Resolve of a
+target, they become convinced that an ultimately benign or small point
+of the Scene holds great value to their current goal. For example, they
+may be convinced that the blades used murder are made of a special
+composition, which is a keystone to their case, despite the blades being
+only slightly out of normal make.
+
+### Flashing Quill Atemi
+
+**Type:** Simple  
+**Cost:** 1m
+
+With just a short moment in possession of a written text, the Exalt may
+insert, expunge, or replace words as they see fit. No mundane means or
+mortal characters will be able decipher the difference between the
+altered content.
+
+An Exalt, God, or other creature of power must successfully contest the
+Guile of the forging Exalt to notice that the document has been altered
+at all—let alone what specifically has been altered.
+
+### Feather Foot Style
+
+**Type:** Reflexive; Scene  
+**Cost:** 1m
+
+The Exalt may run up walls, cross liquids, and even run across the
+underside of a horizontal surfaces, such as bridges or roofs, so long as
+they continue to run. As well, they may effortlessly leap a single story
+vertically or horizontally in one bound, and may continue to vault
+upwards if there is some surface firm enough for their force.
+
+In addition, they need not worry about any sort of fall damage from
+leaps or heights they could reach in this way.
+
+### Flashing Anticipation
+
+**Type:** Reflexive  
+**Cost:** 1m
+
+You strike before the opponent can gather their thoughts. You may
+interrupt the natural turn order, taking your turn before a different
+character has a chance to act. However, this will cause you to take 1
+action instead of 2.
+
 ### Flawlessly Impenetrable Disguise
 
 **Type:** Simple; Day  
@@ -867,6 +1266,88 @@ The emotions and intentions of an individual bleed through to their
 craftsmanship. Upon eating, imbibing, or otherwise interacting with food
 or drink prepared or handled by an individual, make a Read Intentions
 Action against them.
+
+### Graceful Crane Stance
+
+**Type:** Reflexive; Scene  
+**Cost:** 1m
+
+The Exalt has perfected balance, and suffers no penalties from rough or
+unsteady terrain. They may effortlessly walk across things far too
+narrow or weak to normally support them.
+
+### <span class="smallcaps">Irresistible Questioning Technique</span>
+
+**Type:** Simple  
+**Cost:** 2m
+
+Through either compassion or terror, the Exalt is able to force words
+out of even the most stubborn of witnesses.
+
+As a question and immediately roll Investigation vs. Resolve. If
+successful, the target will reveal one useful fact related to a
+question—either by spilling it directly through words, or indirectly
+through something such as a subtle glance. If the target has no useful
+information to give, that fact is relayed instead.
+
+### <span class="smallcaps">Living Pulse Perception</span>
+
+**Type:** Simple  
+**Cost:** 2m
+
+The Exalt expands their soul into the world around them, feeling the
+flows of Essence around them.
+
+Make an Awareness roll. All character in the Scene with a (Stealth)
+lower than the roll have their presence briefly acknowledged. Creatures
+that are not part of Creation—such as Demons, Fae, and those whom have
+purposefully cut themselves off, gain +2 against this sense.
+
+### Lightning-Hand Sleight
+
+**Type:** Reflexive  
+**Cost:** 1m
+
+The Exalt is unseen in their movements, and may reach out and swap,
+change, or tamper with anything that is within reach without anyone
+noticing, so long as the alteration is smaller than a hand. This
+alteration will not be noticed for at least (Essence) hours, or until
+the time when it is directly inspected.
+
+### Living off the Land
+
+**Type:** Permanent
+
+The Exalt will always find enough food and water to survive during their
+travels. They may guarantee provisions for at least a Group of people
+during their travels, so long as the land is not barren or hostile to
+life. While nourishing, the sustenance is not guaranteed to be
+palatable.
+
+### Lock-Opening Touch
+
+**Type:** Reflexive  
+**Cost:** 1m
+
+Gain +(Essence) automatic successes on any attempts to open a lock,
+knot, gate, or other contraption used to bar people’s way.
+
+### Magpie’s Invisible Talon
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+Extending their Essence, the Exalt is able to manipulate objects at a
+distance of up to (Essence) meters away.
+
+### Mimicry of Form
+
+**Type:** Simple; Week  
+**Cost:** 2m
+
+After studying a mannerism of a target for a short time, such as
+handwriting, voice, or even walking pattern, the Exalt may replicate it
+as needed for a week, gaining (3) additional dice to do so.
 
 ### Mist on Water
 
@@ -896,7 +1377,7 @@ simply *gone* for at least 15 minutes.
 They must successfully beat a contested Stealth vs Awareness roll
 against creatures with (Essence) more than the Solar.
 
-###  <span class="smallcaps">Sensory Acuity Prana</span>
+### <span class="smallcaps">Sensory Acuity Prana</span>
 
 **Type:** Reflexive; Scene  
 **Cost:** 1m
@@ -935,6 +1416,17 @@ sense, completely eliminating it from the equation. Their footsteps may
 become silent, or their scent hidden from tracking dogs. Only one sense
 may be banished at a time.
 
+### Splitting the Arrow
+
+**Type:** Simple  
+**Cost:** 1m
+
+The Exalt spends a Maneuver calling a target. Their next Strike against
+the target hits with unerring accuracy and lethality, finding the
+smallest chink of armor and exploiting it.
+
+You may target Evasion on this attack, instead of DV.
+
 ### Statue Spirit Stillness
 
 **Type:** Reflexive; Scene  
@@ -957,6 +1449,40 @@ next Action.
 
 Multiple targets may be chosen at the same time, but doing so causes a
 Moderate Disadvantage.
+
+### Surprise Anticipation Method
+
+**Type:** Permanent
+
+The Exalt suffers no penalties to Awareness rolls occur due to being
+tired, exhausted, or other similar mental disadvantage. Awareness rolls
+may always be made while asleep.
+
+### Watchful Justiciar’s Eye
+
+**Type:** Simple; Scene  
+**Cost:** 2m
+
+By observing for an action, the Exalt can identify which characters of
+the scene are behaving outside what would be considered normal for the
+scene. They may also keep track of all characters and their actions, so
+long as they do not leave the place for more than a brief moment.
+
+The Storyteller must inform the character of any suspicious movements,
+or disappearances of characters in the scene.
+
+### Wise Arrow
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+With perfect control, the Exalt lets loose a bolt of a perfect arc to
+strike their target.
+
+The Exalt may target creatures through the smallest of cracks, over
+impossibly high barriers, or even through slits between a door. So long
+as a single, uninterrupted arch exists to the target, they are a valid
+enemy, and derive no benefit from cover.
 
 <div class="power_category">Greater</div>
 
@@ -1112,19 +1638,29 @@ is happening is theater to distract or inconvenience the antagonist.
 
 Opponents with (Essence) less than the Solar’s must immediately *Cheat
 Death* to avoid the worst effects of what the Solar has planned for
-them. Those of equal to or greater cannot be directly harmed by this
+them. Those of equal to or greater cannot be *directly* harmed by this
 Charm, but can certainly be inconvenienced.
 
 This Charm is limited in that it can only be used to solve a problem in
 the *immediate* future—for example, you cannot simply start a Story and
 use this charm to finish it. Only when the goal is in sight—such as
-before the final battle—may this charm be used to solve the Story, and
-it cannot be used to solve two Stories in a row.
+before the final battle—may this charm be used to solve the Story. As
+well, it cannot be used to “solve” two Stories in a row.
 
 Eclipse **<span class="smallcaps">Caste</span>**
 ------------------------------------------------
 
 <div class="power_category">Lesser</div>
+
+### Dance of Flashing Swords
+
+**Type:** Simple  
+**Cost:** 1m
+
+After the fact, the Exalt can explain away that a particularly egregious
+action—a fight, explosion, or similar altercation—as a spontaneous act
+of street performance. Most will accept this at face value, but gain a
+Moderate Advantage to convince others.
 
 ### Deft Official’s Way
 
@@ -1134,6 +1670,16 @@ Eclipse **<span class="smallcaps">Caste</span>**
 After observing a group or organization in motion, the Solar may easily
 pick out who would be receptive to a specified social activity, such as
 socializing, intimidation, or bribery.
+
+### Discretionary Gesture
+
+**Type:** Reflexive  
+**Cost:** 1m
+
+A chain is only as strong as its weakest link—a fact known by any in the
+socialite circles. Through subtle (and not-so subtle) means, the Exalt
+can disrupt influence against of one of their compatriots, using their
+own Guile in place of their Ally’s.
 
 ### Effective Counterargument
 
@@ -1148,13 +1694,38 @@ So long as the Exalt’s roll is greater than the opponent’s, the target
 and those with similar mindset will gain a *negative* Intimacy towards
 the original argument, inverting the intent.
 
-### Enemy-Castigating Solar Judgment
+### Excellent Friend Approach
 
-**Type:** Supplemental  
-**Cost:** 1a
+**Type:** Permanent
 
-Supplement a social action against a Creature of Darkness with an
-additional +3 dice.
+The charms of the Exalt are hard to resist. So long as there is no
+specific reason against it, Mortals and beings with (Essence) lower than
+the Exalt’s will be friendly and cordial to them, even if they have just
+met, and they gain +2 dice on their first Social roll against a target.
+
+### Foul Air of Argument Technique
+
+**Type:** Simple; (Essence) Weeks  
+**Cost:** 2m
+
+The Exalt knows that a few well placed words are all it takes to crash
+the trust of an organization. Exploit the weaknesses of a regional
+organization, or a local charter. For the next (Essence) weeks, that
+organization becomes mired in in-fighting, red-tape, and
+miscommunication. Only one target may be so influenced at a time, and
+the same target cannot be affected more than once a Season.
+
+### Friendship with Animals
+
+**Type:** Simple  
+**Cost:** 1m
+
+Animals may be calmed, so long as a mundane animal has no direct
+antagonism toward the Exalt, such as overwhelming hunger or protection
+of offspring. This will allow safe passage through a predator’s
+territory, or docile approach to even the most skittish of herbivores.
+Against semi-sapient creatures, such as Fogsharks, the Exalt gains (3)
+dice to their rolls.
 
 ### Fury-Inciting Speech
 
@@ -1170,6 +1741,81 @@ on a Social roll, the Solar can direct to the mob to take a distinct
 action related to their anger, be it to burn a Guild Hall, capture a
 Magistrate, or storm the docks.
 
+### Hardship-Surviving Spirit
+
+**Type:** Permanent
+
+The fluctuations of heat and cold do not bother the Exalt, regardless of
+outfit. They will find the environment comfortable and suffer no
+penalties to rolls caused by the heat or cold save for the harshest of
+blizzards or the overwhelming presence of a volcano.
+
+### Irresistible Diversion
+
+**Type:** Simple; Scene  
+**Cost:** 2m
+
+The performer can command attention to themselves, making sure that they
+and only they are noticed by onlookers. Characters with less (Essence)
+than the Exalt cannot turn their eyes away from the performance until it
+is finished, and others can be entranced by a successful Performance vs.
+Resolve roll.
+
+### Irresistible Salesman Spirit
+
+**Type:** Simple; Day  
+**Cost:** 2m
+
+On a successful Socialize roll, instill a near-obsession level of
+fascination, idea, or desire for a product in the target—so long as it
+does not conflict with an existing Intimacy.
+
+For a day, the target(s) gain an Intimacy towards the specified product,
+and will attempt to pursue it, potentially leaving their posts or other
+aspects of their life temporarily behind.
+
+### Mastery of Small Manners
+
+**Type:** Reflexive; Scene  
+**Cost:** 3m
+
+The Exalt may quickly understand and emulate local mannerisms and
+customs, ensuring that they blend into the society around them.
+
+All interactions with a Character in the first Scene they are introduced
+will see a +2 to all Socialize rolls, until the Solar fails a roll
+against the target or actively performs a faux pas in their presence. As
+well, they suffer no ill effects from being an outsider, quickly
+acclimating to and understanding new customs with but a simple glance.
+
+### Mind-Wiping Gaze
+
+**Type:** Reflexive; Scene  
+**Cost:** 3m
+
+The Exalt pierces the target with a gaze that penetrates the very soul,
+extinguishing the flame of memories.
+
+Interrupt a target taking a Social Influence action, or who is
+attempting to communicate in a way. On a successful Subterfuge vs.
+Resolve roll, the target loses their thoughts and memories regarding
+their action and immediately fails on their action. In addition, they
+cannot remember to pick the task up again until after the scene. This
+may only be done once per scene.
+
+### Phantom Scenery
+
+**Type:** Supplemental; Scene  
+**Cost:** 1m
+
+The Exalt may conjure scenery, props, or other phantoms as extensions of
+their anima, showing up as distorted, shadowy figures. In typical
+application, such as on stage or during a structured performance, this
+illusion does not arouse suspicion of the Exalt’s nature—people will be
+primed to believe this is just stage magic. In other circumstances, the
+Exalt must use a contested (Performance) vs. (Awareness) roll to
+disguise this as a mundane effect.
+
 ### Semantic Argument Technique
 
 **Type:** Simple; Scene  
@@ -1182,7 +1828,50 @@ methodology, they gain +3 dice.
 Once per Story the Solar may Recall Fact by revealing an arcane or
 forgotten law without needing a roll.
 
-###  Spurious Ownership
+### Sometimes Horses Fly
+
+**Type:** Reflexive  
+**Cost:** 1m
+
+For an Action, the Exalt’s mode of transportation is able to defy
+conventional movement. Horses can run across rushing rivers, ships
+barges across land, and wagons can sail across an empty canyon.
+
+### Soul-Firing Performance
+
+**Type:** Supplemental  
+**Cost:** 1m
+
+A performance can speak directly to each individual, as though it were a
+one on one conversation. With a Performance Roll, ignore any Resolve
+bonus from being in a Group.
+
+### Speed the Wheels
+
+**Type:** Simple; Month  
+**Cost:** 2m
+
+Cutting efficiently through red tape and other impediments, the Exalt
+may speed the machinations of an organization. They will double their
+speed on a particular task for one month.
+
+Alternatively, the Exalt may jam up the organization with some well
+placed words, slowing down a task by ½ of its original pace.
+
+### <span class="smallcaps">Spirit-Tied Companion</span>
+
+**Type:** Permanent
+
+On purchasing this charm, specify an animal, lesser spirit, or other
+creature with whom to form a willing bond with. This creature becomes
+unbreakable loyal to the Exalt, to the point of becoming an extension of
+the self.
+
+The Exalt may treat their companion as an unquestioning [Ally](/System/The Exalted/#ally)
+(3). They may also peer through their senses if separated, though at a
+-2 dice penalty.
+
+### Spurious Ownership
 
 **Type:** Simple; Scene  
 **Cost:** 2a
@@ -1198,6 +1887,29 @@ unless directly challenged.
 If they have knowledge or direct evidence to the contrary, they instead
 gain a temporary Intimacy of doubt towards their own known evidence, but
 remain convinced of its true ownership.
+
+### Testing the Waters
+
+**Type:** Simple  
+**Cost:** 2m
+
+Studying the actions of those in a court, the Exalt may quickly predict
+what future Political action the subject will embark on, ranging from
+how they will vote, to whom they will speak with next.
+
+Perform an opposed Bureaucracy roll. On a success, the Player may
+perform a “Read Intentions” act on the subject to ask a question
+regarding their target’s current intended political action.
+
+### Unknowable Visage
+
+Type: Permanent
+
+Through vast experience, the deft Politician knows exactly how to disarm
+and dismiss probing questions.
+
+Immediately gain +1 Guile, up to 5. This charm may be refunded if it no
+longer grants a benefit.
 
 ### Wise Counsel
 

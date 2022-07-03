@@ -96,9 +96,10 @@ The powers of the Abyssal revolve around Blood, Flesh, Shadows, and
 Memory.
 
 **Excellency:** Blood Magic  
-*You may sacrifice your Health for successes, at a rate of 2 Health per
-success. You cannot sacrifice more than 10 Health at a time. You do not
-gain Limit when using your Excellency*
+*You may sacrifice your Health for successes. You lower your maximum
+Health for a full Day by 1 for each success, as well as manifesting your
+Abyssal mark for the Scene. You do not gain Limit when using your
+Excellency.*
 
 ### Infernals
 
@@ -124,7 +125,7 @@ unholy power.
 
 **Excellency:** Spite  
 *For an action, remove either 3 or (Essence) successes from a target’s
-roll, or from a defense such as Evasion or Resolve.*
+roll, difficulty, or from a defense such as Evasion or Resolve.*
 
 ### Alchemicals
 
@@ -171,7 +172,8 @@ as well as the intuition and practice to use it effectively.
 *Physical Finesse*
 
 Dexterity is the fine control, reflexes, and agility a character has
-over their own body
+over their own body. This encompasses everything from the nimble fingers
+of violinist, to the dedicated musculature control of a contortionist.
 
 ###  Charisma
 
@@ -205,6 +207,52 @@ Wits is a measure of intuition, common sense, and fast-thinking.
 Whenever a character needs to react quickly, come up with a clever quip,
 or intuit something with their “Street-Smarts,” they will use Wits.
 
+Defensive Values
+----------------
+
+> When a character is in direct and immediate danger, they will
+> reflexively fall back on certain defenses, categorized into Physical
+> and Mental Defense Values.
+>
+> Against the majority of attacks, the character can freely rely on the
+> **highest** defensive value of the category —but clever opponents may
+> target weak defenses directly, should they take concerted effort.
+>
+> Raw Defensive Values are derived from Attributes, and cannot directly
+> be increased. There is nothing that can decrease a Defensive Value
+> below 1.
+
+### Physical Defensive Value (DV)
+
+DV is the greatest of either **Block** or **Evasion**, and is the
+character’s default method of resisting incoming attacks in combat.
+
+#### Block
+
+Encapsulates all aspects of resistance, mitigation, and absorption
+necessary to deflect an attack. Relies on **Strength.**
+
+#### Evasion
+
+The ability to dodge, maneuver, anticipate, or otherwise avoid incoming
+attacks. Relies on **Dexterity**.
+
+###  Mental Defense Value (MDV)
+
+MDV is the greatest of either **Guile** or **Resolve**, and is the
+character’s default method of resisting unwanted mental or social
+influence.
+
+#### Resolve
+
+The ability to predict, expect, and then endure influence upon yourself.
+Relies on **Insight** to know yourself as much as you know others.
+
+#### Guile
+
+The ability to detect, diffuse, hide, and alter social situations before
+they become a problem. Keep your **Wits** about you.
+
 Abilities
 ---------
 
@@ -218,11 +266,22 @@ roll with a Natural Ability, even if they have 0 in the rating.
 
 Martial
 
-### Archery
+### Athletics
 
-Mastery of physical weapons that deal damage through projectiles. Covers
-all weapons that have a launcher and projectiles, ranging from bows and
-arrows to slings to the exotic flamepiece.
+Athletics is a measure of *physical motion,* and covers anything that
+might constitute aerobic exercise—running, jumping, and swimming.
+
+### Brawl
+
+Mastery of the body, allowing attacks from any part of the limb, ranging
+from kicking, punching, tripping, or grappling. Also used for natural
+weapons such as claws.
+
+### Marksmanship
+
+Mastery of weapons that deal damage at range—either through projectiles,
+hurled weapons, or even projected energy. Covers weapons such as the
+bow, throwing knife, and javelin.
 
 <table>
 <tbody>
@@ -233,59 +292,35 @@ arrows to slings to the exotic flamepiece.
 </tbody>
 </table>
 
-### Athletics
-
-Athletics is a measure of *physical motion,* and covers anything that
-might constitute aerobic exercise.
-
-### Brawl
-
-Mastery of the body, allowing attacks from any part of the limb, ranging
-from kicking, punching, tripping, or grappling. While **often**
-performed unarmed, Brawl weapons do exist—ranging from such close
-quarters weapons such as brass knuckles to iron boots to simply
-improvised weapons like chairs.
-
 ### Melee
 
-Mastery of the close-quarter weapons, such as swords, axes, or clubs.
+Mastery of weapons that deal damage at the titular range—melee. This
+encompasses the vast portfolio of weapons from common Swords to katars
+to macuahuitl.
 
 ### Physique
-
-***Note**: Each point of Physique increases your Health by +1.*
 
 Physique is the measure of fortitude and well-being, strength and
 hardiness: the ability to shrug off attacks, poisons, and any
 debilitation of the body or mind.
 
-### Thrown
-
-Mastery of physical weapons that deal damage hurling weapons at enemies,
-such as knives, spears, and often improvised objects lying around.
+### 
 
 Social
-
-### <span class="smallcaps">Bureaucracy</span>
-
-Bureaucracy relates to all matters legal, organizational, and
-mercantile.
 
 ### Command
 
 Command covers the skills necessary to manage, inspire, and otherwise
-direct people, typically in large groups.
-
-### Integrity
-
-Integrity is a measure of how tightly a character can keep to their
-convictions, goals, and objectives without being influenced by outside
-forces.
+organize people, typically in large groups. The most visible commanders
+lead from the front as glorious generals, but to each one of those there
+are dozens who busy themselves with social connections, logistics, and
+bureaucracy.
 
 ### Investigation
 
-Investigation focuses on the ability to search, uncover, or otherwise
-procure specific details, often revealing things that others do not want
-revealed.
+Investigation focuses on the ability to question people, determine their
+motives, search the area for specific items. It will often reveal things
+that characters specifically hide.
 
 ### Performance
 
@@ -298,13 +333,16 @@ knows how to incite that crowd into a frenzied riot should they desire.
 ### Socialize
 
 Socialization is a way to relate and talk with people, making them feel
-heard and personally connected with them.
+heard and personally connected with them. It is primarily used to sway
+people to your side, or make them more likely to do something for you
+out of your natural charisma.
 
 ### Subterfuge
 
 Deception is the art of trickery, manipulation, and physical stealth.
 Its masters are adept at getting people to do what they want without
-them even realizing an outside influence is even there.
+them even realizing an outside influence is even there—as well as
+sabotaging and infiltrating large organizations.
 
 Utility
 
@@ -325,7 +363,8 @@ purposes.
 ***Note:** See the special Action* [**Recall Fact**](/System/The System/#recall-fact)
 
 Lore is both the breadth and depth of understanding in the world,
-ranging from geographic knowledge to religion and philosophy.
+ranging from geographic knowledge to religion and philosophy. As well,
+it aids in understanding languages and cultures.
 
 ### Medicine
 
@@ -363,9 +402,6 @@ it is often a limited selection.
 For example, those chosen to be a Dragon-Blooded are opened up to the
 Elemental Abilities of Fire, Water, Air, Earth, and Wood, but are
 restricted from the Lunar’s Shapeshifting Ability.
-
-A minimum of Rating One is required to perform any Supernatural Ability,
-and it cannot be learned without a specific Merit or Exaltation.
 
 Since Supernatural Abilities are so closely tied with an Exaltation,
 Gods, or Creature of Power, most will be detailed in their respective
@@ -505,6 +541,10 @@ charms is perfectly acceptable.
     cook, to such a great extent that you wish to form charms and powers
     around it, it can be its own specialized ability.
 
+-   **Bureaucracy.** Even the might of the First Age could not function
+    well without a the weight of an efficiently organized empire behind
+    them.
+
  Merits
 ------
 
@@ -561,30 +601,6 @@ though this cannot last longer than a single story.
 <p>Merits, unlike Powers purchased by the player, are not guaranteed to be protected for the duration of the story.</p>
 <p>Temporary restrictions to merits—such as an Ally being unable to help in this situation, even if the merit isn’t exhausted—is explicitly allowed. However, the Storyteller should always be judicious about such decisions.</p>
 <p>During dramatic parts of the story—and with coordination between Storyteller and Player, merits can be permanently removed. This may be done through such things as a stunning defeat, or a tragic change in an Ally’s cause.</p></td>
-</tr>
-</tbody>
-</table>
-
-### General Merits
-
-#### Fact
-
-\(3\)
-
-Facts are simple, undeniable statements about the character that may
-help them in their adventures. They are the most free-form of all the
-merits, and encompass anything from a description of a character’s
-origin to markers of accomplishments.
-
-Facts are typically chosen during character creation, awarded at the end
-of a Story, or to mark completion of a significant world Project.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Fact Levels</strong></p>
-<p>Facts are set to 3 dots for ease of use—they are significant enough to impact the setting significantly, but not world changing. It is intended to be a “rule of thumb” for what should be written on the character sheet.</p>
-<p>If there is a need for a higher or lower merit to be written down, it should become its own custom merit.</p></td>
 </tr>
 </tbody>
 </table>
@@ -690,63 +706,49 @@ Rating 4 Artifacts may have 2 Evocations, and have a Greater Evocation.
 Rating 5 Artifacts have up to 3 Evocations, 2 Greater Evocations, and 1
 Capstone Evocation.
 
-####  Language
+#### Language
 
 (1-2)
 
-Each purchase of this merit represents a new language the Player
-Character has learned to speak, read, and write in.
+Each purchase of this merit represents a specific language the Player
+Character has fluently learned to speak, read, and write in. Characters
+without this merit may be able to communicate in the most rudimentary
+sense, but will do so at a Disadvantage.
 
-**Note**: All Characters start with 2 Languages, typically their Local
-Tongue, and the trade Language Riverspeak.
+There are two tiers of languages: Standard, worth 1 dot, and Uncommon,
+worth 2 Dots.
 
-1.  **Standard Language**:
+-   **Standard Language** (•)
 
-    -   Specific **local** tongue.
+    -   A Tongue local to a specific place—typically of those isolated
+        from the outside world.
 
-    -   The Trade Language, **Rivertongue** (if not already known)
+    -   **The Trade Language,** Rivertongue
 
-    -   **Directional Language**: While not a true language in itself, a
-        Directional Language is a collection of general speech patterns
-        and dialects that would fit as “close enough” with the local
-        tongue of anybody living in the respective Cardinal Directions
-        (Air, Wood, Fire, Water) to communicate most thing.
+    -   **A Directional Language**: Firespeak, WoodTongue, Waterspeak,
+        and AirSpeak. This is not a single language in of itself, but
+        covers all of the local dialects well enough.
 
-    -   **High Realm**, what is spoken by the elite in the center of the
-        Realm. (Realm has completely taken over and eliminated
-        Earthtongue).
+    -   **High Realm,** spoken of amongst the elite of the Realm. Has
+        been specifically tailored to remove itself from Low Realm as a
+        marker of being learned, despite being derived from the same
+        root language.
 
-        *Note: **“**Common” is relative to the character, and depends on
-        the setting. A character from Autochthonia would find
-        Autochthonian common, after all.*
+    -   Low Realm, spoken by the vast majority of the citizens of the
+        Realm.
 
-<!-- -->
+-   **Uncommon Language** (••)
 
-1.  **Uncommon Language:**
+    -   **Old Realm**, an ancient tongue mostly relegated to the ancient
+        writings of the First Age, and the language Gods know of most.
 
-    -   **Old Realm**, which is what most First Age scrolls are written
-        in, and still spoken by many Gods and Spirits.
-
-    -   **Dragontongue**, the language of the Shogunate, enforced to be
-        the common language before the Realm came to existence. Some
-        traditional sects of mortals still hold onto this tradition.
+    -   **Dragontongue**, the language of the Shogunate area, enforced
+        to be the common language before the Realm existed.
 
     -   **Malfean**, a terrible tongue spoken only by demons.
 
-    -   **Autochthonian,** A tongue spoken from those trapped inside the
-        body of the great Maker.
-
-###  Special Merits
-
-#### Master Stylist 
-
-\(3\) Mortal-Only
-
-Allows a mortal to purchase Techniques of a specific Style, (excluding
-Greater Techniques), and grants them a **3** mote pool that may only be
-used on the style’s Techniques.
-
-A Mortal may learn this merit on their own, though it is rare.
+    -   **Autochthonian**, spoken by those trapped in the body of the
+        Great Maker, separated from the rest of Creation.
 
 #### Mutation
 

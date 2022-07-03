@@ -101,7 +101,7 @@ people they hurt along the way.
 
 ### Skilled Start
 
-The Solar starts with **5 extra dots** of abilities during character
+The Solar starts with **3 extra dots** of abilities during character
 creation. These points may raise abilities past **3**.
 
 ### Expanded Mote Pool
@@ -217,9 +217,10 @@ normally do not feel said emotions, such as golems and zombies.
 
 #### *Daybreak*
 
-Reflexively Spend 2 Anima. Nothing can outrun the advancing light of a
-sunrise. Immediately Strike your target again. This does not take an
-action.
+Nothing can outrun the advancing light of a sunrise. Reflexively Spend 2
+Anima and immediately Strike your target again. This does not take an
+action. This may be used once per Combat without a Strife to reset the
+limit.
 
 ### Zenith
 

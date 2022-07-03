@@ -70,11 +70,10 @@ glass into a form reminiscent of obsidian butterflies. Then, the glass
 shards launch out in a deadly stream, cutting all in a thousand
 razor-thin cuts.
 
-This attack is (Wits + Occult + Essence) vs Block, and hits all
-characters (including allies) that are in front of the Sorcerer up to
-two Zones away for (Int + Essence) damage. Then, the glass shards fall
-to the ground, become a hazardous terrain that deals (5) damage to all
-who walk across it.
+This attack is (Wits + Occult + Essence) vs Block, and hits all foes
+that are in front of the Sorcerer up to two Zones away for (Int +
+Essence) damage. Then, the glass shards fall to the ground, become a
+hazardous terrain that deals (5) damage to all who walk across it.
 
 Groups are particularly vulnerable to this spell, taking an extra (Group
 Scale)x2 damage.
@@ -84,18 +83,25 @@ Scale)x2 damage.
 **Type:** Simple  
 **Cost:** 3a
 
-Flames surround the sorcerer, whipped by their anima in to the shape of
+Flames surround the sorcerer, whipped by their Anima in to the shape of
 the elemental Garda bird. As the spell completes, it unfurls its wings,
 shrieking to the sky as it rushes forward in a terrifying blaze towards
 a point up to two zones away from the Sorcerer.
 
 Roll (Int + Occult + Essence). All characters (including the sorcerer
 and their allies) inside the target zone with a Block less than the roll
-immediately take (Essence)x5 damage, and become burned, taking an
+immediately take 5+(Essence)x3 damage, and become burned, taking an
 additional (3) damage every turn.
 
 Creatures attuned to fire, such as its Elementals and Fire-Aspected
 Dragonbloods are immune to this attack.
+
+The Sorcerer may **call out** to their allies in the targeted Zone,
+allowing them to Dive For Cover—moving to a different Zone with an
+(Dexterity+Athletics) roll vs. 3. If successful, they move to the new
+Zone, but lose one of their next Maneuvers. As well, quick-witted
+enemies have a chance to hear this warning and may make the same
+maneuver.
 
 ### <span class="smallcaps">Infallible Messenger</span>
 
